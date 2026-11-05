@@ -1,0 +1,11 @@
+/* Throwaway research fixture. App-specific rules only; layout and buttons
+   come from the host theme (Bootstrap 4 + Beautiful Jekyll). */
+:root {
+  --cc-gap: 0.75rem;
+  --cc-rule: #ddd; /* ds-allow-hardcode: throwaway fixture token */
+}
+.cc-form { display: flex; gap: var(--cc-gap); margin-bottom: var(--cc-gap); }
+.cc-form input { max-width: 10rem; }
+.cc-results { list-style: none; padding: 0; }
+.cc-official { padding: 0.5rem 0; border-bottom: 1px solid var(--cc-rule); }
+.cc-save { margin-left: var(--cc-gap); }
