@@ -14,6 +14,8 @@ This is one of three open questions recorded in [.agent_context.md](../../.agent
 
 Answering the question above. Choosing the final design and building it are separate work.
 
+The user clarified that matching is assumed complete. Research must establish how to build a VCF, dynamically or statically, containing DC and local office phone numbers where available, email addresses where published, and links to forms for feedback on specific issues. Distinguish real mailboxes from web forms and legislative feedback from other office services.
+
 ## Acceptance
 
 A written answer to the question that names its sources, states the practical options and their tradeoffs against the project's constraints, and notes anything that stayed uncertain.

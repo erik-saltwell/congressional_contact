@@ -1,0 +1,39 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Test Senator One;;;;
+FN:Test Senator One
+ORG:Test Contact Import
+TITLE:U.S. Senator (test)
+TEL;TYPE=WORK,VOICE:+1-202-555-0101
+TEL;TYPE=WORK,VOICE:+1-202-555-0102
+EMAIL;TYPE=INTERNET:test.senator.one@example.com
+URL:https://example.com/senator-one/contact
+ADR;TYPE=WORK:;;100 Test Hart Building;Washington;DC;20510;USA
+NOTE:Delete after vcard import test
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Test Senator Two;;;;
+FN:Test Senator Two
+ORG:Test Contact Import
+TITLE:U.S. Senator (test)
+TEL;TYPE=WORK,VOICE:+1-202-555-0103
+TEL;TYPE=WORK,VOICE:+1-202-555-0104
+EMAIL;TYPE=INTERNET:test.senator.two@example.com
+URL:https://example.com/senator-two/contact
+ADR;TYPE=WORK:;;200 Test Russell Building;Washington;DC;20510;USA
+NOTE:Delete after vcard import test
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+N:Test Representative;;;;
+FN:Test Representative
+ORG:Test Contact Import
+TITLE:U.S. Representative (test)
+TEL;TYPE=WORK,VOICE:+1-202-555-0105
+TEL;TYPE=WORK,VOICE:+1-202-555-0106
+EMAIL;TYPE=INTERNET:test.rep@example.com
+URL:https://example.com/rep/contact
+ADR;TYPE=WORK:;;300 Test Cannon Building;Washington;DC;20510;USA
+NOTE:Delete after vcard import test
+END:VCARD

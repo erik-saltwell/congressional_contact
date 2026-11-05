@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>vCard import test</title>
+<style>
+  body { font: 16px/1.4 system-ui, sans-serif; max-width: 34rem; margin: 1rem auto; padding: 0 1rem; }
+  h2 { margin-top: 1.5rem; }
+  a.btn, button { display: block; width: 100%; box-sizing: border-box; margin: .5rem 0; padding: .9rem; font: inherit;
+    text-align: center; border: 1px solid #888; border-radius: .5rem; background: #f2f2f2; color: #000; text-decoration: none; }
+  p.note { color: #555; font-size: .9rem; margin: 0 0 .25rem; }
+  #log { white-space: pre-wrap; font: .8rem monospace; background: #eee; padding: .5rem; border-radius: .5rem; }
+</style>
+</head>
+<body>
+<h1>vCard import test</h1>
+<p>Creates contacts named <b>Test …</b> (Test Senator One, Test Senator Two, Test Representative). Delete them afterward by searching "Test" in Contacts.</p>
+
+<h2>A. Plain link, 3 contacts</h2>
+<p class="note">Link to hosted all.vcf</p>
+<a class="btn" href="all.vcf">A. all.vcf (plain link)</a>
+
+<h2>B. Download attribute, 3 contacts</h2>
+<a class="btn" href="all.vcf" download="test-contacts.vcf">B. all.vcf (download attribute)</a>
+
+<h2>C. Built in browser (blob), 3 contacts</h2>
+<button id="blob">C. Build file with JavaScript and open</button>
+
+<h2>D. Web Share API, 3 contacts</h2>
+<button id="share">D. Share file</button>
+
+<h2>E. Single contact baseline</h2>
+<a class="btn" href="one.vcf">E. one.vcf (plain link)</a>
+
+<h2>F. Wrong-ish type (data URL)</h2>
+<a class="btn" id="dataurl" href="#">F. data: URL link</a>
+
+<h2>Notes for this device</h2>
+<div id="log"></div>
+
+<script>
+const log = m => document.getElementById('log').textContent += m + '\n';
+log('UA: ' + navigator.userAgent);
+log('share: ' + !!navigator.share + ', canShare: ' + !!navigator.canShare);
+
+let text = '';
+fetch('all.vcf').then(r => { log('all.vcf content-type: ' + r.headers.get('content-type')); return r.text(); })
+  .then(t => { text = t; log('all.vcf loaded, ' + (t.match(/BEGIN:VCARD/g) || []).length + ' cards'); })
+  .catch(e => log('fetch failed: ' + e));
+
+document.getElementById('blob').onclick = () => {
+  const url = URL.createObjectURL(new Blob([text], { type: 'text/vcard' }));
+  const a = Object.assign(document.createElement('a'), { href: url, download: 'test-contacts-blob.vcf' });
+  document.body.appendChild(a); a.click(); a.remove();
+  log('blob link clicked');
+};
+
+document.getElementById('share').onclick = async () => {
+  const file = new File([text], 'test-contacts.vcf', { type: 'text/vcard' });
+  try {
+    if (!navigator.canShare || !navigator.canShare({ files: [file] })) { log('canShare(files) = false'); return; }
+    await navigator.share({ files: [file], title: 'Test contacts' });
+    log('share completed');
+  } catch (e) { log('share error: ' + e.name + ': ' + e.message); }
+};
+
+document.getElementById('dataurl').onclick = e => {
+  e.target.href = 'data:text/vcard;charset=utf-8,' + encodeURIComponent(text);
+  log('data URL set');
+};
+</script>
+</body>
+</html>

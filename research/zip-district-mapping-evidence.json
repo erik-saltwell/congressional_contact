@@ -1,0 +1,107 @@
+{
+  "researched_on": "2026-11-04",
+  "source": {
+    "url": "https://www2.census.gov/geo/docs/maps-data/data/rel2020/cd-sld/tab20_cd11920_zcta520_natl.txt",
+    "download_status": 200,
+    "bytes": 6195997,
+    "sha256": "57fad59f65af5179ddd18dcfb8f72482dc0cf04fe26e2b9b2b34c51c04405f77",
+    "congress": 119,
+    "zcta_vintage": 2020
+  },
+  "filter": "Both GEOIDs present; district suffix not ZZ; AREALAND_PART > 0; distinct ZCTA/full district GEOID pairs.",
+  "counts": {
+    "source_rows": 40397,
+    "retained_pairs": 40079,
+    "zcta_keys": 33791,
+    "one_candidate": 27962,
+    "multiple_candidates": 5829,
+    "multiple_states": 137,
+    "max_candidates": 4
+  },
+  "size_trial": {
+    "representation": "JSON object: five-character ZCTA key -> sorted array of four-character district GEOIDs; no metadata or contacts",
+    "json_bytes": 618464,
+    "gzip_bytes": 89315
+  },
+  "examples": {
+    "10003": [
+      {
+        "state": "NY",
+        "census_district_code": "10"
+      },
+      {
+        "state": "NY",
+        "census_district_code": "12"
+      }
+    ],
+    "98103": [
+      {
+        "state": "WA",
+        "census_district_code": "07"
+      }
+    ],
+    "42223": [
+      {
+        "state": "KY",
+        "census_district_code": "01"
+      },
+      {
+        "state": "TN",
+        "census_district_code": "07"
+      }
+    ],
+    "97635": [
+      {
+        "state": "CA",
+        "census_district_code": "01"
+      },
+      {
+        "state": "OR",
+        "census_district_code": "02"
+      }
+    ]
+  },
+  "house_lookup_spot_checks": {
+    "10003": {
+      "url": "https://www.house.gov/htbin/findrep?ZIP=10003",
+      "status": 200,
+      "listed_candidates": [
+        "NY-10",
+        "NY-12"
+      ],
+      "agrees_with_census_trial": true
+    },
+    "42223": {
+      "url": "https://www.house.gov/htbin/findrep?ZIP=42223",
+      "status": 200,
+      "listed_candidates": [
+        "KY-1",
+        "TN-1",
+        "TN-7"
+      ],
+      "agrees_with_census_trial": false
+    }
+  },
+  "community_comparison": {
+    "url": "https://raw.githubusercontent.com/OpenSourceActivismTech/us-zipcodes-congress/master/zccd.csv",
+    "sha256": "2737474129243d8c53df02db43fc5d6e3d2274fe1af131c35517fb437e76fc01",
+    "keys": 33774,
+    "community_only_pairs": 2003,
+    "census_only_pairs": 49,
+    "census_keys_with_different_candidate_set": 1927,
+    "normalization": "Community delegate district 0 converted to Census 98 for state FIPS 11,60,66,69,72,78; standard districts zero padded."
+  },
+  "hud_historical_download_check": {
+    "url": "https://www.huduser.gov/apps/public/uspscrosswalk/download_file/ZIP_CD_062024.xlsx",
+    "status": 202,
+    "content_type": "text/html; charset=UTF-8",
+    "body_bytes": 0,
+    "usable_spreadsheet": false
+  },
+  "limitations": [
+    "ZCTA geography is not a complete current postal ZIP crosswalk.",
+    "Single candidate does not establish correct postal assignment.",
+    "Land overlap does not prove resident population in the overlap.",
+    "No nationwide postal accuracy audit or production app implementation."
+  ]
+}

@@ -110,3 +110,11 @@ Safari with iOS 18.7 (user agent shows Version/26.6.1). Page log: `share: true, 
 Use one uniform flow on both platforms instead of different flows per phone: build each official's vCard in the browser (the blob approach, so the page stays one file) and put a save link next to each person, so saving the three takes three taps. For a ZIP with several districts, show all candidate representatives, each with its own link, and let the user choose. The single-click "save all three" goal is dropped as a requirement; it still works on Android and could be offered there only if it does not complicate the interface.
 
 Why: iPhone cannot import a multi-contact file from Safari, and the single-card flow works on both platforms. The blob approach worked on both phones. Not yet tested: a single-contact blob on Android (the single-contact file by plain link worked, and a multi-contact blob worked).
+
+## Conclusion
+
+Answer to the intent's question: single-click import of several contacts at once does **not** work reliably on both platforms. It works on Android (Chrome 156, Android 10) by plain link, `download` link, browser-built blob and `data:` URL, but iPhone Safari (iOS 18.7) shows only the first card of a multi-contact `.vcf` with no "Add All" option. The Web Share API is unusable on Android (`NotAllowedError`).
+
+Best approach and fallback: one vCard per official, built in the browser as a blob, with a save link next to each person (three taps), the same on both platforms. See the Decision section above.
+
+Limits: tested on one iPhone and one Android phone only. Not tested: opening a multi-contact file from the Files app, Messages or Mail on iPhone; a single-contact blob on Android; Samsung's Contacts app; the Android Contacts app name and tap counts were not recorded. The temporary `vcard-test` GitHub Pages site and branch have been removed; the test files remain in `research/vcard-test/`.

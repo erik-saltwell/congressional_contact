@@ -1,0 +1,166 @@
+{
+  "researched_on": "2026-11-04",
+  "method": "Unauthenticated HTTPS GETs from Python; XML and JSON parsing; safe YAML parsing of a pinned contact-congress archive; no message submission or device import.",
+  "sources": {
+    "current": {
+      "source": "https://unitedstates.github.io/congress-legislators/legislators-current.json",
+      "status": 200,
+      "bytes": 1469059,
+      "cors": "*",
+      "last_modified": "Thu, 24 Sep 2026 10:21:30 GMT"
+    },
+    "offices": {
+      "source": "https://unitedstates.github.io/congress-legislators/legislators-district-offices.json",
+      "status": 200,
+      "bytes": 473843,
+      "cors": "*",
+      "last_modified": "Thu, 24 Sep 2026 10:21:30 GMT"
+    },
+    "house": {
+      "source": "https://clerk.house.gov/xml/lists/MemberData.xml",
+      "status": 200,
+      "bytes": 557204,
+      "cors": null,
+      "last_modified": "Tue, 03 Nov 2026 14:38:42 GMT"
+    },
+    "senate": {
+      "source": "https://www.senate.gov/general/contact_information/senators_cfm.xml",
+      "status": 200,
+      "bytes": 52533,
+      "cors": null,
+      "last_modified": "Thu, 08 Oct 2026 19:49:10 GMT"
+    }
+  },
+  "current_roster": {
+    "rep": {
+      "count": 439,
+      "last_term_nonempty_fields": {
+        "phone": 439,
+        "address": 439,
+        "office": 439,
+        "url": 439,
+        "contact_form": 2,
+        "email": 0
+      }
+    },
+    "sen": {
+      "count": 100,
+      "last_term_nonempty_fields": {
+        "phone": 100,
+        "address": 100,
+        "office": 100,
+        "url": 100,
+        "contact_form": 86,
+        "email": 0
+      }
+    }
+  },
+  "local_offices": {
+    "member_records": 535,
+    "offices": 1306,
+    "nonempty_fields": {
+      "phone": 1274,
+      "address": 1301,
+      "city": 1306,
+      "state": 1306,
+      "zip": 1302,
+      "email": 0
+    },
+    "current_members_without_entry": [
+      "B001328",
+      "G000607",
+      "G000608",
+      "W000832"
+    ],
+    "office_members_not_in_roster": []
+  },
+  "official_feeds": {
+    "house_congress": "119",
+    "house_publication_date": "November 3, 2026",
+    "house_seat_records": 441,
+    "house_named_member_ids": 439,
+    "house_ids_equal_community": true,
+    "senate_members": 100,
+    "senate_ids_equal_community": true,
+    "senate_email_field_url_values": 100
+  },
+  "form_registry": {
+    "commit": "8317e0b5df8f0b3d2776b6c179532d86cb37f050",
+    "commit_date": "2026-10-22T14:49:44Z",
+    "archive": "https://codeload.github.com/unitedstates/contact-congress/tar.gz/8317e0b5df8f0b3d2776b6c179532d86cb37f050",
+    "member_yaml_files_in_queried_tree": 792,
+    "tree_truncated": false,
+    "current_member_files_parsed": 525,
+    "current_member_initial_visit_urls": 525,
+    "by_chamber": {
+      "rep": 425,
+      "sen": 100
+    },
+    "current_members_without_file": [
+      "B001328",
+      "F000484",
+      "F000485",
+      "G000601",
+      "G000607",
+      "H001103",
+      "K000404",
+      "M001219",
+      "M001245",
+      "M001246",
+      "P000622",
+      "V000139",
+      "W000829",
+      "W000832"
+    ],
+    "limitation": "Candidate URLs only; the README says House forms have not been actively maintained since January 2017. Not a nationwide validity audit."
+  },
+  "queried_latest_yaml_commits": {
+    "current": {
+      "sha": "753b363e003312525174006e93932b11022ee078",
+      "date": "2026-10-05T14:08:50Z"
+    },
+    "district_offices": {
+      "sha": "d0fa668f9faca4af4ce071adb27cd43f9c4ffc4d",
+      "date": "2026-07-12T18:38:51Z"
+    }
+  },
+  "sample_url_checks": [
+    {
+      "name": "jayapal_form_candidate",
+      "source": "https://jayapal.house.gov/contact/email",
+      "status": 200,
+      "final_url": "https://jayapal.house.gov/contact/email/",
+      "html_form_elements": 2,
+      "title": "Email - Congresswoman Pramila Jayapal"
+    },
+    {
+      "name": "cantwell_roster_form",
+      "source": "https://www.cantwell.senate.gov/public/index.cfm/email-maria",
+      "status": 200,
+      "final_url": "https://www.cantwell.senate.gov/contact/email",
+      "html_form_elements": 2,
+      "title": "Share Your Thoughts | Contact | U.S. Senator Maria Cantwell of Washington"
+    },
+    {
+      "name": "cantwell_form_candidate",
+      "source": "https://www.cantwell.senate.gov/contact/email/form",
+      "status": 200,
+      "final_url": "https://www.cantwell.senate.gov/contact/email/form",
+      "html_form_elements": 2,
+      "title": "E-Mail Maria | Share Your Thoughts | Contact | U.S. Senator Maria Cantwell of Washington"
+    },
+    {
+      "name": "murray_form_candidate",
+      "source": "https://www.murray.senate.gov/write-to-patty/",
+      "status": 200,
+      "final_url": "https://www.murray.senate.gov/write-to-patty/",
+      "html_form_elements": 3,
+      "title": "Write To Patty - Senator Patty Murray"
+    }
+  ],
+  "limitations": [
+    "Counts mean field presence, not verified accuracy.",
+    "URLs and dates may change; source Last-Modified and fetched dates do not establish field verification.",
+    "No phone calls, email delivery, form submissions, nationwide content audit or phone imports."
+  ]
+}
