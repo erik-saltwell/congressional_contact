@@ -120,7 +120,7 @@ Measured with a synthetic dataset in the proposed [data-design](data-design.md) 
 
 - **Real data will be somewhat larger:** HUD lists about 39–41k ZIPs, and real records have more offices.
 - **Download size:** GitHub Pages serves pages gzipped (checked: `content-encoding: gzip` on www.eriksaltwell.com), so a phone downloads about 0.3 MB for the Jekyll page.
-- **Fonts are the largest cost of the standalone styling.** Inlining the two theme fonts as base64 adds roughly 236 KB, about doubling what a phone downloads. The alternatives are:
+- **Fonts are the largest cost of the standalone styling.** This research estimated roughly 236 KB, from all four font files. The later design analysis ([design_notes/existing-site-design.md](../design_notes/existing-site-design.md)) found that the page needs only two files, about 56 KB over the network. The alternatives are:
   - system fonts;
   - loading Google Fonts externally, which breaks the no-external-dependencies rule for the standalone file.
 
