@@ -1,0 +1,2851 @@
+{
+ "batch": "2026-11-05-full-12",
+ "createdAt": "2026-11-05",
+ "dataGeneratedAt": "2026-11-05T19:36:17Z",
+ "officials": {
+  "B001316": {
+   "seat": "Representative, MO-7",
+   "published": {
+    "name": {
+     "full": "Eric Burlison",
+     "given": "Eric",
+     "family": "Burlison",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MO",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256536",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1108 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2507",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Joplin, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14177811041",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2727 E. 32nd Street, Suite 2"
+       ],
+       "city": "Joplin",
+       "region": "MO",
+       "postalCode": "64804",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Springfield, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14178891800",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3232 E. Ridgeview St."
+       ],
+       "city": "Springfield",
+       "region": "MO",
+       "postalCode": "65804",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://burlison.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://burlison.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001195": {
+   "seat": "Representative, MO-8",
+   "published": {
+    "name": {
+     "full": "Jason Smith",
+     "given": "Jason",
+     "family": "Smith",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MO",
+    "district": 8,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254404",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1011 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2508",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cape Girardeau, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15733350101",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2502 Tanner Dr., Suite 205"
+       ],
+       "city": "Cape Girardeau",
+       "region": "MO",
+       "postalCode": "63703",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Farmington, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15737569755",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "22 E. Columbia St."
+       ],
+       "city": "Farmington",
+       "region": "MO",
+       "postalCode": "63640",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Poplar Bluff, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15736092996",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2725 N. Westwood Blvd., Suite 5A"
+       ],
+       "city": "Poplar Bluff",
+       "region": "MO",
+       "postalCode": "63901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rolla, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15733642455",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "830A S. Bishop"
+       ],
+       "city": "Rolla",
+       "region": "MO",
+       "postalCode": "65401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "West Plains, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14172551515",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "35 Court Sq., Suite 300"
+       ],
+       "city": "West Plains",
+       "region": "MO",
+       "postalCode": "65775",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://jasonsmith.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://jasonsmith.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "K000404": {
+   "seat": "Delegate, MP-0",
+   "published": {
+    "name": {
+     "full": "Kimberlyn King-Hinds",
+     "given": "Kimberlyn",
+     "family": "King-Hinds",
+     "suffix": null
+    },
+    "role": "delegate",
+    "party": "Republican",
+    "state": "MP",
+    "district": 0,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252646",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "425 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-5201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Saipan, MP office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16703232647",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "P.O. Box 504879"
+       ],
+       "city": "Saipan",
+       "region": "MP",
+       "postalCode": "96950",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tinian, MP office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16704332647",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "P.O. Box 520394"
+       ],
+       "city": "Tinian",
+       "region": "MP",
+       "postalCode": "96952",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rota, MP office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16705322647",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "P.O. Box 1361"
+       ],
+       "city": "Rota",
+       "region": "MP",
+       "postalCode": "96951",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://king-hinds.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://king-hinds.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001079": {
+   "seat": "Senator, MS",
+   "published": {
+    "name": {
+     "full": "Cindy Hyde-Smith",
+     "given": "Cindy",
+     "family": "Hyde-Smith",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "MS",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022245054",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "528 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Jackson, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16019654459",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "190 East Capitol St., #550"
+       ],
+       "city": "Jackson",
+       "region": "MS",
+       "postalCode": "39201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Oxford, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16622361018",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "911 Jackson Ave., #249"
+       ],
+       "city": "Oxford",
+       "region": "MS",
+       "postalCode": "38655",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Gulfport, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12288679710",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2012 15th Street, #451"
+       ],
+       "city": "Gulfport",
+       "region": "MS",
+       "postalCode": "39501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Brookhaven, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16017488024",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "117 W. Cherokee St, Suite C"
+       ],
+       "city": "Brookhaven",
+       "region": "MS",
+       "postalCode": "39601",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.hydesmith.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.hydesmith.senate.gov/contact-senator",
+    "website": "https://www.hydesmith.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "W000437": {
+   "seat": "Senator, MS",
+   "published": {
+    "name": {
+     "full": "Roger F. Wicker",
+     "given": "Roger",
+     "family": "Wicker",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "MS",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022246253",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "425 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Gulfport, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12288717017",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2909 13th St., 3rd Floor, Suite 303"
+       ],
+       "city": "Gulfport",
+       "region": "MS",
+       "postalCode": "39501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Hernando, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16624291002",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "321 Losher St."
+       ],
+       "city": "Hernando",
+       "region": "MS",
+       "postalCode": "38632",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Jackson, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16019654644",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "U.S. Federal Courthouse",
+        "501 E. Court St., Suite 3-500"
+       ],
+       "city": "Jackson",
+       "region": "MS",
+       "postalCode": "39201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tupelo, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16628445010",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "330 W. Jefferson St., Suite B"
+       ],
+       "city": "Tupelo",
+       "region": "MS",
+       "postalCode": "38804",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tupelo, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16628445010",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "P.O. Box 3777"
+       ],
+       "city": "Tupelo",
+       "region": "MS",
+       "postalCode": "38803",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.wicker.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.wicker.senate.gov/public/index.cfm/contact",
+    "website": "https://www.wicker.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "K000388": {
+   "seat": "Representative, MS-1",
+   "published": {
+    "name": {
+     "full": "Trent Kelly",
+     "given": "Trent",
+     "family": "Kelly",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MS",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254306",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2243 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Columbus, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16623270748",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "318 N. 7th St., Suite D"
+       ],
+       "city": "Columbus",
+       "region": "MS",
+       "postalCode": "39701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Eupora, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16626871545",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "855 S. Dunn St."
+       ],
+       "city": "Eupora",
+       "region": "MS",
+       "postalCode": "39744",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Hernando, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16626870576",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2565 Caffey St., #200"
+       ],
+       "city": "Hernando",
+       "region": "MS",
+       "postalCode": "38632",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Oxford, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16626871540",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "107 Courthouse Square"
+       ],
+       "city": "Oxford",
+       "region": "MS",
+       "postalCode": "38655",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tupelo, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16628418808",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "431 West Main Street, Suite #450"
+       ],
+       "city": "Tupelo",
+       "region": "MS",
+       "postalCode": "38804",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Corinth, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16626871525",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4135 County Road 200"
+       ],
+       "city": "Corinth",
+       "region": "MS",
+       "postalCode": "38844",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://trentkelly.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://trentkelly.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "T000193": {
+   "seat": "Representative, MS-2",
+   "published": {
+    "name": {
+     "full": "Bennie G. Thompson",
+     "given": "Bennie",
+     "family": "Thompson",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MS",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255876",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2466 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2402",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bolton, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16018669003",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "107 W. Madison St."
+       ],
+       "city": "Bolton",
+       "region": "MS",
+       "postalCode": "39041",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Greenville, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16623359003",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "910 Courthouse Ln."
+       ],
+       "city": "Greenville",
+       "region": "MS",
+       "postalCode": "38701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Jackson, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16019469003",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3607 Medgar Evers Blvd."
+       ],
+       "city": "Jackson",
+       "region": "MS",
+       "postalCode": "39213",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Marks, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16623269003",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "263 E. Main St."
+       ],
+       "city": "Marks",
+       "region": "MS",
+       "postalCode": "38646",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Mound Bayou, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16627419003",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "106 Green Avenue, Suite 106"
+       ],
+       "city": "Mound Bayou",
+       "region": "MS",
+       "postalCode": "38762",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Natchez, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16014929003",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "208 Lynda Lee drive, Room 41"
+       ],
+       "city": "Natchez",
+       "region": "MS",
+       "postalCode": "39120",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://benniethompson.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://benniethompson.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000591": {
+   "seat": "Representative, MS-3",
+   "published": {
+    "name": {
+     "full": "Michael Guest",
+     "given": "Michael",
+     "family": "Guest",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MS",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255031",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "450 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2403",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Brandon, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17692416120",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "308 B East Government Street"
+       ],
+       "city": "Brandon",
+       "region": "MS",
+       "postalCode": "39042",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Meridian, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16016936681",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "200 22nd Avenue"
+       ],
+       "city": "Meridian",
+       "region": "MS",
+       "postalCode": "39301",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Brookhaven, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16018233400",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "230 S Whitworth Ave"
+       ],
+       "city": "Brookhaven",
+       "region": "MS",
+       "postalCode": "39601",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Starkville, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16623240007",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "301 East Main Street, Suite 300"
+       ],
+       "city": "Starkville",
+       "region": "MS",
+       "postalCode": "39759",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://guest.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://guest.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "E000235": {
+   "seat": "Representative, MS-4",
+   "published": {
+    "name": {
+     "full": "Mike Ezell",
+     "given": "Mike",
+     "family": "Ezell",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MS",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255772",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "443 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2404",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Hattiesburg, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16015823246",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "641 Main Street, Suite 142"
+       ],
+       "city": "Hattiesburg",
+       "region": "MS",
+       "postalCode": "39401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Laurel, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16014257247",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "515 N. 5th Avenue, Suite A"
+       ],
+       "city": "Laurel",
+       "region": "MS",
+       "postalCode": "39440",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Gulfport, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12288647670",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "10441 Corporate Drive, Suite 2"
+       ],
+       "city": "Gulfport",
+       "region": "MS",
+       "postalCode": "39503",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Pascagoula, MS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12282025890",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3207 Magnolia Street, Suite 101"
+       ],
+       "city": "Pascagoula",
+       "region": "MS",
+       "postalCode": "39567",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://ezell.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://ezell.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "D000618": {
+   "seat": "Senator, MT",
+   "published": {
+    "name": {
+     "full": "Steve Daines",
+     "given": "Steve",
+     "family": "Daines",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "MT",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022242651",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "320 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Billings, MT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14062456822",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "222 N. 32nd St., Suite 100"
+       ],
+       "city": "Billings",
+       "region": "MT",
+       "postalCode": "59101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Great Falls, MT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14064530148",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "104 4th Street North, Suite 302"
+       ],
+       "city": "Great Falls",
+       "region": "MT",
+       "postalCode": "59401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Helena, MT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14064433189",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "30 W. 14th St., Suite 206"
+       ],
+       "city": "Helena",
+       "region": "MT",
+       "postalCode": "59601",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Missoula, MT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14065498198",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "218 E. Front St., Suite 103"
+       ],
+       "city": "Missoula",
+       "region": "MT",
+       "postalCode": "59802",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Sidney, MT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14064829010",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Central Plaza Building",
+        "609 S. Central Ave., Suite #4"
+       ],
+       "city": "Sidney",
+       "region": "MT",
+       "postalCode": "59270",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bozeman, MT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14065873446",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1450 Twin Lakes Avenue, Suite 201A"
+       ],
+       "city": "Bozeman",
+       "region": "MT",
+       "postalCode": "59718",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Kalispell, MT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14062573765",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "121 Financial Drive, Suite 127"
+       ],
+       "city": "Kalispell",
+       "region": "MT",
+       "postalCode": "59901",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.daines.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.daines.senate.gov/connect/email-steve",
+    "website": "https://www.daines.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001232": {
+   "seat": "Senator, MT",
+   "published": {
+    "name": {
+     "full": "Tim Sheehy",
+     "given": "Tim",
+     "family": "Sheehy",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "MT",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022242644",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "124 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Billings, MT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14062520559",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "William J. Jameson Federal Building",
+        "2900 4th Ave N, Suite 201"
+       ],
+       "city": "Billings",
+       "region": "MT",
+       "postalCode": "59101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bozeman, MT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14068726350",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1 East Main Street, Suite 204"
+       ],
+       "city": "Bozeman",
+       "region": "MT",
+       "postalCode": "59715",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Butte, MT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14067822048",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Silver Bow Center",
+        "125 West Granite St, Suite 200"
+       ],
+       "city": "Butte",
+       "region": "MT",
+       "postalCode": "59701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "East Kalispell, MT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14062573398",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "8-3rd Street"
+       ],
+       "city": "East Kalispell",
+       "region": "MT",
+       "postalCode": "59901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Great Falls, MT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14064529587",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "119 1st Ave North, Suite 102"
+       ],
+       "city": "Great Falls",
+       "region": "MT",
+       "postalCode": "59401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Helena, MT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14064411069",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "208 N Montana Ave, Suite 104"
+       ],
+       "city": "Helena",
+       "region": "MT",
+       "postalCode": "59601",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.sheehy.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://www.sheehy.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "Z000018": {
+   "seat": "Representative, MT-1",
+   "published": {
+    "name": {
+     "full": "Ryan K. Zinke",
+     "given": "Ryan",
+     "family": "Zinke",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MT",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255628",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "512 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2600",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bozeman, MT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14066026030",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "601 Nikles Drive, #5"
+       ],
+       "city": "Bozeman",
+       "region": "MT",
+       "postalCode": "59715",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Missoula, MT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14063170276",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2901 W. Broadway Street, Suite 200"
+       ],
+       "city": "Missoula",
+       "region": "MT",
+       "postalCode": "59808",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Kalispell, MT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14063170277",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "923 South Main"
+       ],
+       "city": "Kalispell",
+       "region": "MT",
+       "postalCode": "59901",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://zinke.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://zinke.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "D000634": {
+   "seat": "Representative, MT-2",
+   "published": {
+    "name": {
+     "full": "Troy Downing",
+     "given": "Troy",
+     "family": "Downing",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MT",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253211",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1529 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0001",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Billings, MT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14064136720",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "401 North 31st St, Suite 770"
+       ],
+       "city": "Billings",
+       "region": "MT",
+       "postalCode": "59101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Helena, MT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14065021435",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "7 West 6th Ave, Suite 3B"
+       ],
+       "city": "Helena",
+       "region": "MT",
+       "postalCode": "59601",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://downing.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://downing.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001305": {
+   "seat": "Senator, NC",
+   "published": {
+    "name": {
+     "full": "Ted Budd",
+     "given": "Ted",
+     "family": "Budd",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "NC",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022243154",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "354 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Advance, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13369414470",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "5380 US Highway 158, Suite 202"
+       ],
+       "city": "Advance",
+       "region": "NC",
+       "postalCode": "27006",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Raleigh, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19843495061",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "333 Fayetteville Street, Suite 1504"
+       ],
+       "city": "Raleigh",
+       "region": "NC",
+       "postalCode": "27601",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Wilmington, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19102187600",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "201 N. Front St., Suite 809"
+       ],
+       "city": "Wilmington",
+       "region": "NC",
+       "postalCode": "28401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Asheville, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18283334130",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "151 Patton Ave., Suite 204"
+       ],
+       "city": "Asheville",
+       "region": "NC",
+       "postalCode": "28801",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.budd.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.budd.senate.gov/contact/",
+    "website": "https://www.budd.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "T000476": {
+   "seat": "Senator, NC",
+   "published": {
+    "name": {
+     "full": "Thom Tillis",
+     "given": "Thom",
+     "family": "Tillis",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "NC",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022246342",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "113 Dirksen Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Greenville, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12523290371",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1694 E. Arlington Blvd., Suite B"
+       ],
+       "city": "Greenville",
+       "region": "NC",
+       "postalCode": "27858",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Hendersonville, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18286938750",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1 Historic Courthouse Square, Suite 112"
+       ],
+       "city": "Hendersonville",
+       "region": "NC",
+       "postalCode": "28792",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Raleigh, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19198564630",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "310 New Bern Ave., Suite 122"
+       ],
+       "city": "Raleigh",
+       "region": "NC",
+       "postalCode": "27601",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Greensboro, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13368850685",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3200 Northline Avenue, Suite 150"
+       ],
+       "city": "Greensboro",
+       "region": "NC",
+       "postalCode": "27408",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Charlotte, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17045099087",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "10150 Mallard Creek Rd, Suite 508"
+       ],
+       "city": "Charlotte",
+       "region": "NC",
+       "postalCode": "28262",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.tillis.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.tillis.senate.gov/public/index.cfm/email-me",
+    "website": "https://www.tillis.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "D000230": {
+   "seat": "Representative, NC-1",
+   "published": {
+    "name": {
+     "full": "Donald G. Davis",
+     "given": "Donald",
+     "family": "Davis",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NC",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253101",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1123 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3301",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Elizabeth City, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12529997600",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "306 E. Colonial Ave"
+       ],
+       "city": "Elizabeth City",
+       "region": "NC",
+       "postalCode": "27809",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rocky Mount, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12529997600",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1151 Falls Road, 2002"
+       ],
+       "city": "Rocky Mount",
+       "region": "NC",
+       "postalCode": "27804",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Goldsboro, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12529997600",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2803 Cashwell Drive, B"
+       ],
+       "city": "Goldsboro",
+       "region": "NC",
+       "postalCode": "27534",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://dondavis.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://dondavis.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "R000305": {
+   "seat": "Representative, NC-2",
+   "published": {
+    "name": {
+     "full": "Deborah K. Ross",
+     "given": "Deborah",
+     "family": "Ross",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NC",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253032",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1221 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3302",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Raleigh, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19193340840",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "300 Fayetteville Street, P.O. Box 1548"
+       ],
+       "city": "Raleigh",
+       "region": "NC",
+       "postalCode": "27602",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://ross.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://ross.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001210": {
+   "seat": "Representative, NC-3",
+   "published": {
+    "name": {
+     "full": "Gregory F. Murphy",
+     "given": "Gregory",
+     "family": "Murphy",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NC",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253415",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "407 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3303",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Greenville, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12529311003",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1105 Corporate Drive, Suite C"
+       ],
+       "city": "Greenville",
+       "region": "NC",
+       "postalCode": "27858",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Manteo, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12522303549",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "954 Marshall C. Collins Dr, Room 194"
+       ],
+       "city": "Manteo",
+       "region": "NC",
+       "postalCode": "27954",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Jacksonville, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19109376929",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "815 New Bridge Street"
+       ],
+       "city": "Jacksonville",
+       "region": "NC",
+       "postalCode": "28540",
+       "country": "US"
+      }
+     },
+     {
+      "label": "New Bern, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12526366612",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2402 Dr. M.L.K. Jr. Blvd."
+       ],
+       "city": "New Bern",
+       "region": "NC",
+       "postalCode": "28562",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://murphy.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://murphy.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "F000477": {
+   "seat": "Representative, NC-4",
+   "published": {
+    "name": {
+     "full": "Valerie P. Foushee",
+     "given": "Valerie",
+     "family": "Foushee",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NC",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022251784",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2452 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3304",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Durham, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19199677924",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2605 Meridian Parkway, Suite 110"
+       ],
+       "city": "Durham",
+       "region": "NC",
+       "postalCode": "27713",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://foushee.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://foushee.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "F000450": {
+   "seat": "Representative, NC-5",
+   "published": {
+    "name": {
+     "full": "Virginia Foxx",
+     "given": "Virginia",
+     "family": "Foxx",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NC",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252071",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2462 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3305",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Boone, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18282650240",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "400 Shadowline Dr., Suite 205"
+       ],
+       "city": "Boone",
+       "region": "NC",
+       "postalCode": "28607",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Mayodan, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13367780211",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "208 W. Main St"
+       ],
+       "city": "Mayodan",
+       "region": "NC",
+       "postalCode": "27027",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://foxx.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://foxx.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001240": {
+   "seat": "Representative, NC-6",
+   "published": {
+    "name": {
+     "full": "Addison P. McDowell",
+     "given": "Addison",
+     "family": "McDowell",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NC",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253065",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1032 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3306",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lexington, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13363335005",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "30 E. 1st Ave"
+       ],
+       "city": "Lexington",
+       "region": "NC",
+       "postalCode": "27292",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mcdowell.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mcdowell.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "R000603": {
+   "seat": "Representative, NC-7",
+   "published": {
+    "name": {
+     "full": "David Rouzer",
+     "given": "David",
+     "family": "Rouzer",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NC",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252731",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2333 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3307",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bolivia, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19102536111",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "310 Government Center Dr., Unit 1"
+       ],
+       "city": "Bolivia",
+       "region": "NC",
+       "postalCode": "28422",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fayetteville, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19105004880",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "225 Green Street, Suite 202"
+       ],
+       "city": "Fayetteville",
+       "region": "NC",
+       "postalCode": "28301",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Wilmington, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19103950202",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2520 Independence Blvd, Suite 201"
+       ],
+       "city": "Wilmington",
+       "region": "NC",
+       "postalCode": "28412",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://rouzer.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://rouzer.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001102": {
+   "seat": "Representative, NC-8",
+   "published": {
+    "name": {
+     "full": "Mark Harris",
+     "given": "Mark",
+     "family": "Harris",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NC",
+    "district": 8,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022251976",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "126 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3308",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Monroe, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17042185300",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "300 North Main St"
+       ],
+       "city": "Monroe",
+       "region": "NC",
+       "postalCode": "28112",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://markharris.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://markharris.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001067": {
+   "seat": "Representative, NC-9",
+   "published": {
+    "name": {
+     "full": "Richard Hudson",
+     "given": "Richard",
+     "family": "Hudson",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NC",
+    "district": 9,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253715",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2112 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3309",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fayetteville, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19109972070",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "225 Green Street, Suite 202"
+       ],
+       "city": "Fayetteville",
+       "region": "NC",
+       "postalCode": "28301",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Southern Pines, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19109101924",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "340 Commerce Ave, Suite 16"
+       ],
+       "city": "Southern Pines",
+       "region": "NC",
+       "postalCode": "28387",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://hudson.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://hudson.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001101": {
+   "seat": "Representative, NC-10",
+   "published": {
+    "name": {
+     "full": "Pat Harrigan",
+     "given": "Pat",
+     "family": "Harrigan",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NC",
+    "district": 10,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252576",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1233 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3310",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Hickory, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18283276100",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "800 17th St NW, Suite G467"
+       ],
+       "city": "Hickory",
+       "region": "NC",
+       "postalCode": "28601",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://harrigan.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://harrigan.house.gov"
+   },
+   "currentSupplement": null
+  }
+ }
+}

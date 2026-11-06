@@ -1,0 +1,2298 @@
+{
+ "batch": "2026-11-05-full-11",
+ "createdAt": "2026-11-05",
+ "dataGeneratedAt": "2026-11-05T19:36:17Z",
+ "officials": {
+  "B001321": {
+   "seat": "Representative, MI-7",
+   "published": {
+    "name": {
+     "full": "Tom Barrett",
+     "given": "Tom",
+     "family": "Barrett",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MI",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254872",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1232 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2207",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lansing, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15179930510",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "328 W Ottawa St, Suite A"
+       ],
+       "city": "Lansing",
+       "region": "MI",
+       "postalCode": "48933",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://barrett.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://barrett.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001237": {
+   "seat": "Representative, MI-8",
+   "published": {
+    "name": {
+     "full": "Kristen McDonald Rivet",
+     "given": "Kristen",
+     "family": "McDonald Rivet",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MI",
+    "district": 8,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253611",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1408 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2208",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Flint, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18102388627",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "601 Saginaw St, Suite 403"
+       ],
+       "city": "Flint",
+       "region": "MI",
+       "postalCode": "48502",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mcdonaldrivet.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mcdonaldrivet.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001136": {
+   "seat": "Representative, MI-9",
+   "published": {
+    "name": {
+     "full": "Lisa C. McClain",
+     "given": "Lisa",
+     "family": "McClain",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MI",
+    "district": 9,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252106",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "562 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2209",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lake Orion, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15866979300",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "30 N Broadway St."
+       ],
+       "city": "Lake Orion",
+       "region": "MI",
+       "postalCode": "48362",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Marlette, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15866979300",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "6725 Airport Road"
+       ],
+       "city": "Marlette",
+       "region": "MI",
+       "postalCode": "48453",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mcclain.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mcclain.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "J000307": {
+   "seat": "Representative, MI-10",
+   "published": {
+    "name": {
+     "full": "John James",
+     "given": "John",
+     "family": "James",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MI",
+    "district": 10,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254961",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1519 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2210",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Warren, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15864987122",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Warren District Office",
+        "30500 Van Dyke Avenue, Suite 306"
+       ],
+       "city": "Warren",
+       "region": "MI",
+       "postalCode": "48093",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://james.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://james.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001215": {
+   "seat": "Representative, MI-11",
+   "published": {
+    "name": {
+     "full": "Haley M. Stevens",
+     "given": "Haley",
+     "family": "Stevens",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MI",
+    "district": 11,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022258171",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2411 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2211",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Farmington Hills, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17348533040",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "30500 Northwestern Highway, Suite 525"
+       ],
+       "city": "Farmington Hills",
+       "region": "MI",
+       "postalCode": "48334",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://stevens.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://stevens.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "T000481": {
+   "seat": "Representative, MI-12",
+   "published": {
+    "name": {
+     "full": "Rashida Tlaib",
+     "given": "Rashida",
+     "family": "Tlaib",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MI",
+    "district": 12,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255126",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2438 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2212",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Southfield, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13132037540",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "26080 Berg Rd."
+       ],
+       "city": "Southfield",
+       "region": "MI",
+       "postalCode": "48033",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Inkster, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13134636220",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "26215 Trowbridge St."
+       ],
+       "city": "Inkster",
+       "region": "MI",
+       "postalCode": "48141",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Detroit, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13134636220",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "7800 W. Outer Drive"
+       ],
+       "city": "Detroit",
+       "region": "MI",
+       "postalCode": "48235",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://tlaib.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://tlaib.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "T000488": {
+   "seat": "Representative, MI-13",
+   "published": {
+    "name": {
+     "full": "Shri Thanedar",
+     "given": "Shri",
+     "family": "Thanedar",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MI",
+    "district": 13,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255802",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "154 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2213",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Detroit, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13138802400",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Suite 420",
+        "400 Monroe Street, Suite 420"
+       ],
+       "city": "Detroit",
+       "region": "MI",
+       "postalCode": "48226",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://thanedar.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://thanedar.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "K000367": {
+   "seat": "Senator, MN",
+   "published": {
+    "name": {
+     "full": "Amy Klobuchar",
+     "given": "Amy",
+     "family": "Klobuchar",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "MN",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022243244",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "425 Dirksen Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Minneapolis, MN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16127275220",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1200 Washington Avenue South, Room 250"
+       ],
+       "city": "Minneapolis",
+       "region": "MN",
+       "postalCode": "55415",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Moorhead, MN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12182872219",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "121 4th Street South"
+       ],
+       "city": "Moorhead",
+       "region": "MN",
+       "postalCode": "56560",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rochester, MN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15072885321",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1130 1/2 7th Street NW, Room 212"
+       ],
+       "city": "Rochester",
+       "region": "MN",
+       "postalCode": "55901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Virginia, MN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12187419690",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Olcott Plaza",
+        "820 9th Street North, Room 105"
+       ],
+       "city": "Virginia",
+       "region": "MN",
+       "postalCode": "55792",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.klobuchar.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.klobuchar.senate.gov/public/index.cfm/contact",
+    "website": "https://www.klobuchar.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001203": {
+   "seat": "Senator, MN",
+   "published": {
+    "name": {
+     "full": "Tina Smith",
+     "given": "Tina",
+     "family": "Smith",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "MN",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022245641",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "720 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Moorhead, MN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12182848721",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "819 Center Avenue, Suite 2A"
+       ],
+       "city": "Moorhead",
+       "region": "MN",
+       "postalCode": "56560",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Duluth, MN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12187222390",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "515 W 1st Street, Suite 104"
+       ],
+       "city": "Duluth",
+       "region": "MN",
+       "postalCode": "55802",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Saint Paul, MN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16512211016",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "60 Plato Blvd. East, Suite 220"
+       ],
+       "city": "Saint Paul",
+       "region": "MN",
+       "postalCode": "55107",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rochester, MN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15072182003",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1202-1/2 7th Street NW, Suite 218"
+       ],
+       "city": "Rochester",
+       "region": "MN",
+       "postalCode": "55901",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.smith.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.smith.senate.gov/share-your-opinion/",
+    "website": "https://www.smith.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "F000475": {
+   "seat": "Representative, MN-1",
+   "published": {
+    "name": {
+     "full": "Brad Finstad",
+     "given": "Brad",
+     "family": "Finstad",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MN",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252472",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2418 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2301",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rochester, MN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15075776140",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2746 Superior Drive NW, Suite 100"
+       ],
+       "city": "Rochester",
+       "region": "MN",
+       "postalCode": "55901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "New Ulm, MN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15075776151",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "110 N. Minnesota St., Suite 5"
+       ],
+       "city": "New Ulm",
+       "region": "MN",
+       "postalCode": "56073",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://finstad.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://finstad.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001119": {
+   "seat": "Representative, MN-2",
+   "published": {
+    "name": {
+     "full": "Angie Craig",
+     "given": "Angie",
+     "family": "Craig",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MN",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252271",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2052 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2302",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Eagan, MN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16518462120",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1915 Plaza Dr., Suite 202"
+       ],
+       "city": "Eagan",
+       "region": "MN",
+       "postalCode": "55122",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://craig.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://craig.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001234": {
+   "seat": "Representative, MN-3",
+   "published": {
+    "name": {
+     "full": "Kelly Morrison",
+     "given": "Kelly",
+     "family": "Morrison",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MN",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252871",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1205 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2303",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Plymouth, MN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19526565176",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3033 Campus Dr., W105"
+       ],
+       "city": "Plymouth",
+       "region": "MN",
+       "postalCode": "55441",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://morrison.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://morrison.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001143": {
+   "seat": "Representative, MN-4",
+   "published": {
+    "name": {
+     "full": "Betty McCollum",
+     "given": "Betty",
+     "family": "McCollum",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MN",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256631",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2426 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2304",
+       "country": "US"
+      }
+     },
+     {
+      "label": "St. Paul, MN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16512249191",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "661 LaSalle Street, Suite 110"
+       ],
+       "city": "St. Paul",
+       "region": "MN",
+       "postalCode": "55114",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mccollum.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mccollum.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "O000173": {
+   "seat": "Representative, MN-5",
+   "published": {
+    "name": {
+     "full": "Ilhan Omar",
+     "given": "Ilhan",
+     "family": "Omar",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MN",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254755",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1730 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2305",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Minneapolis, MN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16123331272",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "310 E 38th St, Suite 222"
+       ],
+       "city": "Minneapolis",
+       "region": "MN",
+       "postalCode": "55409",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://omar.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://omar.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "E000294": {
+   "seat": "Representative, MN-6",
+   "published": {
+    "name": {
+     "full": "Tom Emmer",
+     "given": "Tom",
+     "family": "Emmer",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MN",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252331",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "326 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2306",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Otsego, MN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17632416848",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "9201 Quaday Ave. NE, Suite 206"
+       ],
+       "city": "Otsego",
+       "region": "MN",
+       "postalCode": "55330",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Chaska, MN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19522622999",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1107 Hazeltine Blvd, Suite 476"
+       ],
+       "city": "Chaska",
+       "region": "MN",
+       "postalCode": "55318",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://emmer.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://emmer.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "F000470": {
+   "seat": "Representative, MN-7",
+   "published": {
+    "name": {
+     "full": "Michelle Fischbach",
+     "given": "Michelle",
+     "family": "Fischbach",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MN",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252165",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2229 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2307",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Willmar, MN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13204036100",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2211 1st Street S, Suite 190"
+       ],
+       "city": "Willmar",
+       "region": "MN",
+       "postalCode": "56201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Moorhead, MN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12184222090",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2513 8th Street S"
+       ],
+       "city": "Moorhead",
+       "region": "MN",
+       "postalCode": "56560",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://fischbach.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://fischbach.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001212": {
+   "seat": "Representative, MN-8",
+   "published": {
+    "name": {
+     "full": "Pete Stauber",
+     "given": "Pete",
+     "family": "Stauber",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MN",
+    "district": 8,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256211",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "145 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2308",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Brainerd, MN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12183550862",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Brainerd City Hall",
+        "501 Laurel St"
+       ],
+       "city": "Brainerd",
+       "region": "MN",
+       "postalCode": "56401-3595",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cambridge, MN office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "Cambridge City Hall",
+        "300 3rd Ave NE"
+       ],
+       "city": "Cambridge",
+       "region": "MN",
+       "postalCode": "55008-1281",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Chisholm, MN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12183550726",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Chisholm City Hall",
+        "316 W Lake St, Suite 7"
+       ],
+       "city": "Chisholm",
+       "region": "MN",
+       "postalCode": "55719-3708",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Hermantown, MN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12184816396",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "5094 Miller Trunk Hwy, Suite 900"
+       ],
+       "city": "Hermantown",
+       "region": "MN",
+       "postalCode": "55811-1626",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://stauber.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://stauber.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001089": {
+   "seat": "Senator, MO",
+   "published": {
+    "name": {
+     "full": "Josh Hawley",
+     "given": "Josh",
+     "family": "Hawley",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "MO",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022246154",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "381 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cape Girardeau, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15733345995",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "555 Independence Street, #1600"
+       ],
+       "city": "Cape Girardeau",
+       "region": "MO",
+       "postalCode": "63703-6235",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Columbia, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15735541919",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1123 Wilkes Blvd, Suite 220"
+       ],
+       "city": "Columbia",
+       "region": "MO",
+       "postalCode": "65201-4774",
+       "country": "US"
+      }
+     },
+     {
+      "label": "St. Louis, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13143547060",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "111 South 10th Street, Suite 23.360"
+       ],
+       "city": "St. Louis",
+       "region": "MO",
+       "postalCode": "63102",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Kansas City, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18169604694",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "400 E. 9th Street, Suite 9350"
+       ],
+       "city": "Kansas City",
+       "region": "MO",
+       "postalCode": "64106",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Springfield, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14178694433",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "901 E. St. Louis Street, Suite 1604"
+       ],
+       "city": "Springfield",
+       "region": "MO",
+       "postalCode": "65806",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.hawley.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.hawley.senate.gov/contact-senator-hawley",
+    "website": "https://www.hawley.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001227": {
+   "seat": "Senator, MO",
+   "published": {
+    "name": {
+     "full": "Eric Schmitt",
+     "given": "Eric",
+     "family": "Schmitt",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "MO",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022245721",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "404 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "St. Louis, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13142307263",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Thomas F. Eagleton US Courthouse",
+        "111 South 10th Street, Suite 23.305"
+       ],
+       "city": "St. Louis",
+       "region": "MO",
+       "postalCode": "63102",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Columbia, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15735148680",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1123 Wilkes Boulevard, Suite 320"
+       ],
+       "city": "Columbia",
+       "region": "MO",
+       "postalCode": "65201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Springfield, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14172905000",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2870 S. Ingram Mill Rd., Suite D2"
+       ],
+       "city": "Springfield",
+       "region": "MO",
+       "postalCode": "65804",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Kansas City, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18168496234",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "12200 N Ambassador Dr., Suite 233"
+       ],
+       "city": "Kansas City",
+       "region": "MO",
+       "postalCode": "64163",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cape Girardeau, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15733888340",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "555 Independence St., Suite 1500"
+       ],
+       "city": "Cape Girardeau",
+       "region": "MO",
+       "postalCode": "63703",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.schmitt.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.schmitt.senate.gov/contact/",
+    "website": "https://www.schmitt.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001324": {
+   "seat": "Representative, MO-1",
+   "published": {
+    "name": {
+     "full": "Wesley Bell",
+     "given": "Wesley",
+     "family": "Bell",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MO",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252406",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1429 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "St. Louis, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13149559980",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1191 Dr. M.L. King Dr."
+       ],
+       "city": "St. Louis",
+       "region": "MO",
+       "postalCode": "63101",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://bell.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://bell.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "W000812": {
+   "seat": "Representative, MO-2",
+   "published": {
+    "name": {
+     "full": "Ann Wagner",
+     "given": "Ann",
+     "family": "Wagner",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MO",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022251621",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2350 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2502",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Ballwin, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16367795449",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "301 Sovereign Ct., Suite 201"
+       ],
+       "city": "Ballwin",
+       "region": "MO",
+       "postalCode": "63011",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Washington, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16362311001",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "516 Jefferson St."
+       ],
+       "city": "Washington",
+       "region": "MO",
+       "postalCode": "63090",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://wagner.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://wagner.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "O000177": {
+   "seat": "Representative, MO-3",
+   "published": {
+    "name": {
+     "full": "Robert F. Onder, Jr.",
+     "given": "Robert",
+     "family": "Onder",
+     "suffix": "Jr."
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MO",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252956",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1113 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2503",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cottleville, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16363277055",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "5330 Highway N"
+       ],
+       "city": "Cottleville",
+       "region": "MO",
+       "postalCode": "63304",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Jefferson City, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15736357232",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "235 East High St"
+       ],
+       "city": "Jefferson City",
+       "region": "MO",
+       "postalCode": "65101",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://onder.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://onder.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "A000379": {
+   "seat": "Representative, MO-4",
+   "published": {
+    "name": {
+     "full": "Mark Alford",
+     "given": "Mark",
+     "family": "Alford",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MO",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252876",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "328 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2504",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Raymore, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18164416318",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1272 West Foxwood Dr."
+       ],
+       "city": "Raymore",
+       "region": "MO",
+       "postalCode": "64083",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Columbia, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15735406600",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2401 Bernadette Drive, Suite 117"
+       ],
+       "city": "Columbia",
+       "region": "MO",
+       "postalCode": "65203",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lebanon, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14175325582",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "500 E. Elm Street"
+       ],
+       "city": "Lebanon",
+       "region": "MO",
+       "postalCode": "65536",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://alford.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://alford.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001061": {
+   "seat": "Representative, MO-5",
+   "published": {
+    "name": {
+     "full": "Emanuel Cleaver",
+     "given": "Emanuel",
+     "family": "Cleaver",
+     "suffix": "II"
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MO",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254535",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2217 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2505",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Independence, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18168334545",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "411 W Maple Ave, F"
+       ],
+       "city": "Independence",
+       "region": "MO",
+       "postalCode": "64050-2840",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Kansas City, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18168424545",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4001 Dr Martin Luther King Jr Blvd, Suite 210"
+       ],
+       "city": "Kansas City",
+       "region": "MO",
+       "postalCode": "64130",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://cleaver.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://cleaver.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000546": {
+   "seat": "Representative, MO-6",
+   "published": {
+    "name": {
+     "full": "Sam Graves",
+     "given": "Sam",
+     "family": "Graves",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MO",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022257041",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1135 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2506",
+       "country": "US"
+      }
+     },
+     {
+      "label": "St. Joseph, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18167490800",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "411 Jules St., Room 111"
+       ],
+       "city": "St. Joseph",
+       "region": "MO",
+       "postalCode": "64501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Troy, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16366227106",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "201 Main St, Rm 50"
+       ],
+       "city": "Troy",
+       "region": "MO",
+       "postalCode": "63379",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Hannibal, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15732213400",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "6079 Co Rd 425"
+       ],
+       "city": "Hannibal",
+       "region": "MO",
+       "postalCode": "63401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Kansas City, MO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18167923976",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "12200 North Ambassador Dr, Suite 234"
+       ],
+       "city": "Kansas City",
+       "region": "MO",
+       "postalCode": "64163",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://graves.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://graves.house.gov"
+   },
+   "currentSupplement": null
+  }
+ }
+}

@@ -1,0 +1,1737 @@
+{
+ "S001145": {
+  "id": "S001145",
+  "name": "Janice D. Schakowsky",
+  "seat": "Representative, IL-9",
+  "pages": [
+   {
+    "url": "https://schakowsky.house.gov",
+    "final": "https://schakowsky.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://schakowsky.house.gov/contact/",
+    "final": "https://schakowsky.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://schakowsky.house.gov/contact/email-me/",
+    "final": "https://schakowsky.house.gov/zip_authentication?form=/contact/email-me",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://schakowsky.house.gov/contact/offices/",
+    "final": "https://schakowsky.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://schakowsky.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://schakowsky.house.gov/contact/offices/washington-dc-office/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://schakowsky.house.gov/contact/offices/skokie-district-office/",
+    "final": "https://schakowsky.house.gov/contact/offices/skokie-district-office/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://schakowsky.house.gov/zip_authentication/",
+    "final": "https://schakowsky.house.gov/zip_authentication/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://schakowsky.house.gov/contact/email-me/",
+   "https://schakowsky.house.gov/contact/offices/",
+   "https://schakowsky.house.gov/contact/offices/washington-dc-office/",
+   "https://schakowsky.house.gov/contact/offices/skokie-district-office/",
+   "https://schakowsky.house.gov/zip_authentication/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+12022266890"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "S001190": {
+  "id": "S001190",
+  "name": "Bradley Scott Schneider",
+  "seat": "Representative, IL-10",
+  "pages": [
+   {
+    "url": "https://schneider.house.gov",
+    "final": "https://schneider.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://schneider.house.gov/contact/",
+    "final": "https://schneider.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://schneider.house.gov/contact/email-me/",
+    "final": "https://schneider.house.gov/contact/email-me/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://schneider.house.gov/contact/invite-event/",
+    "final": "https://schneider.house.gov/contact/invite-event/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://schneider.house.gov/contact/neighborhood-office-hours/",
+    "final": "https://schneider.house.gov/contact/neighborhood-office-hours/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://schneider.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://schneider.house.gov/contact/offices/washington-dc-office/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://schneider.house.gov/contact/offices/lincolnshire-district-office/",
+    "final": "https://schneider.house.gov/contact/offices/lincolnshire-district-office/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://schneider.house.gov/contact/offices/",
+    "final": "https://schneider.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://schneider.house.gov/contact/email-me/",
+   "https://schneider.house.gov/contact/invite-event/",
+   "https://schneider.house.gov/contact/neighborhood-office-hours/",
+   "https://schneider.house.gov/contact/offices/washington-dc-office/",
+   "https://schneider.house.gov/contact/offices/lincolnshire-district-office/",
+   "https://schneider.house.gov/contact/offices/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Lincolnshire, IL office: 111 Barclay Blvd., Suite 200"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "F000454": {
+  "id": "F000454",
+  "name": "Bill Foster",
+  "seat": "Representative, IL-11",
+  "pages": [
+   {
+    "url": "https://foster.house.gov",
+    "final": "https://foster.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://foster.house.gov/contact/",
+    "final": "https://foster.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://foster.house.gov/contact/email-me/",
+    "final": "https://foster.house.gov/contact/email-me/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://foster.house.gov/contact/offices/",
+    "final": "https://foster.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://foster.house.gov/contact/invite-me-to-speak/",
+    "final": "https://foster.house.gov/contact/invite-me-to-speak/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://foster.house.gov/virtual-office-hours/",
+    "final": "https://foster.house.gov/virtual-office-hours/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://foster.house.gov/mobile-hours/",
+    "final": "https://foster.house.gov/mobile-hours/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://foster.house.gov/comment-policy/",
+    "final": "https://foster.house.gov/comment-policy/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://foster.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://foster.house.gov/contact/offices/washington-dc-office/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://foster.house.gov/contact/offices/aurora-district-office/",
+    "final": "https://foster.house.gov/contact/offices/aurora-district-office/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://foster.house.gov/contact/email-me/",
+   "https://foster.house.gov/contact/offices/",
+   "https://foster.house.gov/contact/invite-me-to-speak/",
+   "https://foster.house.gov/virtual-office-hours/",
+   "https://foster.house.gov/mobile-hours/",
+   "https://foster.house.gov/comment-policy/",
+   "https://foster.house.gov/contact/offices/washington-dc-office/",
+   "https://foster.house.gov/contact/offices/aurora-district-office/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "B001295": {
+  "id": "B001295",
+  "name": "Mike Bost",
+  "seat": "Representative, IL-12",
+  "pages": [
+   {
+    "url": "https://bost.house.gov",
+    "final": "https://bost.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bost.house.gov/contact/",
+    "final": "https://bost.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bost.house.gov/email/",
+    "final": "https://bost.house.gov/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bost.house.gov/offices/",
+    "final": "https://bost.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bost.house.gov/index.cfm/",
+    "final": "https://bost.house.gov/index.cfm/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://bost.house.gov/offices/",
+   "https://bost.house.gov/index.cfm/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "B001315": {
+  "id": "B001315",
+  "name": "Nikki Budzinski",
+  "seat": "Representative, IL-13",
+  "pages": [
+   {
+    "url": "https://budzinski.house.gov",
+    "final": "https://budzinski.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://budzinski.house.gov/contact/",
+    "final": "https://budzinski.house.gov/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://budzinski.house.gov/contact",
+    "positive": [
+     "topic"
+    ],
+    "negative": [
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "U000040": {
+  "id": "U000040",
+  "name": "Lauren Underwood",
+  "seat": "Representative, IL-14",
+  "pages": [
+   {
+    "url": "https://underwood.house.gov",
+    "final": "https://underwood.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://underwood.house.gov/contact/",
+    "final": "https://underwood.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://underwood.house.gov/contact/email-me/",
+    "final": "https://underwood.house.gov/contact/email-me",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://underwood.house.gov/contact/offices/",
+    "final": "https://underwood.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://underwood.house.gov/share-your-story/",
+    "final": "https://underwood.house.gov/share-your-story/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://underwood.house.gov/contact/offices/dekalb-district-office/",
+    "final": "https://underwood.house.gov/contact/offices/dekalb-district-office/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://underwood.house.gov/contact/offices/joliet-district-office/",
+    "final": "https://underwood.house.gov/contact/offices/joliet-district-office/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://underwood.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://underwood.house.gov/contact/offices/washington-dc-office/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://underwood.house.gov/contact/email-me/",
+   "https://underwood.house.gov/contact/offices/",
+   "https://underwood.house.gov/share-your-story/",
+   "https://underwood.house.gov/contact/offices/dekalb-district-office/",
+   "https://underwood.house.gov/contact/offices/joliet-district-office/",
+   "https://underwood.house.gov/contact/offices/washington-dc-office/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "M001211": {
+  "id": "M001211",
+  "name": "Mary E. Miller",
+  "seat": "Representative, IL-15",
+  "pages": [
+   {
+    "url": "https://marymiller.house.gov",
+    "final": "https://marymiller.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://marymiller.house.gov/contact/",
+    "final": "https://marymillerforms.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://marymiller.house.gov/contact/offices/",
+    "final": "https://marymiller.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://marymiller.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://marymiller.house.gov/contact/offices/washington-dc-office/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://marymiller.house.gov/contact/offices/mahomet-district-office/",
+    "final": "https://marymiller.house.gov/contact/offices/mahomet-district-office/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://marymiller.house.gov/contact/offices/quincy-district-office/",
+    "final": "https://marymiller.house.gov/contact/offices/quincy-district-office/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://marymiller.house.gov/contact/offices/highland-district-office-0/",
+    "final": "https://marymiller.house.gov/contact/offices/highland-district-office-0/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://marymiller.house.gov/contact/",
+   "https://marymiller.house.gov/contact/offices/",
+   "https://marymiller.house.gov/contact/offices/washington-dc-office/",
+   "https://marymiller.house.gov/contact/offices/mahomet-district-office/",
+   "https://marymiller.house.gov/contact/offices/quincy-district-office/",
+   "https://marymiller.house.gov/contact/offices/highland-district-office-0/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "L000585": {
+  "id": "L000585",
+  "name": "Darin LaHood",
+  "seat": "Representative, IL-16",
+  "pages": [
+   {
+    "url": "https://lahood.house.gov",
+    "final": "https://lahood.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lahood.house.gov/contact/",
+    "final": "https://lahood.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lahood.house.gov/contact/offices/",
+    "final": "https://lahood.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lahood.house.gov/offices/",
+    "final": "https://lahood.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lahood.house.gov/office-locations/",
+    "final": "https://lahood.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://lahood.house.gov",
+   "https://lahood.house.gov/contact/",
+   "https://lahood.house.gov/contact/offices/",
+   "https://lahood.house.gov/offices/",
+   "https://lahood.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022256201",
+   "+13094458080",
+   "+13096717027",
+   "+17792384785"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 503 Cannon House Office Building",
+   "Peoria, IL office: 100 NE Monroe St., Room 100",
+   "Rockford, IL office: 527 Colman Center Drive",
+   "Normal, IL office: 108 East Beaufort Street"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "S001225": {
+  "id": "S001225",
+  "name": "Eric Sorensen",
+  "seat": "Representative, IL-17",
+  "pages": [
+   {
+    "url": "https://sorensen.house.gov",
+    "final": "https://sorensen.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sorensen.house.gov/contact/",
+    "final": "https://sorensen.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sorensen.house.gov/contact/offices/",
+    "final": "https://sorensen.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sorensen.house.gov/offices/",
+    "final": "https://sorensen.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sorensen.house.gov/office-locations/",
+    "final": "https://sorensen.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://sorensen.house.gov",
+   "https://sorensen.house.gov/contact/",
+   "https://sorensen.house.gov/contact/offices/",
+   "https://sorensen.house.gov/offices/",
+   "https://sorensen.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022255905",
+   "+13096217070",
+   "+13097863406",
+   "+17795134960"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 1314 Longworth House Office Building",
+   "Rockford, IL office: 401 E. State Street, Ground Floor",
+   "Rock Island, IL office: 423 17th Street, Suite 201"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "B001299": {
+  "id": "B001299",
+  "name": "Jim Banks",
+  "seat": "Senator, IN",
+  "pages": [
+   {
+    "url": "https://www.banks.senate.gov",
+    "final": "https://www.banks.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.banks.senate.gov/contact/",
+    "final": "https://www.banks.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.banks.senate.gov/contact/offices/",
+    "final": "https://www.banks.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.banks.senate.gov/offices/",
+    "final": "https://www.banks.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.banks.senate.gov/office-locations/",
+    "final": "https://www.banks.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.banks.senate.gov/contact/share-your-opinion/",
+    "final": "https://www.banks.senate.gov/contact/share-your-opinion/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.banks.senate.gov",
+   "https://www.banks.senate.gov/contact/offices/",
+   "https://www.banks.senate.gov/offices/",
+   "https://www.banks.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+14636872190"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.banks.senate.gov/contact/share-your-opinion/",
+    "positive": [
+     "comment",
+     "concern",
+     "issue",
+     "legislation",
+     "opinion",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "Y000064": {
+  "id": "Y000064",
+  "name": "Todd Young",
+  "seat": "Senator, IN",
+  "pages": [
+   {
+    "url": "https://www.young.senate.gov",
+    "final": "https://www.young.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.young.senate.gov/contact/",
+    "final": "https://www.young.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.young.senate.gov/contact/offices/",
+    "final": "https://www.young.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.young.senate.gov/offices/",
+    "final": "https://www.young.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.young.senate.gov/office-locations/",
+    "final": "https://www.young.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.young.senate.gov/contact/email-todd/",
+    "final": "https://www.young.senate.gov/contact/email-todd/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.young.senate.gov/contact/hoosier-huddle/",
+    "final": "https://www.young.senate.gov/contact/hoosier-huddle/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.young.senate.gov/contact/itemDataObject.url/",
+    "final": "https://www.young.senate.gov/contact/itemDataObject.url/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.young.senate.gov/contact/{{{data.link}}}/",
+    "final": "https://www.young.senate.gov/contact/{{{data.link}}}/",
+    "status": 0,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.young.senate.gov",
+   "https://www.young.senate.gov/contact/offices/",
+   "https://www.young.senate.gov/offices/",
+   "https://www.young.senate.gov/office-locations/",
+   "https://www.young.senate.gov/contact/itemDataObject.url/",
+   "https://www.young.senate.gov/contact/{{{data.link}}}/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12197477780"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.young.senate.gov/contact/email-todd/",
+    "positive": [
+     "issue",
+     "legislation",
+     "topic"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter",
+     "tour request"
+    ]
+   },
+   {
+    "url": "https://www.young.senate.gov/contact/hoosier-huddle/",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "M001214": {
+  "id": "M001214",
+  "name": "Frank J. Mrvan",
+  "seat": "Representative, IN-1",
+  "pages": [
+   {
+    "url": "https://mrvan.house.gov",
+    "final": "https://mrvan.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mrvan.house.gov/contact/",
+    "final": "https://mrvan.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mrvan.house.gov/contact/offices/",
+    "final": "https://mrvan.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mrvan.house.gov/offices/",
+    "final": "https://mrvan.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mrvan.house.gov/office-locations/",
+    "final": "https://mrvan.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://mrvan.house.gov",
+   "https://mrvan.house.gov/contact/",
+   "https://mrvan.house.gov/contact/offices/",
+   "https://mrvan.house.gov/offices/",
+   "https://mrvan.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022252461",
+   "+12197951844"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 2441 Rayburn House Office Building",
+   "Merrillville, IN office: 8001 Broadway, Suite 201"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "Y000067": {
+  "id": "Y000067",
+  "name": "Rudy Yakym III",
+  "seat": "Representative, IN-2",
+  "pages": [
+   {
+    "url": "https://yakym.house.gov",
+    "final": "https://yakym.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://yakym.house.gov/contact/",
+    "final": "https://yakym.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://yakym.house.gov/contact/offices/",
+    "final": "https://yakym.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://yakym.house.gov/offices/",
+    "final": "https://yakym.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://yakym.house.gov/office-locations/",
+    "final": "https://yakym.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://yakym.house.gov",
+   "https://yakym.house.gov/contact/",
+   "https://yakym.house.gov/contact/offices/",
+   "https://yakym.house.gov/offices/",
+   "https://yakym.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022253915",
+   "+15742042645",
+   "+15742234373"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 349 Cannon House Office Building",
+   "Mishawaka, IN office: 2410 Grape Road, Suite 2A",
+   "Rochester, IN office: 709 Main Street"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "S001188": {
+  "id": "S001188",
+  "name": "Marlin A. Stutzman",
+  "seat": "Representative, IN-3",
+  "pages": [
+   {
+    "url": "https://stutzman.house.gov",
+    "final": "https://stutzman.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://stutzman.house.gov/contact/",
+    "final": "https://stutzman.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://stutzman.house.gov/contact/offices/",
+    "final": "https://stutzman.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://stutzman.house.gov/offices/",
+    "final": "https://stutzman.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://stutzman.house.gov/office-locations/",
+    "final": "https://stutzman.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://stutzman.house.gov",
+   "https://stutzman.house.gov/contact/",
+   "https://stutzman.house.gov/contact/offices/",
+   "https://stutzman.house.gov/offices/",
+   "https://stutzman.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022254436",
+   "+12607024750"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 404 Cannon House Office Building",
+   "Fort Wayne, IN office: 6714 Pointe Inverness Way"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "B001307": {
+  "id": "B001307",
+  "name": "James R. Baird",
+  "seat": "Representative, IN-4",
+  "pages": [
+   {
+    "url": "https://baird.house.gov",
+    "final": "https://baird.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://baird.house.gov/contact/",
+    "final": "https://baird.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://baird.house.gov/contact/offices/",
+    "final": "https://baird.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://baird.house.gov/offices/",
+    "final": "https://baird.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://baird.house.gov/office-locations/",
+    "final": "https://baird.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://baird.house.gov",
+   "https://baird.house.gov/contact/",
+   "https://baird.house.gov/contact/offices/",
+   "https://baird.house.gov/offices/",
+   "https://baird.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022255037",
+   "+13175635567"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 2303 Rayburn House Office Building",
+   "Danville, IN office: 355 S Washington St, Suite 210"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "S000929": {
+  "id": "S000929",
+  "name": "Victoria Spartz",
+  "seat": "Representative, IN-5",
+  "pages": [
+   {
+    "url": "https://spartz.house.gov",
+    "final": "https://spartz.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://spartz.house.gov/contact/",
+    "final": "https://spartz.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://spartz.house.gov/contact/offices/",
+    "final": "https://spartz.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://spartz.house.gov/offices/",
+    "final": "https://spartz.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://spartz.house.gov/office-locations/",
+    "final": "https://spartz.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://spartz.house.gov",
+   "https://spartz.house.gov/contact/",
+   "https://spartz.house.gov/contact/offices/",
+   "https://spartz.house.gov/offices/",
+   "https://spartz.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022252276",
+   "+13178480201",
+   "+17656390671"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 1609 Longworth House Office Building",
+   "Noblesville, IN office: 5540 Pebble Village Lane, Suite 400",
+   "Muncie, IN office: 420 S High Street, Suite 207"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "S001229": {
+  "id": "S001229",
+  "name": "Jefferson Shreve",
+  "seat": "Representative, IN-6",
+  "pages": [
+   {
+    "url": "https://shreve.house.gov",
+    "final": "https://shreve.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://shreve.house.gov/contact/",
+    "final": "https://shreve.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://shreve.house.gov/contact/offices/",
+    "final": "https://shreve.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://shreve.house.gov/offices/",
+    "final": "https://shreve.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://shreve.house.gov/office-locations/",
+    "final": "https://shreve.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://shreve.house.gov",
+   "https://shreve.house.gov/contact/",
+   "https://shreve.house.gov/contact/offices/",
+   "https://shreve.house.gov/offices/",
+   "https://shreve.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022253021",
+   "+13173993333"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 224 Cannon House Office Building",
+   "Richmond, IN office: 50 N Fifth St, 2nd Floor",
+   "Greenfield, IN office: 18 E Main St, Suite 210",
+   "Greenwood, IN office: 300 South Madison Ave, Suite 300"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "C001072": {
+  "id": "C001072",
+  "name": "Andr\u00e9 Carson",
+  "seat": "Representative, IN-7",
+  "pages": [
+   {
+    "url": "https://carson.house.gov",
+    "final": "https://carson.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://carson.house.gov/contact/",
+    "final": "https://carson.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://carson.house.gov/contact/offices/",
+    "final": "https://carson.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://carson.house.gov/offices/",
+    "final": "https://carson.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://carson.house.gov/office-locations/",
+    "final": "https://carson.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://carson.house.gov",
+   "https://carson.house.gov/contact/",
+   "https://carson.house.gov/contact/offices/",
+   "https://carson.house.gov/offices/",
+   "https://carson.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022254011",
+   "+13172836516"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 2135 Rayburn House Office Building",
+   "Indianapolis, IN office: 300 E. Fall Creek Pkwy N Dr., Suite 300"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "M001233": {
+  "id": "M001233",
+  "name": "Mark B. Messmer",
+  "seat": "Representative, IN-8",
+  "pages": [
+   {
+    "url": "https://messmer.house.gov",
+    "final": "https://messmer.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://messmer.house.gov/contact/",
+    "final": "https://messmer.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://messmer.house.gov/contact/offices/",
+    "final": "https://messmer.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://messmer.house.gov/offices/",
+    "final": "https://messmer.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://messmer.house.gov/office-locations/",
+    "final": "https://messmer.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://messmer.house.gov",
+   "https://messmer.house.gov/contact/",
+   "https://messmer.house.gov/contact/offices/",
+   "https://messmer.house.gov/offices/",
+   "https://messmer.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022254636",
+   "+18124656484"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 1208 Longworth House Office Building",
+   "Evansville, IN office: 20 NW Third St, Suite 1230",
+   "Jasper, IN office: 2133 Newton St"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "H001093": {
+  "id": "H001093",
+  "name": "Erin Houchin",
+  "seat": "Representative, IN-9",
+  "pages": [
+   {
+    "url": "https://houchin.house.gov",
+    "final": "https://houchin.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://houchin.house.gov/contact/",
+    "final": "https://houchin.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://houchin.house.gov/contact/offices/",
+    "final": "https://houchin.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://houchin.house.gov/offices/",
+    "final": "https://houchin.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://houchin.house.gov/office-locations/",
+    "final": "https://houchin.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://houchin.house.gov",
+   "https://houchin.house.gov/contact/",
+   "https://houchin.house.gov/contact/offices/",
+   "https://houchin.house.gov/offices/",
+   "https://houchin.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022255315",
+   "+18122883999"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 342 Cannon House Office Building",
+   "Salem, IN office: 104 W Hackberry St"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "M000934": {
+  "id": "M000934",
+  "name": "Jerry Moran",
+  "seat": "Senator, KS",
+  "pages": [
+   {
+    "url": "https://www.moran.senate.gov",
+    "final": "https://www.moran.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.moran.senate.gov/contact/",
+    "final": "https://www.senate.gov/pagelayout/general/one_item_and_teasers/file_not_found.htm",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.moran.senate.gov/contact/offices/",
+    "final": "https://www.senate.gov/pagelayout/general/one_item_and_teasers/file_not_found.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.moran.senate.gov/offices/",
+    "final": "https://www.senate.gov/pagelayout/general/one_item_and_teasers/file_not_found.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.moran.senate.gov/office-locations/",
+    "final": "https://www.senate.gov/pagelayout/general/one_item_and_teasers/file_not_found.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.moran.senate.gov/public/index.cfm/e-mail-jerry",
+    "final": "https://www.moran.senate.gov/public/index.cfm/e-mail-jerry",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "http://www.senate.gov/pagelayout/general/one_item_and_teasers/contacting.htm",
+    "final": "https://www.senate.gov/pagelayout/general/one_item_and_teasers/contacting.htm",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.senate.gov/general/contacting.htm",
+    "final": "https://www.senate.gov/general/contacting.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.moran.senate.gov",
+   "https://www.moran.senate.gov/contact/",
+   "http://www.senate.gov/pagelayout/general/one_item_and_teasers/contacting.htm"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022246521",
+   "+13162699259",
+   "+16202322286",
+   "+16202603025",
+   "+17855398973",
+   "+17856286401",
+   "+19133930711"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+12022243121"
+  ],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 521 Dirksen Senate Office Building",
+   "Hays, KS office: 1200 Main St., Suite 402",
+   "Olathe, KS office: 23600 College Blvd., Suite 201",
+   "Pittsburg, KS office: 306 N. Broadway, Suite 125",
+   "Wichita, KS office: 100 North Broadway, Suite 210",
+   "Manhattan, KS office: 1880 Kimball Ave, Suite 270",
+   "Garden City, KS office: 1511 East Fulton Terrace, Suite 1511-2"
+  ],
+  "forms": [
+   {
+    "url": "https://www.moran.senate.gov/public/index.cfm/e-mail-jerry",
+    "positive": [
+     "comment",
+     "issue",
+     "legislation",
+     "opinion",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "M001198": {
+  "id": "M001198",
+  "name": "Roger Marshall",
+  "seat": "Senator, KS",
+  "pages": [
+   {
+    "url": "https://www.marshall.senate.gov",
+    "final": "https://www.marshall.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.marshall.senate.gov/contact/",
+    "final": "https://www.marshall.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.marshall.senate.gov/contact/offices/",
+    "final": "https://www.marshall.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.marshall.senate.gov/offices/",
+    "final": "https://www.marshall.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.marshall.senate.gov/office-locations/",
+    "final": "https://www.marshall.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.marshall.senate.gov/contact/contact-form/",
+    "final": "https://www.marshall.senate.gov/contact/contact-form/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.marshall.senate.gov",
+   "https://www.marshall.senate.gov/contact/offices/",
+   "https://www.marshall.senate.gov/offices/",
+   "https://www.marshall.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 479A Russell Senate Office Building",
+   "Pittsburg, KS office: 402B North Broadway"
+  ],
+  "forms": [
+   {
+    "url": "https://www.marshall.senate.gov/contact/contact-form/",
+    "positive": [
+     "issue",
+     "opinion",
+     "share your",
+     "topic"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "flag request",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "M000871": {
+  "id": "M000871",
+  "name": "Tracey Mann",
+  "seat": "Representative, KS-1",
+  "pages": [
+   {
+    "url": "https://mann.house.gov",
+    "final": "https://mann.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mann.house.gov/contact/",
+    "final": "https://mann.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mann.house.gov/contact/offices/",
+    "final": "https://mann.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mann.house.gov/offices/",
+    "final": "https://mann.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mann.house.gov/office-locations/",
+    "final": "https://mann.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://mann.house.gov",
+   "https://mann.house.gov/contact/",
+   "https://mann.house.gov/contact/offices/",
+   "https://mann.house.gov/offices/",
+   "https://mann.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022252715",
+   "+16206827340",
+   "+17853707277"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 344 Cannon House Office Building",
+   "Manhattan, KS office: 317 Houston Street, Suite A",
+   "Dodge City, KS office: 100 Military Avenue, Suite 203"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "S001228": {
+  "id": "S001228",
+  "name": "Derek Schmidt",
+  "seat": "Representative, KS-2",
+  "pages": [
+   {
+    "url": "https://schmidt.house.gov",
+    "final": "https://schmidt.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://schmidt.house.gov/contact/",
+    "final": "https://schmidt.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://schmidt.house.gov/contact/offices/",
+    "final": "https://schmidt.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://schmidt.house.gov/offices/",
+    "final": "https://schmidt.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://schmidt.house.gov/office-locations/",
+    "final": "https://schmidt.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://schmidt.house.gov",
+   "https://schmidt.house.gov/contact/",
+   "https://schmidt.house.gov/contact/offices/",
+   "https://schmidt.house.gov/offices/",
+   "https://schmidt.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022256601",
+   "+16203087450",
+   "+17852055253"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 1223 Longworth House Office Building",
+   "Pittsburg, KS office: 402 N Broadway St, Suite B",
+   "Topeka, KS office: 3550 SW 5th St, Suite B"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "D000629": {
+  "id": "D000629",
+  "name": "Sharice Davids",
+  "seat": "Representative, KS-3",
+  "pages": [
+   {
+    "url": "https://davids.house.gov",
+    "final": "https://davids.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://davids.house.gov/contact/",
+    "final": "https://davids.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://davids.house.gov/contact/offices/",
+    "final": "https://davids.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://davids.house.gov/offices/",
+    "final": "https://davids.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://davids.house.gov/office-locations/",
+    "final": "https://davids.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://davids.house.gov",
+   "https://davids.house.gov/contact/",
+   "https://davids.house.gov/contact/offices/",
+   "https://davids.house.gov/offices/",
+   "https://davids.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022252865",
+   "+19136210832"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 2435 Rayburn House Office Building",
+   "Overland Park, KS office: 9200 Indian Creek Parkway, Suite 562"
+  ],
+  "forms": [],
+  "emails": []
+ }
+}

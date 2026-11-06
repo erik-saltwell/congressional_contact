@@ -1,0 +1,2340 @@
+{
+ "batch": "2026-11-05-full-14",
+ "createdAt": "2026-11-05",
+ "dataGeneratedAt": "2026-11-05T19:36:17Z",
+ "officials": {
+  "M001226": {
+   "seat": "Representative, NJ-8",
+   "published": {
+    "name": {
+     "full": "Robert Menendez",
+     "given": "Robert",
+     "family": "Menendez",
+     "suffix": "Jr."
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NJ",
+    "district": 8,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022257919",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2453 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3008",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Jersey City, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12013090301",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "257 Cornelison Avenue, Suite 4408"
+       ],
+       "city": "Jersey City",
+       "region": "NJ",
+       "postalCode": "07302",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://menendez.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://menendez.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "P000621": {
+   "seat": "Representative, NJ-9",
+   "published": {
+    "name": {
+     "full": "Nellie Pou",
+     "given": "Nellie",
+     "family": "Pou",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NJ",
+    "district": 9,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255751",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1007 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3009",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Paterson, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19735235152",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "100 Hamilton Plaza, Suite 1400"
+       ],
+       "city": "Paterson",
+       "region": "NJ",
+       "postalCode": "07505",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://pou.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://pou.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001229": {
+   "seat": "Representative, NJ-10",
+   "published": {
+    "name": {
+     "full": "LaMonica McIver",
+     "given": "LaMonica",
+     "family": "McIver",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NJ",
+    "district": 10,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253436",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "426 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3010",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Newark, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19736453213",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "LeRoy F. Smith, Jr. Public Safety Building",
+        "60 Nelson Pl, 14th Floor"
+       ],
+       "city": "Newark",
+       "region": "NJ",
+       "postalCode": "07102",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mciver.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mciver.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001246": {
+   "seat": "Representative, NJ-11",
+   "published": {
+    "name": {
+     "full": "Analilia Mejia",
+     "given": "Analilia",
+     "family": "Mejia",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NJ",
+    "district": 11,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255034",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1427 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3011",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Livingston, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19735265668",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "357 S. Livingston Avenue, Suite 201"
+       ],
+       "city": "Livingston",
+       "region": "NJ",
+       "postalCode": "07039",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mejia.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mejia.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "W000822": {
+   "seat": "Representative, NJ-12",
+   "published": {
+    "name": {
+     "full": "Bonnie Watson Coleman",
+     "given": "Bonnie",
+     "family": "Watson Coleman",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NJ",
+    "district": 12,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255801",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "168 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3012",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Ewing, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16098830026",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "850 Bear Tavern Rd., Suite 201"
+       ],
+       "city": "Ewing",
+       "region": "NJ",
+       "postalCode": "08628",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://watsoncoleman.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://watsoncoleman.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001046": {
+   "seat": "Senator, NM",
+   "published": {
+    "name": {
+     "full": "Martin Heinrich",
+     "given": "Martin",
+     "family": "Heinrich",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "NM",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022245521",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "709 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Albuquerque, NM office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15053466601",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "400 Gold Ave. SW, Suite 1080"
+       ],
+       "city": "Albuquerque",
+       "region": "NM",
+       "postalCode": "87102",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Farmington, NM office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15053255030",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "7450 E. Main St., Suite A"
+       ],
+       "city": "Farmington",
+       "region": "NM",
+       "postalCode": "87402",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Roswell, NM office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15756227113",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "200 E. 4th St., Suite 300"
+       ],
+       "city": "Roswell",
+       "region": "NM",
+       "postalCode": "88201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Las Cruces, NM office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15755236561",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "201 North Church St., Ste. 305"
+       ],
+       "city": "Las Cruces",
+       "region": "NM",
+       "postalCode": "88001",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.heinrich.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.heinrich.senate.gov/contact",
+    "website": "https://www.heinrich.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000570": {
+   "seat": "Senator, NM",
+   "published": {
+    "name": {
+     "full": "Ben Ray Luján",
+     "given": "Ben",
+     "family": "Luján",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "NM",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022246621",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "498 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Las Vegas, NM office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15054543038",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "NMHU Hewett Hall",
+        "1103 National Ave, Suite 210"
+       ],
+       "city": "Las Vegas",
+       "region": "NM",
+       "postalCode": "87701-4024",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Albuquerque, NM office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15053377023",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "500 Marquette Ave NW, Suite 1460"
+       ],
+       "city": "Albuquerque",
+       "region": "NM",
+       "postalCode": "87102",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Santa Fe, NM office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15052307040",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "120 South Federal Place, Suite 302"
+       ],
+       "city": "Santa Fe",
+       "region": "NM",
+       "postalCode": "87501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Las Cruces, NM office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15752884644",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "201 North Church Street, 201B"
+       ],
+       "city": "Las Cruces",
+       "region": "NM",
+       "postalCode": "88001",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Portales, NM office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15752526188",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "100 South Ave A, Suite 113"
+       ],
+       "city": "Portales",
+       "region": "NM",
+       "postalCode": "88130",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.lujan.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.lujan.senate.gov/contact/",
+    "website": "https://www.lujan.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001218": {
+   "seat": "Representative, NM-1",
+   "published": {
+    "name": {
+     "full": "Melanie A. Stansbury",
+     "given": "Melanie",
+     "family": "Stansbury",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NM",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256316",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1421 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Albuquerque, NM office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15053466781",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "6301 Indian School Rd, Suite 420"
+       ],
+       "city": "Albuquerque",
+       "region": "NM",
+       "postalCode": "87110",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://stansbury.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://stansbury.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "V000136": {
+   "seat": "Representative, NM-2",
+   "published": {
+    "name": {
+     "full": "Gabe Vasquez",
+     "given": "Gabriel (Gabe)",
+     "family": "Vasquez",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NM",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252365",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "322 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3102",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Albuquerque, NM office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15052084777",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "201 Unser Blvd. NW, Unit 116"
+       ],
+       "city": "Albuquerque",
+       "region": "NM",
+       "postalCode": "87121",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Las Cruces, NM office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15753236390",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "115 W. Griggs Ave."
+       ],
+       "city": "Las Cruces",
+       "region": "NM",
+       "postalCode": "88001",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://vasquez.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://vasquez.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000273": {
+   "seat": "Representative, NM-3",
+   "published": {
+    "name": {
+     "full": "Teresa Leger Fernandez",
+     "given": "Teresa",
+     "family": "Leger Fernandez",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NM",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256190",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2417 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3103",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Gallup, NM office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15055514696",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "207 West Hill Ave., Office 301A"
+       ],
+       "city": "Gallup",
+       "region": "NM",
+       "postalCode": "87301",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Santa Fe, NM office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15054284680",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "120 S Federal Pl, Suite 323"
+       ],
+       "city": "Santa Fe",
+       "region": "NM",
+       "postalCode": "87501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Las Vegas, NM office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15055707558",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1103 National Avenue, Suite 101"
+       ],
+       "city": "Las Vegas",
+       "region": "NM",
+       "postalCode": "87701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Clovis, NM office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15054284680",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "418 Main Street"
+       ],
+       "city": "Clovis",
+       "region": "NM",
+       "postalCode": "88101",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://fernandez.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://fernandez.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001113": {
+   "seat": "Senator, NV",
+   "published": {
+    "name": {
+     "full": "Catherine Cortez Masto",
+     "given": "Catherine",
+     "family": "Cortez Masto",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "NV",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022243542",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "309 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Las Vegas, NV office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17023885020",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "333 Las Vegas Boulevard South, Suite 8016"
+       ],
+       "city": "Las Vegas",
+       "region": "NV",
+       "postalCode": "89101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Reno, NV office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17756865750",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Courthouse and Federal Building",
+        "400 South Virginia Street, Suite 902"
+       ],
+       "city": "Reno",
+       "region": "NV",
+       "postalCode": "89501",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.cortezmasto.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.cortezmasto.senate.gov/contact",
+    "website": "https://www.cortezmasto.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "R000608": {
+   "seat": "Senator, NV",
+   "published": {
+    "name": {
+     "full": "Jacky Rosen",
+     "given": "Jacky",
+     "family": "Rosen",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "NV",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022246244",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "713 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Reno, NV office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17753370110",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Bruce Thompson Federal Building",
+        "400 S Virginia St, Suite 738"
+       ],
+       "city": "Reno",
+       "region": "NV",
+       "postalCode": "89501-2132",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Las Vegas, NV office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17023880205",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Lloyd D. George U.S. Courthouse",
+        "333 Las Vegas Boulevard South, Suite 8203"
+       ],
+       "city": "Las Vegas",
+       "region": "NV",
+       "postalCode": "89101",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.rosen.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.rosen.senate.gov/contact_jacky",
+    "website": "https://www.rosen.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "T000468": {
+   "seat": "Representative, NV-1",
+   "published": {
+    "name": {
+     "full": "Dina Titus",
+     "given": "Dina",
+     "family": "Titus",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NV",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255965",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2370 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2801",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Las Vegas, NV office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17022209823",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "495 South Main St., 3rd Floor"
+       ],
+       "city": "Las Vegas",
+       "region": "NV",
+       "postalCode": "89101",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://titus.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://titus.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "A000369": {
+   "seat": "Representative, NV-2",
+   "published": {
+    "name": {
+     "full": "Mark E. Amodei",
+     "given": "Mark",
+     "family": "Amodei",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NV",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256155",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "104 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2802",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Reno, NV office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17756865760",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "5310 Kietzke Ln., Suite 103"
+       ],
+       "city": "Reno",
+       "region": "NV",
+       "postalCode": "89511",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Elko, NV office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17757777705",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Elko, NV 89801"
+       ],
+       "city": "Elko",
+       "region": "NV",
+       "postalCode": "89801",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://amodei.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://amodei.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000590": {
+   "seat": "Representative, NV-3",
+   "published": {
+    "name": {
+     "full": "Susie Lee",
+     "given": "Susie",
+     "family": "Lee",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NV",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253252",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "365 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2803",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Las Vegas, NV office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17029639336",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "7785 W Sahara Ave, Suite 203"
+       ],
+       "city": "Las Vegas",
+       "region": "NV",
+       "postalCode": "89117",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://susielee.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://susielee.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001066": {
+   "seat": "Representative, NV-4",
+   "published": {
+    "name": {
+     "full": "Steven Horsford",
+     "given": "Steven",
+     "family": "Horsford",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NV",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022259894",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "406 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2804",
+       "country": "US"
+      }
+     },
+     {
+      "label": "North Las Vegas, NV office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17029639360",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2250 N Las Vegas Blvd, Suite 500"
+       ],
+       "city": "North Las Vegas",
+       "region": "NV",
+       "postalCode": "89030",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://horsford.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://horsford.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000555": {
+   "seat": "Senator, NY",
+   "published": {
+    "name": {
+     "full": "Kirsten E. Gillibrand",
+     "given": "Kirsten",
+     "family": "Gillibrand",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "NY",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022244451",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "478 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Albany, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15184310120",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Leo W. O’Brien Federal Office Building",
+        "11A Clinton Avenue, Room 821"
+       ],
+       "city": "Albany",
+       "region": "NY",
+       "postalCode": "12207",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Buffalo, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17168549725",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Larkin At Exchange",
+        "726 Exchange St., Suite 511"
+       ],
+       "city": "Buffalo",
+       "region": "NY",
+       "postalCode": "14210",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lowville, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13153766118",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "PO Box 273"
+       ],
+       "city": "Lowville",
+       "region": "NY",
+       "postalCode": "13367",
+       "country": "US"
+      }
+     },
+     {
+      "label": "New York, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12126886262",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "780 Third Ave., Suite 2601"
+       ],
+       "city": "New York",
+       "region": "NY",
+       "postalCode": "10017",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Melville, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16312492825",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "155 Pinelawn Rd., Suite 250 North"
+       ],
+       "city": "Melville",
+       "region": "NY",
+       "postalCode": "11747",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rochester, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15852636250",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Kenneth B. Keating Federal Office Building",
+        "100 State St., Room 4195"
+       ],
+       "city": "Rochester",
+       "region": "NY",
+       "postalCode": "14614",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Syracuse, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13154480470",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "James M. Hanley Federal Building",
+        "100 S. Clinton St., Room 1470"
+       ],
+       "city": "Syracuse",
+       "region": "NY",
+       "postalCode": "13261",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Yonkers, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18458754585",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "PO Box 749"
+       ],
+       "city": "Yonkers",
+       "region": "NY",
+       "postalCode": "10710-0749",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.gillibrand.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.gillibrand.senate.gov/contact/email-me",
+    "website": "https://www.gillibrand.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "S000148": {
+   "seat": "Senator, NY",
+   "published": {
+    "name": {
+     "full": "Charles E. Schumer",
+     "given": "Chuck",
+     "family": "Schumer",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "NY",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022246542",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "322 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rochester, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15852635866",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "100 State St., Room 3040"
+       ],
+       "city": "Rochester",
+       "region": "NY",
+       "postalCode": "14614",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Binghamton, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16077726792",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "15 Henry St., Room. 100 A-F"
+       ],
+       "city": "Binghamton",
+       "region": "NY",
+       "postalCode": "13901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Buffalo, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17168464111",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "130 S. Elmwood Ave., #660"
+       ],
+       "city": "Buffalo",
+       "region": "NY",
+       "postalCode": "14202",
+       "country": "US"
+      }
+     },
+     {
+      "label": "New York, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12124864430",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "780 Third Ave., Suite 2301"
+       ],
+       "city": "New York",
+       "region": "NY",
+       "postalCode": "10017",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Peekskill, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19147341532",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "One Park Place, Suite 100"
+       ],
+       "city": "Peekskill",
+       "region": "NY",
+       "postalCode": "10566",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Syracuse, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13154235471",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "100 S. Clinton St., Room 841"
+       ],
+       "city": "Syracuse",
+       "region": "NY",
+       "postalCode": "13261",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Albany, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15184314070",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Leo O'Brien Building",
+        "1 Clinton Ave., Room 827"
+       ],
+       "city": "Albany",
+       "region": "NY",
+       "postalCode": "12207",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Melville, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16317530978",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "145 Pinelawn Road, #300N"
+       ],
+       "city": "Melville",
+       "region": "NY",
+       "postalCode": "11747",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.schumer.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.schumer.senate.gov/contact/email-chuck",
+    "website": "https://www.schumer.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000598": {
+   "seat": "Representative, NY-1",
+   "published": {
+    "name": {
+     "full": "Nick LaLota",
+     "given": "Nicolas",
+     "family": "LaLota",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NY",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253826",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "122 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rocky Point, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16312891097",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Rocky Point VFW Post 6249",
+        "109 King Road"
+       ],
+       "city": "Rocky Point",
+       "region": "NY",
+       "postalCode": "11778",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Hauppauge, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16312891097",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "515 Hauppauge Road, Suite 3B"
+       ],
+       "city": "Hauppauge",
+       "region": "NY",
+       "postalCode": "11788",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://lalota.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://lalota.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000597": {
+   "seat": "Representative, NY-2",
+   "published": {
+    "name": {
+     "full": "Andrew R. Garbarino",
+     "given": "Andrew",
+     "family": "Garbarino",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NY",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022257896",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2344 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3202",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Patchogue, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16315414225",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "31 Oak Street, Suite 20"
+       ],
+       "city": "Patchogue",
+       "region": "NY",
+       "postalCode": "11772",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://garbarino.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://garbarino.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001201": {
+   "seat": "Representative, NY-3",
+   "published": {
+    "name": {
+     "full": "Thomas R. Suozzi",
+     "given": "Thomas",
+     "family": "Suozzi",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NY",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253335",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "203 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3203",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Douglaston, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17186310400",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "242-09 Northern Boulevard"
+       ],
+       "city": "Douglaston",
+       "region": "NY",
+       "postalCode": "11363",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Glen Cove, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15168611070",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "51 Glen Street, Second Floor"
+       ],
+       "city": "Glen Cove",
+       "region": "NY",
+       "postalCode": "11542",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://suozzi.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://suozzi.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000602": {
+   "seat": "Representative, NY-4",
+   "published": {
+    "name": {
+     "full": "Laura Gillen",
+     "given": "Laura",
+     "family": "Gillen",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NY",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255516",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "428 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3204",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Garden City, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15167393008",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "229 7th St, Suite 102"
+       ],
+       "city": "Garden City",
+       "region": "NY",
+       "postalCode": "11530",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://gillen.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://gillen.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001137": {
+   "seat": "Representative, NY-5",
+   "published": {
+    "name": {
+     "full": "Gregory W. Meeks",
+     "given": "Gregory",
+     "family": "Meeks",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NY",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253461",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2310 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3205",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Arverne, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13472304032",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "67-12 Rockaway Beach Blvd."
+       ],
+       "city": "Arverne",
+       "region": "NY",
+       "postalCode": "11692",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Jamaica, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17187256000",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "153-01 Jamaica Ave., 2nd floor"
+       ],
+       "city": "Jamaica",
+       "region": "NY",
+       "postalCode": "11432",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://meeks.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://meeks.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001188": {
+   "seat": "Representative, NY-6",
+   "published": {
+    "name": {
+     "full": "Grace Meng",
+     "given": "Grace",
+     "family": "Meng",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NY",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252601",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2468 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3206",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Flushing, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17183586364",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "40-13 159th St., Suite A"
+       ],
+       "city": "Flushing",
+       "region": "NY",
+       "postalCode": "11358",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Forest Hills, NY office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "118-35 Queens Blvd, Suite 900"
+       ],
+       "city": "Forest Hills",
+       "region": "NY",
+       "postalCode": "11375",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://meng.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://meng.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "V000081": {
+   "seat": "Representative, NY-7",
+   "published": {
+    "name": {
+     "full": "Nydia M. Velázquez",
+     "given": "Nydia",
+     "family": "Velázquez",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NY",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252361",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2302 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3207",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Brooklyn, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17185993658",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "266 Broadway, Suite 201"
+       ],
+       "city": "Brooklyn",
+       "region": "NY",
+       "postalCode": "11211",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Sunnyside, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17183406244",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "39-16 47th Avenue"
+       ],
+       "city": "Sunnyside",
+       "region": "NY",
+       "postalCode": "11104",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://velazquez.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://velazquez.house.gov"
+   },
+   "currentSupplement": null
+  }
+ }
+}

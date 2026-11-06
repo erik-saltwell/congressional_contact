@@ -1,0 +1,1021 @@
+{
+ "batch": "2026-11-05-full-02",
+ "reviewedAt": "2026-11-05",
+ "officials": {
+  "B001302": {
+   "name": "Andy Biggs",
+   "seat": "Representative, AZ-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://biggs.house.gov/",
+    "https://biggs.house.gov/contact/email",
+    "https://biggs.house.gov/contact/offices",
+    "https://biggs.house.gov/contact/offices/washington-dc-office",
+    "https://biggs.house.gov/contact/offices/mesa-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://biggs.house.gov/contact/email",
+     "source": "https://biggs.house.gov/contact/email",
+     "evidence": "The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "C001133": {
+   "name": "Juan Ciscomani",
+   "seat": "Representative, AZ-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://ciscomani.house.gov/",
+    "https://ciscomani.house.gov/address_authentication?form=/contact",
+    "https://ciscomani.house.gov/contact/offices",
+    "https://ciscomani.house.gov/contact/offices/washington-dc-office",
+    "https://ciscomani.house.gov/contact/offices/sierra-vista",
+    "https://ciscomani.house.gov/contact/offices/tucson",
+    "https://ciscomani.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://ciscomani.house.gov/contact",
+     "source": "https://ciscomani.house.gov/contact",
+     "evidence": "Contact form (behind an address check) with an issue list about legislation; agency help is separate."
+    }
+   ]
+  },
+  "G000606": {
+   "name": "Adelita S. Grijalva",
+   "seat": "Representative, AZ-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://grijalva.house.gov/",
+    "https://grijalva.house.gov/contact",
+    "https://grijalva.house.gov/contact/offices/washington-dc-office",
+    "https://grijalva.house.gov/contact/offices/tucson-district-office-0",
+    "https://grijalva.house.gov/address_authentication?form=/contact/write-adelita",
+    "https://grijalva.house.gov/contact/office-locations"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://grijalva.house.gov/contact/write-adelita",
+     "source": "https://grijalva.house.gov/",
+     "evidence": "Linked as 'write Adelita'; The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://grijalva.house.gov/",
+     "evidence": "'Tucson District Office Tucson, AZ 85701 Phone: (520) 416-7680', with no street address. We publish Building 4, 101 W. Irvington Road and (520) 622-6788.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252435",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1203 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0307",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Tucson, AZ office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15204167680",
+         "type": "voice"
+        }
+       ],
+       "address": null
+      }
+     ]
+    }
+   ]
+  },
+  "H001098": {
+   "name": "Abraham J. Hamadeh",
+   "seat": "Representative, AZ-8",
+   "status": "verified",
+   "pagesChecked": [
+    "https://hamadeh.house.gov/",
+    "https://hamadeh.house.gov/contact/",
+    "https://hamadeh.house.gov/forms/emailsignup/",
+    "https://hamadeh.house.gov/contact/offices.htm"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://hamadeh.house.gov/contact/",
+     "source": "https://hamadeh.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://hamadeh.house.gov/",
+     "evidence": "'Surprise District Office 12515 W. Bell Road, Suite 104 Surprise, AZ 85378 Phone: (623) 776-7911'. We publish no phone for this office.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254576",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1722 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0308",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Surprise, AZ office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16237767911",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "12515 W. Bell Rd, Suite 104"
+        ],
+        "city": "Surprise",
+        "region": "AZ",
+        "postalCode": "85378",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "G000565": {
+   "name": "Paul A. Gosar",
+   "seat": "Representative, AZ-9",
+   "status": "verified",
+   "pagesChecked": [
+    "https://gosar.house.gov/",
+    "https://gosar.house.gov/news/email/",
+    "https://gosar.house.gov/contact/",
+    "https://gosar.house.gov/contact/officeinformation.htm",
+    "https://gosar.house.gov/news/email/default.aspx",
+    "https://gosar.house.gov/forms/form/?ID=1"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://gosar.house.gov/contact/",
+     "source": "https://gosar.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "P000145": {
+   "name": "Alex Padilla",
+   "seat": "Senator, CA",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.padilla.senate.gov/contact/",
+    "https://www.padilla.senate.gov/contacto/?lang=es",
+    "https://www.padilla.senate.gov/contact/contact-form/"
+   ],
+   "notes": "Homepage blocked (403). Offices match; the site also gives each office a second (202) line, not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.padilla.senate.gov/contact/contact-form/",
+     "source": "https://www.padilla.senate.gov/contact/contact-form/",
+     "evidence": "Contact form for comments and opinions on legislation, with a topic list; casework and flags are separate."
+    }
+   ]
+  },
+  "S001150": {
+   "name": "Adam B. Schiff",
+   "seat": "Senator, CA",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.schiff.senate.gov/contact/",
+    "https://www.schiff.senate.gov/contact/get-in-touch/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.schiff.senate.gov/contact/get-in-touch/",
+     "source": "https://www.schiff.senate.gov/contact/",
+     "evidence": "'Email the Senator' form for 'thoughts or opinions on issues affecting our state', with a topic list; meetings and casework are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.schiff.senate.gov/contact/",
+     "evidence": "'San Diego 350 Tenth Avenue, Suite 1125 San Diego CA 92101 (619) 231-9712' (we publish 880 Front Street) and 'Burbank 4111 W Alameda Ave Burbank, CA 91505 Suite 608 (818) 303-3841' (not published).",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022243841",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "112 Hart Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "San Francisco, CA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14153930707",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1 Post St, Suite 2450"
+        ],
+        "city": "San Francisco",
+        "region": "CA",
+        "postalCode": "94104",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Fresno, CA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15594857430",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2500 Tulare Street, Suite 4290"
+        ],
+        "city": "Fresno",
+        "region": "CA",
+        "postalCode": "93721",
+        "country": "US"
+       }
+      },
+      {
+       "label": "San Diego, CA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16192319712",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "350 Tenth Avenue, Suite 1125"
+        ],
+        "city": "San Diego",
+        "region": "CA",
+        "postalCode": "92101",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Burbank, CA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18183033841",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "4111 W Alameda Ave, Suite 608"
+        ],
+        "city": "Burbank",
+        "region": "CA",
+        "postalCode": "91505",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "G000607": {
+   "name": "James Gallagher",
+   "seat": "Representative, CA-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://gallagher.house.gov/",
+    "https://gallagher.house.gov/contact",
+    "https://gallagher.house.gov/address_authentication?form=/contact/email-me",
+    "https://gallagher.house.gov/contact/office-locations",
+    "https://gallagher.house.gov/contact/offices/washington-dc-office",
+    "https://gallagher.house.gov/contact/offices/yuba-city-district-office",
+    "https://gallagher.house.gov/contact/offices/chico-district-office",
+    "https://gallagher.house.gov/contact/offices/redding-district-office"
+   ],
+   "notes": "Upstream had no local offices.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://gallagher.house.gov/contact/email-me",
+     "source": "https://gallagher.house.gov/contact/email-me",
+     "evidence": "Email form (behind an address check) with an issue list about legislation."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://gallagher.house.gov/",
+     "evidence": "Office list: 'Yuba City District Office 1585 Butte House Road Suite D ... (530) 645-6225', 'Chico District Office 120 Independence Circle Suite B ... (530) 343-1000', 'Redding District Office 2885 Churn Creek Road Suite C ... (530) 223-5898'.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253076",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "408 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0501",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Yuba City, CA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15306456225",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1585 Butte House Road, Suite D"
+        ],
+        "city": "Yuba City",
+        "region": "CA",
+        "postalCode": "95993",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Chico, CA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15303431000",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "120 Independence Circle, Suite B"
+        ],
+        "city": "Chico",
+        "region": "CA",
+        "postalCode": "95973",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Redding, CA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15302235898",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2885 Churn Creek Road, Suite C"
+        ],
+        "city": "Redding",
+        "region": "CA",
+        "postalCode": "96002",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "H001068": {
+   "name": "Jared Huffman",
+   "seat": "Representative, CA-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://huffman.house.gov/",
+    "https://huffman.house.gov/contact/",
+    "https://huffman.house.gov/contact/email-me/",
+    "https://huffman.house.gov/contact/offices/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://huffman.house.gov/contact/",
+     "source": "https://huffman.house.gov/contact/",
+     "evidence": "Contact page with a message form and an issue list."
+    }
+   ]
+  },
+  "K000401": {
+   "name": "Kevin Kiley",
+   "seat": "Representative, CA-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://kiley.house.gov/",
+    "https://kiley.house.gov/contact"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://kiley.house.gov/contact",
+     "source": "https://kiley.house.gov/contact",
+     "evidence": "Contact page with a message form, an issue list and a ZIP field."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://kiley.house.gov/",
+     "evidence": "'Rocklin, CA 6538 Lonetree Blvd, Suite 200 ... Phone: (916) 724-2575; 1 (888) 406-3855 (Toll Free)'. We publish no toll-free number.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252523",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2445 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0503",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Rocklin, CA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19167242575",
+         "type": "voice"
+        },
+        {
+         "number": "+18884063855",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "6538 Lonetree Blvd, Suite 200"
+        ],
+        "city": "Rocklin",
+        "region": "CA",
+        "postalCode": "95765",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "T000460": {
+   "name": "Mike Thompson",
+   "seat": "Representative, CA-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mikethompson.house.gov/",
+    "https://mikethompson.house.gov/contact/offices",
+    "https://mikethompson.house.gov/contact/offices/washington-dc-office",
+    "https://mikethompson.house.gov/contact/offices/napa-district-office",
+    "https://mikethompson.house.gov/contact/offices/santa-rosa-district-office",
+    "https://mikethompson.house.gov/contact/offices/woodland-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mikethompsonforms.house.gov/contact/",
+     "source": "https://mikethompson.house.gov/",
+     "evidence": "The site's 'Email Mike' link goes to this House forms page, which has an issue list and a ZIP field."
+    }
+   ]
+  },
+  "M001177": {
+   "name": "Tom McClintock",
+   "seat": "Representative, CA-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mcclintock.house.gov/",
+    "https://mcclintock.house.gov/contact",
+    "https://mcclintock.house.gov/about/events",
+    "https://mcclintock.house.gov/address_authentication?form=/contact/email-me",
+    "https://mcclintock.house.gov/contact/tele-town-hall-text-sign-up",
+    "https://mcclintock.house.gov/contact/offices",
+    "https://mcclintock.house.gov/contact/offices/washington-dc-office",
+    "https://mcclintock.house.gov/contact/offices/el-dorado-hills-district-office",
+    "https://mcclintock.house.gov/contact/offices/modesto-district-office",
+    "https://mcclintock.house.gov/about/events/office-hours-congressional-staff-tuolumne-sonora"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mcclintock.house.gov/contact/email-me",
+     "source": "https://mcclintock.house.gov/contact/email-me",
+     "evidence": "Email form (behind an address check) with an issue list about legislation."
+    }
+   ]
+  },
+  "B001287": {
+   "name": "Ami Bera",
+   "seat": "Representative, CA-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://bera.house.gov/",
+    "https://bera.house.gov/contact",
+    "https://bera.house.gov/address_authentication?form=/contact/email-me",
+    "https://bera.house.gov/contact/office-locations",
+    "https://bera.house.gov/contact/offices/washington-dc-office",
+    "https://bera.house.gov/contact/offices/sacramento-county-district-office",
+    "https://bera.house.gov/contact/meet-ami"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://bera.house.gov/contact/email-me",
+     "source": "https://bera.house.gov/contact/email-me",
+     "evidence": "Email form (behind an address check) with an issue list about legislation; 'Meet Ami' is a separate meeting form."
+    }
+   ]
+  },
+  "M001163": {
+   "name": "Doris O. Matsui",
+   "seat": "Representative, CA-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://matsui.house.gov/",
+    "https://matsuiforms.house.gov/contact/",
+    "https://matsui.house.gov/contact/offices",
+    "https://matsui.house.gov/contact/offices/washington-dc-office",
+    "https://matsui.house.gov/contact/offices/sacramento-district-office",
+    "https://matsuiforms.house.gov/contact/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://matsuiforms.house.gov/contact/",
+     "source": "https://matsui.house.gov/",
+     "evidence": "The site's contact link goes to this House forms page, which starts with a ZIP check."
+    }
+   ]
+  },
+  "G000559": {
+   "name": "John Garamendi",
+   "seat": "Representative, CA-8",
+   "status": "verified",
+   "pagesChecked": [
+    "https://garamendi.house.gov/",
+    "https://garamendi.house.gov/contact/",
+    "https://garamendi.house.gov/contact/email-congressman-garamendi/",
+    "https://garamendi.house.gov/contact/offices/"
+   ],
+   "notes": "Offices match. Numbers on the homepage are a police tip line and the FBI.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://garamendi.house.gov/contact/email-congressman-garamendi/",
+     "source": "https://garamendi.house.gov/contact/email-congressman-garamendi/",
+     "evidence": "'Email Congressman Garamendi' form with an issue list and 'voice my opinion'."
+    }
+   ]
+  },
+  "H001090": {
+   "name": "Josh Harder",
+   "seat": "Representative, CA-9",
+   "status": "verified",
+   "pagesChecked": [
+    "https://harder.house.gov/",
+    "https://harder.house.gov/address_authentication?form=/contact",
+    "https://harder.house.gov/contact/offices",
+    "https://harder.house.gov/contact/offices/washington-dc-office",
+    "https://harder.house.gov/contact/offices/stockton-office",
+    "https://harder.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://harder.house.gov/contact",
+     "source": "https://harder.house.gov/contact",
+     "evidence": "Contact form (behind an address check) with an issue list about legislation."
+    }
+   ]
+  },
+  "D000623": {
+   "name": "Mark DeSaulnier",
+   "seat": "Representative, CA-10",
+   "status": "verified",
+   "pagesChecked": [
+    "https://desaulnier.house.gov/",
+    "https://desaulnier.house.gov/connect/email",
+    "https://desaulnier.house.gov/contact/offices",
+    "https://desaulnier.house.gov/connect",
+    "https://desaulnier.house.gov/contact/offices/washington-dc-office",
+    "https://desaulnier.house.gov/contact/offices/walnut-creek-district-office",
+    "https://desaulnier.house.gov/contact/offices/antioch-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://desaulnier.house.gov/connect/email",
+     "source": "https://desaulnier.house.gov/connect/email",
+     "evidence": "Email form with an issue list about legislation; agency help is separate."
+    }
+   ]
+  },
+  "P000197": {
+   "name": "Nancy Pelosi",
+   "seat": "Representative, CA-11",
+   "status": "verified",
+   "pagesChecked": [
+    "https://pelosi.house.gov/",
+    "https://pelosi.house.gov/contact/offices",
+    "https://pelosi.house.gov/address_authentication?form=/contact/email-me",
+    "https://pelosi.house.gov/contact/offices/washington-dc-office",
+    "https://pelosi.house.gov/contact/offices/san-francisco-office",
+    "https://pelosi.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://pelosi.house.gov/contact/email-me",
+     "source": "https://pelosi.house.gov/contact/email-me",
+     "evidence": "Email form (behind an address check) with an issue list; casework is separate."
+    }
+   ]
+  },
+  "S001231": {
+   "name": "Lateefah Simon",
+   "seat": "Representative, CA-12",
+   "status": "verified",
+   "pagesChecked": [
+    "https://simon.house.gov/",
+    "https://simon.house.gov/address_authentication?form=/contactform",
+    "https://simon.house.gov/contact",
+    "https://simon.house.gov/contact/office-locations",
+    "https://simon.house.gov/address_authentication?form=/contactform",
+    "https://simon.house.gov/contact/offices/washington-dc-office",
+    "https://simon.house.gov/contact/offices/district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://simon.house.gov/contactform",
+     "source": "https://simon.house.gov/contactform",
+     "evidence": "The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "G000605": {
+   "name": "Adam Gray",
+   "seat": "Representative, CA-13",
+   "status": "verified",
+   "pagesChecked": [
+    "https://gray.house.gov/",
+    "https://gray.house.gov/address_authentication?form=/contact/email-me",
+    "https://gray.house.gov/contact",
+    "https://gray.house.gov/contact/office-locations",
+    "https://gray.house.gov/contact/offices/washington-dc-office",
+    "https://gray.house.gov/contact/offices/merced-office"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://gray.house.gov/contact/email-me",
+     "source": "https://gray.house.gov/contact/email-me",
+     "evidence": "Email form (behind an address check) with an issue list about legislation."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://gray.house.gov/",
+     "evidence": "Office list: 'Merced Office 602 W 20th Street Suite B Merced, CA 95340 Phone: (209) 226-6880'. We publish the same phone at 90 S. First St., Turlock.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022251947",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1230 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0513",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Merced, CA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12092266880",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "602 W 20th Street, Suite B"
+        ],
+        "city": "Merced",
+        "region": "CA",
+        "postalCode": "95340",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "W000832": {
+   "name": "Aisha Wahab",
+   "seat": "Representative, CA-14",
+   "status": "verified",
+   "pagesChecked": [
+    "https://wahab.house.gov/",
+    "https://wahab.house.gov/contact",
+    "https://wahab.house.gov/address_authentication?form=/contact/email-me",
+    "https://wahab.house.gov/contact/office-locations",
+    "https://wahab.house.gov/contact/offices/washington-dc-office"
+   ],
+   "notes": "The office page lists only the DC office.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://wahab.house.gov/contact/email-me",
+     "source": "https://wahab.house.gov/contact/email-me",
+     "evidence": "Email form (behind an address check) with an issue list about legislation."
+    },
+    {
+     "action": "add-email",
+     "address": "CA14AWcasework@mail.house.gov",
+     "purpose": "casework",
+     "source": "https://wahab.house.gov/contact",
+     "evidence": "'please send all requests for help with a federal agency to CA14AWcasework@mail.house.gov'"
+    }
+   ]
+  },
+  "M001225": {
+   "name": "Kevin Mullin",
+   "seat": "Representative, CA-15",
+   "status": "verified",
+   "pagesChecked": [
+    "https://kevinmullin.house.gov/",
+    "https://kevinmullin.house.gov/contact/",
+    "https://kevinmullin.house.gov/contact/fy27-appropriations-requests/",
+    "https://kevinmullin.house.gov/contact/ndaa-fy27-requests/",
+    "https://kevinmullin.house.gov/contact/offices/",
+    "https://kevinmullin.house.gov/share-your-story/",
+    "https://kevinmullin.house.gov/contact/fy24-appropriations-requests/",
+    "https://kevinmullin.house.gov/contact/fy25-appropriations-requests/",
+    "https://kevinmullin.house.gov/contact/fy26-appropriations-requests/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://kevinmullin.house.gov/contact/",
+     "source": "https://kevinmullin.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP or address check, so its topic list could not be read. 'Share your story' is a separate form."
+    }
+   ]
+  },
+  "L000607": {
+   "name": "Sam T. Liccardo",
+   "seat": "Representative, CA-16",
+   "status": "verified",
+   "pagesChecked": [
+    "https://liccardo.house.gov/",
+    "https://liccardo.house.gov/contact",
+    "https://liccardo.house.gov/address_authentication?form=/contact/email-me",
+    "https://liccardo.house.gov/contact/office-locations",
+    "https://liccardo.house.gov/contact/sign-texts",
+    "https://liccardo.house.gov/contact/offices/washington-dc-office",
+    "https://liccardo.house.gov/contact/offices/los-altos-office-mondays-and-wednesdays",
+    "https://liccardo.house.gov/contact/offices/san-jose-office",
+    "https://liccardo.house.gov/contact/offices/half-moon-bay-office-open-tuesdays-thursdays"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://liccardo.house.gov/contact/email-me",
+     "source": "https://liccardo.house.gov/contact/email-me",
+     "evidence": "Email form (behind an address check) with an issue list about legislation."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://liccardo.house.gov/",
+     "evidence": "'Los Altos Office (Mondays and Wednesdays) Neutra House 181 Hillview Ave Los Altos, CA 94022', 'San José Office 1101 S Winchester Blvd Suite C-120 ... CA 95128 Phone: (408) 245-2339', 'Half Moon Bay Office ... Phone: (650) 323-2984'. We publish only Half Moon Bay, with no phone.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022258104",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1117 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0516",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Half Moon Bay, CA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16503232984",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "270 Capistrano Rd, Suite 6"
+        ],
+        "city": "Half Moon Bay",
+        "region": "CA",
+        "postalCode": "94019",
+        "country": "US"
+       }
+      },
+      {
+       "label": "San Jose, CA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14082452339",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1101 S Winchester Blvd, Suite C-120"
+        ],
+        "city": "San Jose",
+        "region": "CA",
+        "postalCode": "95128",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Los Altos, CA office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "Neutra House",
+         "181 Hillview Ave"
+        ],
+        "city": "Los Altos",
+        "region": "CA",
+        "postalCode": "94022",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "K000389": {
+   "name": "Ro Khanna",
+   "seat": "Representative, CA-17",
+   "status": "verified",
+   "pagesChecked": [
+    "https://khanna.house.gov/",
+    "https://khanna.house.gov/contact",
+    "https://khanna.house.gov/contact/write-to-ro",
+    "https://khanna.house.gov/contact/offices/washington-dc-office",
+    "https://khanna.house.gov/contact/offices/santa-clara-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://khanna.house.gov/contact/write-to-ro",
+     "source": "https://khanna.house.gov/contact/write-to-ro",
+     "evidence": "'Write to Ro' form with an issue list for concerns about legislation; casework is separate."
+    }
+   ]
+  },
+  "L000397": {
+   "name": "Zoe Lofgren",
+   "seat": "Representative, CA-18",
+   "status": "verified",
+   "pagesChecked": [
+    "https://lofgren.house.gov/",
+    "https://lofgren.house.gov/contact",
+    "https://lofgren.house.gov/contact/offices"
+   ],
+   "notes": "Offices match. (408) 885-3980 is the county health department.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://lofgren.house.gov/contact",
+     "source": "https://lofgren.house.gov/contact",
+     "evidence": "Contact form with an issue list about legislation."
+    }
+   ]
+  }
+ }
+}

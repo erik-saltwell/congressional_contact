@@ -1,0 +1,2594 @@
+{
+ "batch": "2026-11-05-full-18",
+ "createdAt": "2026-11-05",
+ "dataGeneratedAt": "2026-11-05T19:36:17Z",
+ "officials": {
+  "G000608": {
+   "seat": "Senator, SC",
+   "published": {
+    "name": {
+     "full": "Darline Graham",
+     "given": "Darline",
+     "family": "Graham Nordone",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "SC",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022245972",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "211 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.dgraham.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://www.dgraham.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001184": {
+   "seat": "Senator, SC",
+   "published": {
+    "name": {
+     "full": "Tim Scott",
+     "given": "Tim",
+     "family": "Scott",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "SC",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022246121",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "104 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Columbia, SC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18037716112",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1901 Main St., Suite 1425"
+       ],
+       "city": "Columbia",
+       "region": "SC",
+       "postalCode": "29201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "North Charleston, SC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18437274525",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2500 City Hall Ln., 3rd Floor Suite"
+       ],
+       "city": "North Charleston",
+       "region": "SC",
+       "postalCode": "29406",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Greenville, SC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18642335366",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "301 N. Main Street, Suite 1006"
+       ],
+       "city": "Greenville",
+       "region": "SC",
+       "postalCode": "29601",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.scott.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.scott.senate.gov/contact/email-me",
+    "website": "https://www.scott.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "M000194": {
+   "seat": "Representative, SC-1",
+   "published": {
+    "name": {
+     "full": "Nancy Mace",
+     "given": "Nancy",
+     "family": "Mace",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "SC",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253176",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1728 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4001",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Daniel Island, SC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18433527572",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "900 Island Park Dr., Suite 260"
+       ],
+       "city": "Daniel Island",
+       "region": "SC",
+       "postalCode": "29492",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Beaufort, SC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18435212530",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "710 Boundary St."
+       ],
+       "city": "Beaufort",
+       "region": "SC",
+       "postalCode": "29902",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mace.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mace.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "W000795": {
+   "seat": "Representative, SC-2",
+   "published": {
+    "name": {
+     "full": "Joe Wilson",
+     "given": "Joe",
+     "family": "Wilson",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "SC",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252452",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1436 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4002",
+       "country": "US"
+      }
+     },
+     {
+      "label": "West Columbia, SC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18039390041",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1700 Sunset Blvd. (US 378), Suite 1"
+       ],
+       "city": "West Columbia",
+       "region": "SC",
+       "postalCode": "29169",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Aiken, SC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18036426416",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1930 University Parkway, Suite 1600"
+       ],
+       "city": "Aiken",
+       "region": "SC",
+       "postalCode": "29801",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://joewilson.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://joewilson.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001325": {
+   "seat": "Representative, SC-3",
+   "published": {
+    "name": {
+     "full": "Sheri Biggs",
+     "given": "Sheri",
+     "family": "Biggs",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "SC",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255301",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1530 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4003",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Anderson, SC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18642247401",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "303 West Beltline Blvd"
+       ],
+       "city": "Anderson",
+       "region": "SC",
+       "postalCode": "29625",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://sheribiggs.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://sheribiggs.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "T000480": {
+   "seat": "Representative, SC-4",
+   "published": {
+    "name": {
+     "full": "William R. Timmons IV",
+     "given": "William",
+     "family": "Timmons",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "SC",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256030",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "267 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4004",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Greer, SC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18642410175",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "114 Trade Street"
+       ],
+       "city": "Greer",
+       "region": "SC",
+       "postalCode": "29651",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://timmons.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://timmons.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "N000190": {
+   "seat": "Representative, SC-5",
+   "published": {
+    "name": {
+     "full": "Ralph Norman",
+     "given": "Ralph",
+     "family": "Norman",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "SC",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255501",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "569 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4005",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rock Hill, SC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18033271114",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "516 Oakland Ave"
+       ],
+       "city": "Rock Hill",
+       "region": "SC",
+       "postalCode": "29730",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://norman.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://norman.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C000537": {
+   "seat": "Representative, SC-6",
+   "published": {
+    "name": {
+     "full": "James E. Clyburn",
+     "given": "Jim",
+     "family": "Clyburn",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "SC",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253315",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "274 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4006",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Columbia, SC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18037991100",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1225 Lady St., Suite 200"
+       ],
+       "city": "Columbia",
+       "region": "SC",
+       "postalCode": "29201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Kingstree, SC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18433551211",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "130 W. Main St."
+       ],
+       "city": "Kingstree",
+       "region": "SC",
+       "postalCode": "29556",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Santee, SC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18038544700",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "176 Municipal Way"
+       ],
+       "city": "Santee",
+       "region": "SC",
+       "postalCode": "29142",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Sumter, SC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18038835020",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "129 South Harvin Street"
+       ],
+       "city": "Sumter",
+       "region": "SC",
+       "postalCode": "29150",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://clyburn.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://clyburn.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "F000478": {
+   "seat": "Representative, SC-7",
+   "published": {
+    "name": {
+     "full": "Russell Fry",
+     "given": "Russell",
+     "family": "Fry",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "SC",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022259895",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "345 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4007",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Florence, SC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18437996880",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1831 West Evans Street, Suite 300"
+       ],
+       "city": "Florence",
+       "region": "SC",
+       "postalCode": "29501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Surfside Beach, SC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18433535377",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1500 Hwy 17 N, Suite 304"
+       ],
+       "city": "Surfside Beach",
+       "region": "SC",
+       "postalCode": "29575",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://fry.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://fry.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "R000605": {
+   "seat": "Senator, SD",
+   "published": {
+    "name": {
+     "full": "Mike Rounds",
+     "given": "Mike",
+     "family": "Rounds",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "SD",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022245842",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "716 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Pierre, SD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16052241450",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "111 W. Capitol Ave., Suite 210"
+       ],
+       "city": "Pierre",
+       "region": "SD",
+       "postalCode": "57501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Sioux Falls, SD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16053360486",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "320 N. Main Ave., Suite A"
+       ],
+       "city": "Sioux Falls",
+       "region": "SD",
+       "postalCode": "57104",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Aberdeen, SD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16052250366",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "221 Brown County Highway 19 S, Suite 112"
+       ],
+       "city": "Aberdeen",
+       "region": "SD",
+       "postalCode": "57401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rapid City, SD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16053435035",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "603 Omaha St., Suite 100"
+       ],
+       "city": "Rapid City",
+       "region": "SD",
+       "postalCode": "57701",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.rounds.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.rounds.senate.gov/contact/email-mike",
+    "website": "https://www.rounds.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "T000250": {
+   "seat": "Senator, SD",
+   "published": {
+    "name": {
+     "full": "John Thune",
+     "given": "John",
+     "family": "Thune",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "SD",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022242321",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "511 Dirksen Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rapid City, SD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16053487551",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "246 Founders Park Dr., Suite 102"
+       ],
+       "city": "Rapid City",
+       "region": "SD",
+       "postalCode": "57701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Sioux Falls, SD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16053349596",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2401 West Trevi Place, Suite 200"
+       ],
+       "city": "Sioux Falls",
+       "region": "SD",
+       "postalCode": "57108",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Aberdeen, SD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16052258823",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "205 6th Avenue SE, Suite 202"
+       ],
+       "city": "Aberdeen",
+       "region": "SD",
+       "postalCode": "57401",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.thune.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.thune.senate.gov/public/index.cfm/contact",
+    "website": "https://www.thune.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "J000301": {
+   "seat": "Representative, SD-0",
+   "published": {
+    "name": {
+     "full": "Dusty Johnson",
+     "given": "Dusty",
+     "family": "Johnson",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "SD",
+    "district": 0,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252801",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1714 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4100",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rapid City, SD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16056466454",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2525 W Main St, Suite 310"
+       ],
+       "city": "Rapid City",
+       "region": "SD",
+       "postalCode": "57702-0901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Sioux Falls, SD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16052752868",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "230 S Phillips Avenue, Suite 307"
+       ],
+       "city": "Sioux Falls",
+       "region": "SD",
+       "postalCode": "57104",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Aberdeen, SD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16056221060",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "115 4th Ave SE, Suite 107A"
+       ],
+       "city": "Aberdeen",
+       "region": "SD",
+       "postalCode": "57401",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://dustyjohnson.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://dustyjohnson.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001243": {
+   "seat": "Senator, TN",
+   "published": {
+    "name": {
+     "full": "Marsha Blackburn",
+     "given": "Marsha",
+     "family": "Blackburn",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "TN",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022243344",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "357 Dirksen Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Chattanooga, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14235412939",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "10 West M. L. King Blvd, 6th Floor"
+       ],
+       "city": "Chattanooga",
+       "region": "TN",
+       "postalCode": "37402",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Jackson, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17316603971",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "109 S Highland Ave, Suite 218"
+       ],
+       "city": "Jackson",
+       "region": "TN",
+       "postalCode": "38301",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Knoxville, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18655403781",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "800 Market St, Suite 121"
+       ],
+       "city": "Knoxville",
+       "region": "TN",
+       "postalCode": "37902-2327",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Memphis, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19015279199",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "100 Peabody Pl, Suite 1125"
+       ],
+       "city": "Memphis",
+       "region": "TN",
+       "postalCode": "38103-3654",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Nashville, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16298006600",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "719 Church Street, Suite 2100"
+       ],
+       "city": "Nashville",
+       "region": "TN",
+       "postalCode": "37203",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Johnson City, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14237534009",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "207 Mocking Bird Ln, Suite 502"
+       ],
+       "city": "Johnson City",
+       "region": "TN",
+       "postalCode": "37604",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.blackburn.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.blackburn.senate.gov/email-me",
+    "website": "https://www.blackburn.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "H000601": {
+   "seat": "Senator, TN",
+   "published": {
+    "name": {
+     "full": "Bill Hagerty",
+     "given": "Bill",
+     "family": "Hagerty",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "TN",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022244944",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "251 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Nashville, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16157365129",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "719 Church Street, Suite 2150"
+       ],
+       "city": "Nashville",
+       "region": "TN",
+       "postalCode": "37203",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Chattanooga, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14237525337",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "900 Georgia Avenue, Suite 260"
+       ],
+       "city": "Chattanooga",
+       "region": "TN",
+       "postalCode": "37402",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Blountville, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14233256240",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Tri-Cities Regional Airport",
+        "2525 Highway 75, Suite 101"
+       ],
+       "city": "Blountville",
+       "region": "TN",
+       "postalCode": "37617",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Knoxville, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18655454253",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Howard H. Baker, Jr. U.S. Courthouse",
+        "800 Market Street, Suite 112"
+       ],
+       "city": "Knoxville",
+       "region": "TN",
+       "postalCode": "37902",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Memphis, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19015444224",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Clifford Davis-Odell Horton Federal Building",
+        "167 North Main Street, Suite 1068"
+       ],
+       "city": "Memphis",
+       "region": "TN",
+       "postalCode": "38103",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Jackson, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17312349358",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Ed Jones Federal Building",
+        "109 S.Highland Avenue, Suite 216"
+       ],
+       "city": "Jackson",
+       "region": "TN",
+       "postalCode": "38301",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cookeville, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19314007080",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "L. Clure Morton Federal Building",
+        "9 E. Broad Street, 3rd Floor"
+       ],
+       "city": "Cookeville",
+       "region": "TN",
+       "postalCode": "38503",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.hagerty.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.hagerty.senate.gov/email-me/",
+    "website": "https://www.hagerty.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001086": {
+   "seat": "Representative, TN-1",
+   "published": {
+    "name": {
+     "full": "Diana Harshbarger",
+     "given": "Diana",
+     "family": "Harshbarger",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TN",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256356",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "167 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Kingsport, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14233985186",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "205 Revere Street"
+       ],
+       "city": "Kingsport",
+       "region": "TN",
+       "postalCode": "37660",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Morristown, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14232541400",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1501 E. Morris Blvd., Suite 12"
+       ],
+       "city": "Morristown",
+       "region": "TN",
+       "postalCode": "37813",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://harshbarger.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://harshbarger.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001309": {
+   "seat": "Representative, TN-2",
+   "published": {
+    "name": {
+     "full": "Tim Burchett",
+     "given": "Tim",
+     "family": "Burchett",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TN",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255435",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1122 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4202",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Knoxville, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18655233772",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "800 Market St, Suite 110"
+       ],
+       "city": "Knoxville",
+       "region": "TN",
+       "postalCode": "37902-2327",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Maryville, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18659845464",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "331 Court Street"
+       ],
+       "city": "Maryville",
+       "region": "TN",
+       "postalCode": "37804",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://burchett.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://burchett.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "F000459": {
+   "seat": "Representative, TN-3",
+   "published": {
+    "name": {
+     "full": "Charles J. \"Chuck\" Fleischmann",
+     "given": "Chuck",
+     "family": "Fleischmann",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TN",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253271",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2187 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4203",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Athens, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14237454671",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "6 E. Madison Ave."
+       ],
+       "city": "Athens",
+       "region": "TN",
+       "postalCode": "37303",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Chattanooga, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14237562342",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "900 Georgia Ave., Suite 126"
+       ],
+       "city": "Chattanooga",
+       "region": "TN",
+       "postalCode": "37402",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Oak Ridge, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18655761976",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "200 Administration Rd., Suite 100"
+       ],
+       "city": "Oak Ridge",
+       "region": "TN",
+       "postalCode": "37830",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://fleischmann.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://fleischmann.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "D000616": {
+   "seat": "Representative, TN-4",
+   "published": {
+    "name": {
+     "full": "Scott DesJarlais",
+     "given": "Scott",
+     "family": "DesJarlais",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TN",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256831",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2304 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4204",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Winchester, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19319623180",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Federal Building",
+        "200 S. Jefferson St., Suite 311"
+       ],
+       "city": "Winchester",
+       "region": "TN",
+       "postalCode": "37398",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Murfreesboro, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16158961986",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1500 Medical Center Parkway"
+       ],
+       "city": "Murfreesboro",
+       "region": "TN",
+       "postalCode": "37129",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://desjarlais.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://desjarlais.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "O000175": {
+   "seat": "Representative, TN-5",
+   "published": {
+    "name": {
+     "full": "Andrew Ogles",
+     "given": "Andrew",
+     "family": "Ogles",
+     "suffix": "IV"
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TN",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254311",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "151 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4205",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Columbia, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19317772140",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "22 Public Square, Suite 5"
+       ],
+       "city": "Columbia",
+       "region": "TN",
+       "postalCode": "38401",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://ogles.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://ogles.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "R000612": {
+   "seat": "Representative, TN-6",
+   "published": {
+    "name": {
+     "full": "John W. Rose",
+     "given": "John",
+     "family": "Rose",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TN",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254231",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2238 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4206",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Gallatin, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16152068204",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "355 N Belvedere Dr, Suite 308"
+       ],
+       "city": "Gallatin",
+       "region": "TN",
+       "postalCode": "37066-5466",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cookeville, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19318549430",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "321 East Spring Street, Suite 306"
+       ],
+       "city": "Cookeville",
+       "region": "TN",
+       "postalCode": "38501",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://johnrose.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://johnrose.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "V000139": {
+   "seat": "Representative, TN-7",
+   "published": {
+    "name": {
+     "full": "Matt Van Epps",
+     "given": "Matt",
+     "family": "Van Epps",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TN",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252811",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2446 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4207",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Clarksville, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19312664483",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "128 N Second St, Suite 104"
+       ],
+       "city": "Clarksville",
+       "region": "TN",
+       "postalCode": "37040",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Franklin, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16292236050",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "305 Public Square, Suite 212"
+       ],
+       "city": "Franklin",
+       "region": "TN",
+       "postalCode": "37064",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Nashville, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16299994950",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "801 Broadway, Suite C 507"
+       ],
+       "city": "Nashville",
+       "region": "TN",
+       "postalCode": "37203",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://vanepps.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://vanepps.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "K000392": {
+   "seat": "Representative, TN-8",
+   "published": {
+    "name": {
+     "full": "David Kustoff",
+     "given": "David",
+     "family": "Kustoff",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TN",
+    "district": 8,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254714",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "560 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4208",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Memphis, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19016824422",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "5900 Poplar Ave., Suite 202"
+       ],
+       "city": "Memphis",
+       "region": "TN",
+       "postalCode": "38119",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Martin, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17314121043",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "242 South Lindell Street"
+       ],
+       "city": "Martin",
+       "region": "TN",
+       "postalCode": "38237",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Jackson, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17314234848",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Ed Jones Federal Building",
+        "109 S. Highland Ave., B-7"
+       ],
+       "city": "Jackson",
+       "region": "TN",
+       "postalCode": "38301",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://kustoff.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://kustoff.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001068": {
+   "seat": "Representative, TN-9",
+   "published": {
+    "name": {
+     "full": "Steve Cohen",
+     "given": "Steve",
+     "family": "Cohen",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "TN",
+    "district": 9,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253265",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2268 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4209",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Memphis, TN office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19015444131",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "The Odell Horton Federal Building",
+        "167 N. Main St., Suite 369"
+       ],
+       "city": "Memphis",
+       "region": "TN",
+       "postalCode": "38103",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://cohen.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://cohen.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001056": {
+   "seat": "Senator, TX",
+   "published": {
+    "name": {
+     "full": "John Cornyn",
+     "given": "John",
+     "family": "Cornyn",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "TX",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022242934",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "517 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Austin, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15124696034",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Chase Tower",
+        "221 W. Sixth St., Suite 1350"
+       ],
+       "city": "Austin",
+       "region": "TX",
+       "postalCode": "78701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Dallas, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19722391310",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "5001 Spring Valley Rd., Suite 1125 E"
+       ],
+       "city": "Dallas",
+       "region": "TX",
+       "postalCode": "75244",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lubbock, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18064727533",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Wells Fargo Center",
+        "1500 Broadway, Suite 1230"
+       ],
+       "city": "Lubbock",
+       "region": "TX",
+       "postalCode": "79401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "San Antonio, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12102247485",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "600 Navarro, Suite 210"
+       ],
+       "city": "San Antonio",
+       "region": "TX",
+       "postalCode": "78205",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tyler, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19035930902",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Regions Bank Building",
+        "100 E. Ferguson St., Suite 1004"
+       ],
+       "city": "Tyler",
+       "region": "TX",
+       "postalCode": "75702",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Houston, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17135723337",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "5300 Memorial Drive, Suite 710"
+       ],
+       "city": "Houston",
+       "region": "TX",
+       "postalCode": "77007",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Harlingen, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19564230162",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "6770 W. Expressway 83, Suite 302"
+       ],
+       "city": "Harlingen",
+       "region": "TX",
+       "postalCode": "78552",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.cornyn.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.cornyn.senate.gov/contact",
+    "website": "https://www.cornyn.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001098": {
+   "seat": "Senator, TX",
+   "published": {
+    "name": {
+     "full": "Ted Cruz",
+     "given": "Ted",
+     "family": "Cruz",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "TX",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022245922",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "167 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Austin, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15129165834",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "300 E 8th, Suite 961"
+       ],
+       "city": "Austin",
+       "region": "TX",
+       "postalCode": "78701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Dallas, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12145998749",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Lee Park Tower II",
+        "3626 N. Hall St., Suite 410"
+       ],
+       "city": "Dallas",
+       "region": "TX",
+       "postalCode": "75219",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Houston, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17137183057",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "The Mickey Leland Federal Building",
+        "1919 Smith St., Suite 9047"
+       ],
+       "city": "Houston",
+       "region": "TX",
+       "postalCode": "77002",
+       "country": "US"
+      }
+     },
+     {
+      "label": "McAllen, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19566867339",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "200 S. 10th St., Suite 1603"
+       ],
+       "city": "McAllen",
+       "region": "TX",
+       "postalCode": "78501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "San Antonio, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12103402885",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "9901 Ih-10w, Suite 950"
+       ],
+       "city": "San Antonio",
+       "region": "TX",
+       "postalCode": "78230",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tyler, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19035935130",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "305 S. Broadway, Suite 501"
+       ],
+       "city": "Tyler",
+       "region": "TX",
+       "postalCode": "75702",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.cruz.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.cruz.senate.gov/?p=form&id=16",
+    "website": "https://www.cruz.senate.gov"
+   },
+   "currentSupplement": null
+  }
+ }
+}

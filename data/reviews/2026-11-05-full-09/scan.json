@@ -1,0 +1,1753 @@
+{
+ "E000298": {
+  "id": "E000298",
+  "name": "Ron Estes",
+  "seat": "Representative, KS-4",
+  "pages": [
+   {
+    "url": "https://estes.house.gov",
+    "final": "https://estes.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://estes.house.gov/stories/",
+    "final": "https://estes.house.gov/stories/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://estes.house.gov/news/email/",
+    "final": "https://estes.house.gov/news/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://estes.house.gov/contact/",
+    "final": "https://estes.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://estes.house.gov/forms/emailsignup/",
+    "final": "https://estes.house.gov/forms/emailsignup/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://estes.house.gov/contact/officeinformation.htm",
+    "final": "https://estes.house.gov/contact/officeinformation.htm",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://estes.house.gov/news/email/show.aspx/",
+    "final": "https://estes.house.gov/news/email/show.aspx/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://estes.house.gov/news/email/default.aspx/",
+    "final": "https://estes.house.gov/news/email/default.aspx/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://estes.house.gov/contact/",
+   "https://estes.house.gov/forms/emailsignup/",
+   "https://estes.house.gov/contact/officeinformation.htm",
+   "https://estes.house.gov/news/email/show.aspx/",
+   "https://estes.house.gov/news/email/default.aspx/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://estes.house.gov/stories/",
+    "positive": [
+     "issue",
+     "legislation",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "meeting request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "M000355": {
+  "id": "M000355",
+  "name": "Mitch McConnell",
+  "seat": "Senator, KY",
+  "pages": [
+   {
+    "url": "https://www.mcconnell.senate.gov",
+    "final": "https://www.mcconnell.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.mcconnell.senate.gov/contact/",
+    "final": "https://www.senate.gov/pagelayout/general/one_item_and_teasers/file_not_found.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.mcconnell.senate.gov/contact/offices/",
+    "final": "https://www.senate.gov/pagelayout/general/one_item_and_teasers/file_not_found.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.mcconnell.senate.gov/offices/",
+    "final": "https://www.senate.gov/pagelayout/general/one_item_and_teasers/file_not_found.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.mcconnell.senate.gov/office-locations/",
+    "final": "https://www.senate.gov/pagelayout/general/one_item_and_teasers/file_not_found.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.mcconnell.senate.gov/public/index.cfm?p=contact",
+    "final": "https://www.mcconnell.senate.gov/public/index.cfm?p=contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "http://www.senate.gov/pagelayout/general/one_item_and_teasers/contacting.htm",
+    "final": "https://www.senate.gov/pagelayout/general/one_item_and_teasers/contacting.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.senate.gov/general/contacting.htm",
+    "final": "https://www.senate.gov/general/contacting.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.mcconnell.senate.gov"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022242541",
+   "+12704424554",
+   "+12707811673",
+   "+15025826304",
+   "+16068642026",
+   "+18592248286",
+   "+18595780188"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+12022243121"
+  ],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 317 Russell Senate Office Building",
+   "Bowling Green, KY office: Federal Building, 241 E. Main St., Room 102",
+   "Fort Wright, KY office: 1885 Dixie Hwy., Suite 345",
+   "Lexington, KY office: 771 Corporate Dr., Suite 108",
+   "London, KY office: 300 S. Main St., Suite 310",
+   "Louisville, KY office: 601 W. Broadway, Room 630",
+   "Paducah, KY office: 501 Broadway Street, Suite B36"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "P000603": {
+  "id": "P000603",
+  "name": "Rand Paul",
+  "seat": "Senator, KY",
+  "pages": [
+   {
+    "url": "https://www.paul.senate.gov",
+    "final": "https://www.paul.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.paul.senate.gov/contact/",
+    "final": "https://www.paul.senate.gov/contact/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.paul.senate.gov/contact/offices/",
+    "final": "https://www.paul.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.paul.senate.gov/offices/",
+    "final": "https://www.paul.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.paul.senate.gov/office-locations/",
+    "final": "https://www.paul.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.paul.senate.gov/connect/email-rand",
+    "final": "https://www.paul.senate.gov/connect/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.paul.senate.gov",
+   "https://www.paul.senate.gov/contact/",
+   "https://www.paul.senate.gov/contact/offices/",
+   "https://www.paul.senate.gov/offices/",
+   "https://www.paul.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.paul.senate.gov/connect/",
+    "positive": [
+     "comment",
+     "concern",
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": [
+   "paul_schedule@paul.senate.gov"
+  ]
+ },
+ "C001108": {
+  "id": "C001108",
+  "name": "James Comer",
+  "seat": "Representative, KY-1",
+  "pages": [
+   {
+    "url": "https://comer.house.gov",
+    "final": "https://comer.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://comer.house.gov/contact/",
+    "final": "https://comer.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://comer.house.gov/contact/email/",
+    "final": "https://comer.house.gov/contact/email/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://comer.house.gov/contact/offices/",
+    "final": "https://comer.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://comer.house.gov/contact/email/",
+   "https://comer.house.gov/contact/offices/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+12705610240",
+   "+18003285629"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "G000558": {
+  "id": "G000558",
+  "name": "Brett Guthrie",
+  "seat": "Representative, KY-2",
+  "pages": [
+   {
+    "url": "https://guthrie.house.gov",
+    "final": "https://guthrie.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://guthrie.house.gov/news/email/",
+    "final": "https://guthrie.house.gov/news/email/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://guthrie.house.gov/contact/",
+    "final": "https://guthrie.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://guthrie.house.gov/contact/offices.htm",
+    "final": "https://guthrie.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://guthrie.house.gov/news/email/show.aspx/",
+    "final": "https://guthrie.house.gov/news/email/show.aspx/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://guthrie.house.gov/news/email/default.aspx/",
+    "final": "https://guthrie.house.gov/news/email/default.aspx/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://guthrie.house.gov/news/email/show.aspx/",
+   "https://guthrie.house.gov/news/email/default.aspx/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://guthrie.house.gov/news/email/",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://guthrie.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": [
+   "guthrieassistance@mail.house.gov"
+  ]
+ },
+ "M001220": {
+  "id": "M001220",
+  "name": "Morgan McGarvey",
+  "seat": "Representative, KY-3",
+  "pages": [
+   {
+    "url": "https://mcgarvey.house.gov",
+    "final": "https://mcgarvey.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mcgarvey.house.gov/contact/",
+    "final": "https://mcgarvey.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mcgarvey.house.gov/contact/email-me/",
+    "final": "https://mcgarvey.house.gov/contact/email-me/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mcgarvey.house.gov/contact/offices/",
+    "final": "https://mcgarvey.house.gov/contact/offices/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "M001184": {
+  "id": "M001184",
+  "name": "Thomas Massie",
+  "seat": "Representative, KY-4",
+  "pages": [
+   {
+    "url": "https://massie.house.gov",
+    "final": "https://massie.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://massie.house.gov/contact/",
+    "final": "https://massie.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://massie.house.gov/contact/offices/",
+    "final": "https://massie.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://massie.house.gov/offices/",
+    "final": "https://massie.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://massie.house.gov/office-locations/",
+    "final": "https://massie.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://massie.house.gov",
+   "https://massie.house.gov/contact/",
+   "https://massie.house.gov/contact/offices/",
+   "https://massie.house.gov/offices/",
+   "https://massie.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022253465",
+   "+15022659119",
+   "+18594260080"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 2371 Rayburn House Office Building",
+   "Crescent Springs, KY office: 541 Buttermilk Pike, Suite 208",
+   "LaGrange, KY office: 110 W. Jefferson St., Suite 100"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "R000395": {
+  "id": "R000395",
+  "name": "Harold Rogers",
+  "seat": "Representative, KY-5",
+  "pages": [
+   {
+    "url": "https://halrogers.house.gov",
+    "final": "https://halrogers.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://halrogers.house.gov/contact/",
+    "final": "https://halrogers.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://halrogers.house.gov/contact/offices/",
+    "final": "https://halrogers.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://halrogers.house.gov/offices/",
+    "final": "https://halrogers.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://halrogers.house.gov/office-locations/",
+    "final": "https://halrogers.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://halrogers.house.gov",
+   "https://halrogers.house.gov/contact/",
+   "https://halrogers.house.gov/contact/offices/",
+   "https://halrogers.house.gov/offices/",
+   "https://halrogers.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022254601",
+   "+16064390794",
+   "+16064676211",
+   "+16068860844",
+   "+18006328588"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 2406 Rayburn House Office Building",
+   "Hazard, KY office: 48 S. KY Hwy. 15",
+   "Prestonsburg, KY office: 110 Resource Ct., Suite A",
+   "Somerset, KY office: 551 Clifty St.",
+   "Ashland, KY office: 341 16th Street"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "B001282": {
+  "id": "B001282",
+  "name": "Andy Barr",
+  "seat": "Representative, KY-6",
+  "pages": [
+   {
+    "url": "https://barr.house.gov",
+    "final": "https://barr.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://barr.house.gov/contact/",
+    "final": "https://barr.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://barr.house.gov/contact/offices/",
+    "final": "https://barr.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://barr.house.gov/offices/",
+    "final": "https://barr.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://barr.house.gov/office-locations/",
+    "final": "https://barr.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://barr.house.gov",
+   "https://barr.house.gov/contact/",
+   "https://barr.house.gov/contact/offices/",
+   "https://barr.house.gov/offices/",
+   "https://barr.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022254706",
+   "+18592191366"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 2430 Rayburn House Office Building",
+   "Lexington, KY office: 2709 Old Rosebud Rd., Ste. 100"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "C001075": {
+  "id": "C001075",
+  "name": "Bill Cassidy",
+  "seat": "Senator, LA",
+  "pages": [
+   {
+    "url": "https://www.cassidy.senate.gov",
+    "final": "https://www.cassidy.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cassidy.senate.gov/contact/",
+    "final": "https://www.cassidy.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cassidy.senate.gov/contact/offices/",
+    "final": "https://www.cassidy.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cassidy.senate.gov/offices/",
+    "final": "https://www.cassidy.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cassidy.senate.gov/office-locations/",
+    "final": "https://www.cassidy.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cassidy.senate.gov/contact/get-in-touch/",
+    "final": "https://www.cassidy.senate.gov/contact/get-in-touch/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.cassidy.senate.gov/contact/presidential-greetings/",
+    "final": "https://www.cassidy.senate.gov/contact/presidential-greetings/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cassidy.senate.gov/contact/personal-greeting-request/",
+    "final": "https://www.cassidy.senate.gov/contact/personal-greeting-request/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cassidy.senate.gov/contact/itemDataObject.url/",
+    "final": "https://www.cassidy.senate.gov/contact/itemDataObject.url/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cassidy.senate.gov/contact/{{{data.link}}}/",
+    "final": "https://www.cassidy.senate.gov/contact/{{{data.link}}}/",
+    "status": 0,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.cassidy.senate.gov",
+   "https://www.cassidy.senate.gov/contact/offices/",
+   "https://www.cassidy.senate.gov/offices/",
+   "https://www.cassidy.senate.gov/office-locations/",
+   "https://www.cassidy.senate.gov/contact/personal-greeting-request/",
+   "https://www.cassidy.senate.gov/contact/itemDataObject.url/",
+   "https://www.cassidy.senate.gov/contact/{{{data.link}}}/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.cassidy.senate.gov/contact/get-in-touch/",
+    "positive": [
+     "issue",
+     "legislation",
+     "topic"
+    ],
+    "negative": [
+     "federal agency",
+     "meeting request",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "K000393": {
+  "id": "K000393",
+  "name": "John Kennedy",
+  "seat": "Senator, LA",
+  "pages": [
+   {
+    "url": "https://www.kennedy.senate.gov/public",
+    "final": "https://www.kennedy.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.kennedy.senate.gov/public/contact/",
+    "final": "https://www.kennedy.senate.gov/?p=121",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.kennedy.senate.gov/public/contact/offices/",
+    "final": "https://www.kennedy.senate.gov/public/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.kennedy.senate.gov/public/offices/",
+    "final": "https://www.kennedy.senate.gov/public/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.kennedy.senate.gov/public/office-locations/",
+    "final": "https://www.kennedy.senate.gov/public/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.kennedy.senate.gov/public/email-me",
+    "final": "https://www.kennedy.senate.gov/?p=3641",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.kennedy.senate.gov/public",
+   "https://www.kennedy.senate.gov/public/contact/",
+   "https://www.kennedy.senate.gov/public/contact/offices/",
+   "https://www.kennedy.senate.gov/public/offices/",
+   "https://www.kennedy.senate.gov/public/office-locations/",
+   "https://www.kennedy.senate.gov/public/email-me"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022244623",
+   "+12259268033",
+   "+13183611489",
+   "+13184452892",
+   "+13186705192",
+   "+13372695980",
+   "+13375736800",
+   "+15045816190",
+   "+19858098153",
+   "+19858510956"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 437 Russell Senate Office Building",
+   "Alexandria, LA office: England Airpark, 1611 Arnold Drive, Suite 126",
+   "Baton Rouge, LA office: 7932 Wrenwood Blvd, Suite A & B",
+   "Houma, LA office: Government Towers, 8026 Main St, Suite 700",
+   "Mandeville, LA office: Building A, 21490 Koop Dr.",
+   "Monroe, LA office: 1651 Louisville Ave., Suite 148",
+   "New Orleans, LA office: 500 Poydras St., Suite 364",
+   "Shreveport, LA office: 401 Market St., Suite 1050",
+   "Lafayette, LA office: 315 S. College Road, Suite 140",
+   "Lake Charles, LA office: 814 West McNeese Street, Suite 213"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "S001176": {
+  "id": "S001176",
+  "name": "Steve Scalise",
+  "seat": "Representative, LA-1",
+  "pages": [
+   {
+    "url": "https://scalise.house.gov",
+    "final": "https://scalise.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://scalise.house.gov/contact/",
+    "final": "https://scalise.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://scalise.house.gov/contact/offices/",
+    "final": "https://scalise.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://scalise.house.gov/offices/",
+    "final": "https://scalise.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://scalise.house.gov/office-locations/",
+    "final": "https://scalise.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://scalise.house.gov",
+   "https://scalise.house.gov/contact/",
+   "https://scalise.house.gov/contact/offices/",
+   "https://scalise.house.gov/offices/",
+   "https://scalise.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022253015",
+   "+15048371259",
+   "+19853402185",
+   "+19858792300",
+   "+19858939064"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 266 Cannon House Office Building",
+   "Mandeville, LA office: 21454 Koop Drive, Suite 2C",
+   "Metairie, LA office: 111 Veterans Memorial Blvd, Suite 803",
+   "Ponchatoula, LA office: City Hall Annex Building, 110 West Hickory Street",
+   "Raceland, LA office: 4876 LA-1, Suite 117"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "C001125": {
+  "id": "C001125",
+  "name": "Troy A. Carter",
+  "seat": "Representative, LA-2",
+  "pages": [
+   {
+    "url": "https://troycarter.house.gov",
+    "final": "https://troycarter.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://troycarter.house.gov/contact/",
+    "final": "https://troycarter.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://troycarter.house.gov/contact/offices/",
+    "final": "https://troycarter.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://troycarter.house.gov/offices/",
+    "final": "https://troycarter.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://troycarter.house.gov/office-locations/",
+    "final": "https://troycarter.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://troycarter.house.gov",
+   "https://troycarter.house.gov/contact/",
+   "https://troycarter.house.gov/contact/offices/",
+   "https://troycarter.house.gov/offices/",
+   "https://troycarter.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022256636",
+   "+15042883777",
+   "+15043813970"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 442 Cannon House Office Building",
+   "Gretna, LA office: Gretna Courthouse, 200 Derbigny St, Suite 3200",
+   "New Orleans, LA office: 3401 General DeGaulle Dr, Suite 100",
+   "New Orleans, LA office: 650 Poydras St, Suite 2525",
+   "Baton Rouge, LA office: T.H. Harris Hall, 801 Harding Blvd",
+   "Gonzales, LA office: Ascension Parish Government Bldg, 615 E. Worthy St, Rm 107",
+   "Gonzales, LA office: River Parishes Community College Gonzales Technical Training Center, 925 W. Edenborne Pkwy, Room T117"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "H001077": {
+  "id": "H001077",
+  "name": "Clay Higgins",
+  "seat": "Representative, LA-3",
+  "pages": [
+   {
+    "url": "https://clayhiggins.house.gov",
+    "final": "https://clayhiggins.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://clayhiggins.house.gov/contact/",
+    "final": "https://clayhiggins.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://clayhiggins.house.gov/contact/offices/",
+    "final": "https://clayhiggins.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://clayhiggins.house.gov/offices/",
+    "final": "https://clayhiggins.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://clayhiggins.house.gov/office-locations/",
+    "final": "https://clayhiggins.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://clayhiggins.house.gov",
+   "https://clayhiggins.house.gov/contact/",
+   "https://clayhiggins.house.gov/contact/offices/",
+   "https://clayhiggins.house.gov/offices/",
+   "https://clayhiggins.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022252031",
+   "+13376562833",
+   "+13377036105"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 572 Cannon House Office Building",
+   "Lafayette, LA office: Chase Building, 600 Jefferson Street, Suite 808",
+   "Lake Charles, LA office: 1625 Ryan Street, Suite C"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "J000299": {
+  "id": "J000299",
+  "name": "Mike Johnson",
+  "seat": "Representative, LA-4",
+  "pages": [
+   {
+    "url": "https://mikejohnson.house.gov",
+    "final": "https://mikejohnson.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mikejohnson.house.gov/contact/",
+    "final": "https://mikejohnson.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mikejohnson.house.gov/contact/offices/",
+    "final": "https://mikejohnson.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mikejohnson.house.gov/offices/",
+    "final": "https://mikejohnson.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mikejohnson.house.gov/office-locations/",
+    "final": "https://mikejohnson.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://mikejohnson.house.gov",
+   "https://mikejohnson.house.gov/contact/",
+   "https://mikejohnson.house.gov/contact/offices/",
+   "https://mikejohnson.house.gov/offices/",
+   "https://mikejohnson.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022252777",
+   "+13188400309",
+   "+13372266385",
+   "+13374234232"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 521 Cannon House Office Building",
+   "Bossier City, LA office: 2250 Hospital Dr., Suite 248",
+   "DeRidder, LA office: 401 W. First Street, Room 33",
+   "Leesville, LA office: Building 552, 3329 University Parkway, Room 24"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "L000595": {
+  "id": "L000595",
+  "name": "Julia Letlow",
+  "seat": "Representative, LA-5",
+  "pages": [
+   {
+    "url": "https://letlow.house.gov",
+    "final": "https://letlow.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://letlow.house.gov/contact/",
+    "final": "https://letlow.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://letlow.house.gov/contact/offices/",
+    "final": "https://letlow.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://letlow.house.gov/offices/",
+    "final": "https://letlow.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://letlow.house.gov/office-locations/",
+    "final": "https://letlow.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://letlow.house.gov",
+   "https://letlow.house.gov/contact/",
+   "https://letlow.house.gov/contact/offices/",
+   "https://letlow.house.gov/offices/",
+   "https://letlow.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022258490",
+   "+13185706440",
+   "+19852845200"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 142 Cannon House Office Building",
+   "Amite, LA office: 109 E. Oak Street",
+   "Monroe, LA office: 1900 North 18th Street, Suite 501"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "F000110": {
+  "id": "F000110",
+  "name": "Cleo Fields",
+  "seat": "Representative, LA-6",
+  "pages": [
+   {
+    "url": "https://fields.house.gov",
+    "final": "https://fields.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fields.house.gov/contact/",
+    "final": "https://fields.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fields.house.gov/contact/offices/",
+    "final": "https://fields.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fields.house.gov/offices/",
+    "final": "https://fields.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fields.house.gov/office-locations/",
+    "final": "https://fields.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://fields.house.gov",
+   "https://fields.house.gov/contact/",
+   "https://fields.house.gov/contact/offices/",
+   "https://fields.house.gov/offices/",
+   "https://fields.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022253901",
+   "+12259521965"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 2349 Rayburn House Office Building",
+   "Baton Rouge, LA office: 700 North 10th St, Fourth Floor",
+   "Shreveport, LA office: 610 Texas St, 4th Floor, Suites 12-13",
+   "Opelousas, LA office: 1310 S Union St., Suite 4"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "M000133": {
+  "id": "M000133",
+  "name": "Edward J. Markey",
+  "seat": "Senator, MA",
+  "pages": [
+   {
+    "url": "https://www.markey.senate.gov",
+    "final": "https://www.markey.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.markey.senate.gov/contact/",
+    "final": "https://www.markey.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.markey.senate.gov/contact/offices/",
+    "final": "https://www.markey.senate.gov/404?notfound=/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.markey.senate.gov/offices/",
+    "final": "https://www.markey.senate.gov/404?notfound=/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.markey.senate.gov/office-locations/",
+    "final": "https://www.markey.senate.gov/404?notfound=/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.markey.senate.gov/contact/share-your-opinion/",
+    "final": "https://www.markey.senate.gov/contact/share-your-opinion/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.markey.senate.gov",
+   "https://www.markey.senate.gov/contact/offices/",
+   "https://www.markey.senate.gov/offices/",
+   "https://www.markey.senate.gov/office-locations/",
+   "https://www.markey.senate.gov/contact/share-your-opinion/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "W000817": {
+  "id": "W000817",
+  "name": "Elizabeth Warren",
+  "seat": "Senator, MA",
+  "pages": [
+   {
+    "url": "https://www.warren.senate.gov",
+    "final": "https://www.warren.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.warren.senate.gov/contact/",
+    "final": "https://www.warren.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.warren.senate.gov/contact/offices/",
+    "final": "https://www.warren.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.warren.senate.gov/offices/",
+    "final": "https://www.warren.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.warren.senate.gov/office-locations/",
+    "final": "https://www.warren.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.warren.senate.gov/?p=email_senator",
+    "final": "https://www.warren.senate.gov/?p=email_senator",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.warren.senate.gov/office-of-personnel-management/",
+    "final": "https://www.warren.senate.gov/office-of-personnel-management/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.warren.senate.gov/contact/share-your-opinion/",
+    "final": "https://www.warren.senate.gov/contact/share-your-opinion/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.warren.senate.gov",
+   "https://www.warren.senate.gov/contact/offices/",
+   "https://www.warren.senate.gov/offices/",
+   "https://www.warren.senate.gov/office-locations/",
+   "https://www.warren.senate.gov/?p=email_senator"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+12022284850"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.warren.senate.gov/office-of-personnel-management/",
+    "positive": [
+     "issue",
+     "legislation",
+     "opinion",
+     "share your"
+    ],
+    "negative": [
+     "case number",
+     "casework",
+     "federal agency",
+     "flag request",
+     "privacy act",
+     "privacy release"
+    ]
+   },
+   {
+    "url": "https://www.warren.senate.gov/contact/share-your-opinion/",
+    "positive": [
+     "issue",
+     "legislation",
+     "opinion",
+     "share your",
+     "topic"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "meeting request",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": [
+   "casework@warren.senate.gov"
+  ]
+ },
+ "N000015": {
+  "id": "N000015",
+  "name": "Richard E. Neal",
+  "seat": "Representative, MA-1",
+  "pages": [
+   {
+    "url": "https://neal.house.gov",
+    "final": "https://neal.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://neal.house.gov/contact/",
+    "final": "https://neal.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://neal.house.gov/contact/offices/",
+    "final": "https://neal.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://neal.house.gov/offices/",
+    "final": "https://neal.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://neal.house.gov/office-locations/",
+    "final": "https://neal.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://neal.house.gov",
+   "https://neal.house.gov/contact/",
+   "https://neal.house.gov/contact/offices/",
+   "https://neal.house.gov/offices/",
+   "https://neal.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022255601",
+   "+14134420946",
+   "+14137850325"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 372 Cannon House Office Building",
+   "Pittsfield, MA office: 78 Center St.",
+   "Springfield, MA office: 300 State St., Suite 200"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "M000312": {
+  "id": "M000312",
+  "name": "James P. McGovern",
+  "seat": "Representative, MA-2",
+  "pages": [
+   {
+    "url": "https://mcgovern.house.gov",
+    "final": "https://mcgovern.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mcgovern.house.gov/contact/",
+    "final": "https://mcgovern.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mcgovern.house.gov/contact/offices/",
+    "final": "https://mcgovern.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mcgovern.house.gov/offices/",
+    "final": "https://mcgovern.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mcgovern.house.gov/office-locations/",
+    "final": "https://mcgovern.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://mcgovern.house.gov",
+   "https://mcgovern.house.gov/contact/",
+   "https://mcgovern.house.gov/contact/offices/",
+   "https://mcgovern.house.gov/offices/",
+   "https://mcgovern.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022256101",
+   "+14133418700",
+   "+15088317356",
+   "+19784663552"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 370 Cannon House Office Building",
+   "Leominster, MA office: 24 Church St., Room 27",
+   "Northampton, MA office: 94 Pleasant St.",
+   "Worcester, MA office: 12 E. Worcester St., Suite 1"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "T000482": {
+  "id": "T000482",
+  "name": "Lori Trahan",
+  "seat": "Representative, MA-3",
+  "pages": [
+   {
+    "url": "https://trahan.house.gov",
+    "final": "https://trahan.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://trahan.house.gov/contact/",
+    "final": "https://trahan.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://trahan.house.gov/contact/offices/",
+    "final": "https://trahan.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://trahan.house.gov/offices/",
+    "final": "https://trahan.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://trahan.house.gov/office-locations/",
+    "final": "https://trahan.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://trahan.house.gov",
+   "https://trahan.house.gov/contact/",
+   "https://trahan.house.gov/contact/offices/",
+   "https://trahan.house.gov/offices/",
+   "https://trahan.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022253411",
+   "+19784590101"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 2233 Rayburn House Office Building",
+   "Lowell, MA office: 126 John St, Suite 12"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "A000148": {
+  "id": "A000148",
+  "name": "Jake Auchincloss",
+  "seat": "Representative, MA-4",
+  "pages": [
+   {
+    "url": "https://auchincloss.house.gov",
+    "final": "https://auchincloss.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://auchincloss.house.gov/contact/",
+    "final": "https://auchincloss.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://auchincloss.house.gov/contact/offices/",
+    "final": "https://auchincloss.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://auchincloss.house.gov/offices/",
+    "final": "https://auchincloss.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://auchincloss.house.gov/office-locations/",
+    "final": "https://auchincloss.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://auchincloss.house.gov",
+   "https://auchincloss.house.gov/contact/",
+   "https://auchincloss.house.gov/contact/offices/",
+   "https://auchincloss.house.gov/offices/",
+   "https://auchincloss.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022255931",
+   "+15084311110",
+   "+16173323333"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 1524 Longworth House Office Building",
+   "Newton, MA office: 29 Crafts St., Suite 375",
+   "Attleboro, MA office: 8 N. Main St., Suite 200",
+   "Fall River, MA office: 1 Government Center, Office 237B"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "C001101": {
+  "id": "C001101",
+  "name": "Katherine M. Clark",
+  "seat": "Representative, MA-5",
+  "pages": [
+   {
+    "url": "https://katherineclark.house.gov",
+    "final": "https://katherineclark.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://katherineclark.house.gov/contact/",
+    "final": "https://katherineclark.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://katherineclark.house.gov/contact/offices/",
+    "final": "https://katherineclark.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://katherineclark.house.gov/offices/",
+    "final": "https://katherineclark.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://katherineclark.house.gov/office-locations/",
+    "final": "https://katherineclark.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://katherineclark.house.gov",
+   "https://katherineclark.house.gov/contact/",
+   "https://katherineclark.house.gov/contact/offices/",
+   "https://katherineclark.house.gov/offices/",
+   "https://katherineclark.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022252836",
+   "+16173540292"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 2368 Rayburn House Office Building",
+   "Malden, MA office: 157 Pleasant St, Suite 4"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "M001196": {
+  "id": "M001196",
+  "name": "Seth Moulton",
+  "seat": "Representative, MA-6",
+  "pages": [
+   {
+    "url": "https://moulton.house.gov",
+    "final": "https://moulton.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://moulton.house.gov/contact/",
+    "final": "https://moulton.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://moulton.house.gov/contact/offices/",
+    "final": "https://moulton.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://moulton.house.gov/offices/",
+    "final": "https://moulton.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://moulton.house.gov/office-locations/",
+    "final": "https://moulton.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://moulton.house.gov",
+   "https://moulton.house.gov/contact/",
+   "https://moulton.house.gov/contact/offices/",
+   "https://moulton.house.gov/offices/",
+   "https://moulton.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022258020",
+   "+19785311669"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 1126 Longworth House Office Building",
+   "Salem, MA office: 21 Front St."
+  ],
+  "forms": [],
+  "emails": []
+ }
+}

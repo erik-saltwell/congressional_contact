@@ -80,19 +80,21 @@ Work item: [impl-01-hud-data-and-schema](../impl-01-hud-data-and-schema/)
 
 **Goal:** confirm HUD access and choose a quarter whose districts are the 119th Congress's. Then settle the JSON schema against real responses. Every later phase depends on the schema.
 
-- [ ] Make one authenticated HUD type-5 request with the local token. Never log or print the token.
-- [ ] Find which quarters exist and which Congress's districts each quarter uses. Pick the newest quarter that is still 119th geography. Recent quarters may already use 120th districts in redistricted states; check, don't assume.
-- [ ] Inspect the codes: state and district format, at-large districts, DC, the territories, and delegate or resident-commissioner codes (possibly `98`). Inspect what is in each row besides the district.
-- [ ] Compare `10003`, `98103`, `42223` and `97635` with the official House lookup and the Census evidence. Keep every candidate.
-- [ ] Measure coverage: how many ZIPs, how many have several candidates, how many span several states, and the full size of the download.
-- [ ] Finalize the schema in `research/data-design.md`, or in a new design note that it links to. Cover:
+- [x] Make one authenticated HUD type-5 request with the local token. Never log or print the token.
+- [x] Find which quarters exist and which Congress's districts each quarter uses. Pick the newest quarter that is still 119th geography. Recent quarters may already use 120th districts in redistricted states; check, don't assume.
+- [x] Inspect the codes: state and district format, at-large districts, DC, the territories, and delegate or resident-commissioner codes (possibly `98`). Inspect what is in each row besides the district.
+- [x] Compare `10003`, `98103`, `42223` and `97635` with the official House lookup and the Census evidence. Keep every candidate.
+- [x] Measure coverage: how many ZIPs, how many have several candidates, how many span several states, and the full size of the download.
+- [x] Finalize the schema in `research/data-design.md`, or in a new design note that it links to. Cover:
   - provenance: HUD quarter, source revisions, Congress, fetch dates and build time;
   - how a vacancy is represented;
   - delegates and the resident commissioner, and states or territories with no senators;
   - the compact ZIP index format, if size calls for it;
   - which fields are required;
   - where the reporting address goes in page data. It stays empty until phase 7.
-- [ ] Record the findings and remove the "unverified" warnings that the results answer.
+- [x] Record the findings and remove the "unverified" warnings that the results answer.
+
+**Done 2026-11-05.** See the [HUD findings](../../research/hud-crosswalk-findings.md) and the [schema](../../design_notes/data-schema.md). Result: use **2026 Q2**, which is 119th geography.
 
 **Verification:** the request and comparison results recorded with dates; the schema checked against real sample rows; a token search of the repo and logs finds nothing.
 
@@ -102,24 +104,34 @@ Work item: [impl-02-data-script](../impl-02-data-script/)
 
 **Goal:** one reproducible local command (for example `uv run tools/build_data.py`) that builds `data/congress.json` from the upstream sources and summarizes what changed.
 
-- [ ] Fetch, then cache under `data/cache/`:
+- [x] Fetch, then cache under `data/cache/`:
   - the congress-legislators current roster and district offices;
   - the House Clerk and Senate XML;
   - the HUD crosswalk for the chosen quarter. Load the token from `.env` inside the script only.
-- [ ] Select current terms, cross-check membership by Bioguide ID against the official rosters, and join offices.
-- [ ] Turn delegate codes into the schema's form; at-large is `0`.
-- [ ] Represent vacancies explicitly. Never give a seat a previous member's details.
-- [ ] Merge `data/supplements.json` for feedback forms and published mailboxes. Keep each mailbox's purpose, such as casework. Never put a form URL in an email field.
-- [ ] Validate, and fail loudly on any of these:
+- [x] Select current terms, cross-check membership by Bioguide ID against the official rosters, and join offices.
+  - Membership comes from the House Clerk and Senate feeds. If the IDs don't match the community roster, the run fails instead of just warning.
+  - Never treat a term-end date in the past as a departure. Appointed senators such as Husted (OH) and Moody (FL) serve until their successors are sworn in.
+  - Vacancies are Clerk seat records with an empty Bioguide ID (currently FL-20 and TX-23).
+  - Take each HUD row's state from the `geoid` FIPS code, never from HUD's `state` field.
+  - Pin the HUD year and quarter in the script's configuration (2026 Q2); never use the API's default.
+  - Follow the inclusion rules in [data-schema.md](../../design_notes/data-schema.md).
+- [x] Turn delegate codes into the schema's form; at-large is `0`.
+- [x] Represent vacancies explicitly. Never give a seat a previous member's details.
+- [x] Merge `data/supplements.json` for feedback forms and published mailboxes. Keep each mailbox's purpose, such as casework. Never put a form URL in an email field.
+- [x] Validate, and fail loudly on any of these:
   - a missing reference;
   - a state without its senators;
   - a seat with no member and no vacancy record;
   - `</` anywhere in the data;
   - a number in exponent form;
   - a malformed ZIP key.
-- [ ] Keep the last good data. Write to a temporary file and replace `data/congress.json` only after validation passes. A failed fetch leaves the last good file untouched.
-- [ ] Print a change summary against the last good data: officials, contact details and ZIP mappings, with missing data and validation failures called out.
-- [ ] Add `data/cache/` to `.gitignore`.
+- [x] Keep the last good data. Write to a temporary file and replace `data/congress.json` only after validation passes. A failed fetch leaves the last good file untouched.
+- [x] Print a change summary against the last good data: officials, contact details and ZIP mappings, with missing data and validation failures called out.
+- [x] Add `data/cache/` to `.gitignore`.
+- [x] Cover American Samoa and the Northern Mariana Islands. Done instead from HUD's ZIP-to-county file; see the [schema](../../design_notes/data-schema.md). No hand-maintained ZIP file is needed.
+- [x] **Owner decision (2026-11-05):** keep ZIP candidates whose district holds none of the ZIP's residential addresses (238 ZIPs).
+
+**Done 2026-11-05.** Usage: `python3 -I tools/build_data.py` (fetch and build), `--offline` (build from the cache only), `--check FILE` (validate). Results are recorded in the [phase 2 item](../impl-02-data-script/item.md).
 
 **Verification:**
 - A full run on real data succeeds.
@@ -133,12 +145,14 @@ Work item: [impl-03-review-data-skill](../impl-03-review-data-skill/)
 
 **Goal:** an agent skill, usable from Claude and Codex, that checks each official's record online and proposes corrections with sources. The owner approves the corrections and the agent applies them.
 
-- [ ] Write the skill (`writing-for-agents` / `skill-creator` guidance). Decide where it lives so that both Claude and Codex find it; Codex's discovery path still needs confirming.
-- [ ] It checks each official's record against their official website: the DC office, the local offices, the policy-feedback form (not casework, newsletter or scheduling), any published mailboxes and their purpose, and the homepage.
-- [ ] It writes a reviewable report: each discrepancy, its source link and the proposed change. The report is batched so a full review of about 540 officials is workable.
-- [ ] After approval, it applies only the approved changes to `data/supplements.json`, or a corrections layer if bulk-roster values must be overridden, with the date verified. It then reruns the data script.
-- [ ] It supports a full run (every official, as the flows require on a full refresh) and a targeted run (one official, for reported errors).
-- [ ] Decide how bulk-roster errors are overridden. Supplements now cover forms and mailboxes only; phone or office corrections may need the same override layer.
+- [x] Write the skill (`writing-for-agents` / `skill-creator` guidance). Decide where it lives so that both Claude and Codex find it; Codex's discovery path still needs confirming.
+- [x] It checks each official's record against their official website: the DC office, the local offices, the policy-feedback form (not casework, newsletter or scheduling), any published mailboxes and their purpose, and the homepage.
+- [x] It writes a reviewable report: each discrepancy, its source link and the proposed change. The report is batched so a full review of about 540 officials is workable.
+- [x] After approval, it applies only the approved changes to `data/supplements.json`, or a corrections layer if bulk-roster values must be overridden, with the date verified. It then reruns the data script.
+- [x] It supports a full run (every official, as the flows require on a full refresh) and a targeted run (one official, for reported errors).
+- [x] Decide how bulk-roster errors are overridden. Supplements now cover forms and mailboxes only; phone or office corrections may need the same override layer.
+
+**Done 2026-11-05.** See the [phase 3 item](../impl-03-review-data-skill/item.md).
 
 **Verification:** dry runs on a handful of officials of different kinds (senator, representative, delegate), checked by hand against their websites; one approved change applied end to end and visible in rebuilt data.
 
@@ -148,8 +162,8 @@ Work item: [impl-04-page-core-and-build](../impl-04-page-core-and-build/)
 
 **Goal:** the lookup-and-save page, built by `tools/build.py` into the four Jekyll files, using real data.
 
-- [ ] Write the shared source in `src/`, starting from the prototype. Markup uses theme and Bootstrap classes, and every id and class is prefixed `cc-`. It follows the design decisions: `btn btn-primary btn-lg` submit; a standard `btn btn-primary` for each Save; names as theme headings; `#eee` dividers; no icons; stock colours.
-- [ ] Lookup behaviour (flows document):
+- [x] Write the shared source in `src/`, starting from the prototype. Markup uses theme and Bootstrap classes, and every id and class is prefixed `cc-`. It follows the design decisions: `btn btn-primary btn-lg` submit; a standard `btn btn-primary` for each Save; names as theme headings; `#eee` dividers; no icons; stock colours.
+- [x] Lookup behaviour (flows document):
   - a brief explanation, then the ZIP field;
   - lookup only on explicit submit;
   - every candidate representative, with senators grouped by state;
@@ -158,19 +172,25 @@ Work item: [impl-04-page-core-and-build](../impl-04-page-core-and-build/)
   - no match: say the ZIP has no matches (not that it is invalid), with a House lookup link that opens a new tab;
   - a "results may be incomplete" note with the same link;
   - "Start over" resets to the initial state.
-- [ ] Generate vCard 3.0 in UTF-8 with CRLF line endings, as a blob link per official. Include:
+- [x] Generate vCard 3.0 in UTF-8 with CRLF line endings, as a blob link per official. Include:
   - a name and organization or title;
-  - labeled DC and local phones (voice and fax);
+  - labeled DC and local phones;
   - structured addresses;
   - verified emails, with their purpose;
   - the website and policy-feedback URLs, labeled;
   - a `NOTE` as a readable fallback for labels;
   - a stable `UID` and `REV`.
+  - each phone number once per card. Reviewed office lists can repeat a number under two offices, such as Murray's toll-free line.
+  - no fax numbers. The data no longer contains any (owner decision, 2026-11-05).
 
   Phase 5 tests which labelling form the phones keep.
-- [ ] Privacy rules: the ZIP never goes in the URL or the title; the page fires no events of its own; no network requests.
-- [ ] Build script: Jekyll output in `dist/jekyll/`. Front matter: `layout: page`, title, `subtitle`, `share-description`, `description`, `permalink`, `css:` and `js:`. Plus `_data/congress.json`, `assets/js/congress.js` and `assets/css/congress.css`. Include the assertions listed under "Verification approach". The script is structured so that phase 8 can add the standalone output.
-- [ ] Handle the empty `wwwroot/` placeholder.
+- [x] Privacy rules: the ZIP never goes in the URL or the title; the page fires no events of its own; no network requests.
+- [x] Build script: Jekyll output in `dist/jekyll/`. Front matter: `layout: page`, title, `subtitle`, `share-description`, `description`, `permalink`, `css:` and `js:`. Plus `_data/congress.json`, `assets/js/congress.js` and `assets/css/congress.css`. Include the assertions listed under "Verification approach". The script is structured so that phase 8 can add the standalone output.
+- [x] Handle the empty `wwwroot/` placeholder.
+
+- [x] Office selection (added 2026-11-06): each card carries the DC office and the nearest local office, precomputed per ZIP by the data script ([vcard-office-selection.md](../../design_notes/vcard-office-selection.md)).
+
+**Status 2026-11-06:** complete. Results and the choices made during implementation are in the [phase 4 item](../impl-04-page-core-and-build/item.md).
 
 **Verification:**
 - The pinned GitHub Pages build of a local site clone passes, with output checks.
@@ -184,9 +204,11 @@ Work item: [impl-04b-prelaunch-data-review](../impl-04b-prelaunch-data-review/)
 
 **Goal:** every serving official's record is verified online, and policy-feedback forms are filled in, before launch.
 
-- [ ] Run the phase 3 skill over every official, in batches.
-- [ ] The owner reviews each batch report. The agent applies approved corrections.
+- [x] Run the phase 3 skill over every official, in batches.
+- [x] The owner reviews each batch report. The agent applies approved corrections.
 - [ ] Rebuild the data. Record coverage after the review: forms, mailboxes, offices, and anything left unverified with the reason.
+
+**Status 2026-11-05:** all 22 batches have been reviewed and applied (727 proposals). 528 of 539 officials are verified. 11 senators are partial because the Senate firewall blocks their sites from this machine. See the [phase 4b item](../impl-04b-prelaunch-data-review/item.md).
 
 **Verification:** a coverage summary before and after; spot checks of some applied forms against official sites; the data script validates cleanly.
 
@@ -207,6 +229,7 @@ Depends on phases 4 and 4b.
   - what happens to a single-contact blob on Android (not tested yet).
 - [ ] If labels are lost, adjust the vCard form and recheck.
 - [ ] **Owner-confirmed:** commit and push to the site repo, and make the menu edit.
+- [ ] Immediately before the push, fetch the roster again and rebuild. The Ohio and Florida special-election winners, and possibly FL-20 and TX-23, may be sworn in during the launch window.
 - [ ] Smoke-check the public URL: lookup, a save on each phone, Start over, no ZIP in the URL.
 
 **Verification:** device results recorded with OS and browser versions; live smoke check recorded.
@@ -247,10 +270,11 @@ Work item: [impl-08-standalone-and-self-hosting](../impl-08-standalone-and-self-
 **Goal:** self-hosters can download one HTML file, configure reporting, upload it and check it. They can also find updates.
 
 - [ ] Theme layer in `src/theme.css`:
-  - `:root` variables using the theme's names and the site's values;
+  - `:root` variables using the theme's names and **stock Beautiful Jekyll values**, not eriksaltwell.com's, plus `--heading-col: #404040` and the darkened teal `#006B80` for buttons and links (owner, 2026-11-06);
+  - no owner branding: an empty header bar, and a footer bar with only a "Host your own copy" link (see "Standalone file styling" in [existing-site-design.md](../../design_notes/existing-site-design.md));
   - the reduced Bootstrap 4.4.1 and Beautiful Jekyll rules (`purgecss`, as reproduced in the design notes);
   - the Google Fonts link for Lora 400 and Open Sans 300, 400 and 800.
-  - the page header markup, with no navbar or footer.
+  - the page header markup (title and subtitle) below the empty header bar.
 - [ ] The standalone output from `tools/build.py`, with data inlined and `</` escaped, and the placeholder reporting address.
 - [ ] A "Host your own" link from the page to the repository docs.
 - [ ] README self-hosting docs. Cover:
@@ -278,7 +302,7 @@ Work item: [impl-09-120th-congress-refresh](../impl-09-120th-congress-refresh/)
 
 Depends on phases 2, 3 and 5. When this phase is due, it preempts phases 6 to 8.
 
-- [ ] Before January: check whether HUD has a quarter with 120th geography, and how the roster sources mark new terms. If no 120th quarter exists by early January, decide with the owner what to do. The roster and the geography must describe the same Congress.
+- [ ] Before January: check whether HUD has a quarter with 120th geography, and how the roster sources mark new terms. To detect 120th geography, count the ZIPs that change between quarters, by state. A real switch moves hundreds of ZIPs in the redrawn states, such as TX, CA, MO, NC, OH and UT (see the [HUD findings](../../research/hud-crosswalk-findings.md)). If HUD has no 120th quarter by early January, Census's 120th relationship files are a possible fallback (the geocoder already returns 120th districts). That choice is the owner's. If no 120th quarter exists by early January, decide with the owner what to do. The roster and the geography must describe the same Congress.
 - [ ] After swearing-in: rerun the data script for the 120th. Review the change summary, in which almost every House record may change.
 - [ ] Run the review skill over every official, then the owner approves corrections. New members' websites and forms may still be thin in early January; record what is not yet verifiable.
 - [ ] Rebuild, run the browser checks on the sample ZIPs, then publish (owner-confirmed). Include a GitHub release if phase 8 has shipped.
@@ -287,10 +311,8 @@ Depends on phases 2, 3 and 5. When this phase is due, it preempts phases 6 to 8.
 
 ## Material unknowns and risks
 
-- **HUD quarter and Congress alignment:** not yet verified. If no quarter cleanly matches the 119th Congress, phase 1 needs the owner to decide.
+- **HUD quarter and Congress alignment:** settled for the 119th Congress (2026 Q2). The open risk is HUD falling behind the 120th Congress (phase 9).
 - **Schedule:** phases 1 to 5 must finish in about eight weeks, and phase 4b (owner review of about 540 officials) is the bottleneck.
 - **vCard labels:** how phone contacts apps keep custom phone and URL labels, multiple URLs and notes is unknown until phase 5.
-- **Override layer:** correcting bulk-roster errors may need an override layer beyond `supplements.json` (phase 3).
-- **Codex skill path:** where Codex discovers the skill is unconfirmed (phase 3).
 - **Data size:** the real dataset may be larger than the 0.3 MB gzipped synthetic estimate. Phase 1 decides whether a compact ZIP index is worth it.
 - **Stale project context:** `.agent_context.md` (user-maintained) still lists questions that the flows and these decisions have since settled.

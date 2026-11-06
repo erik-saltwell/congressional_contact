@@ -1,0 +1,1945 @@
+{
+ "M001153": {
+  "id": "M001153",
+  "name": "Lisa Murkowski",
+  "seat": "Senator, AK",
+  "pages": [
+   {
+    "url": "https://www.murkowski.senate.gov",
+    "final": "https://www.murkowski.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.murkowski.senate.gov/contact/",
+    "final": "https://www.murkowski.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.murkowski.senate.gov/contact/offices/",
+    "final": "https://www.murkowski.senate.gov/contact/offices/",
+    "status": 410,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.murkowski.senate.gov/offices/",
+    "final": "https://www.murkowski.senate.gov/offices/",
+    "status": 410,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.murkowski.senate.gov/office-locations/",
+    "final": "https://www.murkowski.senate.gov/office-locations/",
+    "status": 410,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.murkowski.senate.gov/public/index.cfm/contact",
+    "final": "https://www.murkowski.senate.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.murkowski.senate.gov/contact/email/",
+    "final": "https://www.murkowski.senate.gov/contact/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.murkowski.senate.gov/contact/office-locations/",
+    "final": "https://www.murkowski.senate.gov/contact/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.murkowski.senate.gov/contact/staff-directory/",
+    "final": "https://www.murkowski.senate.gov/contact/staff-directory/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.murkowski.senate.gov",
+   "https://www.murkowski.senate.gov/contact/offices/",
+   "https://www.murkowski.senate.gov/offices/",
+   "https://www.murkowski.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+18778296030",
+   "+19073736532"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": [
+   "webmaster@sec.senate.gov"
+  ]
+ },
+ "S001198": {
+  "id": "S001198",
+  "name": "Dan Sullivan",
+  "seat": "Senator, AK",
+  "pages": [
+   {
+    "url": "https://www.sullivan.senate.gov",
+    "final": "https://www.sullivan.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.sullivan.senate.gov/contact/",
+    "final": "https://www.sullivan.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.sullivan.senate.gov/contact/offices/",
+    "final": "https://www.sullivan.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.sullivan.senate.gov/offices/",
+    "final": "https://www.sullivan.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.sullivan.senate.gov/office-locations/",
+    "final": "https://www.sullivan.senate.gov/contact/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.sullivan.senate.gov/contact/email",
+    "final": "https://www.sullivan.senate.gov/contact/email/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.sullivan.senate.gov/contact/office-locations/",
+    "final": "https://www.sullivan.senate.gov/contact/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.sullivan.senate.gov",
+   "https://www.sullivan.senate.gov/contact/offices/",
+   "https://www.sullivan.senate.gov/offices/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.sullivan.senate.gov/contact/email/",
+    "positive": [
+     "comment",
+     "concern",
+     "issue",
+     "legislation",
+     "topic"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "flag request",
+     "meeting request",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": [
+   "webmaster@sec.senate.gov"
+  ]
+ },
+ "B001323": {
+  "id": "B001323",
+  "name": "Nicholas J. Begich III",
+  "seat": "Representative, AK-0",
+  "pages": [
+   {
+    "url": "https://begich.house.gov",
+    "final": "https://begich.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://begich.house.gov/contact/email-me/",
+    "final": "https://begich.house.gov/zip_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://begich.house.gov/contact/",
+    "final": "https://begich.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://begich.house.gov/contact/office-locations/",
+    "final": "https://begich.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://begich.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://begich.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://begich.house.gov/contact/offices/fairbanks-office-0/",
+    "final": "https://begich.house.gov/contact/offices/fairbanks-office-0",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://begich.house.gov/contact/offices/anchorage-office/",
+    "final": "https://begich.house.gov/contact/offices/anchorage-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://begich.house.gov/contact/offices/",
+    "final": "https://begich.house.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://begich.house.gov/contact/offices/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+19072514560"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://begich.house.gov/zip_authentication?form=/contact/email-me",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "B001319": {
+  "id": "B001319",
+  "name": "Katie Boyd Britt",
+  "seat": "Senator, AL",
+  "pages": [
+   {
+    "url": "https://www.britt.senate.gov",
+    "final": "https://www.britt.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.britt.senate.gov/contact/",
+    "final": "https://www.britt.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.britt.senate.gov/contact/offices/",
+    "final": "https://www.britt.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.britt.senate.gov/offices/",
+    "final": "https://www.britt.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.britt.senate.gov/office-locations/",
+    "final": "https://www.britt.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.britt.senate.gov/contact/share-your-opinion/",
+    "final": "https://www.britt.senate.gov/contact/share-your-opinion/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.britt.senate.gov/contact/itemDataObject.url/",
+    "final": "https://www.britt.senate.gov/contact/itemDataObject.url/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.britt.senate.gov/contact/{{{data.link}}}/",
+    "final": "https://www.britt.senate.gov/contact/{{{data.link}}}/",
+    "status": 0,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.britt.senate.gov",
+   "https://www.britt.senate.gov/contact/offices/",
+   "https://www.britt.senate.gov/offices/",
+   "https://www.britt.senate.gov/office-locations/",
+   "https://www.britt.senate.gov/contact/itemDataObject.url/",
+   "https://www.britt.senate.gov/contact/{{{data.link}}}/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.britt.senate.gov/contact/share-your-opinion/",
+    "positive": [
+     "opinion",
+     "share your",
+     "topic",
+     "views"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": [
+   "webmaster@sec.senate.gov"
+  ]
+ },
+ "T000278": {
+  "id": "T000278",
+  "name": "Tommy Tuberville",
+  "seat": "Senator, AL",
+  "pages": [
+   {
+    "url": "https://www.tuberville.senate.gov",
+    "final": "https://www.tuberville.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.tuberville.senate.gov/contact/",
+    "final": "https://www.tuberville.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.tuberville.senate.gov/contact/offices/",
+    "final": "https://www.tuberville.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.tuberville.senate.gov/offices/",
+    "final": "https://www.tuberville.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.tuberville.senate.gov/office-locations/",
+    "final": "https://www.tuberville.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.tuberville.senate.gov/contact/contact-form/",
+    "final": "https://www.tuberville.senate.gov/contact-old/contact-form/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.tuberville.senate.gov/contact-old/contact-form/",
+    "final": "https://www.tuberville.senate.gov/contact-old/contact-form/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.tuberville.senate.gov/contact/{{{data.link}}}/",
+    "final": "https://www.tuberville.senate.gov/contact/{{{data.link}}}/",
+    "status": 0,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.tuberville.senate.gov",
+   "https://www.tuberville.senate.gov/contact/offices/",
+   "https://www.tuberville.senate.gov/offices/",
+   "https://www.tuberville.senate.gov/office-locations/",
+   "https://www.tuberville.senate.gov/contact/{{{data.link}}}/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 455 Russell Senate Office Building"
+  ],
+  "forms": [
+   {
+    "url": "https://www.tuberville.senate.gov/contact-old/contact-form/",
+    "positive": [
+     "issue",
+     "topic"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://www.tuberville.senate.gov/contact-old/contact-form/",
+    "positive": [
+     "issue",
+     "topic"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": [
+   "webmaster@sec.senate.gov"
+  ]
+ },
+ "M001212": {
+  "id": "M001212",
+  "name": "Barry Moore",
+  "seat": "Representative, AL-1",
+  "pages": [
+   {
+    "url": "https://barrymoore.house.gov",
+    "final": "https://barrymoore.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://barrymoore.house.gov/zip_authentication/",
+    "final": "https://barrymoore.house.gov/zip_authentication",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://barrymoore.house.gov/MobileOfficeHours/",
+    "final": "https://barrymoore.house.gov/MobileOfficeHours",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://barrymoore.house.gov/contact/",
+    "final": "https://barrymoore.house.gov/zip_authentication?form=/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://barrymoore.house.gov/contact/offices/",
+    "final": "https://barrymoore.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://barrymoore.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://barrymoore.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://barrymoore.house.gov/contact/offices/mobile-district-office/",
+    "final": "https://barrymoore.house.gov/contact/offices/mobile-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://barrymoore.house.gov/contact/offices/foley-district-office/",
+    "final": "https://barrymoore.house.gov/contact/offices/foley-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://barrymoore.house.gov/contact/offices/bay-minette-district-office/",
+    "final": "https://barrymoore.house.gov/contact/offices/bay-minette-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://barrymoore.house.gov/contact/offices/dothan-district-office/",
+    "final": "https://barrymoore.house.gov/contact/offices/dothan-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [
+   "+13344281129"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Andalusia, AL office: 505 E 3 Notch St, Suite 322"
+  ],
+  "forms": [
+   {
+    "url": "https://barrymoore.house.gov/zip_authentication",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://barrymoore.house.gov/zip_authentication?form=/contact",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "F000481": {
+  "id": "F000481",
+  "name": "Shomari Figures",
+  "seat": "Representative, AL-2",
+  "pages": [
+   {
+    "url": "https://figures.house.gov",
+    "final": "https://figures.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://figures.house.gov/contact/",
+    "final": "https://figures.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://figures.house.gov/contact/email-me/",
+    "final": "https://figures.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://figures.house.gov/contact/office-locations/",
+    "final": "https://figures.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://figures.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://figures.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://figures.house.gov/contact/offices/montgomery-0/",
+    "final": "https://figures.house.gov/contact/offices/montgomery-0",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://figures.house.gov/contact/offices/mobile-alabama-office/",
+    "final": "https://figures.house.gov/contact/offices/mobile-alabama-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Montgomery, AL office: 150 Dexter Ave",
+   "Mobile, AL office: 351 N. Broad St"
+  ],
+  "forms": [
+   {
+    "url": "https://figures.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "R000575": {
+  "id": "R000575",
+  "name": "Mike Rogers",
+  "seat": "Representative, AL-3",
+  "pages": [
+   {
+    "url": "https://mikerogers.house.gov",
+    "final": "https://mikerogers.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mikerogers.house.gov/contact/",
+    "final": "https://mikerogers.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://mikerogers.house.gov/forms/emailsignup/",
+    "final": "https://mikerogers.house.gov/contact/subscribe.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mikerogers.house.gov/contact/offices.htm",
+    "final": "https://mikerogers.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mikerogers.house.gov/office/mobile-office.htm",
+    "final": "https://mikerogers.house.gov/office/mobile-office.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://mikerogers.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "A000055": {
+  "id": "A000055",
+  "name": "Robert B. Aderholt",
+  "seat": "Representative, AL-4",
+  "pages": [
+   {
+    "url": "https://aderholt.house.gov",
+    "final": "https://aderholt.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://aderholt.house.gov/contact-robert/",
+    "final": "https://aderholt.house.gov/contact-robert",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://aderholt.house.gov/offices/",
+    "final": "https://aderholt.house.gov/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://aderholt.house.gov/contact-robert/write-me-about-a-policy-issue/",
+    "final": "https://aderholt.house.gov/address_authentication?form=/contact-robert/write-me-about-a-policy-issue",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://aderholt.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://aderholt.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://aderholt.house.gov/contact/offices/cullman-district-office/",
+    "final": "https://aderholt.house.gov/contact/offices/cullman-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://aderholt.house.gov/contact/offices/albertville-district-office/",
+    "final": "https://aderholt.house.gov/contact/offices/albertville-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://aderholt.house.gov/contact/offices/jasper-district-office/",
+    "final": "https://aderholt.house.gov/contact/offices/jasper-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://aderholt.house.gov/contact/offices/shoals-district-office/",
+    "final": "https://aderholt.house.gov/contact/offices/shoals-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+12565460201",
+   "+12567346034"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://aderholt.house.gov/address_authentication?form=/contact-robert/write-me-about-a-policy-issue",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "S001220": {
+  "id": "S001220",
+  "name": "Dale W. Strong",
+  "seat": "Representative, AL-5",
+  "pages": [
+   {
+    "url": "https://strong.house.gov",
+    "final": "https://strong.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://strong.house.gov/contact/",
+    "final": "https://strong.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://strong.house.gov/contact/offices/",
+    "final": "https://strong.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://strong.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://strong.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://strong.house.gov/contact/offices/decatur-district-office/",
+    "final": "https://strong.house.gov/contact/offices/decatur-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://strong.house.gov/contact/offices/huntsville-district-office/",
+    "final": "https://strong.house.gov/contact/offices/huntsville-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://strong.house.gov/contact/office-locations/",
+    "final": "https://strong.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://strong.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "P000609": {
+  "id": "P000609",
+  "name": "Gary J. Palmer",
+  "seat": "Representative, AL-6",
+  "pages": [
+   {
+    "url": "https://palmer.house.gov",
+    "final": "https://palmer.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://palmer.house.gov/contact/",
+    "final": "https://palmer.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://palmer.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://palmer.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://palmer.house.gov/contact/offices/millbrook-office/",
+    "final": "https://palmer.house.gov/contact/offices/millbrook-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://palmer.house.gov/contact/offices/birmingham-district-office/",
+    "final": "https://palmer.house.gov/contact/offices/birmingham-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://palmer.house.gov/contact/office-locations/",
+    "final": "https://palmer.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://palmer.house.gov/contact/offices/",
+    "final": "https://palmer.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+13346945140"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://palmer.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "S001185": {
+  "id": "S001185",
+  "name": "Terri A. Sewell",
+  "seat": "Representative, AL-7",
+  "pages": [
+   {
+    "url": "https://sewell.house.gov",
+    "final": "https://sewell.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sewell.house.gov/contact-me/",
+    "final": "https://sewell.house.gov/contact-me/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sewell.house.gov/email-me/",
+    "final": "https://sewell.house.gov/email-me/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://sewell.house.gov/index.cfm/",
+    "final": "https://sewell.house.gov/index.cfm/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sewell.house.gov/sign-up-for-email-updates/",
+    "final": "https://sewell.house.gov/sign-up-for-email-updates/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sewell.house.gov/shareyourstory/",
+    "final": "https://sewell.house.gov/shareyourstory/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Tuscaloosa, AL office: 2501 7th St., Suite 300"
+  ],
+  "forms": [
+   {
+    "url": "https://sewell.house.gov/email-me/",
+    "positive": [
+     "issue",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": [
+   "no-reply-cao-web@mail5.housecommunications.gov"
+  ]
+ },
+ "B001236": {
+  "id": "B001236",
+  "name": "John Boozman",
+  "seat": "Senator, AR",
+  "pages": [
+   {
+    "url": "https://www.boozman.senate.gov/public",
+    "final": "https://www.boozman.senate.gov/public/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.boozman.senate.gov/public/contact/",
+    "final": "https://www.boozman.senate.gov/public/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.boozman.senate.gov/public/contact/offices/",
+    "final": "https://www.boozman.senate.gov/public/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.boozman.senate.gov/public/offices/",
+    "final": "https://www.boozman.senate.gov/public/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.boozman.senate.gov/public/office-locations/",
+    "final": "https://www.boozman.senate.gov/public/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.boozman.senate.gov/public/index.cfm/contact",
+    "final": "https://www.boozman.senate.gov/public/index.cfm/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.boozman.senate.gov/public/index.cfm/e-mail-me/",
+    "final": "https://www.boozman.senate.gov/public/index.cfm/e-mail-me/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.boozman.senate.gov/public/index.cfm/office-locations/",
+    "final": "https://www.boozman.senate.gov/public/index.cfm/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.boozman.senate.gov/public",
+   "https://www.boozman.senate.gov/public/contact/offices/",
+   "https://www.boozman.senate.gov/public/offices/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.boozman.senate.gov/public/index.cfm/e-mail-me/",
+    "positive": [
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": [
+   "webmaster@sec.senate.gov"
+  ]
+ },
+ "C001095": {
+  "id": "C001095",
+  "name": "Tom Cotton",
+  "seat": "Senator, AR",
+  "pages": [
+   {
+    "url": "https://www.cotton.senate.gov",
+    "final": "https://www.cotton.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cotton.senate.gov/contact/",
+    "final": "https://www.cotton.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cotton.senate.gov/contact/offices/",
+    "final": "https://www.cotton.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cotton.senate.gov/offices/",
+    "final": "https://www.cotton.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cotton.senate.gov/office-locations/",
+    "final": "https://www.cotton.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cotton.senate.gov/contact/contact-tom",
+    "final": "https://www.cotton.senate.gov/contact/contact-tom/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.cotton.senate.gov/contact/fy27-ndaa-policy-request-form/",
+    "final": "https://www.cotton.senate.gov/contact/fy27-ndaa-policy-request-form/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.cotton.senate.gov",
+   "https://www.cotton.senate.gov/contact/offices/",
+   "https://www.cotton.senate.gov/offices/",
+   "https://www.cotton.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.cotton.senate.gov/contact/contact-tom/",
+    "positive": [
+     "comment",
+     "concern",
+     "issue",
+     "topic"
+    ],
+    "negative": [
+     "casework",
+     "flag request",
+     "tour request"
+    ]
+   },
+   {
+    "url": "https://www.cotton.senate.gov/contact/fy27-ndaa-policy-request-form/",
+    "positive": [],
+    "negative": [
+     "casework",
+     "flag request",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": [
+   "press_office@cotton.senate.gov",
+   "webmaster@sec.senate.gov"
+  ]
+ },
+ "C001087": {
+  "id": "C001087",
+  "name": "Eric A. \"Rick\" Crawford",
+  "seat": "Representative, AR-1",
+  "pages": [
+   {
+    "url": "https://crawford.house.gov",
+    "final": "https://crawford.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://crawford.house.gov/contact/",
+    "final": "https://crawford.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://crawford.house.gov/contact/email-me/",
+    "final": "https://crawford.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://crawford.house.gov/contact/office-locations/",
+    "final": "https://crawford.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://crawford.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://crawford.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://crawford.house.gov/contact/offices/jonesboro-district-office/",
+    "final": "https://crawford.house.gov/contact/offices/jonesboro-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://crawford.house.gov/contact/offices/cabot-district-office-0/",
+    "final": "https://crawford.house.gov/contact/offices/cabot-district-office-0",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://crawford.house.gov/contact/offices/mountain-home-district-office-1/",
+    "final": "https://crawford.house.gov/contact/offices/mountain-home-district-office-1",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+18704973268"
+  ],
+  "publishedAddressesNotFound": [
+   "Jonesboro, AR office: 2400 Highland Dr., Suite 300"
+  ],
+  "forms": [
+   {
+    "url": "https://crawford.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "H001072": {
+  "id": "H001072",
+  "name": "J. French Hill",
+  "seat": "Representative, AR-2",
+  "pages": [
+   {
+    "url": "https://hill.house.gov",
+    "final": "https://hill.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hill.house.gov/news/email/",
+    "final": "https://hill.house.gov/news/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hill.house.gov/contact/",
+    "final": "https://hill.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://hill.house.gov/forms/emailsignup/",
+    "final": "https://hill.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hill.house.gov/contact/officeinformation.htm",
+    "final": "https://hill.house.gov/contact/officeinformation.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hill.house.gov/news/email/show.aspx/",
+    "final": "https://hill.house.gov/email/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hill.house.gov/news/email/default.aspx/",
+    "final": "https://hill.house.gov/news/email/default.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://hill.house.gov/news/email/show.aspx/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://hill.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "W000809": {
+  "id": "W000809",
+  "name": "Steve Womack",
+  "seat": "Representative, AR-3",
+  "pages": [
+   {
+    "url": "https://womack.house.gov",
+    "final": "https://womack.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://womack.house.gov/audio/",
+    "final": "https://womack.house.gov/audio/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://womack.house.gov/Contact/",
+    "final": "https://womack.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://womack.house.gov/Contact/OfficeInformation.htm",
+    "final": "https://womack.house.gov/contact/officeinformation.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://womack.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "W000821": {
+  "id": "W000821",
+  "name": "Bruce Westerman",
+  "seat": "Representative, AR-4",
+  "pages": [
+   {
+    "url": "https://westerman.house.gov",
+    "final": "https://westerman.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://westerman.house.gov/contact/",
+    "final": "https://westerman.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://westerman.house.gov/contact/offices/",
+    "final": "https://westerman.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://westerman.house.gov/contact/sign-up-for-a-telephone-town-hall/",
+    "final": "https://westerman.house.gov/contact/sign-up-for-a-telephone-town-hall",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://westerman.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://westerman.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://westerman.house.gov/contact/offices/russellville-district-office/",
+    "final": "https://westerman.house.gov/contact/offices/russellville-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://westerman.house.gov/contact/offices/hot-springs-district-office/",
+    "final": "https://westerman.house.gov/contact/offices/hot-springs-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://westerman.house.gov/contact/offices/el-dorado-district-office/",
+    "final": "https://westerman.house.gov/contact/offices/el-dorado-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://westerman.house.gov/contact/offices/pine-bluff-district-office/",
+    "final": "https://westerman.house.gov/contact/offices/pine-bluff-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "R000600": {
+  "id": "R000600",
+  "name": "Aumua Amata Coleman Radewagen",
+  "seat": "Delegate, AS-0",
+  "pages": [
+   {
+    "url": "https://radewagen.house.gov",
+    "final": "https://radewagen.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://radewagen.house.gov/contact/",
+    "final": "https://radewagen.house.gov/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://radewagen.house.gov/contact/offices/",
+    "final": "https://radewagen.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://radewagen.house.gov/contact/offices/washington-dc-office-0/",
+    "final": "https://radewagen.house.gov/contact/offices/washington-dc-office-0",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://radewagen.house.gov/contact/offices/american-samoa-district-office/",
+    "final": "https://radewagen.house.gov/contact/offices/american-samoa-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://radewagen.house.gov/contact",
+    "positive": [
+     "concern",
+     "issue",
+     "legislation",
+     "opinion",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "G000574": {
+  "id": "G000574",
+  "name": "Ruben Gallego",
+  "seat": "Senator, AZ",
+  "pages": [
+   {
+    "url": "https://www.gallego.senate.gov",
+    "final": "https://www.gallego.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.gallego.senate.gov/contact/",
+    "final": "https://www.gallego.senate.gov/connect/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.gallego.senate.gov/contact/offices/",
+    "final": "https://www.gallego.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.gallego.senate.gov/offices/",
+    "final": "https://www.gallego.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.gallego.senate.gov/office-locations/",
+    "final": "https://www.gallego.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.gallego.senate.gov/connect/get-in-touch/",
+    "final": "https://www.gallego.senate.gov/connect/get-in-touch/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.gallego.senate.gov",
+   "https://www.gallego.senate.gov/contact/offices/",
+   "https://www.gallego.senate.gov/offices/",
+   "https://www.gallego.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+15207770400"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Tucson, AZ office: 20 East Ochoa Street"
+  ],
+  "forms": [
+   {
+    "url": "https://www.gallego.senate.gov/connect/get-in-touch/",
+    "positive": [
+     "concern",
+     "issue",
+     "share your",
+     "topic",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "meeting request"
+    ]
+   }
+  ],
+  "emails": [
+   "press@gallego.senate.gov",
+   "webmaster@sec.senate.gov"
+  ]
+ },
+ "K000377": {
+  "id": "K000377",
+  "name": "Mark Kelly",
+  "seat": "Senator, AZ",
+  "pages": [
+   {
+    "url": "https://www.kelly.senate.gov",
+    "final": "https://www.kelly.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.kelly.senate.gov/contact/",
+    "final": "https://www.kelly.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.kelly.senate.gov/contact/offices/",
+    "final": "https://www.kelly.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.kelly.senate.gov/offices/",
+    "final": "https://www.kelly.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.kelly.senate.gov/office-locations/",
+    "final": "https://www.kelly.senate.gov/?elementor_library=office-locations",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.kelly.senate.gov/contact/contact-form/",
+    "final": "https://www.kelly.senate.gov/contact/contact-form/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.kelly.senate.gov",
+   "https://www.kelly.senate.gov/contact/offices/",
+   "https://www.kelly.senate.gov/offices/",
+   "https://www.kelly.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 516 Hart Senate Office Building"
+  ],
+  "forms": [
+   {
+    "url": "https://www.kelly.senate.gov/contact/contact-form/",
+    "positive": [
+     "issue",
+     "share your",
+     "topic",
+     "voice"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": [
+   "webmaster@sec.senate.gov"
+  ]
+ },
+ "S001183": {
+  "id": "S001183",
+  "name": "David Schweikert",
+  "seat": "Representative, AZ-1",
+  "pages": [
+   {
+    "url": "https://schweikert.house.gov",
+    "final": "https://schweikert.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://schweikert.house.gov/contact/",
+    "final": "https://schweikert.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://schweikert.house.gov/email/",
+    "final": "https://schweikert.house.gov/email/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://schweikert.house.gov/offices/",
+    "final": "https://schweikert.house.gov/offices/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+12022242235",
+   "+12022244521"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://schweikert.house.gov/email/",
+    "positive": [
+     "concern",
+     "issue",
+     "legislation",
+     "opinion",
+     "voice"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "C001132": {
+  "id": "C001132",
+  "name": "Elijah Crane",
+  "seat": "Representative, AZ-2",
+  "pages": [
+   {
+    "url": "https://crane.house.gov",
+    "final": "https://crane.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://crane.house.gov/contact/",
+    "final": "https://crane.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://crane.house.gov/contact/offices/",
+    "final": "https://crane.house.gov/contact/offices/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+19286798525"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "A000381": {
+  "id": "A000381",
+  "name": "Yassamin Ansari",
+  "seat": "Representative, AZ-3",
+  "pages": [
+   {
+    "url": "https://ansari.house.gov",
+    "final": "https://ansari.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ansari.house.gov/contact/",
+    "final": "https://ansari.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ansari.house.gov/contact/email-me/",
+    "final": "https://ansari.house.gov/contact/email-me/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ansari.house.gov/contact/office-locations/",
+    "final": "https://ansari.house.gov/contact/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ansari.house.gov/contact/share-your-story/",
+    "final": "https://ansari.house.gov/contact/share-your-story/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Phoenix, AZ office: 3770 N 7th St, 100b"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "S001211": {
+  "id": "S001211",
+  "name": "Greg Stanton",
+  "seat": "Representative, AZ-4",
+  "pages": [
+   {
+    "url": "https://stanton.house.gov",
+    "final": "https://stanton.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://stanton.house.gov/contact/office-locations/",
+    "final": "https://stanton.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://stanton.house.gov/contact/",
+    "final": "https://stanton.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://stanton.house.gov/contact/write-to-me/",
+    "final": "https://stanton.house.gov/address_authentication?form=/contact/write-to-me",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://stanton.house.gov/contact/event-request/",
+    "final": "https://stanton.house.gov/contact/event-request",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://stanton.house.gov/contact/whistleblower-submissions/",
+    "final": "https://stanton.house.gov/contact/whistleblower-submissions",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://stanton.house.gov/contact/offices/mesa-district-office/",
+    "final": "https://stanton.house.gov/contact/offices/mesa-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://stanton.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://stanton.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://stanton.house.gov/contact/offices/office-hotline/",
+    "final": "https://stanton.house.gov/contact/offices/office-hotline",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+18336436114",
+   "+18573454702"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://stanton.house.gov/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://stanton.house.gov/address_authentication?form=/contact/write-to-me",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://stanton.house.gov/contact/event-request",
+    "positive": [
+     "issue",
+     "legislation",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "meeting request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ }
+}

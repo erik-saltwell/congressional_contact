@@ -1,0 +1,2572 @@
+{
+ "batch": "2026-11-05-full-13",
+ "createdAt": "2026-11-05",
+ "dataGeneratedAt": "2026-11-05T19:36:17Z",
+ "officials": {
+  "E000246": {
+   "seat": "Representative, NC-11",
+   "published": {
+    "name": {
+     "full": "Chuck Edwards",
+     "given": "Charles (Chuck)",
+     "family": "Edwards",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NC",
+    "district": 11,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256401",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1505 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3311",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Hendersonville, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18284357310",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "200 North Grove Street, Suite 121"
+       ],
+       "city": "Hendersonville",
+       "region": "NC",
+       "postalCode": "28792",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://edwards.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://edwards.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "A000370": {
+   "seat": "Representative, NC-12",
+   "published": {
+    "name": {
+     "full": "Alma S. Adams",
+     "given": "Alma",
+     "family": "Adams",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NC",
+    "district": 12,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022251510",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2436 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3312",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Charlotte, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17043449950",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "10815 David Taylor Dr., Suite 100"
+       ],
+       "city": "Charlotte",
+       "region": "NC",
+       "postalCode": "28262",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://adams.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://adams.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "K000405": {
+   "seat": "Representative, NC-13",
+   "published": {
+    "name": {
+     "full": "Brad Knott",
+     "given": "Brad",
+     "family": "Knott",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NC",
+    "district": 13,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254531",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1239 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3313",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Garner, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19842756150",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "12450 Cleveland Road, 203"
+       ],
+       "city": "Garner",
+       "region": "NC",
+       "postalCode": "27529",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://knott.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://knott.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001236": {
+   "seat": "Representative, NC-14",
+   "published": {
+    "name": {
+     "full": "Tim Moore",
+     "given": "Tim",
+     "family": "Moore",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NC",
+    "district": 14,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255634",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1424 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0001",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Gastonia, NC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19804608110",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "128 West Main Ave"
+       ],
+       "city": "Gastonia",
+       "region": "NC",
+       "postalCode": "28052",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://timmoore.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://timmoore.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001096": {
+   "seat": "Senator, ND",
+   "published": {
+    "name": {
+     "full": "Kevin Cramer",
+     "given": "Kevin",
+     "family": "Cramer",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "ND",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022242043",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "313 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bismarck, ND office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17012040500",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "328 Federal Building",
+        "220 E. Rosser Ave."
+       ],
+       "city": "Bismarck",
+       "region": "ND",
+       "postalCode": "58501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fargo, ND office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17012325094",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "306 Federal Building",
+        "657 Second Avenue N"
+       ],
+       "city": "Fargo",
+       "region": "ND",
+       "postalCode": "58102",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Grand Forks, ND office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17014024540",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "114 Federal Building",
+        "102 North 4th Street"
+       ],
+       "city": "Grand Forks",
+       "region": "ND",
+       "postalCode": "58203",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Minot, ND office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17018376141",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "105 Federal Building",
+        "100 First Street SW"
+       ],
+       "city": "Minot",
+       "region": "ND",
+       "postalCode": "58701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Williston, ND office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17014417230",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "125 Main Street, Suite #217"
+       ],
+       "city": "Williston",
+       "region": "ND",
+       "postalCode": "58801",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.cramer.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.cramer.senate.gov/contact/contact-kevin",
+    "website": "https://www.cramer.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001061": {
+   "seat": "Senator, ND",
+   "published": {
+    "name": {
+     "full": "John Hoeven",
+     "given": "John",
+     "family": "Hoeven",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "ND",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022242551",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "338 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bismarck, ND office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17012504618",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "U.S. Federal Building",
+        "220 E. Rosser Ave., Room 312"
+       ],
+       "city": "Bismarck",
+       "region": "ND",
+       "postalCode": "58501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fargo, ND office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17012395389",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "123 Broadway North, Suite 201"
+       ],
+       "city": "Fargo",
+       "region": "ND",
+       "postalCode": "58102",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Grand Forks, ND office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17017468972",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Federal Building",
+        "102 N. Fourth St., Room 108"
+       ],
+       "city": "Grand Forks",
+       "region": "ND",
+       "postalCode": "58203",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Minot, ND office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17018381361",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "100 1st St. SW, Suite 107"
+       ],
+       "city": "Minot",
+       "region": "ND",
+       "postalCode": "58701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Watford City, ND office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17016092727",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "204 N. Main St., #516"
+       ],
+       "city": "Watford City",
+       "region": "ND",
+       "postalCode": "58854",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.hoeven.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.hoeven.senate.gov/contact/contact-the-senator",
+    "website": "https://www.hoeven.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "F000482": {
+   "seat": "Representative, ND-0",
+   "published": {
+    "name": {
+     "full": "Julie Fedorchak",
+     "given": "Julie",
+     "family": "Fedorchak",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "ND",
+    "district": 0,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252611",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1607 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3400",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bismarck, ND office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17013546700",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "U.S. Federal Building",
+        "220 E Rosser Ave, Room 228"
+       ],
+       "city": "Bismarck",
+       "region": "ND",
+       "postalCode": "58501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fargo, ND office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17013536665",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3217 Fiechtner Dr, Suite B"
+       ],
+       "city": "Fargo",
+       "region": "ND",
+       "postalCode": "58103",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://fedorchak.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://fedorchak.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "F000463": {
+   "seat": "Senator, NE",
+   "published": {
+    "name": {
+     "full": "Deb Fischer",
+     "given": "Deb",
+     "family": "Fischer",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "NE",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022246551",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "448 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Kearney, NE office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13082342361",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "20 W. 23rd St."
+       ],
+       "city": "Kearney",
+       "region": "NE",
+       "postalCode": "68847",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Omaha, NE office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14023913411",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "11819 Miracle Hills Drive, Suite 205"
+       ],
+       "city": "Omaha",
+       "region": "NE",
+       "postalCode": "68154",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Scottsbluff, NE office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13086302329",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "120 East 16th St., Suite 203"
+       ],
+       "city": "Scottsbluff",
+       "region": "NE",
+       "postalCode": "69361",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lincoln, NE office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14024414600",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1248 O Street, Suite #1111"
+       ],
+       "city": "Lincoln",
+       "region": "NE",
+       "postalCode": "68508",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.fischer.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.fischer.senate.gov/public/index.cfm/contact",
+    "website": "https://www.fischer.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "R000618": {
+   "seat": "Senator, NE",
+   "published": {
+    "name": {
+     "full": "Pete Ricketts",
+     "given": "Pete",
+     "family": "Ricketts",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "NE",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022244224",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "139 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Omaha, NE office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14025508040",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "304 N. 168th Circle, Suite 213"
+       ],
+       "city": "Omaha",
+       "region": "NE",
+       "postalCode": "68118",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lincoln, NE office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14024761400",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1248 ‘O’ St., Suite 1000"
+       ],
+       "city": "Lincoln",
+       "region": "NE",
+       "postalCode": "68508",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Kearney, NE office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13082333677",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4111 4th Ave., Suite 26"
+       ],
+       "city": "Kearney",
+       "region": "NE",
+       "postalCode": "68845",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Scottsbluff, NE office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13086326032",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "115 Railway St., Suite C102"
+       ],
+       "city": "Scottsbluff",
+       "region": "NE",
+       "postalCode": "69361",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.ricketts.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.ricketts.senate.gov/contact/",
+    "website": "https://www.ricketts.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "F000474": {
+   "seat": "Representative, NE-1",
+   "published": {
+    "name": {
+     "full": "Mike Flood",
+     "given": "Mike",
+     "family": "Flood",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NE",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254806",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "343 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lincoln, NE office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14024381598",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "301 South 13th Street, Suite 100"
+       ],
+       "city": "Lincoln",
+       "region": "NE",
+       "postalCode": "68508",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://flood.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://flood.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001298": {
+   "seat": "Representative, NE-2",
+   "published": {
+    "name": {
+     "full": "Don Bacon",
+     "given": "Don",
+     "family": "Bacon",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NE",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254155",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2104 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2702",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Omaha, NE office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14029380300",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "13906 Gold Circle, Suite 101"
+       ],
+       "city": "Omaha",
+       "region": "NE",
+       "postalCode": "68144",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Wahoo, NE office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14026070077",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "543 Linden Street"
+       ],
+       "city": "Wahoo",
+       "region": "NE",
+       "postalCode": "68066",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://bacon.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://bacon.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001172": {
+   "seat": "Representative, NE-3",
+   "published": {
+    "name": {
+     "full": "Adrian Smith",
+     "given": "Adrian",
+     "family": "Smith",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NE",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256435",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "502 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2703",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Grand Island, NE office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13083843900",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1811 W. Second St., Suite 275"
+       ],
+       "city": "Grand Island",
+       "region": "NE",
+       "postalCode": "68803",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Scottsbluff, NE office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13086336333",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "416 Valley View Dr., Suite 600"
+       ],
+       "city": "Scottsbluff",
+       "region": "NE",
+       "postalCode": "69361",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Nebraska City, NE office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14028746050",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "202 South 8th Street, Suite A"
+       ],
+       "city": "Nebraska City",
+       "region": "NE",
+       "postalCode": "68410",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://adriansmith.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://adriansmith.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001076": {
+   "seat": "Senator, NH",
+   "published": {
+    "name": {
+     "full": "Margaret Wood Hassan",
+     "given": "Maggie",
+     "family": "Hassan",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "NH",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022243324",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "324 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Berlin, NH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16037526190",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Berlin City Hall",
+        "168 Main Street, Lower Level"
+       ],
+       "city": "Berlin",
+       "region": "NH",
+       "postalCode": "03570",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Manchester, NH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16036222204",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1589 Elm Street, Third Floor"
+       ],
+       "city": "Manchester",
+       "region": "NH",
+       "postalCode": "03101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Portsmouth, NH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16034334445",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "14 Manchester Square, Suite 281"
+       ],
+       "city": "Portsmouth",
+       "region": "NH",
+       "postalCode": "03801",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Concord, NH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16036222204",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "James C. Cleveland Federal Building",
+        "53 Pleasant Street"
+       ],
+       "city": "Concord",
+       "region": "NH",
+       "postalCode": "03301",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.hassan.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.hassan.senate.gov/content/contact-senator",
+    "website": "https://www.hassan.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001181": {
+   "seat": "Senator, NH",
+   "published": {
+    "name": {
+     "full": "Jeanne Shaheen",
+     "given": "Jeanne",
+     "family": "Shaheen",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "NH",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022242841",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "506 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Berlin, NH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16037526300",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "961 Main St."
+       ],
+       "city": "Berlin",
+       "region": "NH",
+       "postalCode": "03570",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Claremont, NH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16035424872",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "50 Opera House Sq."
+       ],
+       "city": "Claremont",
+       "region": "NH",
+       "postalCode": "03743",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Dover, NH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16037503004",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "340 Central Ave., Suite 205"
+       ],
+       "city": "Dover",
+       "region": "NH",
+       "postalCode": "03820",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Keene, NH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16033586604",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "12 Gilbo Ave., Suite C"
+       ],
+       "city": "Keene",
+       "region": "NH",
+       "postalCode": "03431",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Manchester, NH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16036477500",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2 Wall St., Suite 220"
+       ],
+       "city": "Manchester",
+       "region": "NH",
+       "postalCode": "03101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Nashua, NH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16038830196",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "60 Main St., Suite 217"
+       ],
+       "city": "Nashua",
+       "region": "NH",
+       "postalCode": "03060",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.shaheen.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.shaheen.senate.gov/contact/contact-jeanne",
+    "website": "https://www.shaheen.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "P000614": {
+   "seat": "Representative, NH-1",
+   "published": {
+    "name": {
+     "full": "Chris Pappas",
+     "given": "Chris",
+     "family": "Pappas",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NH",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255456",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "452 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Dover, NH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16032854300",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "660 Central Ave, Suite 101"
+       ],
+       "city": "Dover",
+       "region": "NH",
+       "postalCode": "03820-3491",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Manchester, NH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16039356710",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "889 Elm Street"
+       ],
+       "city": "Manchester",
+       "region": "NH",
+       "postalCode": "03101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "North Conway, NH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16037335100",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Building 1",
+        "2541 White Mountain Highway, Unit 4"
+       ],
+       "city": "North Conway",
+       "region": "NH",
+       "postalCode": "03860",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://pappas.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://pappas.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000604": {
+   "seat": "Representative, NH-2",
+   "published": {
+    "name": {
+     "full": "Maggie Goodlander",
+     "given": "Maggie",
+     "family": "Goodlander",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NH",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255206",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "223 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2902",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Concord, NH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16032261002",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "18 North Main St, 4th Floor"
+       ],
+       "city": "Concord",
+       "region": "NH",
+       "postalCode": "03301",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Nashua, NH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16035952006",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "184 Main St, Suite 222"
+       ],
+       "city": "Nashua",
+       "region": "NH",
+       "postalCode": "03060",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Littleton, NH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16034447700",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "33 Main St, Suite 202"
+       ],
+       "city": "Littleton",
+       "region": "NH",
+       "postalCode": "03561",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://goodlander.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://goodlander.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001288": {
+   "seat": "Senator, NJ",
+   "published": {
+    "name": {
+     "full": "Cory A. Booker",
+     "given": "Cory",
+     "family": "Booker",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "NJ",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022243224",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "306 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Newark, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19736398700",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "One Gateway Center, 23rd Floor"
+       ],
+       "city": "Newark",
+       "region": "NJ",
+       "postalCode": "07102",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Camden, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18563388922",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "401 Market St., Suite 240"
+       ],
+       "city": "Camden",
+       "region": "NJ",
+       "postalCode": "08102",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.booker.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.booker.senate.gov/?p=contact",
+    "website": "https://www.booker.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "K000394": {
+   "seat": "Senator, NJ",
+   "published": {
+    "name": {
+     "full": "Andy Kim",
+     "given": "Andy",
+     "family": "Kim",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "NJ",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022244744",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "520 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Barrington, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18567575353",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "208 White Horse Pike, Suite 18"
+       ],
+       "city": "Barrington",
+       "region": "NJ",
+       "postalCode": "08007",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Jersey City, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12013770900",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Harborside 3",
+        "210 Hudson Street, Suite 1000"
+       ],
+       "city": "Jersey City",
+       "region": "NJ",
+       "postalCode": "07311",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.kim.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://www.kim.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "N000188": {
+   "seat": "Representative, NJ-1",
+   "published": {
+    "name": {
+     "full": "Donald Norcross",
+     "given": "Donald",
+     "family": "Norcross",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NJ",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256501",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2427 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3001",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cherry Hill, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18564277000",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "10 Melrose Ave., Suite 210"
+       ],
+       "city": "Cherry Hill",
+       "region": "NJ",
+       "postalCode": "08003",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Camden, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18564277000",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "200 Federal St., 5th Floor"
+       ],
+       "city": "Camden",
+       "region": "NJ",
+       "postalCode": "08103",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://norcross.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://norcross.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "V000133": {
+   "seat": "Representative, NJ-2",
+   "published": {
+    "name": {
+     "full": "Jefferson Van Drew",
+     "given": "Jefferson",
+     "family": "Van Drew",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NJ",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256572",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2447 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3002",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Northfield, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16096255008",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1001 Tilton Road, Suite 101"
+       ],
+       "city": "Northfield",
+       "region": "NJ",
+       "postalCode": "08225",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://vandrew.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://vandrew.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001136": {
+   "seat": "Representative, NJ-3",
+   "published": {
+    "name": {
+     "full": "Herbert C. Conaway, Jr.",
+     "given": "Herbert",
+     "family": "Conaway",
+     "suffix": "Jr."
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NJ",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254765",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1022 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3003",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Trenton, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16094386290",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4573 S Broad Street"
+       ],
+       "city": "Trenton",
+       "region": "NJ",
+       "postalCode": "08620",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://conaway.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://conaway.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S000522": {
+   "seat": "Representative, NJ-4",
+   "published": {
+    "name": {
+     "full": "Christopher H. Smith",
+     "given": "Chris",
+     "family": "Smith",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NJ",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253765",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2373 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3004",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Middletown, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17327803035",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1715 Highway 35 North, Suite 303"
+       ],
+       "city": "Middletown",
+       "region": "NJ",
+       "postalCode": "07748",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Toms River, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17325040567",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "P.O. Box 728",
+        "33 Washington Street"
+       ],
+       "city": "Toms River",
+       "region": "NJ",
+       "postalCode": "08754",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://chrissmith.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://chrissmith.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000583": {
+   "seat": "Representative, NJ-5",
+   "published": {
+    "name": {
+     "full": "Josh Gottheimer",
+     "given": "Josh",
+     "family": "Gottheimer",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NJ",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254465",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "106 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3005",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Newton, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19739401117",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "93 Spring St., Suite 408"
+       ],
+       "city": "Newton",
+       "region": "NJ",
+       "postalCode": "07860",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Ringwood, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19738144076",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "60 Margaret King Ave."
+       ],
+       "city": "Ringwood",
+       "region": "NJ",
+       "postalCode": "07456",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Hackensack, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19738144076",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "65 Central Ave"
+       ],
+       "city": "Hackensack",
+       "region": "NJ",
+       "postalCode": "07601",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Vernon Township, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19738144076",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "21 Church St."
+       ],
+       "city": "Vernon Township",
+       "region": "NJ",
+       "postalCode": "07462",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fort Lee, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19738144076",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "309 Main St, 2nd Floor"
+       ],
+       "city": "Fort Lee",
+       "region": "NJ",
+       "postalCode": "07024",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fair Lawn, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12013891100",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "21-00 NJ 208 S, Suite 240"
+       ],
+       "city": "Fair Lawn",
+       "region": "NJ",
+       "postalCode": "07410",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Englewood, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19738144076",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2-10 North Van Brunt St."
+       ],
+       "city": "Englewood",
+       "region": "NJ",
+       "postalCode": "07631",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://gottheimer.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://gottheimer.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "P000034": {
+   "seat": "Representative, NJ-6",
+   "published": {
+    "name": {
+     "full": "Frank Pallone, Jr.",
+     "given": "Frank",
+     "family": "Pallone",
+     "suffix": "Jr."
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NJ",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254671",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2107 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3006",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Long Branch, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17325711140",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "504 Broadway"
+       ],
+       "city": "Long Branch",
+       "region": "NJ",
+       "postalCode": "07740",
+       "country": "US"
+      }
+     },
+     {
+      "label": "New Brunswick, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17322498892",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "67/69 Church St."
+       ],
+       "city": "New Brunswick",
+       "region": "NJ",
+       "postalCode": "08901",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://pallone.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://pallone.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "K000398": {
+   "seat": "Representative, NJ-7",
+   "published": {
+    "name": {
+     "full": "Thomas H. Kean, Jr.",
+     "given": "Thomas",
+     "family": "Kean",
+     "suffix": "Jr."
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NJ",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255361",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "251 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3007",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Mountainside, NJ office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "Mountainside Borough Hall",
+        "1385 US Highway 22 East"
+       ],
+       "city": "Mountainside",
+       "region": "NJ",
+       "postalCode": "07092",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Budd Lake, NJ office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "Mount Olive Township Municipal Building",
+        "204 Flanders-Drakestown Road, Municipal Council Chambers"
+       ],
+       "city": "Budd Lake",
+       "region": "NJ",
+       "postalCode": "07828",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Hopatcong, NJ office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "Hopatcong Borough Municipal Building",
+        "111 River Styx Road"
+       ],
+       "city": "Hopatcong",
+       "region": "NJ",
+       "postalCode": "07843",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bernardsville, NJ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19085473307",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "75 Claremont Road, Suite 206"
+       ],
+       "city": "Bernardsville",
+       "region": "NJ",
+       "postalCode": "07924",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Flemington, NJ office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "Hunterdon County Admin. Building",
+        "71 Main St, Building 1, Second Floor Executive Meeting"
+       ],
+       "city": "Flemington",
+       "region": "NJ",
+       "postalCode": "08822",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Washington, NJ office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "100 Belvidere Avenue, Second Floor Council Chambers"
+       ],
+       "city": "Washington",
+       "region": "NJ",
+       "postalCode": "07882",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://kean.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://kean.house.gov"
+   },
+   "currentSupplement": null
+  }
+ }
+}

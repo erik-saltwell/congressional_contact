@@ -1,0 +1,2607 @@
+{
+ "batch": "2026-11-05-full-09",
+ "createdAt": "2026-11-05",
+ "dataGeneratedAt": "2026-11-05T19:36:17Z",
+ "officials": {
+  "E000298": {
+   "seat": "Representative, KS-4",
+   "published": {
+    "name": {
+     "full": "Ron Estes",
+     "given": "Ron",
+     "family": "Estes",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "KS",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256216",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2234 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1604",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Wichita, KS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13162628992",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "7701 E. Kellogg, Ste. 510"
+       ],
+       "city": "Wichita",
+       "region": "KS",
+       "postalCode": "67207",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://estes.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://estes.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M000355": {
+   "seat": "Senator, KY",
+   "published": {
+    "name": {
+     "full": "Mitch McConnell",
+     "given": "Mitch",
+     "family": "McConnell",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "KY",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022242541",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "317 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bowling Green, KY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12707811673",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Federal Building",
+        "241 E. Main St., Room 102"
+       ],
+       "city": "Bowling Green",
+       "region": "KY",
+       "postalCode": "42101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fort Wright, KY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18595780188",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1885 Dixie Hwy., Suite 345"
+       ],
+       "city": "Fort Wright",
+       "region": "KY",
+       "postalCode": "41011",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lexington, KY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18592248286",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "771 Corporate Dr., Suite 108"
+       ],
+       "city": "Lexington",
+       "region": "KY",
+       "postalCode": "40503",
+       "country": "US"
+      }
+     },
+     {
+      "label": "London, KY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16068642026",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "300 S. Main St., Suite 310"
+       ],
+       "city": "London",
+       "region": "KY",
+       "postalCode": "40741",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Louisville, KY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15025826304",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "601 W. Broadway, Room 630"
+       ],
+       "city": "Louisville",
+       "region": "KY",
+       "postalCode": "40202",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Paducah, KY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12704424554",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "501 Broadway Street, Suite B36"
+       ],
+       "city": "Paducah",
+       "region": "KY",
+       "postalCode": "42001",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.mcconnell.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.mcconnell.senate.gov/public/index.cfm?p=contact",
+    "website": "https://www.mcconnell.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "P000603": {
+   "seat": "Senator, KY",
+   "published": {
+    "name": {
+     "full": "Rand Paul",
+     "given": "Rand",
+     "family": "Paul",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "KY",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022244343",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "295 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bowling Green, KY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12707828303",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "563 Hub Boulevard, Suite 201"
+       ],
+       "city": "Bowling Green",
+       "region": "KY",
+       "postalCode": "42103",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.paul.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.paul.senate.gov/connect/email-rand",
+    "website": "https://www.paul.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001108": {
+   "seat": "Representative, KY-1",
+   "published": {
+    "name": {
+     "full": "James Comer",
+     "given": "James",
+     "family": "Comer",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "KY",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253115",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2410 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Paducah, KY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12704081865",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "300 S. 3rd St."
+       ],
+       "city": "Paducah",
+       "region": "KY",
+       "postalCode": "42003",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tompkinsville, KY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12704879509",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "200 N. Main St., Suite F"
+       ],
+       "city": "Tompkinsville",
+       "region": "KY",
+       "postalCode": "42167",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Madisonville, KY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12704879509",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "67 North Main St."
+       ],
+       "city": "Madisonville",
+       "region": "KY",
+       "postalCode": "42431",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Danville, KY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18594395844",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "141 N. 3rd Street, Suite 5"
+       ],
+       "city": "Danville",
+       "region": "KY",
+       "postalCode": "40422",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://comer.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://comer.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000558": {
+   "seat": "Representative, KY-2",
+   "published": {
+    "name": {
+     "full": "Brett Guthrie",
+     "given": "Brett",
+     "family": "Guthrie",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "KY",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253501",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2161 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1702",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bowling Green, KY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12708429896",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "996 Wilkinson Trce., Suite B2"
+       ],
+       "city": "Bowling Green",
+       "region": "KY",
+       "postalCode": "42103",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Owensboro, KY office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "2200 Airport Rd."
+       ],
+       "city": "Owensboro",
+       "region": "KY",
+       "postalCode": "42301",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Radcliff, KY office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "411 W. Lincoln Trail Blvd."
+       ],
+       "city": "Radcliff",
+       "region": "KY",
+       "postalCode": "40160",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://guthrie.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://guthrie.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001220": {
+   "seat": "Representative, KY-3",
+   "published": {
+    "name": {
+     "full": "Morgan McGarvey",
+     "given": "Morgan",
+     "family": "McGarvey",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "KY",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255401",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1527 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1703",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Louisville, KY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15025825129",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Romano L. Mazzoli Federal Building",
+        "600 Dr Martin Luther King Jr Pl, Suite 216"
+       ],
+       "city": "Louisville",
+       "region": "KY",
+       "postalCode": "40202",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mcgarvey.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mcgarvey.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001184": {
+   "seat": "Representative, KY-4",
+   "published": {
+    "name": {
+     "full": "Thomas Massie",
+     "given": "Thomas",
+     "family": "Massie",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "KY",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253465",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2371 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1704",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Crescent Springs, KY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18594260080",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "541 Buttermilk Pike, Suite 208"
+       ],
+       "city": "Crescent Springs",
+       "region": "KY",
+       "postalCode": "41017",
+       "country": "US"
+      }
+     },
+     {
+      "label": "LaGrange, KY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15022659119",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "110 W. Jefferson St., Suite 100"
+       ],
+       "city": "LaGrange",
+       "region": "KY",
+       "postalCode": "40031",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://massie.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://massie.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "R000395": {
+   "seat": "Representative, KY-5",
+   "published": {
+    "name": {
+     "full": "Harold Rogers",
+     "given": "Hal",
+     "family": "Rogers",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "KY",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254601",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2406 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1705",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Hazard, KY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16064390794",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "48 S. KY Hwy. 15"
+       ],
+       "city": "Hazard",
+       "region": "KY",
+       "postalCode": "41701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Prestonsburg, KY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16068860844",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "110 Resource Ct., Suite A"
+       ],
+       "city": "Prestonsburg",
+       "region": "KY",
+       "postalCode": "41653",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Somerset, KY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18006328588",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "551 Clifty St."
+       ],
+       "city": "Somerset",
+       "region": "KY",
+       "postalCode": "42503",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Ashland, KY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16064676211",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "341 16th Street"
+       ],
+       "city": "Ashland",
+       "region": "KY",
+       "postalCode": "41101",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://halrogers.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://halrogers.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001282": {
+   "seat": "Representative, KY-6",
+   "published": {
+    "name": {
+     "full": "Andy Barr",
+     "given": "Andy",
+     "family": "Barr",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "KY",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254706",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2430 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1706",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lexington, KY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18592191366",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2709 Old Rosebud Rd., Ste. 100"
+       ],
+       "city": "Lexington",
+       "region": "KY",
+       "postalCode": "40509",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://barr.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://barr.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001075": {
+   "seat": "Senator, LA",
+   "published": {
+    "name": {
+     "full": "Bill Cassidy",
+     "given": "Bill",
+     "family": "Cassidy",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "LA",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022245824",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "455 Dirksen Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lafayette, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13372611400",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "101 La Rue France, Suite 505"
+       ],
+       "city": "Lafayette",
+       "region": "LA",
+       "postalCode": "70508",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Metairie, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15048380130",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3421 N. Causeway Blvd., Suite 204"
+       ],
+       "city": "Metairie",
+       "region": "LA",
+       "postalCode": "70002",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Monroe, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13183242111",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1651 Louisville Ave., Suite 123"
+       ],
+       "city": "Monroe",
+       "region": "LA",
+       "postalCode": "70201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lake Charles, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13376027253",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "611 Broad St., Suite 117"
+       ],
+       "city": "Lake Charles",
+       "region": "LA",
+       "postalCode": "70601",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Baton Rouge, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12259297711",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "450 Laurel St., Suite 1400"
+       ],
+       "city": "Baton Rouge",
+       "region": "LA",
+       "postalCode": "70801",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Shreveport, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13187983215",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "401 Market St, Suite 1018"
+       ],
+       "city": "Shreveport",
+       "region": "LA",
+       "postalCode": "71101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Alexandria, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13184487176",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1611 Arnold Drive, Suite 112"
+       ],
+       "city": "Alexandria",
+       "region": "LA",
+       "postalCode": "71303",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.cassidy.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.cassidy.senate.gov/contact",
+    "website": "https://www.cassidy.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "K000393": {
+   "seat": "Senator, LA",
+   "published": {
+    "name": {
+     "full": "John Kennedy",
+     "given": "John",
+     "family": "Kennedy",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "LA",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022244623",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "437 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Alexandria, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13184452892",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "England Airpark",
+        "1611 Arnold Drive, Suite 126"
+       ],
+       "city": "Alexandria",
+       "region": "LA",
+       "postalCode": "71303",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Baton Rouge, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12259268033",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "7932 Wrenwood Blvd, Suite A & B"
+       ],
+       "city": "Baton Rouge",
+       "region": "LA",
+       "postalCode": "70809",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Houma, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19858510956",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Government Towers",
+        "8026 Main St, Suite 700"
+       ],
+       "city": "Houma",
+       "region": "LA",
+       "postalCode": "70360",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Mandeville, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19858098153",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Building A",
+        "21490 Koop Dr."
+       ],
+       "city": "Mandeville",
+       "region": "LA",
+       "postalCode": "70471",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Monroe, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13183611489",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1651 Louisville Ave., Suite 148"
+       ],
+       "city": "Monroe",
+       "region": "LA",
+       "postalCode": "71201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "New Orleans, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15045816190",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "500 Poydras St., Suite 364"
+       ],
+       "city": "New Orleans",
+       "region": "LA",
+       "postalCode": "70113",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Shreveport, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13186705192",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "401 Market St., Suite 1050"
+       ],
+       "city": "Shreveport",
+       "region": "LA",
+       "postalCode": "71101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lafayette, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13372695980",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "315 S. College Road, Suite 140"
+       ],
+       "city": "Lafayette",
+       "region": "LA",
+       "postalCode": "70503",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lake Charles, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13375736800",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "814 West McNeese Street, Suite 213"
+       ],
+       "city": "Lake Charles",
+       "region": "LA",
+       "postalCode": "70605",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.kennedy.senate.gov/public"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.kennedy.senate.gov/public/email-me",
+    "website": "https://www.kennedy.senate.gov/public"
+   },
+   "currentSupplement": null
+  },
+  "S001176": {
+   "seat": "Representative, LA-1",
+   "published": {
+    "name": {
+     "full": "Steve Scalise",
+     "given": "Steve",
+     "family": "Scalise",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "LA",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253015",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "266 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1801",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Mandeville, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19858939064",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "21454 Koop Drive, Suite 2C"
+       ],
+       "city": "Mandeville",
+       "region": "LA",
+       "postalCode": "70471",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Metairie, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15048371259",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "111 Veterans Memorial Blvd, Suite 803"
+       ],
+       "city": "Metairie",
+       "region": "LA",
+       "postalCode": "70005",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Ponchatoula, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19853402185",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "City Hall Annex Building",
+        "110 West Hickory Street"
+       ],
+       "city": "Ponchatoula",
+       "region": "LA",
+       "postalCode": "70454",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Raceland, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19858792300",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4876 LA-1, Suite 117"
+       ],
+       "city": "Raceland",
+       "region": "LA",
+       "postalCode": "70394",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://scalise.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://scalise.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001125": {
+   "seat": "Representative, LA-2",
+   "published": {
+    "name": {
+     "full": "Troy A. Carter",
+     "given": "Troy",
+     "family": "Carter",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "LA",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256636",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "442 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1802",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Gretna, LA office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "Gretna Courthouse",
+        "200 Derbigny St, Suite 3200"
+       ],
+       "city": "Gretna",
+       "region": "LA",
+       "postalCode": "70053",
+       "country": "US"
+      }
+     },
+     {
+      "label": "New Orleans, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15043813970",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3401 General DeGaulle Dr, Suite 100"
+       ],
+       "city": "New Orleans",
+       "region": "LA",
+       "postalCode": "70114",
+       "country": "US"
+      }
+     },
+     {
+      "label": "New Orleans, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15042883777",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "650 Poydras St, Suite 2525"
+       ],
+       "city": "New Orleans",
+       "region": "LA",
+       "postalCode": "70130",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Baton Rouge, LA office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "T.H. Harris Hall",
+        "801 Harding Blvd"
+       ],
+       "city": "Baton Rouge",
+       "region": "LA",
+       "postalCode": "70807",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Gonzales, LA office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "Ascension Parish Government Bldg",
+        "615 E. Worthy St, Rm 107"
+       ],
+       "city": "Gonzales",
+       "region": "LA",
+       "postalCode": "70737",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Gonzales, LA office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "River Parishes Community College Gonzales Technical Training Center",
+        "925 W. Edenborne Pkwy, Room T117"
+       ],
+       "city": "Gonzales",
+       "region": "LA",
+       "postalCode": "70737",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://troycarter.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://troycarter.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001077": {
+   "seat": "Representative, LA-3",
+   "published": {
+    "name": {
+     "full": "Clay Higgins",
+     "given": "Clay",
+     "family": "Higgins",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "LA",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252031",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "572 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1803",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lafayette, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13377036105",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Chase Building",
+        "600 Jefferson Street, Suite 808"
+       ],
+       "city": "Lafayette",
+       "region": "LA",
+       "postalCode": "70501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lake Charles, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13376562833",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1625 Ryan Street, Suite C"
+       ],
+       "city": "Lake Charles",
+       "region": "LA",
+       "postalCode": "70601",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://clayhiggins.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://clayhiggins.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "J000299": {
+   "seat": "Representative, LA-4",
+   "published": {
+    "name": {
+     "full": "Mike Johnson",
+     "given": "Mike",
+     "family": "Johnson",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "LA",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252777",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "521 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1804",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bossier City, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13188400309",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2250 Hospital Dr., Suite 248"
+       ],
+       "city": "Bossier City",
+       "region": "LA",
+       "postalCode": "71111",
+       "country": "US"
+      }
+     },
+     {
+      "label": "DeRidder, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13372266385",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "401 W. First Street, Room 33"
+       ],
+       "city": "DeRidder",
+       "region": "LA",
+       "postalCode": "70634",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Leesville, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13374234232",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Building 552",
+        "3329 University Parkway, Room 24"
+       ],
+       "city": "Leesville",
+       "region": "LA",
+       "postalCode": "71446",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mikejohnson.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mikejohnson.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000595": {
+   "seat": "Representative, LA-5",
+   "published": {
+    "name": {
+     "full": "Julia Letlow",
+     "given": "Julia",
+     "family": "Letlow",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "LA",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022258490",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "142 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1805",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Amite, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19852845200",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "109 E. Oak Street"
+       ],
+       "city": "Amite",
+       "region": "LA",
+       "postalCode": "70422",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Monroe, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13185706440",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1900 North 18th Street, Suite 501"
+       ],
+       "city": "Monroe",
+       "region": "LA",
+       "postalCode": "71201",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://letlow.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://letlow.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "F000110": {
+   "seat": "Representative, LA-6",
+   "published": {
+    "name": {
+     "full": "Cleo Fields",
+     "given": "Cleo",
+     "family": "Fields",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "LA",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253901",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2349 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1806",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Baton Rouge, LA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12259521965",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "700 North 10th St, Fourth Floor"
+       ],
+       "city": "Baton Rouge",
+       "region": "LA",
+       "postalCode": "70802",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Shreveport, LA office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "610 Texas St, 4th Floor, Suites 12-13"
+       ],
+       "city": "Shreveport",
+       "region": "LA",
+       "postalCode": "71101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Opelousas, LA office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "1310 S Union St., Suite 4"
+       ],
+       "city": "Opelousas",
+       "region": "LA",
+       "postalCode": "70570",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://fields.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://fields.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M000133": {
+   "seat": "Senator, MA",
+   "published": {
+    "name": {
+     "full": "Edward J. Markey",
+     "given": "Ed",
+     "family": "Markey",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "MA",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022242742",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "255 Dirksen Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Springfield, MA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14137854610",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1550 Main St., 4th Floor"
+       ],
+       "city": "Springfield",
+       "region": "MA",
+       "postalCode": "01103",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Boston, MA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16175658519",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "JFK Federal Building",
+        "15 New Sudbury St, Suite 975"
+       ],
+       "city": "Boston",
+       "region": "MA",
+       "postalCode": "02203",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.markey.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.markey.senate.gov/contact",
+    "website": "https://www.markey.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "W000817": {
+   "seat": "Senator, MA",
+   "published": {
+    "name": {
+     "full": "Elizabeth Warren",
+     "given": "Elizabeth",
+     "family": "Warren",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "MA",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022244543",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "311 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Springfield, MA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14137882690",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1550 Main St., Suite 406"
+       ],
+       "city": "Springfield",
+       "region": "MA",
+       "postalCode": "01103",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Boston, MA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16175653170",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2400 JFK Federal Building",
+        "15 New Sudbury Street"
+       ],
+       "city": "Boston",
+       "region": "MA",
+       "postalCode": "02203",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.warren.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.warren.senate.gov/?p=email_senator",
+    "website": "https://www.warren.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "N000015": {
+   "seat": "Representative, MA-1",
+   "published": {
+    "name": {
+     "full": "Richard E. Neal",
+     "given": "Richard",
+     "family": "Neal",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MA",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255601",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "372 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Pittsfield, MA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14134420946",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "78 Center St."
+       ],
+       "city": "Pittsfield",
+       "region": "MA",
+       "postalCode": "01201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Springfield, MA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14137850325",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "300 State St., Suite 200"
+       ],
+       "city": "Springfield",
+       "region": "MA",
+       "postalCode": "01105",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://neal.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://neal.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M000312": {
+   "seat": "Representative, MA-2",
+   "published": {
+    "name": {
+     "full": "James P. McGovern",
+     "given": "Jim",
+     "family": "McGovern",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MA",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256101",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "370 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2102",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Leominster, MA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19784663552",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "24 Church St., Room 27"
+       ],
+       "city": "Leominster",
+       "region": "MA",
+       "postalCode": "01453",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Northampton, MA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14133418700",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "94 Pleasant St."
+       ],
+       "city": "Northampton",
+       "region": "MA",
+       "postalCode": "01060",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Worcester, MA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15088317356",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "12 E. Worcester St., Suite 1"
+       ],
+       "city": "Worcester",
+       "region": "MA",
+       "postalCode": "01604",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mcgovern.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mcgovern.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "T000482": {
+   "seat": "Representative, MA-3",
+   "published": {
+    "name": {
+     "full": "Lori Trahan",
+     "given": "Lori",
+     "family": "Trahan",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MA",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253411",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2233 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2103",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lowell, MA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19784590101",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "126 John St, Suite 12"
+       ],
+       "city": "Lowell",
+       "region": "MA",
+       "postalCode": "01852-1152",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://trahan.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://trahan.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "A000148": {
+   "seat": "Representative, MA-4",
+   "published": {
+    "name": {
+     "full": "Jake Auchincloss",
+     "given": "Jake",
+     "family": "Auchincloss",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MA",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255931",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1524 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2104",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Newton, MA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16173323333",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "29 Crafts St., Suite 375"
+       ],
+       "city": "Newton",
+       "region": "MA",
+       "postalCode": "02458",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Attleboro, MA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15084311110",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "8 N. Main St., Suite 200"
+       ],
+       "city": "Attleboro",
+       "region": "MA",
+       "postalCode": "02703",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fall River, MA office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "1 Government Center, Office 237B"
+       ],
+       "city": "Fall River",
+       "region": "MA",
+       "postalCode": "02722",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://auchincloss.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://auchincloss.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001101": {
+   "seat": "Representative, MA-5",
+   "published": {
+    "name": {
+     "full": "Katherine M. Clark",
+     "given": "Katherine",
+     "family": "Clark",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MA",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252836",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2368 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2105",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Malden, MA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16173540292",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "157 Pleasant St, Suite 4"
+       ],
+       "city": "Malden",
+       "region": "MA",
+       "postalCode": "02148",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://katherineclark.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://katherineclark.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001196": {
+   "seat": "Representative, MA-6",
+   "published": {
+    "name": {
+     "full": "Seth Moulton",
+     "given": "Seth",
+     "family": "Moulton",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MA",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022258020",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1126 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2106",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Salem, MA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19785311669",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "21 Front St."
+       ],
+       "city": "Salem",
+       "region": "MA",
+       "postalCode": "01970",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://moulton.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://moulton.house.gov"
+   },
+   "currentSupplement": null
+  }
+ }
+}

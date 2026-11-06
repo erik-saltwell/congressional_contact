@@ -1,0 +1,1874 @@
+{
+ "B001300": {
+  "id": "B001300",
+  "name": "Nanette Diaz Barrag\u00e1n",
+  "seat": "Representative, CA-44",
+  "pages": [
+   {
+    "url": "https://barragan.house.gov",
+    "final": "https://barragan.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://barragan.house.gov/contact-me/",
+    "final": "https://barragan.house.gov/contact-me/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://barragan.house.gov/email/",
+    "final": "https://barragan.house.gov/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://barragan.house.gov/offices-call/",
+    "final": "https://barragan.house.gov/offices-call/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://barragan.house.gov/contact-me/",
+    "positive": [
+     "concern",
+     "issue",
+     "opinion",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://barragan.house.gov/email/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "T000491": {
+  "id": "T000491",
+  "name": "Derek Tran",
+  "seat": "Representative, CA-45",
+  "pages": [
+   {
+    "url": "https://tran.house.gov",
+    "final": "https://tran.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://tran.house.gov/contact/",
+    "final": "https://tran.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://tran.house.gov/contact/email-me/",
+    "final": "https://tran.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://tran.house.gov/contact/office-locations/",
+    "final": "https://tran.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://tran.house.gov/mobile-office-hours/",
+    "final": "https://tran.house.gov/mobile-office-hours",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://tran.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://tran.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://tran.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "newsletter",
+     "privacy release"
+    ]
+   }
+  ],
+  "emails": [
+   "CA45Scheduling@mail.house.gov"
+  ]
+ },
+ "C001110": {
+  "id": "C001110",
+  "name": "J. Luis Correa",
+  "seat": "Representative, CA-46",
+  "pages": [
+   {
+    "url": "https://correa.house.gov",
+    "final": "https://correa.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://correa.house.gov/contact/",
+    "final": "https://correa.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://correa.house.gov/contact/email-lou/",
+    "final": "https://correa.house.gov/contact/email-lou/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://correa.house.gov/shareyourstory/",
+    "final": "https://correa.house.gov/shareyourstory/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "M001241": {
+  "id": "M001241",
+  "name": "Dave Min",
+  "seat": "Representative, CA-47",
+  "pages": [
+   {
+    "url": "https://min.house.gov",
+    "final": "https://min.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://min.house.gov/contact/",
+    "final": "https://min.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://min.house.gov/contact/email-me/",
+    "final": "https://min.house.gov/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://min.house.gov/contact/office-locations/",
+    "final": "https://min.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://min.house.gov/contact/join-my-team/",
+    "final": "https://min.house.gov/contact/join-my-team",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://min.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://min.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://min.house.gov/contact/offices/costa-mesa-district-office/",
+    "final": "https://min.house.gov/contact/offices/costa-mesa-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://min.house.gov/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "I000056": {
+  "id": "I000056",
+  "name": "Darrell Issa",
+  "seat": "Representative, CA-48",
+  "pages": [
+   {
+    "url": "https://issa.house.gov",
+    "final": "https://issa.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://issa.house.gov/contact/",
+    "final": "https://issa.house.gov/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://issa.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://issa.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://issa.house.gov/contact/offices/escondido-district-office/",
+    "final": "https://issa.house.gov/contact/offices/escondido-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://issa.house.gov/contact/offices/temecula-district-office/",
+    "final": "https://issa.house.gov/contact/offices/temecula-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://issa.house.gov/contact/offices/",
+    "final": "https://issa.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+12027400282"
+  ],
+  "publishedAddressesNotFound": [
+   "Santee, CA office: Bldg 6, 10601 Magnolia Ave"
+  ],
+  "forms": [
+   {
+    "url": "https://issa.house.gov/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "L000593": {
+  "id": "L000593",
+  "name": "Mike Levin",
+  "seat": "Representative, CA-49",
+  "pages": [
+   {
+    "url": "https://levin.house.gov",
+    "final": "https://levin.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://levin.house.gov/contact/",
+    "final": "https://levin.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://levin.house.gov/contact/email-me/",
+    "final": "https://levin.house.gov/contact/email-me/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://levin.house.gov/contact/offices/",
+    "final": "https://levin.house.gov/contact/offices/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Oceanside, CA office: 2204 El Camino Real, Suite 314"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "P000608": {
+  "id": "P000608",
+  "name": "Scott H. Peters",
+  "seat": "Representative, CA-50",
+  "pages": [
+   {
+    "url": "https://scottpeters.house.gov",
+    "final": "https://scottpeters.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://scottpeters.house.gov/email-me/",
+    "final": "https://scottpeters.house.gov/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://scottpeters.house.gov/contact/office-locations/",
+    "final": "https://scottpeters.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://scottpeters.house.gov/contact/",
+    "final": "https://scottpeters.house.gov/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://scottpeters.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://scottpeters.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://scottpeters.house.gov/contact/offices/san-diego-office/",
+    "final": "https://scottpeters.house.gov/contact/offices/san-diego-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://scottpeters.house.gov/contact/offices/san-marcos-office/",
+    "final": "https://scottpeters.house.gov/contact/offices/san-marcos-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://scottpeters.house.gov/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "meeting request",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://scottpeters.house.gov/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "meeting request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "J000305": {
+  "id": "J000305",
+  "name": "Sara Jacobs",
+  "seat": "Representative, CA-51",
+  "pages": [
+   {
+    "url": "https://sarajacobs.house.gov",
+    "final": "https://sarajacobs.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sarajacobs.house.gov/contact/",
+    "final": "https://sarajacobs.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sarajacobs.house.gov/contact/email-me/",
+    "final": "https://sarajacobs.house.gov/contact/email-me/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sarajacobs.house.gov/contact/event-request/",
+    "final": "https://sarajacobs.house.gov/contact/event-request/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "V000130": {
+  "id": "V000130",
+  "name": "Juan Vargas",
+  "seat": "Representative, CA-52",
+  "pages": [
+   {
+    "url": "https://vargas.house.gov",
+    "final": "https://vargas.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vargas.house.gov/contact/email-me/",
+    "final": "https://vargas.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://vargas.house.gov/contact/",
+    "final": "https://vargas.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vargas.house.gov/contact/legislative-comments/",
+    "final": "https://vargas.house.gov/address_authentication?form=/contact/legislative-comments",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://vargas.house.gov/contact/invite-me-to-your-event/",
+    "final": "https://vargas.house.gov/contact/invite-me-to-your-event",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://vargas.house.gov/contact/office-locations/",
+    "final": "https://vargas.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vargas.house.gov/contact/office-locations/washington-dc-office/",
+    "final": "https://vargas.house.gov/contact/office-locations/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vargas.house.gov/contact/office-locations/chula-vista-district-office/",
+    "final": "https://vargas.house.gov/contact/office-locations/chula-vista-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://vargas.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "comment",
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://vargas.house.gov/address_authentication?form=/contact/legislative-comments",
+    "positive": [
+     "comment",
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://vargas.house.gov/contact/invite-me-to-your-event",
+    "positive": [
+     "comment",
+     "issue",
+     "legislation",
+     "topic"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "B001267": {
+  "id": "B001267",
+  "name": "Michael F. Bennet",
+  "seat": "Senator, CO",
+  "pages": [
+   {
+    "url": "https://www.bennet.senate.gov",
+    "final": "https://www.bennet.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.bennet.senate.gov/contact/",
+    "final": "https://www.bennet.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.bennet.senate.gov/contact/offices/",
+    "final": "https://www.bennet.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.bennet.senate.gov/offices/",
+    "final": "https://www.bennet.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.bennet.senate.gov/office-locations/",
+    "final": "https://www.bennet.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.bennet.senate.gov/public/index.cfm/contact",
+    "final": "https://www.bennet.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.bennet.senate.gov/contact/write-to-michael/",
+    "final": "https://www.bennet.senate.gov/contact/write-to-michael/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.bennet.senate.gov",
+   "https://www.bennet.senate.gov/contact/offices/",
+   "https://www.bennet.senate.gov/offices/",
+   "https://www.bennet.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+18664559866"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "H000273": {
+  "id": "H000273",
+  "name": "John W. Hickenlooper",
+  "seat": "Senator, CO",
+  "pages": [
+   {
+    "url": "https://www.hickenlooper.senate.gov",
+    "final": "https://www.hickenlooper.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.hickenlooper.senate.gov/contact/",
+    "final": "https://www.hickenlooper.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.hickenlooper.senate.gov/contact/offices/",
+    "final": "https://www.hickenlooper.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.hickenlooper.senate.gov/offices/",
+    "final": "https://www.hickenlooper.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.hickenlooper.senate.gov/office-locations/",
+    "final": "https://www.hickenlooper.senate.gov/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.hickenlooper.senate.gov/contact/'+M[P]+'/",
+    "final": "https://www.hickenlooper.senate.gov/contact/'+M[P]+'/",
+    "status": 0,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.hickenlooper.senate.gov/email-john/",
+    "final": "https://www.hickenlooper.senate.gov/email-john/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.hickenlooper.senate.gov",
+   "https://www.hickenlooper.senate.gov/contact/offices/",
+   "https://www.hickenlooper.senate.gov/offices/",
+   "https://www.hickenlooper.senate.gov/contact/'+M[P]+'/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022245941",
+   "+17196326706",
+   "+19703525546",
+   "+19704843502",
+   "+19708224530",
+   "+19708807236",
+   "+19709897075"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 316 Hart Senate Office Building",
+   "Denver, CO office: Byron Rogers Federal Building, 1961 Stout St., Suite 12-300",
+   "Colorado Springs, CO office: 102 South Tejon St., Suite 930",
+   "Grand Junction, CO office: Wayne Aspinall Federal Building, 400 Rood Ave., Suite 220",
+   "Durango, CO office: The Smiley Building, 1309 East 3rd Ave., Suite 104",
+   "Greeley, CO office: 801 8th St., Suite 140A",
+   "Fort Collins, CO office: 201 S College Ave., Suite 200",
+   "Glenwood Springs, CO office: 1402 Blake Ave., Suite 109A"
+  ],
+  "forms": [
+   {
+    "url": "https://www.hickenlooper.senate.gov/email-john/",
+    "positive": [
+     "concern",
+     "issue",
+     "opinion",
+     "share your",
+     "topic"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": [
+   "casework@hickenlooper.senate.gov"
+  ]
+ },
+ "D000197": {
+  "id": "D000197",
+  "name": "Diana DeGette",
+  "seat": "Representative, CO-1",
+  "pages": [
+   {
+    "url": "https://degette.house.gov",
+    "final": "https://degette.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://degette.house.gov/contact/",
+    "final": "https://degette.house.gov/address_authentication?form=/contact/send-me-an-email/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://degette.house.gov/contact/e-mail-diana/",
+    "final": "https://degette.house.gov/address_authentication?form=/contact/send-me-an-email/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://degette.house.gov/contact/offices/",
+    "final": "https://degette.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://degette.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://degette.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://degette.house.gov/contact/offices/denver-district-office/",
+    "final": "https://degette.house.gov/contact/offices/denver-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://degette.house.gov/contact/office-locations/",
+    "final": "https://degette.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://degette.house.gov/address_authentication?form=/contact/send-me-an-email/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter",
+     "tour request"
+    ]
+   },
+   {
+    "url": "https://degette.house.gov/address_authentication?form=/contact/send-me-an-email/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "N000191": {
+  "id": "N000191",
+  "name": "Joe Neguse",
+  "seat": "Representative, CO-2",
+  "pages": [
+   {
+    "url": "https://neguse.house.gov",
+    "final": "https://neguse.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://neguse.house.gov/contact/",
+    "final": "https://neguse.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://neguse.house.gov/contact/offices/",
+    "final": "https://neguse.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://neguse.house.gov/contact/event-request/",
+    "final": "https://neguse.house.gov/contact/event-request",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://neguse.house.gov/shareyourstory/",
+    "final": "https://neguse.house.gov/shareyourstory",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://neguse.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://neguse.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://neguse.house.gov/contact/offices/fort-collins-office/",
+    "final": "https://neguse.house.gov/contact/offices/fort-collins-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://neguse.house.gov/contact/offices/boulder-office/",
+    "final": "https://neguse.house.gov/contact/offices/boulder-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://neguse.house.gov/contact/offices/western-slope-office/",
+    "final": "https://neguse.house.gov/contact/offices/western-slope-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://neguse.house.gov/contact/event-request",
+    "positive": [
+     "legislation",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "meeting request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": [
+   "NeguseScheduling@mail.house.gov"
+  ]
+ },
+ "H001100": {
+  "id": "H001100",
+  "name": "Jeff Hurd",
+  "seat": "Representative, CO-3",
+  "pages": [
+   {
+    "url": "https://hurd.house.gov",
+    "final": "https://hurd.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hurd.house.gov/contact/",
+    "final": "https://hurd.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hurd.house.gov/contact/email-me/",
+    "final": "https://hurd.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://hurd.house.gov/contact/office-locations/",
+    "final": "https://hurd.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hurd.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://hurd.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hurd.house.gov/contact/offices/grand-junction-office/",
+    "final": "https://hurd.house.gov/contact/offices/grand-junction-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hurd.house.gov/contact/offices/pueblo-office/",
+    "final": "https://hurd.house.gov/contact/offices/pueblo-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hurd.house.gov/contact/offices/durango-office/",
+    "final": "https://hurd.house.gov/contact/offices/durango-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://hurd.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "B000825": {
+  "id": "B000825",
+  "name": "Lauren Boebert",
+  "seat": "Representative, CO-4",
+  "pages": [
+   {
+    "url": "https://boebert.house.gov",
+    "final": "https://boebert.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://boebert.house.gov/issues/mobile-office-hours/",
+    "final": "https://boebert.house.gov/issues/mobile-office-hours",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://boebert.house.gov/contact/",
+    "final": "https://boebertforms.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://boebert.house.gov/contact/offices/",
+    "final": "https://boebert.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://boebert.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://boebert.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://boebert.house.gov/contact/offices/eaton-district-office/",
+    "final": "https://boebert.house.gov/contact/offices/eaton-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://boebert.house.gov/contact/offices/lone-tree-district-office/",
+    "final": "https://boebert.house.gov/contact/offices/lone-tree-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://boebertforms.house.gov/forms/emailsignup/",
+    "final": "https://boebertforms.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Castle Rock, CO office: 900 Castleton Rd., Suite 112"
+  ],
+  "forms": [
+   {
+    "url": "https://boebertforms.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": [
+   "Boebert.Press@mail.house.gov",
+   "Boebert.Scheduling@mail.house.gov"
+  ]
+ },
+ "C001137": {
+  "id": "C001137",
+  "name": "Jeff Crank",
+  "seat": "Representative, CO-5",
+  "pages": [
+   {
+    "url": "https://crank.house.gov",
+    "final": "https://crank.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://crank.house.gov/contact/email-me/",
+    "final": "https://crank.house.gov/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://crank.house.gov/contact/",
+    "final": "https://crank.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://crank.house.gov/contact/event-request/",
+    "final": "https://crank.house.gov/contact/event-request",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://crank.house.gov/contact/office-locations/",
+    "final": "https://crank.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://crank.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://crank.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://crank.house.gov/contact/offices/colorado-springs-office/",
+    "final": "https://crank.house.gov/contact/offices/colorado-springs-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://crank.house.gov/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter",
+     "tour request"
+    ]
+   },
+   {
+    "url": "https://crank.house.gov/contact/event-request",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "C001121": {
+  "id": "C001121",
+  "name": "Jason Crow",
+  "seat": "Representative, CO-6",
+  "pages": [
+   {
+    "url": "https://crow.house.gov",
+    "final": "https://crow.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://crow.house.gov/contact/",
+    "final": "https://crow.house.gov/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://crow.house.gov/contact/email-me/",
+    "final": "https://crow.house.gov/contact/email-me",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://crow.house.gov/contact/offices/",
+    "final": "https://crow.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://crow.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://crow.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://crow.house.gov/contact/offices/aurora-office/",
+    "final": "https://crow.house.gov/contact/offices/aurora-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://crow.house.gov/contact",
+    "positive": [
+     "issue"
+    ],
+    "negative": [
+     "casework",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "P000620": {
+  "id": "P000620",
+  "name": "Brittany Pettersen",
+  "seat": "Representative, CO-7",
+  "pages": [
+   {
+    "url": "https://pettersen.house.gov",
+    "final": "https://pettersen.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://pettersen.house.gov/news/email/",
+    "final": "https://pettersen.house.gov/news/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://pettersen.house.gov/contact/",
+    "final": "https://pettersen.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://pettersen.house.gov/forms/emailsignup/",
+    "final": "https://pettersen.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://pettersen.house.gov/contact/offices.htm",
+    "final": "https://pettersen.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://pettersen.house.gov/upcoming-events/mobile-office-hours.htm",
+    "final": "https://pettersen.house.gov/upcoming-events/mobile-office-hours.htm",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://pettersen.house.gov/news/email/show.aspx/",
+    "final": "https://pettersen.house.gov/email/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://pettersen.house.gov/news/email/default.aspx/",
+    "final": "https://pettersen.house.gov/news/email/default.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://pettersen.house.gov/upcoming-events/mobile-office-hours.htm",
+   "https://pettersen.house.gov/news/email/show.aspx/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://pettersen.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "E000300": {
+  "id": "E000300",
+  "name": "Gabe Evans",
+  "seat": "Representative, CO-8",
+  "pages": [
+   {
+    "url": "https://gabeevans.house.gov",
+    "final": "https://gabeevans.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gabeevans.house.gov/contact/",
+    "final": "https://gabeevans.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gabeevans.house.gov/contact/email-me/",
+    "final": "https://gabeevans.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://gabeevans.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://gabeevans.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gabeevans.house.gov/contact/offices/greeley-district-office/",
+    "final": "https://gabeevans.house.gov/contact/offices/greeley-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gabeevans.house.gov/contact/offices/northglenn-district-office/",
+    "final": "https://gabeevans.house.gov/contact/offices/northglenn-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gabeevans.house.gov/contact/office-locations/",
+    "final": "https://gabeevans.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://gabeevans.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation",
+     "opinion",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "B001277": {
+  "id": "B001277",
+  "name": "Richard Blumenthal",
+  "seat": "Senator, CT",
+  "pages": [
+   {
+    "url": "https://www.blumenthal.senate.gov",
+    "final": "https://www.blumenthal.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.blumenthal.senate.gov/contact/",
+    "final": "https://www.blumenthal.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.blumenthal.senate.gov/contact/offices/",
+    "final": "https://www.blumenthal.senate.gov/404?notfound=/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.blumenthal.senate.gov/offices/",
+    "final": "https://www.blumenthal.senate.gov/404?notfound=/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.blumenthal.senate.gov/office-locations/",
+    "final": "https://www.blumenthal.senate.gov/404?notfound=/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.blumenthal.senate.gov/contact/write-to-senator-blumenthal/",
+    "final": "https://www.blumenthal.senate.gov/contact/write-to-senator-blumenthal/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.blumenthal.senate.gov/contact/get-assistance/",
+    "final": "https://www.blumenthal.senate.gov/contact/get-assistance/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.blumenthal.senate.gov",
+   "https://www.blumenthal.senate.gov/contact/offices/",
+   "https://www.blumenthal.senate.gov/offices/",
+   "https://www.blumenthal.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "M001169": {
+  "id": "M001169",
+  "name": "Christopher Murphy",
+  "seat": "Senator, CT",
+  "pages": [
+   {
+    "url": "https://www.murphy.senate.gov",
+    "final": "https://www.murphy.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.murphy.senate.gov/contact/",
+    "final": "https://www.murphy.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.murphy.senate.gov/contact/offices/",
+    "final": "https://www.murphy.senate.gov/404?notfound=/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.murphy.senate.gov/offices/",
+    "final": "https://www.murphy.senate.gov/404?notfound=/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.murphy.senate.gov/office-locations/",
+    "final": "https://www.murphy.senate.gov/404?notfound=office-locations",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.murphy.senate.gov",
+   "https://www.murphy.senate.gov/contact/offices/",
+   "https://www.murphy.senate.gov/offices/",
+   "https://www.murphy.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "L000557": {
+  "id": "L000557",
+  "name": "John B. Larson",
+  "seat": "Representative, CT-1",
+  "pages": [
+   {
+    "url": "https://larson.house.gov",
+    "final": "https://larson.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://larson.house.gov/contact/",
+    "final": "https://larson.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://larson.house.gov/contact/offices/",
+    "final": "https://larson.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://larson.house.gov/en-espanol/contactenos/",
+    "final": "https://larson.house.gov/en-espanol/contactenos",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://larson.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://larson.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://larson.house.gov/contact/offices/east-hartford-office/",
+    "final": "https://larson.house.gov/contact/offices/east-hartford-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://larson.house.gov/contact/office-locations/",
+    "final": "https://larson.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+12022251031",
+   "+18602782111"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://larson.house.gov/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://larson.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "C001069": {
+  "id": "C001069",
+  "name": "Joe Courtney",
+  "seat": "Representative, CT-2",
+  "pages": [
+   {
+    "url": "https://courtney.house.gov",
+    "final": "https://courtney.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://courtney.house.gov/contact/",
+    "final": "https://courtney.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://courtney.house.gov/contact/offices/",
+    "final": "https://courtney.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://courtney.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://courtney.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://courtney.house.gov/contact/offices/norwich-district-office/",
+    "final": "https://courtney.house.gov/contact/offices/norwich-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://courtney.house.gov/contact/offices/enfield-district-office/",
+    "final": "https://courtney.house.gov/contact/offices/enfield-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://courtney.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "D000216": {
+  "id": "D000216",
+  "name": "Rosa L. DeLauro",
+  "seat": "Representative, CT-3",
+  "pages": [
+   {
+    "url": "https://delauro.house.gov",
+    "final": "https://delauro.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://delauro.house.gov/contact/",
+    "final": "https://delauro.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://delauro.house.gov/contact/email/",
+    "final": "https://delauro.house.gov/zip_authentication?form=/contact/email",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://delauro.house.gov/contact/offices/",
+    "final": "https://delauro.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://delauro.house.gov/contact/invite-rosa-to-an-event/",
+    "final": "https://delauro.house.gov/contact/invite-rosa-to-an-event",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://delauro.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://delauro.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://delauro.house.gov/contact/offices/new-haven-office/",
+    "final": "https://delauro.house.gov/contact/offices/new-haven-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://delauro.house.gov/zip_authentication?form=/contact/email",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": [
+   "Daniel.Robillard@mail.house.gov",
+   "RosaCT.Schedule@mail.house.gov",
+   "RosaDC.Schedule@mail.house.gov"
+  ]
+ },
+ "H001047": {
+  "id": "H001047",
+  "name": "James A. Himes",
+  "seat": "Representative, CT-4",
+  "pages": [
+   {
+    "url": "https://himes.house.gov",
+    "final": "https://himes.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://himes.house.gov/contact/",
+    "final": "https://himes.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://himes.house.gov/contact/email-me/",
+    "final": "https://himes.house.gov/contact/email-me/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://himes.house.gov/contact/office-locations/",
+    "final": "https://himes.house.gov/contact/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://himes.house.gov/contact/'+e+'/",
+    "final": "https://himes.house.gov/contact/'+e+'/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://himes.house.gov/contact/email-me/'+e+'/",
+    "final": "https://himes.house.gov/contact/email-me/'+e+'/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://himes.house.gov/contact/'+e+'/",
+   "https://himes.house.gov/contact/email-me/'+e+'/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+18664530028"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://himes.house.gov/contact/email-me/",
+    "positive": [
+     "comment",
+     "concern",
+     "issue",
+     "opinion",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ }
+}

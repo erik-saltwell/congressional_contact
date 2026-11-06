@@ -1,0 +1,1176 @@
+{
+ "batch": "2026-11-05-full-01",
+ "reviewedAt": "2026-11-05",
+ "officials": {
+  "M001153": {
+   "name": "Lisa Murkowski",
+   "seat": "Senator, AK",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.murkowski.senate.gov/contact/",
+    "https://www.murkowski.senate.gov/contact/email"
+   ],
+   "notes": "Homepage blocked (403). Offices match the contact page. (907) 373-6532 and 1-877-829-6030 appear only in the staff directory, so they were not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.murkowski.senate.gov/contact/email",
+     "source": "https://www.murkowski.senate.gov/contact/email",
+     "evidence": "'Email Lisa' page linked from the contact page; it loads an issue list for messages. Agency help, meetings and newsletter are separate links."
+    }
+   ]
+  },
+  "S001198": {
+   "name": "Dan Sullivan",
+   "seat": "Senator, AK",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.sullivan.senate.gov/contact/email/"
+   ],
+   "notes": "Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.sullivan.senate.gov/contact/email/",
+     "source": "https://www.sullivan.senate.gov/contact/email/",
+     "evidence": "Message form with issue/topic choices about legislation; casework, tours and flags have their own forms."
+    }
+   ]
+  },
+  "B001323": {
+   "name": "Nicholas J. Begich III",
+   "seat": "Representative, AK-0",
+   "status": "verified",
+   "pagesChecked": [
+    "https://begich.house.gov/",
+    "https://begich.house.gov/zip_authentication?form=/contact/email-me"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://begich.house.gov/contact/email-me",
+     "source": "https://begich.house.gov/",
+     "evidence": "The site's Email Me link; the form sits behind a ZIP check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://begich.house.gov/",
+     "evidence": "Office list: Washington DC, 'Fairbanks Office 542 4th Avenue #210 Fairbanks, AK 99701 Phone: (907) 251-4560', Anchorage. We publish no Fairbanks office.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255765",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "153 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0200",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Anchorage, AK office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19079216575",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1016 W Sixth Ave, Suite 406"
+        ],
+        "city": "Anchorage",
+        "region": "AK",
+        "postalCode": "99501",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Fairbanks, AK office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19072514560",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "542 4th Avenue #210"
+        ],
+        "city": "Fairbanks",
+        "region": "AK",
+        "postalCode": "99701",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "B001319": {
+   "name": "Katie Boyd Britt",
+   "seat": "Senator, AL",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.britt.senate.gov/contact/",
+    "https://www.britt.senate.gov/contact/share-your-opinion/"
+   ],
+   "notes": "Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.britt.senate.gov/contact/share-your-opinion/",
+     "source": "https://www.britt.senate.gov/contact/share-your-opinion/",
+     "evidence": "'Share your opinion' form with a topic list for views on issues; agency help is separate."
+    }
+   ]
+  },
+  "T000278": {
+   "name": "Tommy Tuberville",
+   "seat": "Senator, AL",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.tuberville.senate.gov/contact/",
+    "https://www.tuberville.senate.gov/contact-old/contact-form/"
+   ],
+   "notes": "Homepage blocked (403). Offices match (DC is 'Russell Senate Office Building Suite 455').",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.tuberville.senate.gov/contact-old/contact-form/",
+     "source": "https://www.tuberville.senate.gov/contact/",
+     "evidence": "The current contact page links 'Email Coach Tuberville' to this form, which has an issue/topic list and a message box."
+    }
+   ]
+  },
+  "M001212": {
+   "name": "Barry Moore",
+   "seat": "Representative, AL-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://barrymoore.house.gov/",
+    "https://barrymoore.house.gov/zip_authentication?form=/contact"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://barrymoore.house.gov/contact",
+     "source": "https://barrymoore.house.gov/",
+     "evidence": "'Contact Us: Your feedback is very important to me. Contact me regarding issues that are important to you.' The form sits behind a ZIP check."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://barrymoore.house.gov/",
+     "evidence": "Office list: Mobile '5253 Hwy 90 W Mobile, AL 36619', Foley, Bay Minette, Dothan. No Andalusia office is listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252901",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1511 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0101",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Dothan, AL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13345476630",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "217 Graceland Drive, Suite 5"
+        ],
+        "city": "Dothan",
+        "region": "AL",
+        "postalCode": "36305",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Mobile, AL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12512646710",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "5253 Hwy 90 W"
+        ],
+        "city": "Mobile",
+        "region": "AL",
+        "postalCode": "36619",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Bay Minette, AL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12514945151",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "116 Courthouse Sq"
+        ],
+        "city": "Bay Minette",
+        "region": "AL",
+        "postalCode": "36507",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Foley, AL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12514376310",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "407 E. Laurel Ave"
+        ],
+        "city": "Foley",
+        "region": "AL",
+        "postalCode": "36535",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "F000481": {
+   "name": "Shomari Figures",
+   "seat": "Representative, AL-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://figures.house.gov/",
+    "https://figures.house.gov/address_authentication?form=/contact/email-me"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://figures.house.gov/contact/email-me",
+     "source": "https://figures.house.gov/",
+     "evidence": "The site's Email Me form, behind an address check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://figures.house.gov/",
+     "evidence": "'Montgomery County Courthouse Annex 1 100 South Lawrence Street Montgomery, AL 36104 Phone: (334) 777-5700' and 'Mobile Alabama Office 107 St. Francis St. Unit 1930 Mobile, AL 36602 Phone: (251) 283-6280'. We publish 150 Dexter Ave and 351 N. Broad St.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254931",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "225 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0102",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Montgomery, AL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13347775700",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Montgomery County Courthouse Annex 1",
+         "100 South Lawrence Street"
+        ],
+        "city": "Montgomery",
+        "region": "AL",
+        "postalCode": "36104",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Mobile, AL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12512836280",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "107 St. Francis St., Unit 1930"
+        ],
+        "city": "Mobile",
+        "region": "AL",
+        "postalCode": "36602",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "R000575": {
+   "name": "Mike Rogers",
+   "seat": "Representative, AL-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mikerogers.house.gov/",
+    "https://mikerogers.house.gov/contact/",
+    "https://mikerogers.house.gov/contact/offices.htm"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mikerogers.house.gov/contact/",
+     "source": "https://mikerogers.house.gov/contact/",
+     "evidence": "The site's contact page; the message form opens after a ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "A000055": {
+   "name": "Robert B. Aderholt",
+   "seat": "Representative, AL-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://aderholt.house.gov/",
+    "https://aderholt.house.gov/offices"
+   ],
+   "notes": "The offices page shows the Cullman number both as (256) 734-6034 and (256) 734-6043; the published 734-6043 is kept.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://aderholt.house.gov/contact-robert/write-me-about-a-policy-issue",
+     "source": "https://aderholt.house.gov/",
+     "evidence": "Linked as 'write me about a policy issue'; behind an address check."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://aderholt.house.gov/offices",
+     "evidence": "'Albertville District Office 209 Sand Mountain Drive East, STE 400 Albertville, AL 35950 Phone: (256) 546-0201'. We publish no Albertville office.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254876",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "272 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0104",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Cullman, AL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12567346043",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "205 4th Ave. NE, Suite 104"
+        ],
+        "city": "Cullman",
+        "region": "AL",
+        "postalCode": "35055",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Jasper, AL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12052212310",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Carl Elliott Building",
+         "1710 Alabama Ave., 247"
+        ],
+        "city": "Jasper",
+        "region": "AL",
+        "postalCode": "35501",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Tuscumbia, AL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12563813450",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1011 George Wallace Blvd., Suite 146"
+        ],
+        "city": "Tuscumbia",
+        "region": "AL",
+        "postalCode": "35674",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Albertville, AL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12565460201",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "209 Sand Mountain Drive East, STE 400"
+        ],
+        "city": "Albertville",
+        "region": "AL",
+        "postalCode": "35950",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "S001220": {
+   "name": "Dale W. Strong",
+   "seat": "Representative, AL-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://strong.house.gov/",
+    "https://strong.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://strong.house.gov/contact",
+     "source": "https://strong.house.gov/",
+     "evidence": "The site's contact form, behind an address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "P000609": {
+   "name": "Gary J. Palmer",
+   "seat": "Representative, AL-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://palmer.house.gov/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://palmer.house.gov/contact",
+     "source": "https://palmer.house.gov/",
+     "evidence": "The site's contact form, behind an address check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://palmer.house.gov/",
+     "evidence": "'Millbrook Office 177 Ashton Plaza Street Millbrook, AL 36054 Phone: (334) 694-5140'. We publish no Millbrook office.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254921",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "170 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0106",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Birmingham, AL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12059681290",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "3535 Grandview Pkwy., Suite 525"
+        ],
+        "city": "Birmingham",
+        "region": "AL",
+        "postalCode": "35243",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Millbrook, AL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13346945140",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "177 Ashton Plaza Street"
+        ],
+        "city": "Millbrook",
+        "region": "AL",
+        "postalCode": "36054",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "S001185": {
+   "name": "Terri A. Sewell",
+   "seat": "Representative, AL-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://sewell.house.gov/",
+    "https://sewell.house.gov/email-me/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://sewell.house.gov/email-me/",
+     "source": "https://sewell.house.gov/email-me/",
+     "evidence": "Email form with an issue list for sharing views; agency help and flags are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://sewell.house.gov/",
+     "evidence": "'Tuscaloosa 2122 Gary Fitts Street Tuscaloosa, AL 35401 Phone: (205) 752-5380'. We publish 2501 7th St., Suite 300.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252665",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1035 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0107",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Selma, AL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13348774414",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Federal Building",
+         "908 Alabama Ave., Suite 112"
+        ],
+        "city": "Selma",
+        "region": "AL",
+        "postalCode": "36701",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Birmingham, AL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12052541960",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Two 20th Street North, Suite 1130"
+        ],
+        "city": "Birmingham",
+        "region": "AL",
+        "postalCode": "35203",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Montgomery, AL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13342621919",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Courthouse",
+         "101 S. Lawrence St., Annex 3"
+        ],
+        "city": "Montgomery",
+        "region": "AL",
+        "postalCode": "36104",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Tuscaloosa, AL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12057525380",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2122 Gary Fitts Street"
+        ],
+        "city": "Tuscaloosa",
+        "region": "AL",
+        "postalCode": "35401",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "B001236": {
+   "name": "John Boozman",
+   "seat": "Senator, AR",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.boozman.senate.gov/public/index.cfm/e-mail-me/"
+   ],
+   "notes": "Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.boozman.senate.gov/public/index.cfm/e-mail-me",
+     "source": "https://www.boozman.senate.gov/public/index.cfm/e-mail-me",
+     "evidence": "'E-mail me' form for comments on legislation; agency help is separate."
+    }
+   ]
+  },
+  "C001095": {
+   "name": "Tom Cotton",
+   "seat": "Senator, AR",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.cotton.senate.gov/contact/contact-tom/"
+   ],
+   "notes": "Homepage blocked (403). Offices match. press_office@cotton.senate.gov is for media, not constituents.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.cotton.senate.gov/contact/contact-tom",
+     "source": "https://www.cotton.senate.gov/contact/contact-tom",
+     "evidence": "'Contact Tom' form with issue/topic choices for comments; casework, flags and tours are separate."
+    }
+   ]
+  },
+  "C001087": {
+   "name": "Eric A. \"Rick\" Crawford",
+   "seat": "Representative, AR-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://crawford.house.gov/",
+    "https://crawford.house.gov/contact/office-locations"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://crawford.house.gov/contact/email-me",
+     "source": "https://crawford.house.gov/contact/office-locations",
+     "evidence": "The site's Email Me form, behind an address check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://crawford.house.gov/contact/office-locations",
+     "evidence": "'Harrison District Office 303 N Main St. Suite 503H Harrison, AR 72061 Phone: (870) 497-3268' (by appointment) and 'Jonesboro District Office 301 W Washington Ave Ste. 303 Jonesboro, AR 72401'. We publish Jonesboro at 2400 Highland Dr. and no Harrison office.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254076",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2422 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0401",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Cabot, AR office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15018433043",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "112 S. 1st"
+        ],
+        "city": "Cabot",
+        "region": "AR",
+        "postalCode": "72023",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Dumas, AR office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18703775571",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "101 E Waterman St"
+        ],
+        "city": "Dumas",
+        "region": "AR",
+        "postalCode": "71639-2226",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Jonesboro, AR office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18702030540",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "301 W Washington Ave, Ste. 303"
+        ],
+        "city": "Jonesboro",
+        "region": "AR",
+        "postalCode": "72401",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Mountain Home, AR office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18704242075",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1001 Highway 62 E, Suite 9"
+        ],
+        "city": "Mountain Home",
+        "region": "AR",
+        "postalCode": "72653",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Harrison, AR office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18704973268",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "303 N Main St., Suite 503H"
+        ],
+        "city": "Harrison",
+        "region": "AR",
+        "postalCode": "72061",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "H001072": {
+   "name": "J. French Hill",
+   "seat": "Representative, AR-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://hill.house.gov/",
+    "https://hill.house.gov/contact/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://hill.house.gov/contact/",
+     "source": "https://hill.house.gov/contact/",
+     "evidence": "The site's contact page; the form opens after a ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "W000809": {
+   "name": "Steve Womack",
+   "seat": "Representative, AR-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://womack.house.gov/",
+    "https://womack.house.gov/contact/",
+    "https://womack.house.gov/contact/officeinformation.htm"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://womack.house.gov/contact/",
+     "source": "https://womack.house.gov/contact/",
+     "evidence": "The site's contact page; the form opens after a ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "W000821": {
+   "name": "Bruce Westerman",
+   "seat": "Representative, AR-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://westerman.house.gov/",
+    "https://westerman.house.gov/contact",
+    "https://westerman.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://westerman.house.gov/contact",
+     "source": "https://westerman.house.gov/contact",
+     "evidence": "The 'Email' link goes to this page, which loads an issue list for messages; agency help and meetings are separate."
+    }
+   ]
+  },
+  "R000600": {
+   "name": "Aumua Amata Coleman Radewagen",
+   "seat": "Delegate, AS-0",
+   "status": "verified",
+   "pagesChecked": [
+    "https://radewagen.house.gov/contact",
+    "https://radewagen.house.gov/contact/offices"
+   ],
+   "notes": "Re-checked: the feedback form and offices match.",
+   "proposals": []
+  },
+  "G000574": {
+   "name": "Ruben Gallego",
+   "seat": "Senator, AZ",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.gallego.senate.gov/connect/",
+    "https://www.gallego.senate.gov/connect/get-in-touch/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.gallego.senate.gov/connect/get-in-touch/",
+     "source": "https://www.gallego.senate.gov/connect/get-in-touch/",
+     "evidence": "'Get in touch' form with a topic list for sharing concerns on issues; agency help and meetings are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.gallego.senate.gov/connect/",
+     "evidence": "'Tucson: We are currently moving office locations in Tucson. In the meantime, please reach out to our office in Phoenix.' The published Tucson address and (520) 777-0400 are not listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022244521",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "302 Hart Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Phoenix, AZ office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14806973600",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "3333 E. Camelback Rd, Suite 200"
+        ],
+        "city": "Phoenix",
+        "region": "AZ",
+        "postalCode": "85018",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "K000377": {
+   "name": "Mark Kelly",
+   "seat": "Senator, AZ",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.kelly.senate.gov/contact/",
+    "https://www.kelly.senate.gov/contact/contact-form/"
+   ],
+   "notes": "Homepage blocked (403). Offices match (DC is 'Hart Senate Office Building Suite 516').",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.kelly.senate.gov/contact/contact-form/",
+     "source": "https://www.kelly.senate.gov/contact/contact-form/",
+     "evidence": "Contact form for sharing views on issues with a topic list; casework, flags and the newsletter are separate."
+    }
+   ]
+  },
+  "S001183": {
+   "name": "David Schweikert",
+   "seat": "Representative, AZ-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://schweikert.house.gov/",
+    "https://schweikert.house.gov/email/"
+   ],
+   "notes": "Offices match. The site also lists senators' tour numbers, which are not his.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://schweikert.house.gov/email/",
+     "source": "https://schweikert.house.gov/email/",
+     "evidence": "Email form with an issue list and 'voice my opinion'; casework is separate."
+    }
+   ]
+  },
+  "C001132": {
+   "name": "Elijah Crane",
+   "seat": "Representative, AZ-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://crane.house.gov/",
+    "https://crane.house.gov/contact/"
+   ],
+   "notes": "Offices match. 928-679-8525 on the homepage is a county flood call center.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://crane.house.gov/contact/",
+     "source": "https://crane.house.gov/contact/",
+     "evidence": "'Email Me' goes to this page, which embeds a 'Contact Form' (craneforms.house.gov) with an issue list."
+    }
+   ]
+  },
+  "A000381": {
+   "name": "Yassamin Ansari",
+   "seat": "Representative, AZ-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://ansari.house.gov/",
+    "https://ansari.house.gov/contact/office-locations"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://ansari.house.gov/contact/email-me",
+     "source": "https://ansari.house.gov/contact/email-me",
+     "evidence": "'Email Me' page with an issue list for messages; 'Share Your Story' and agency help are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://ansari.house.gov/contact/office-locations",
+     "evidence": "'Phoenix, AZ We're Moving! Phone: (602) 956-2285' with no street address. We publish 3770 N 7th St.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254065",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1432 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0303",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Phoenix, AZ office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16029562285",
+         "type": "voice"
+        }
+       ],
+       "address": null
+      }
+     ]
+    }
+   ]
+  },
+  "S001211": {
+   "name": "Greg Stanton",
+   "seat": "Representative, AZ-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://stanton.house.gov/"
+   ],
+   "notes": "Offices match. A 10-digit run on the homepage is map coordinates.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://stanton.house.gov/contact/write-to-me",
+     "source": "https://stanton.house.gov/",
+     "evidence": "Linked as 'write to me'; behind an address check. The event-request form is separate."
+    }
+   ]
+  }
+ }
+}

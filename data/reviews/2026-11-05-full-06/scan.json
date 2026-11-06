@@ -1,0 +1,1918 @@
+{
+ "D000032": {
+  "id": "D000032",
+  "name": "Byron Donalds",
+  "seat": "Representative, FL-19",
+  "pages": [
+   {
+    "url": "https://donalds.house.gov",
+    "final": "https://donalds.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://donalds.house.gov/news/email/",
+    "final": "https://donalds.house.gov/news/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://donalds.house.gov/contact/",
+    "final": "https://donalds.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://donalds.house.gov/forms/emailsignup/",
+    "final": "https://donalds.house.gov/contact/subscribe.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://donalds.house.gov/contact/offices.htm",
+    "final": "https://donalds.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://donalds.house.gov/contact/staff-directory.htm",
+    "final": "https://donalds.house.gov/contact/staff-directory.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://donalds.house.gov/news/email/show.aspx/",
+    "final": "https://donalds.house.gov/email/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://donalds.house.gov/news/email/default.aspx/",
+    "final": "https://donalds.house.gov/news/email/default.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://donalds.house.gov/news/email/show.aspx/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://donalds.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "M001199": {
+  "id": "M001199",
+  "name": "Brian J. Mast",
+  "seat": "Representative, FL-21",
+  "pages": [
+   {
+    "url": "https://mast.house.gov",
+    "final": "https://mast.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mast.house.gov/contact/",
+    "final": "https://mast.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mast.house.gov/contact/email-brian/",
+    "final": "https://mast.house.gov/contact/email-brian/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://mast.house.gov/contact/get-updates/",
+    "final": "https://mast.house.gov/contact/get-updates/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mast.house.gov/contact/our-offices/",
+    "final": "https://mast.house.gov/contact/our-offices/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mast.house.gov/contact/fraud/",
+    "final": "https://mast.house.gov/contact/fraud/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [
+   "+15615307778",
+   "+17723362877",
+   "+17724468855"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Jupiter, FL office: 601 Heritage Drive, Suite 144"
+  ],
+  "forms": [
+   {
+    "url": "https://mast.house.gov/contact/email-brian/",
+    "positive": [
+     "issue",
+     "legislation",
+     "opinion",
+     "share your",
+     "topic",
+     "views"
+    ],
+    "negative": [
+     "casework",
+     "federal agency"
+    ]
+   },
+   {
+    "url": "https://mast.house.gov/contact/fraud/",
+    "positive": [
+     "issue",
+     "legislation",
+     "opinion",
+     "share your"
+    ],
+    "negative": [
+     "federal agency"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "F000462": {
+  "id": "F000462",
+  "name": "Lois Frankel",
+  "seat": "Representative, FL-22",
+  "pages": [
+   {
+    "url": "https://frankel.house.gov",
+    "final": "https://frankel.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://frankel.house.gov/contact/",
+    "final": "https://frankel.house.gov/contact/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://frankel.house.gov/forms/form/",
+    "final": "https://frankel.house.gov/forms/form/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://frankel.house.gov/contact/office-information.htm",
+    "final": "https://frankel.house.gov/contact/office-information.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://frankel.house.gov/contact/rep-frankel-s-staff-supporting-florida-s-22nd-district.htm",
+    "final": "https://frankel.house.gov/contact/rep-frankel-s-staff-supporting-florida-s-22nd-district.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://frankel.house.gov/forms/emailsignup/",
+    "final": "https://frankel.house.gov/contact/newsletter-sign-up.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://frankel.house.gov/news/documentsingle.aspx/",
+    "final": "https://frankel.house.gov/news/documentsingle.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+18662640957"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://frankel.house.gov/contact/",
+    "positive": [
+     "issue",
+     "legislation",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "meeting request",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "M001217": {
+  "id": "M001217",
+  "name": "Jared Moskowitz",
+  "seat": "Representative, FL-23",
+  "pages": [
+   {
+    "url": "https://moskowitz.house.gov",
+    "final": "https://moskowitz.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://moskowitz.house.gov/contact/",
+    "final": "https://moskowitz.house.gov/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://moskowitz.house.gov/contact",
+    "positive": [
+     "issue",
+     "topic"
+    ],
+    "negative": [
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "W000808": {
+  "id": "W000808",
+  "name": "Frederica S. Wilson",
+  "seat": "Representative, FL-24",
+  "pages": [
+   {
+    "url": "https://wilson.house.gov",
+    "final": "https://wilson.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://wilson.house.gov/contact/",
+    "final": "https://wilson.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://wilson.house.gov/contact/email-me/",
+    "final": "https://wilson.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://wilson.house.gov/contact/office-locations/",
+    "final": "https://wilson.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://wilson.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://wilson.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://wilson.house.gov/contact/offices/district-office-0/",
+    "final": "https://wilson.house.gov/contact/offices/district-office-0",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://wilson.house.gov/contact/offices/west-park-district-office/",
+    "final": "https://wilson.house.gov/contact/offices/west-park-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://wilson.house.gov/contact/offices/north-miami-district-office/",
+    "final": "https://wilson.house.gov/contact/offices/north-miami-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://wilson.house.gov/contact/offices/miami-gardens-office/",
+    "final": "https://wilson.house.gov/contact/offices/miami-gardens-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [
+   "+13056737000"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "West Park, FL office: West Park City Hall, 1965 South State Road 7"
+  ],
+  "forms": [
+   {
+    "url": "https://wilson.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter",
+     "privacy release"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "W000797": {
+  "id": "W000797",
+  "name": "Debbie Wasserman Schultz",
+  "seat": "Representative, FL-25",
+  "pages": [
+   {
+    "url": "https://wassermanschultz.house.gov",
+    "final": "https://wassermanschultz.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://wassermanschultz.house.gov/forms/form/",
+    "final": "https://wassermanschultz.house.gov/forms/form/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://wassermanschultz.house.gov/news/email/",
+    "final": "https://wassermanschultz.house.gov/news/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://wassermanschultz.house.gov/contact/",
+    "final": "https://wassermanschultz.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://wassermanschultz.house.gov/contact/officeinformation.htm",
+    "final": "https://wassermanschultz.house.gov/contact/officeinformation.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://wassermanschultz.house.gov/news/documentsingle.aspx/",
+    "final": "https://wassermanschultz.house.gov/news/documentsingle.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://wassermanschultz.house.gov/news/email/show.aspx/",
+    "final": "https://wassermanschultz.house.gov/email/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://wassermanschultz.house.gov/news/email/default.aspx/",
+    "final": "https://wassermanschultz.house.gov/news/email/default.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://wassermanschultz.house.gov/news/email/show.aspx/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://wassermanschultz.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "D000600": {
+  "id": "D000600",
+  "name": "Mario Diaz-Balart",
+  "seat": "Representative, FL-26",
+  "pages": [
+   {
+    "url": "https://mariodiazbalart.house.gov",
+    "final": "https://mariodiazbalart.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mariodiazbalart.house.gov/contact-mario/",
+    "final": "https://mariodiazbalart.house.gov/media/316",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mariodiazbalart.house.gov/contact-mario/office-hours-near-you/",
+    "final": "https://mariodiazbalart.house.gov/contact-mario/office-hours-near-you",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mariodiazbalart.house.gov/contact/offices/",
+    "final": "https://mariodiazbalart.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mariodiazbalart.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://mariodiazbalart.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mariodiazbalart.house.gov/contact/offices/doral-district-office/",
+    "final": "https://mariodiazbalart.house.gov/contact/offices/doral-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mariodiazbalart.house.gov/contact/offices/naples-district-office/",
+    "final": "https://mariodiazbalart.house.gov/contact/offices/naples-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://mariodiazbalart.house.gov/contact-mario/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "S000168": {
+  "id": "S000168",
+  "name": "Maria Elvira Salazar",
+  "seat": "Representative, FL-27",
+  "pages": [
+   {
+    "url": "https://salazar.house.gov",
+    "final": "https://salazar.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://salazar.house.gov/contact/",
+    "final": "https://salazar.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://salazar.house.gov/contact/offices/",
+    "final": "https://salazar.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://salazar.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://salazar.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://salazar.house.gov/contact/offices/main-district-office-0/",
+    "final": "https://salazar.house.gov/contact/offices/main-district-office-0",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://salazar.house.gov/contact/offices/palmetto-bay/",
+    "final": "https://salazar.house.gov/contact/offices/palmetto-bay",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://salazar.house.gov/contact/offices/cutler-bay/",
+    "final": "https://salazar.house.gov/contact/offices/cutler-bay",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Palmetto Bay, FL office: 9705 Hibiscus Street",
+   "Cutler Bay, FL office: 10720 Caribbean Blvd, Suite 220"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "G000593": {
+  "id": "G000593",
+  "name": "Carlos A. Gimenez",
+  "seat": "Representative, FL-28",
+  "pages": [
+   {
+    "url": "https://gimenez.house.gov",
+    "final": "https://gimenez.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gimenez.house.gov/contact/",
+    "final": "https://gimenez.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gimenez.house.gov/contact/email-me/",
+    "final": "https://gimenez.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://gimenez.house.gov/contact/office-hours/",
+    "final": "https://gimenez.house.gov/contact/office-hours",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gimenez.house.gov/contact/office-locations/",
+    "final": "https://gimenez.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gimenez.house.gov/contact/office-locations/washington-dc-office/",
+    "final": "https://gimenez.house.gov/contact/office-locations/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gimenez.house.gov/contact/office-locations/miami-district-office/",
+    "final": "https://gimenez.house.gov/contact/office-locations/miami-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gimenez.house.gov/contact/office-locations/key-west-district-office/",
+    "final": "https://gimenez.house.gov/contact/office-locations/key-west-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [
+   "+13052924485"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://gimenez.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "O000174": {
+  "id": "O000174",
+  "name": "Jon Ossoff",
+  "seat": "Senator, GA",
+  "pages": [
+   {
+    "url": "https://www.ossoff.senate.gov",
+    "final": "https://www.ossoff.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.ossoff.senate.gov/contact/",
+    "final": "https://www.ossoff.senate.gov/contact-us/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.ossoff.senate.gov/contact/offices/",
+    "final": "https://www.ossoff.senate.gov/contact-us/offices/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.ossoff.senate.gov/offices/",
+    "final": "https://www.ossoff.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.ossoff.senate.gov/office-locations/",
+    "final": "https://www.ossoff.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.ossoff.senate.gov/contact-us/",
+    "final": "https://www.ossoff.senate.gov/contact-us/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.ossoff.senate.gov/es/contact-us/",
+    "final": "https://www.ossoff.senate.gov/es/contact-us/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.ossoff.senate.gov/contact-us/share-your-views/",
+    "final": "https://www.ossoff.senate.gov/contact-us/share-your-views/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.ossoff.senate.gov/contact-us/'+b+'/",
+    "final": "https://www.ossoff.senate.gov/contact-us/'+b+'/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.ossoff.senate.gov/contact-us/offices/",
+    "final": "https://www.ossoff.senate.gov/contact-us/offices/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.ossoff.senate.gov",
+   "https://www.ossoff.senate.gov/offices/",
+   "https://www.ossoff.senate.gov/office-locations/",
+   "https://www.ossoff.senate.gov/contact-us/'+b+'/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 317 Hart Senate Office Building"
+  ],
+  "forms": [
+   {
+    "url": "https://www.ossoff.senate.gov/contact-us/offices/",
+    "positive": [
+     "comment",
+     "opinion"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter",
+     "tour request"
+    ]
+   },
+   {
+    "url": "https://www.ossoff.senate.gov/contact-us/share-your-views/",
+    "positive": [
+     "comment",
+     "issue",
+     "opinion",
+     "share your",
+     "views"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "newsletter",
+     "tour request"
+    ]
+   },
+   {
+    "url": "https://www.ossoff.senate.gov/contact-us/offices/",
+    "positive": [
+     "comment",
+     "opinion"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "W000790": {
+  "id": "W000790",
+  "name": "Raphael G. Warnock",
+  "seat": "Senator, GA",
+  "pages": [
+   {
+    "url": "https://www.warnock.senate.gov",
+    "final": "https://www.warnock.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.warnock.senate.gov/contact/",
+    "final": "https://www.warnock.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.warnock.senate.gov/contact/offices/",
+    "final": "https://www.warnock.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.warnock.senate.gov/offices/",
+    "final": "https://www.warnock.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.warnock.senate.gov/office-locations/",
+    "final": "https://www.warnock.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.warnock.senate.gov/contact/contact-form/",
+    "final": "https://www.warnock.senate.gov/contact/contact-form/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.warnock.senate.gov/contact/{{{data.link}}}/",
+    "final": "https://www.warnock.senate.gov/contact/{{{data.link}}}/",
+    "status": 0,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.warnock.senate.gov",
+   "https://www.warnock.senate.gov/contact/offices/",
+   "https://www.warnock.senate.gov/offices/",
+   "https://www.warnock.senate.gov/office-locations/",
+   "https://www.warnock.senate.gov/contact/{{{data.link}}}/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 717 Hart Senate Office Building"
+  ],
+  "forms": [
+   {
+    "url": "https://www.warnock.senate.gov/contact/contact-form/",
+    "positive": [
+     "comment",
+     "issue",
+     "opinion",
+     "share your"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "flag request",
+     "privacy act",
+     "privacy release"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "C001103": {
+  "id": "C001103",
+  "name": "Earl L. \"Buddy\" Carter",
+  "seat": "Representative, GA-1",
+  "pages": [
+   {
+    "url": "https://buddycarter.house.gov",
+    "final": "https://buddycarter.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://buddycarter.house.gov/news/email/",
+    "final": "https://buddycarter.house.gov/news/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://buddycarter.house.gov/contact/",
+    "final": "https://buddycarter.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://buddycarter.house.gov/contact/officeinformation.htm",
+    "final": "https://buddycarter.house.gov/contact/officeinformation.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://buddycarter.house.gov/news/email/show.aspx/",
+    "final": "https://buddycarter.house.gov/email/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://buddycarter.house.gov/news/email/default.aspx/",
+    "final": "https://buddycarter.house.gov/news/email/default.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://buddycarter.house.gov/news/email/show.aspx/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+12028095889"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://buddycarter.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "B000490": {
+  "id": "B000490",
+  "name": "Sanford D. Bishop, Jr.",
+  "seat": "Representative, GA-2",
+  "pages": [
+   {
+    "url": "https://bishop.house.gov",
+    "final": "https://bishop.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "http://bishop.house.gov/contact/",
+    "final": "https://bishop.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://bishop.house.gov/Connect/",
+    "final": "https://bishop.house.gov/Connect",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bishop.house.gov/contact/",
+    "final": "https://bishop.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://bishop.house.gov/contact/offices/",
+    "final": "https://bishop.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bishop.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://bishop.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bishop.house.gov/contact/offices/albany-district-office/",
+    "final": "https://bishop.house.gov/contact/offices/albany-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bishop.house.gov/contact/offices/columbus-district-office/",
+    "final": "https://bishop.house.gov/contact/offices/columbus-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bishop.house.gov/contact/offices/macon-district-office/",
+    "final": "https://bishop.house.gov/contact/offices/macon-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bishop.house.gov/contact/office-locations/",
+    "final": "https://bishop.house.gov/contact/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://bishop.house.gov/contact/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://bishop.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://bishop.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "J000311": {
+  "id": "J000311",
+  "name": "Brian Jack",
+  "seat": "Representative, GA-3",
+  "pages": [
+   {
+    "url": "https://jack.house.gov",
+    "final": "https://jack.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://jack.house.gov/contact/email-me/",
+    "final": "https://jack.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://jack.house.gov/contact/",
+    "final": "https://jack.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://jack.house.gov/contact/office-locations/",
+    "final": "https://jack.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://jack.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://jack.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://jack.house.gov/contact/offices/district-office/",
+    "final": "https://jack.house.gov/contact/offices/district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://jack.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "J000288": {
+  "id": "J000288",
+  "name": "Henry C. \"Hank\" Johnson, Jr.",
+  "seat": "Representative, GA-4",
+  "pages": [
+   {
+    "url": "https://hankjohnson.house.gov",
+    "final": "https://hankjohnson.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hankjohnson.house.gov/contact/",
+    "final": "https://hankjohnson.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://hankjohnson.house.gov/contact/offices/",
+    "final": "https://hankjohnson.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hankjohnson.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://hankjohnson.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hankjohnson.house.gov/contact/offices/decatur-office/",
+    "final": "https://hankjohnson.house.gov/contact/offices/decatur-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hankjohnson.house.gov/contact/office-locations/",
+    "final": "https://hankjohnson.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://hankjohnson.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "privacy release"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "W000788": {
+  "id": "W000788",
+  "name": "Nikema Williams",
+  "seat": "Representative, GA-5",
+  "pages": [
+   {
+    "url": "https://nikemawilliams.house.gov",
+    "final": "https://nikemawilliams.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "M001208": {
+  "id": "M001208",
+  "name": "Lucy McBath",
+  "seat": "Representative, GA-6",
+  "pages": [
+   {
+    "url": "https://mcbath.house.gov",
+    "final": "https://mcbath.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mcbath.house.gov/about/offices/",
+    "final": "https://mcbath.house.gov/about/offices/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mcbath.house.gov/contact/",
+    "final": "https://mcbath.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mcbath.house.gov/contact/email-me/",
+    "final": "https://mcbath.house.gov/contact/email-me/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://mcbath.house.gov/contact/email-me/",
+    "positive": [
+     "comment",
+     "concern",
+     "issue",
+     "legislation",
+     "opinion",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "M001218": {
+  "id": "M001218",
+  "name": "Richard McCormick",
+  "seat": "Representative, GA-7",
+  "pages": [
+   {
+    "url": "https://mccormick.house.gov",
+    "final": "https://mccormick.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mccormick.house.gov/contact/",
+    "final": "https://mccormick.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://mccormick.house.gov/contact/offices/",
+    "final": "https://mccormick.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mccormick.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://mccormick.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mccormick.house.gov/contact/offices/alpharetta-district-office/",
+    "final": "https://mccormick.house.gov/contact/offices/alpharetta-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mccormick.house.gov/contact/office-locations/",
+    "final": "https://mccormick.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Cumming, GA office: 115 W Court House Square"
+  ],
+  "forms": [
+   {
+    "url": "https://mccormick.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "S001189": {
+  "id": "S001189",
+  "name": "Austin Scott",
+  "seat": "Representative, GA-8",
+  "pages": [
+   {
+    "url": "https://austinscott.house.gov",
+    "final": "https://austinscott.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://austinscott.house.gov/contact-austin/",
+    "final": "https://austinscott.house.gov/contact-austin/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://austinscott.house.gov/email/",
+    "final": "https://austinscott.house.gov/contact-austin",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://austinscott.house.gov/office-locations/",
+    "final": "https://austinscott.house.gov/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://austinscott.house.gov/contact-austin/",
+    "positive": [
+     "comment",
+     "issue",
+     "legislation",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://austinscott.house.gov/contact-austin",
+    "positive": [
+     "comment",
+     "issue",
+     "legislation",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "C001116": {
+  "id": "C001116",
+  "name": "Andrew S. Clyde",
+  "seat": "Representative, GA-9",
+  "pages": [
+   {
+    "url": "https://clyde.house.gov",
+    "final": "https://clyde.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://clyde.house.gov/news/email/",
+    "final": "https://clyde.house.gov/news/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://clyde.house.gov/contact/",
+    "final": "https://clyde.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://clyde.house.gov/forms/emailsignup/",
+    "final": "https://clyde.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://clyde.house.gov/contact/offices.htm",
+    "final": "https://clyde.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://clyde.house.gov/contact/america-250-celebration-july-4-2026.htm",
+    "final": "https://clyde.house.gov/contact/america-250-celebration-july-4-2026.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://clyde.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "C001129": {
+  "id": "C001129",
+  "name": "Mike Collins",
+  "seat": "Representative, GA-10",
+  "pages": [
+   {
+    "url": "https://collins.house.gov",
+    "final": "https://collins.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://collins.house.gov/contact/",
+    "final": "https://collins.house.gov/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://collins.house.gov/contact/event-request/",
+    "final": "https://collins.house.gov/contact/event-request",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://collins.house.gov/contact/offices/",
+    "final": "https://collins.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://collins.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://collins.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://collins.house.gov/contact/offices/monroe-district-office/",
+    "final": "https://collins.house.gov/contact/offices/monroe-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://collins.house.gov/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "meeting request",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://collins.house.gov/contact/event-request",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "meeting request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "L000583": {
+  "id": "L000583",
+  "name": "Barry Loudermilk",
+  "seat": "Representative, GA-11",
+  "pages": [
+   {
+    "url": "https://loudermilk.house.gov",
+    "final": "https://loudermilk.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://loudermilk.house.gov/contact/",
+    "final": "https://loudermilk.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://loudermilk.house.gov/contact/email-barry/",
+    "final": "https://loudermilk.house.gov/contact/email-barry/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://loudermilk.house.gov/contact/contact-event-request/",
+    "final": "https://loudermilk.house.gov/contact/contact-event-request/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://loudermilk.house.gov/contact/contact-meet-with-rep-loudermilk/",
+    "final": "https://loudermilk.house.gov/contact/contact-meet-with-rep-loudermilk/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Cartersville, GA office: 135 W. Cherokee Ave., Suite 122"
+  ],
+  "forms": [
+   {
+    "url": "https://loudermilk.house.gov/contact/email-barry/",
+    "positive": [
+     "comment",
+     "concern",
+     "issue",
+     "legislation",
+     "opinion",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://loudermilk.house.gov/contact/contact-event-request/",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://loudermilk.house.gov/contact/contact-meet-with-rep-loudermilk/",
+    "positive": [
+     "issue",
+     "legislation",
+     "topic"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "A000372": {
+  "id": "A000372",
+  "name": "Rick W. Allen",
+  "seat": "Representative, GA-12",
+  "pages": [
+   {
+    "url": "https://allen.house.gov",
+    "final": "https://allen.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://allen.house.gov/news/email/",
+    "final": "https://allen.house.gov/news/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://allen.house.gov/news/documentquery.aspx/",
+    "final": "https://allen.house.gov/news/documentquery.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://allen.house.gov/contact/congressional-prayer-caucus.htm",
+    "final": "https://allen.house.gov/contact/congressional-prayer-caucus.htm",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://allen.house.gov/contact/",
+    "final": "https://allen.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://allen.house.gov/contact/officeinformation.htm",
+    "final": "https://allen.house.gov/contact/officeinformation.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://allen.house.gov/https://rickallen.emanager.house.gov/emanager/WebForms/Editor/",
+    "final": "https://allen.house.gov/https://rickallen.emanager.house.gov/emanager/WebForms/Editor/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://allen.house.gov/forms/emailsignup/",
+    "final": "https://allen.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://allen.house.gov/news/email/show.aspx/",
+    "final": "https://allen.house.gov/email/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://allen.house.gov/news/email/default.aspx/",
+    "final": "https://allen.house.gov/news/email/default.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://allen.house.gov/https://rickallen.emanager.house.gov/emanager/WebForms/Editor/",
+   "https://allen.house.gov/news/email/show.aspx/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://allen.house.gov/contact/congressional-prayer-caucus.htm",
+    "positive": [
+     "issue",
+     "legislation",
+     "opinion",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://allen.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "B001328": {
+  "id": "B001328",
+  "name": "Everton Blair Jr.",
+  "seat": "Representative, GA-13",
+  "pages": [
+   {
+    "url": "https://blair.house.gov/",
+    "final": "https://blair.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://blair.house.gov/contact/",
+    "final": "https://blair.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://blair.house.gov/contact/email-me/",
+    "final": "https://blair.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://blair.house.gov/contact/office-locations/",
+    "final": "https://blair.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://blair.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://blair.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://blair.house.gov/contact/offices/stockbridge-district-office/",
+    "final": "https://blair.house.gov/contact/offices/stockbridge-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+17702105073"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://blair.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": [
+   "Allison.Phipps@mail.house.gov",
+   "Amya.Enlow@mail.house.gov"
+  ]
+ },
+ "F000485": {
+  "id": "F000485",
+  "name": "Clay Fuller",
+  "seat": "Representative, GA-14",
+  "pages": [
+   {
+    "url": "https://fuller.house.gov",
+    "final": "https://fuller.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fuller.house.gov/contact/",
+    "final": "https://fuller.house.gov/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://fuller.house.gov/contact/office-locations/",
+    "final": "https://fuller.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fuller.house.gov/contact/send-me-an-email/",
+    "final": "https://fuller.house.gov/contact/send-me-an-email",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fuller.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://fuller.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fuller.house.gov/contact/offices/rome-district-office/",
+    "final": "https://fuller.house.gov/contact/offices/rome-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fuller.house.gov/contact/offices/dallas-district-office/",
+    "final": "https://fuller.house.gov/contact/offices/dallas-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fuller.house.gov/contact/offices/dalton-district-office/",
+    "final": "https://fuller.house.gov/contact/offices/dalton-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://fuller.house.gov/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ }
+}

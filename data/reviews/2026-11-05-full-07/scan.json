@@ -1,0 +1,1762 @@
+{
+ "M001219": {
+  "id": "M001219",
+  "name": "James C. Moylan",
+  "seat": "Delegate, GU-0",
+  "pages": [
+   {
+    "url": "https://moylan.house.gov",
+    "final": "https://moylan.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://moylan.house.gov/contact/email-me/",
+    "final": "https://moylan.house.gov/zip_authentication?form=/contact/email-me",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://moylan.house.gov/contact/",
+    "final": "https://moylan.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://moylan.house.gov/contact/offices/",
+    "final": "https://moylan.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://moylan.house.gov/contact/leave-review/",
+    "final": "https://moylan.house.gov/contact/leave-review/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://moylan.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://moylan.house.gov/contact/offices/washington-dc-office/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://moylan.house.gov/contact/offices/hagatna-district-office/",
+    "final": "https://moylan.house.gov/contact/offices/hagatna-district-office/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://moylan.house.gov/contact/offices/mobile-office/",
+    "final": "https://moylan.house.gov/contact/offices/mobile-office/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://moylan.house.gov/contact/email-me/",
+   "https://moylan.house.gov/contact/",
+   "https://moylan.house.gov/contact/offices/",
+   "https://moylan.house.gov/contact/leave-review/",
+   "https://moylan.house.gov/contact/offices/washington-dc-office/",
+   "https://moylan.house.gov/contact/offices/hagatna-district-office/",
+   "https://moylan.house.gov/contact/offices/mobile-office/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "H001042": {
+  "id": "H001042",
+  "name": "Mazie K. Hirono",
+  "seat": "Senator, HI",
+  "pages": [
+   {
+    "url": "https://www.hirono.senate.gov",
+    "final": "https://www.hirono.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.hirono.senate.gov/contact/",
+    "final": "https://www.hirono.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.hirono.senate.gov/contact/offices/",
+    "final": "https://www.hirono.senate.gov/404?notfound=/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.hirono.senate.gov/offices/",
+    "final": "https://www.hirono.senate.gov/404?notfound=/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.hirono.senate.gov/office-locations/",
+    "final": "https://www.hirono.senate.gov/404?notfound=office-locations",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.hirono.senate.gov/contact/email-me-about-an-issue/",
+    "final": "https://www.hirono.senate.gov/contact/email-me-about-an-issue/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.hirono.senate.gov/contact/e-news-updates/",
+    "final": "https://www.hirono.senate.gov/contact/e-news-updates/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.hirono.senate.gov",
+   "https://www.hirono.senate.gov/contact/offices/",
+   "https://www.hirono.senate.gov/offices/",
+   "https://www.hirono.senate.gov/office-locations/",
+   "https://www.hirono.senate.gov/contact/e-news-updates/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+18444783478"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "S001194": {
+  "id": "S001194",
+  "name": "Brian Schatz",
+  "seat": "Senator, HI",
+  "pages": [
+   {
+    "url": "https://www.schatz.senate.gov",
+    "final": "https://www.schatz.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.schatz.senate.gov/contact/",
+    "final": "https://www.schatz.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.schatz.senate.gov/contact/offices/",
+    "final": "https://www.schatz.senate.gov/404?notfound=/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.schatz.senate.gov/offices/",
+    "final": "https://www.schatz.senate.gov/404?notfound=/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.schatz.senate.gov/office-locations/",
+    "final": "https://www.schatz.senate.gov/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.schatz.senate.gov/contact/share-your-thoughts/",
+    "final": "https://www.schatz.senate.gov/contact/share-your-thoughts/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.schatz.senate.gov",
+   "https://www.schatz.senate.gov/contact/offices/",
+   "https://www.schatz.senate.gov/offices/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.schatz.senate.gov/contact/share-your-thoughts/",
+    "positive": [
+     "comment",
+     "issue",
+     "opinion",
+     "share your"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "flag request",
+     "meeting request",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "C001055": {
+  "id": "C001055",
+  "name": "Ed Case",
+  "seat": "Representative, HI-1",
+  "pages": [
+   {
+    "url": "https://case.house.gov",
+    "final": "https://case.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://case.house.gov/forms/congressionalcommendationrequest/",
+    "final": "https://case.house.gov/forms/congressionalcommendationrequest/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://case.house.gov/news/email/",
+    "final": "https://case.house.gov/news/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://case.house.gov/contact/",
+    "final": "https://case.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://case.house.gov/forms/emailsignup/",
+    "final": "https://case.house.gov/forms/form/?ID=2",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://case.house.gov/contact/offices.htm",
+    "final": "https://case.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://case.house.gov/news/email/show.aspx/",
+    "final": "https://case.house.gov/news/email/show.aspx/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://case.house.gov/news/email/default.aspx/",
+    "final": "https://case.house.gov/news/email/default.aspx/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://case.house.gov/news/email/show.aspx/",
+   "https://case.house.gov/news/email/default.aspx/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://case.house.gov/forms/congressionalcommendationrequest/",
+    "positive": [
+     "concern",
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://case.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "T000487": {
+  "id": "T000487",
+  "name": "Jill N. Tokuda",
+  "seat": "Representative, HI-2",
+  "pages": [
+   {
+    "url": "https://tokuda.house.gov",
+    "final": "https://tokuda.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://tokuda.house.gov/contact/",
+    "final": "https://tokuda.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://tokuda.house.gov/contact/email-me/",
+    "final": "https://tokuda.house.gov/contact/email-me/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://tokuda.house.gov/contact/offices/",
+    "final": "https://tokuda.house.gov/contact/offices/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://tokuda.house.gov/share-your-story/",
+    "final": "https://tokuda.house.gov/share-your-story/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://tokuda.house.gov/share-your-story/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "E000295": {
+  "id": "E000295",
+  "name": "Joni Ernst",
+  "seat": "Senator, IA",
+  "pages": [
+   {
+    "url": "https://www.ernst.senate.gov",
+    "final": "https://www.ernst.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.ernst.senate.gov/contact/",
+    "final": "https://www.ernst.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.ernst.senate.gov/contact/offices/",
+    "final": "https://www.ernst.senate.gov/404?notfound=/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.ernst.senate.gov/offices/",
+    "final": "https://www.ernst.senate.gov/404?notfound=/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.ernst.senate.gov/office-locations/",
+    "final": "https://www.ernst.senate.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.ernst.senate.gov/public/index.cfm/contact",
+    "final": "https://www.ernst.senate.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.ernst.senate.gov/assistance/traveling-office-hours/",
+    "final": "https://www.ernst.senate.gov/assistance/traveling-office-hours/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.ernst.senate.gov/contact/hear-from-joni/",
+    "final": "https://www.ernst.senate.gov/contact/hear-from-joni/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.ernst.senate.gov/contact/email-joni/",
+    "final": "https://www.ernst.senate.gov/contact/email-joni/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.ernst.senate.gov/contact/office-locations/",
+    "final": "https://www.ernst.senate.gov/contact/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.ernst.senate.gov",
+   "https://www.ernst.senate.gov/contact/offices/",
+   "https://www.ernst.senate.gov/offices/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "G000386": {
+  "id": "G000386",
+  "name": "Chuck Grassley",
+  "seat": "Senator, IA",
+  "pages": [
+   {
+    "url": "https://www.grassley.senate.gov",
+    "final": "https://www.grassley.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.grassley.senate.gov/contact/",
+    "final": "https://www.grassley.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.grassley.senate.gov/contact/offices/",
+    "final": "https://www.grassley.senate.gov/404?notfound=/contact/offices/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.grassley.senate.gov/offices/",
+    "final": "https://www.grassley.senate.gov/404?notfound=/offices/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.grassley.senate.gov/office-locations/",
+    "final": "https://www.grassley.senate.gov/404?notfound=/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.grassley.senate.gov/news/commentary/",
+    "final": "https://www.grassley.senate.gov/news/commentary/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.grassley.senate.gov/contact/questions-and-comments/",
+    "final": "https://www.grassley.senate.gov/contact/questions-and-comments/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.grassley.senate.gov/contact/get-the-scoop/",
+    "final": "https://www.grassley.senate.gov/contact/get-the-scoop/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.grassley.senate.gov/contact/whistleblowers/",
+    "final": "https://www.grassley.senate.gov/contact/whistleblowers/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.grassley.senate.gov",
+   "https://www.grassley.senate.gov/news/commentary/",
+   "https://www.grassley.senate.gov/contact/get-the-scoop/",
+   "https://www.grassley.senate.gov/contact/whistleblowers/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "M001215": {
+  "id": "M001215",
+  "name": "Mariannette Miller-Meeks",
+  "seat": "Representative, IA-1",
+  "pages": [
+   {
+    "url": "https://millermeeks.house.gov",
+    "final": "https://millermeeks.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://millermeeks.house.gov/contact/",
+    "final": "https://millermeeks.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://millermeeks.house.gov/contact/offices/",
+    "final": "https://millermeeks.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://millermeeks.house.gov/offices/",
+    "final": "https://millermeeks.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://millermeeks.house.gov/office-locations/",
+    "final": "https://millermeeks.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://millermeeks.house.gov",
+   "https://millermeeks.house.gov/contact/",
+   "https://millermeeks.house.gov/contact/offices/",
+   "https://millermeeks.house.gov/offices/",
+   "https://millermeeks.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022256576",
+   "+15158086040",
+   "+15632320930"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 504 Cannon House Office Building",
+   "Indianola, IA office: 126 N Howard Street",
+   "Davenport, IA office: 201 W Second Street, Suite 705"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "H001091": {
+  "id": "H001091",
+  "name": "Ashley Hinson",
+  "seat": "Representative, IA-2",
+  "pages": [
+   {
+    "url": "https://hinson.house.gov",
+    "final": "https://hinson.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hinson.house.gov/contact/",
+    "final": "https://hinson.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hinson.house.gov/contact/offices/",
+    "final": "https://hinson.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hinson.house.gov/offices/",
+    "final": "https://hinson.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hinson.house.gov/office-locations/",
+    "final": "https://hinson.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://hinson.house.gov",
+   "https://hinson.house.gov/contact/",
+   "https://hinson.house.gov/contact/offices/",
+   "https://hinson.house.gov/offices/",
+   "https://hinson.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022252911",
+   "+13192666925",
+   "+13193642288",
+   "+15635577789"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 2458 Rayburn House Office Building",
+   "Waterloo, IA office: 531 Commercial St., Suite 302",
+   "Dubuque, IA office: 1050 Main St.",
+   "Cedar Rapids, IA office: 111 7th Avenue SE, Suite 580"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "N000193": {
+  "id": "N000193",
+  "name": "Zachary Nunn",
+  "seat": "Representative, IA-3",
+  "pages": [
+   {
+    "url": "https://nunn.house.gov",
+    "final": "https://nunn.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://nunn.house.gov/contact/",
+    "final": "https://nunn.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://nunn.house.gov/contact/offices/",
+    "final": "https://nunn.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://nunn.house.gov/offices/",
+    "final": "https://nunn.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://nunn.house.gov/office-locations/",
+    "final": "https://nunn.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://nunn.house.gov",
+   "https://nunn.house.gov/contact/",
+   "https://nunn.house.gov/contact/offices/",
+   "https://nunn.house.gov/offices/",
+   "https://nunn.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022255476",
+   "+15154008180",
+   "+16412209093",
+   "+16412209641"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 1410 Longworth House Office Building",
+   "Des Moines, IA office: 400 Locust Street, Suite 250",
+   "Creston, IA office: 208 W Taylor Street",
+   "Ottumwa, IA office: 223 East Main Street"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "F000446": {
+  "id": "F000446",
+  "name": "Randy Feenstra",
+  "seat": "Representative, IA-4",
+  "pages": [
+   {
+    "url": "https://feenstra.house.gov",
+    "final": "https://feenstra.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://feenstra.house.gov/contact/",
+    "final": "https://feenstra.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://feenstra.house.gov/contact/offices/",
+    "final": "https://feenstra.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://feenstra.house.gov/offices/",
+    "final": "https://feenstra.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://feenstra.house.gov/office-locations/",
+    "final": "https://feenstra.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://feenstra.house.gov",
+   "https://feenstra.house.gov/contact/",
+   "https://feenstra.house.gov/contact/offices/",
+   "https://feenstra.house.gov/offices/",
+   "https://feenstra.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022254426",
+   "+15153027060",
+   "+17122244692",
+   "+17122565653"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 2434 Rayburn House Office Building",
+   "Fort Dodge, IA office: 723 Central Avenue",
+   "Sioux City, IA office: 320 6th Street, Room 112",
+   "Council Bluffs, IA office: 149 West Broadway"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "C000880": {
+  "id": "C000880",
+  "name": "Mike Crapo",
+  "seat": "Senator, ID",
+  "pages": [
+   {
+    "url": "https://www.crapo.senate.gov",
+    "final": "https://www.crapo.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.crapo.senate.gov/contact/",
+    "final": "https://www.crapo.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.crapo.senate.gov/contact/offices/",
+    "final": "https://www.crapo.senate.gov/404?notfound=/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.crapo.senate.gov/offices/",
+    "final": "https://www.crapo.senate.gov/404?notfound=/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.crapo.senate.gov/office-locations/",
+    "final": "https://www.crapo.senate.gov/404?notfound=/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.crapo.senate.gov/contact/email-me/",
+    "final": "https://www.crapo.senate.gov/contact/email-me/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.crapo.senate.gov/contact/faqs/",
+    "final": "https://www.crapo.senate.gov/contact/faqs/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.crapo.senate.gov/contact/office-locations/",
+    "final": "https://www.crapo.senate.gov/contact/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.crapo.senate.gov/contact/town-halls/",
+    "final": "https://www.crapo.senate.gov/contact/town-halls/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.crapo.senate.gov",
+   "https://www.crapo.senate.gov/contact/offices/",
+   "https://www.crapo.senate.gov/offices/",
+   "https://www.crapo.senate.gov/office-locations/",
+   "https://www.crapo.senate.gov/contact/faqs/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.crapo.senate.gov/contact/town-halls/",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "R000584": {
+  "id": "R000584",
+  "name": "James E. Risch",
+  "seat": "Senator, ID",
+  "pages": [
+   {
+    "url": "https://www.risch.senate.gov",
+    "final": "https://www.risch.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.risch.senate.gov/contact/",
+    "final": "https://www.risch.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.risch.senate.gov/contact/offices/",
+    "final": "https://www.risch.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.risch.senate.gov/offices/",
+    "final": "https://www.risch.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.risch.senate.gov/office-locations/",
+    "final": "https://www.risch.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.risch.senate.gov/public/index.cfm?p=Email",
+    "final": "https://www.risch.senate.gov/news/press-releases/what-are-they-saying-risch-gallego-nuclear-bill-is-critical-to-meet-growing-energy-demands/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.risch.senate.gov/contact/share-your-opinion/",
+    "final": "https://www.risch.senate.gov/contact/share-your-opinion/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.risch.senate.gov/contact/request-a-greeting/",
+    "final": "https://www.risch.senate.gov/contact/request-a-greeting/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.risch.senate.gov",
+   "https://www.risch.senate.gov/contact/offices/",
+   "https://www.risch.senate.gov/offices/",
+   "https://www.risch.senate.gov/office-locations/",
+   "https://www.risch.senate.gov/public/index.cfm?p=Email"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.risch.senate.gov/contact/share-your-opinion/",
+    "positive": [
+     "issue",
+     "opinion",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "meeting request",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://www.risch.senate.gov/contact/request-a-greeting/",
+    "positive": [
+     "issue",
+     "opinion",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "meeting request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "F000469": {
+  "id": "F000469",
+  "name": "Russ Fulcher",
+  "seat": "Representative, ID-1",
+  "pages": [
+   {
+    "url": "https://fulcher.house.gov",
+    "final": "https://fulcher.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fulcher.house.gov/contact/",
+    "final": "https://fulcher.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fulcher.house.gov/contact/offices/",
+    "final": "https://fulcher.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fulcher.house.gov/offices/",
+    "final": "https://fulcher.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fulcher.house.gov/office-locations/",
+    "final": "https://fulcher.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://fulcher.house.gov",
+   "https://fulcher.house.gov/contact/",
+   "https://fulcher.house.gov/contact/offices/",
+   "https://fulcher.house.gov/offices/",
+   "https://fulcher.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022256611",
+   "+12086670127",
+   "+12087431388",
+   "+12088883188"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 1514 Longworth House Office Building",
+   "Lewiston, ID office: 313 D St, Suite 107",
+   "Meridian, ID office: 33 E Broadway Ave, Suite 251",
+   "Coeur d'Alene, ID office: 1250 West Ironwood Drive, Suite 200"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "S001148": {
+  "id": "S001148",
+  "name": "Michael K. Simpson",
+  "seat": "Representative, ID-2",
+  "pages": [
+   {
+    "url": "https://simpson.house.gov",
+    "final": "https://simpson.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://simpson.house.gov/contact/",
+    "final": "https://simpson.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://simpson.house.gov/contact/offices/",
+    "final": "https://simpson.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://simpson.house.gov/offices/",
+    "final": "https://simpson.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://simpson.house.gov/office-locations/",
+    "final": "https://simpson.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://simpson.house.gov",
+   "https://simpson.house.gov/contact/",
+   "https://simpson.house.gov/contact/offices/",
+   "https://simpson.house.gov/offices/",
+   "https://simpson.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022255531",
+   "+12083341953",
+   "+12085236701",
+   "+12087347219"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 2084 Rayburn House Office Building",
+   "Boise, ID office: 802 W. Bannock, Suite 600",
+   "Twin Falls, ID office: 630 Addison Avenue West, Suite 1700",
+   "Idaho Falls, ID office: 1075 S Utah Avenue West, Suite 240"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "D000563": {
+  "id": "D000563",
+  "name": "Richard J. Durbin",
+  "seat": "Senator, IL",
+  "pages": [
+   {
+    "url": "https://www.durbin.senate.gov",
+    "final": "https://www.durbin.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.durbin.senate.gov/contact/",
+    "final": "https://www.durbin.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.durbin.senate.gov/contact/offices/",
+    "final": "https://www.durbin.senate.gov/404",
+    "status": 410,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.durbin.senate.gov/offices/",
+    "final": "https://www.durbin.senate.gov/404",
+    "status": 410,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.durbin.senate.gov/office-locations/",
+    "final": "https://www.durbin.senate.gov/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.durbin.senate.gov/contact/email/",
+    "final": "https://www.durbin.senate.gov/contact/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.durbin.senate.gov",
+   "https://www.durbin.senate.gov/contact/offices/",
+   "https://www.durbin.senate.gov/offices/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022242152",
+   "+12174924062",
+   "+13097865173",
+   "+13123534952",
+   "+16183511122"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 711 Hart Senate Office Building",
+   "Carbondale, IL office: 250 W. Cherry St., Suite 115-D",
+   "Chicago, IL office: 230 S. Dearborn St., Suite 3892",
+   "Rock Island, IL office: 1504 Third Ave., Suite 227",
+   "Springfield, IL office: 525 S. 8th St."
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "D000622": {
+  "id": "D000622",
+  "name": "Tammy Duckworth",
+  "seat": "Senator, IL",
+  "pages": [
+   {
+    "url": "https://www.duckworth.senate.gov",
+    "final": "https://www.duckworth.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.duckworth.senate.gov/contact/",
+    "final": "https://www.duckworth.senate.gov/contact/",
+    "status": 410,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.duckworth.senate.gov/contact/offices/",
+    "final": "https://www.duckworth.senate.gov/contact/offices/",
+    "status": 410,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.duckworth.senate.gov/offices/",
+    "final": "https://www.duckworth.senate.gov/offices/",
+    "status": 410,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.duckworth.senate.gov/office-locations/",
+    "final": "https://www.duckworth.senate.gov/office-locations/",
+    "status": 410,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.duckworth.senate.gov/content/contact-senator",
+    "final": "https://www.duckworth.senate.gov/help/email-tammy",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.duckworth.senate.gov",
+   "https://www.duckworth.senate.gov/contact/",
+   "https://www.duckworth.senate.gov/contact/offices/",
+   "https://www.duckworth.senate.gov/offices/",
+   "https://www.duckworth.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "J000309": {
+  "id": "J000309",
+  "name": "Jonathan L. Jackson",
+  "seat": "Representative, IL-1",
+  "pages": [
+   {
+    "url": "https://jonathanjackson.house.gov",
+    "final": "https://jonathanjackson.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://jonathanjackson.house.gov/contact/",
+    "final": "https://jonathanjackson.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://jonathanjackson.house.gov/contact/offices/",
+    "final": "https://jonathanjackson.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://jonathanjackson.house.gov/offices/",
+    "final": "https://jonathanjackson.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://jonathanjackson.house.gov/office-locations/",
+    "final": "https://jonathanjackson.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://jonathanjackson.house.gov",
+   "https://jonathanjackson.house.gov/contact/",
+   "https://jonathanjackson.house.gov/contact/offices/",
+   "https://jonathanjackson.house.gov/offices/",
+   "https://jonathanjackson.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022254372",
+   "+17737792400"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 1632 Longworth House Office Building",
+   "Chicago, IL office: 435 E. 35th Street"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "K000385": {
+  "id": "K000385",
+  "name": "Robin L. Kelly",
+  "seat": "Representative, IL-2",
+  "pages": [
+   {
+    "url": "https://robinkelly.house.gov",
+    "final": "https://robinkelly.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://robinkelly.house.gov/contact/",
+    "final": "https://robinkelly.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://robinkelly.house.gov/contact/offices/",
+    "final": "https://robinkelly.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://robinkelly.house.gov/offices/",
+    "final": "https://robinkelly.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://robinkelly.house.gov/office-locations/",
+    "final": "https://robinkelly.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://robinkelly.house.gov",
+   "https://robinkelly.house.gov/contact/",
+   "https://robinkelly.house.gov/contact/offices/",
+   "https://robinkelly.house.gov/offices/",
+   "https://robinkelly.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022250773",
+   "+12175164556",
+   "+17086790078",
+   "+17733212001"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 2329 Rayburn House Office Building",
+   "Matteson, IL office: 600 Town Center Road, Suite 505",
+   "Chicago, IL office: 1642 E. 56th Street, Suite 110",
+   "Danville, IL office: 425 N. Gilbert Street, Suite 5"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "R000617": {
+  "id": "R000617",
+  "name": "Delia C. Ramirez",
+  "seat": "Representative, IL-3",
+  "pages": [
+   {
+    "url": "https://ramirez.house.gov",
+    "final": "https://ramirez.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ramirez.house.gov/contact/",
+    "final": "https://ramirez.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ramirez.house.gov/contact/offices/",
+    "final": "https://ramirez.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ramirez.house.gov/offices/",
+    "final": "https://ramirez.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ramirez.house.gov/office-locations/",
+    "final": "https://ramirez.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://ramirez.house.gov",
+   "https://ramirez.house.gov/contact/",
+   "https://ramirez.house.gov/contact/offices/",
+   "https://ramirez.house.gov/offices/",
+   "https://ramirez.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022255701",
+   "+16305209494",
+   "+17737998219"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 1523 Longworth House Office Building",
+   "West Chicago, IL office: 946 N Neltnor Blvd, Suite 104",
+   "Chicago, IL office: 5624 W. Diversey Ave"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "G000586": {
+  "id": "G000586",
+  "name": "Jes\u00fas G. \"Chuy\" Garc\u00eda",
+  "seat": "Representative, IL-4",
+  "pages": [
+   {
+    "url": "https://chuygarcia.house.gov",
+    "final": "https://chuygarcia.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://chuygarcia.house.gov/contact/",
+    "final": "https://chuygarcia.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://chuygarcia.house.gov/contact/offices/",
+    "final": "https://chuygarcia.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://chuygarcia.house.gov/offices/",
+    "final": "https://chuygarcia.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://chuygarcia.house.gov/office-locations/",
+    "final": "https://chuygarcia.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://chuygarcia.house.gov",
+   "https://chuygarcia.house.gov/contact/",
+   "https://chuygarcia.house.gov/contact/offices/",
+   "https://chuygarcia.house.gov/offices/",
+   "https://chuygarcia.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022258203",
+   "+17733420774",
+   "+17734750833"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 2334 Rayburn House Office Building",
+   "Melrose Park, IL office: 125 N 19th Ave, Suite A",
+   "Chicago, IL office: 4376 S Archer Ave"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "Q000023": {
+  "id": "Q000023",
+  "name": "Mike Quigley",
+  "seat": "Representative, IL-5",
+  "pages": [
+   {
+    "url": "https://quigley.house.gov",
+    "final": "https://quigley.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://quigley.house.gov/contact/",
+    "final": "https://quigley.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://quigley.house.gov/contact/offices/",
+    "final": "https://quigley.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://quigley.house.gov/offices/",
+    "final": "https://quigley.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://quigley.house.gov/office-locations/",
+    "final": "https://quigley.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://quigley.house.gov",
+   "https://quigley.house.gov/contact/",
+   "https://quigley.house.gov/contact/offices/",
+   "https://quigley.house.gov/offices/",
+   "https://quigley.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022254061",
+   "+17732675926"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 2083 Rayburn House Office Building",
+   "Chicago, IL office: 1925 N. Clybourn Ave."
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "C001117": {
+  "id": "C001117",
+  "name": "Sean Casten",
+  "seat": "Representative, IL-6",
+  "pages": [
+   {
+    "url": "https://casten.house.gov",
+    "final": "https://casten.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://casten.house.gov/contact/",
+    "final": "https://casten.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://casten.house.gov/contact/offices/",
+    "final": "https://casten.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://casten.house.gov/offices/",
+    "final": "https://casten.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://casten.house.gov/office-locations/",
+    "final": "https://casten.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://casten.house.gov",
+   "https://casten.house.gov/contact/",
+   "https://casten.house.gov/contact/offices/",
+   "https://casten.house.gov/offices/",
+   "https://casten.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022254561",
+   "+16305209450"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 2440 Rayburn House Office Building",
+   "Glen Ellyn, IL office: Building C, 800 Roosevelt Road, Suite 204",
+   "Oak Forest, IL office: Building C, 15350 Oak Park Ave, 2nd Floor"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "D000096": {
+  "id": "D000096",
+  "name": "Danny K. Davis",
+  "seat": "Representative, IL-7",
+  "pages": [
+   {
+    "url": "https://davis.house.gov",
+    "final": "https://davis.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://davis.house.gov/contact/",
+    "final": "https://davis.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://davis.house.gov/contact/offices/",
+    "final": "https://davis.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://davis.house.gov/offices/",
+    "final": "https://davis.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://davis.house.gov/office-locations/",
+    "final": "https://davis.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://davis.house.gov",
+   "https://davis.house.gov/contact/",
+   "https://davis.house.gov/contact/offices/",
+   "https://davis.house.gov/offices/",
+   "https://davis.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022255006",
+   "+17735337520"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 2159 Rayburn House Office Building",
+   "Chicago, IL office: 2815 W. Fifth Avenue"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "K000391": {
+  "id": "K000391",
+  "name": "Raja Krishnamoorthi",
+  "seat": "Representative, IL-8",
+  "pages": [
+   {
+    "url": "https://krishnamoorthi.house.gov",
+    "final": "https://krishnamoorthi.house.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://krishnamoorthi.house.gov/contact/",
+    "final": "https://krishnamoorthi.house.gov/contact/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://krishnamoorthi.house.gov/contact/offices/",
+    "final": "https://krishnamoorthi.house.gov/contact/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://krishnamoorthi.house.gov/offices/",
+    "final": "https://krishnamoorthi.house.gov/offices/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://krishnamoorthi.house.gov/office-locations/",
+    "final": "https://krishnamoorthi.house.gov/office-locations/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://krishnamoorthi.house.gov",
+   "https://krishnamoorthi.house.gov/contact/",
+   "https://krishnamoorthi.house.gov/contact/offices/",
+   "https://krishnamoorthi.house.gov/offices/",
+   "https://krishnamoorthi.house.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022253711",
+   "+18474131959"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 2367 Rayburn House Office Building",
+   "Schaumburg, IL office: 1701 E. Woodfield Rd., Suite 704"
+  ],
+  "forms": [],
+  "emails": []
+ }
+}

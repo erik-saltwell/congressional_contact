@@ -1,0 +1,2265 @@
+{
+ "batch": "2026-11-05-full-04",
+ "createdAt": "2026-11-05",
+ "dataGeneratedAt": "2026-11-05T19:36:17Z",
+ "officials": {
+  "B001300": {
+   "seat": "Representative, CA-44",
+   "published": {
+    "name": {
+     "full": "Nanette Diaz Barragán",
+     "given": "Nanette",
+     "family": "Barragán",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 44,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022258220",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2312 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0544",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Carson, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13108311799",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Carson City Hall",
+        "701 E. Carson St."
+       ],
+       "city": "Carson",
+       "region": "CA",
+       "postalCode": "90745",
+       "country": "US"
+      }
+     },
+     {
+      "label": "South Gate, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13108311799",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "South Gate City Hall",
+        "8650 California Ave."
+       ],
+       "city": "South Gate",
+       "region": "CA",
+       "postalCode": "90280",
+       "country": "US"
+      }
+     },
+     {
+      "label": "San Pedro, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13108311799",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "638 S. Beacon St"
+       ],
+       "city": "San Pedro",
+       "region": "CA",
+       "postalCode": "90731",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Long Beach, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13108311799",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4201 Long Beach Blvd, Suite 422"
+       ],
+       "city": "Long Beach",
+       "region": "CA",
+       "postalCode": "90807",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://barragan.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://barragan.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "T000491": {
+   "seat": "Representative, CA-45",
+   "published": {
+    "name": {
+     "full": "Derek Tran",
+     "given": "Derek",
+     "family": "Tran",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 45,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252415",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1127 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0545",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cypress, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17149606483",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "6803 International Ave., 100"
+       ],
+       "city": "Cypress",
+       "region": "CA",
+       "postalCode": "90630",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://tran.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://tran.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001110": {
+   "seat": "Representative, CA-46",
+   "published": {
+    "name": {
+     "full": "J. Luis Correa",
+     "given": "J.",
+     "family": "Correa",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 46,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252965",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2082 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0546",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Santa Ana, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17145596190",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Rancho Santiago Community College Building",
+        "2323 N. Broadway, Suite 319"
+       ],
+       "city": "Santa Ana",
+       "region": "CA",
+       "postalCode": "92706",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://correa.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://correa.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001241": {
+   "seat": "Representative, CA-47",
+   "published": {
+    "name": {
+     "full": "Dave Min",
+     "given": "Dave",
+     "family": "Min",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 47,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255611",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1034 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0547",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Costa Mesa, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19496686600",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1370 Adams Ave, Suite A"
+       ],
+       "city": "Costa Mesa",
+       "region": "CA",
+       "postalCode": "92626",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://min.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://min.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "I000056": {
+   "seat": "Representative, CA-48",
+   "published": {
+    "name": {
+     "full": "Darrell Issa",
+     "given": "Darrell",
+     "family": "Issa",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "CA",
+    "district": 48,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255672",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2108 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0548",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Escondido, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17603047575",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "221 W. Crest St, #110"
+       ],
+       "city": "Escondido",
+       "region": "CA",
+       "postalCode": "92025",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Santee, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17603047575",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Bldg 6",
+        "10601 Magnolia Ave"
+       ],
+       "city": "Santee",
+       "region": "CA",
+       "postalCode": "92071",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Temecula, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17603047575",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "41000 Main St."
+       ],
+       "city": "Temecula",
+       "region": "CA",
+       "postalCode": "92590",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://issa.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://issa.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000593": {
+   "seat": "Representative, CA-49",
+   "published": {
+    "name": {
+     "full": "Mike Levin",
+     "given": "Mike",
+     "family": "Levin",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 49,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253906",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2352 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0549",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Oceanside, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17605995000",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2204 El Camino Real, Suite 314"
+       ],
+       "city": "Oceanside",
+       "region": "CA",
+       "postalCode": "92054",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Dana Point, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19492812449",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "33282 Golden Lantern, Suite 102"
+       ],
+       "city": "Dana Point",
+       "region": "CA",
+       "postalCode": "92629",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://levin.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://levin.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "P000608": {
+   "seat": "Representative, CA-50",
+   "published": {
+    "name": {
+     "full": "Scott H. Peters",
+     "given": "Scott",
+     "family": "Peters",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 50,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022250508",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2369 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0550",
+       "country": "US"
+      }
+     },
+     {
+      "label": "San Diego, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18584555550",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4350 Executive Dr., Suite 105"
+       ],
+       "city": "San Diego",
+       "region": "CA",
+       "postalCode": "92121",
+       "country": "US"
+      }
+     },
+     {
+      "label": "San Marcos, CA office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "1 Civic Center Drive"
+       ],
+       "city": "San Marcos",
+       "region": "CA",
+       "postalCode": "92069",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://scottpeters.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://scottpeters.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "J000305": {
+   "seat": "Representative, CA-51",
+   "published": {
+    "name": {
+     "full": "Sara Jacobs",
+     "given": "Sara",
+     "family": "Jacobs",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 51,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252040",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2348 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0551",
+       "country": "US"
+      }
+     },
+     {
+      "label": "San Diego, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16192805353",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3465 Camino del Rio S, 350"
+       ],
+       "city": "San Diego",
+       "region": "CA",
+       "postalCode": "",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://sarajacobs.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://sarajacobs.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "V000130": {
+   "seat": "Representative, CA-52",
+   "published": {
+    "name": {
+     "full": "Juan Vargas",
+     "given": "Juan",
+     "family": "Vargas",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 52,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022258045",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2467 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0552",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Chula Vista, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16194225963",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "333 F St., Suite A"
+       ],
+       "city": "Chula Vista",
+       "region": "CA",
+       "postalCode": "91910",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://vargas.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://vargas.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001267": {
+   "seat": "Senator, CO",
+   "published": {
+    "name": {
+     "full": "Michael F. Bennet",
+     "given": "Michael",
+     "family": "Bennet",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "CO",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022245852",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "261 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Colorado Springs, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17193281100",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "409 N. Tejon St., Suite 107"
+       ],
+       "city": "Colorado Springs",
+       "region": "CO",
+       "postalCode": "80903",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Denver, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13034557600",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Cesar E. Chavez Memorial Building",
+        "1244 Speer Blvd."
+       ],
+       "city": "Denver",
+       "region": "CO",
+       "postalCode": "80204",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fort Collins, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19702242200",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1200 S. College Ave., Suite 211"
+       ],
+       "city": "Fort Collins",
+       "region": "CO",
+       "postalCode": "80524",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Grand Junction, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19702416631",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "225 N. 5th St., Suite 511"
+       ],
+       "city": "Grand Junction",
+       "region": "CO",
+       "postalCode": "81501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Pueblo, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17195427550",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "129 W. B St."
+       ],
+       "city": "Pueblo",
+       "region": "CO",
+       "postalCode": "81003",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Alamosa, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17195870096",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "609 Main Street, Suite 206"
+       ],
+       "city": "Alamosa",
+       "region": "CO",
+       "postalCode": "81101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Durango, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19702591710",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Smiley Building",
+        "1309 East 3rd Avenue, Suite 101"
+       ],
+       "city": "Durango",
+       "region": "CO",
+       "postalCode": "81301",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.bennet.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.bennet.senate.gov/public/index.cfm/contact",
+    "website": "https://www.bennet.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "H000273": {
+   "seat": "Senator, CO",
+   "published": {
+    "name": {
+     "full": "John W. Hickenlooper",
+     "given": "John",
+     "family": "Hickenlooper",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "CO",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022245941",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "316 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Denver, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13032441628",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Byron Rogers Federal Building",
+        "1961 Stout St., Suite 12-300"
+       ],
+       "city": "Denver",
+       "region": "CO",
+       "postalCode": "80294",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Colorado Springs, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17196326706",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "102 South Tejon St., Suite 930"
+       ],
+       "city": "Colorado Springs",
+       "region": "CO",
+       "postalCode": "80903",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Grand Junction, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19708224530",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Wayne Aspinall Federal Building",
+        "400 Rood Ave., Suite 220"
+       ],
+       "city": "Grand Junction",
+       "region": "CO",
+       "postalCode": "81501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Durango, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19708807236",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "The Smiley Building",
+        "1309 East 3rd Ave., Suite 104"
+       ],
+       "city": "Durango",
+       "region": "CO",
+       "postalCode": "81301",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Greeley, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19703525546",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "801 8th St., Suite 140A"
+       ],
+       "city": "Greeley",
+       "region": "CO",
+       "postalCode": "80631",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fort Collins, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19704843502",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "201 S College Ave., Suite 200"
+       ],
+       "city": "Fort Collins",
+       "region": "CO",
+       "postalCode": "80524",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Glenwood Springs, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19709897075",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1402 Blake Ave., Suite 109A"
+       ],
+       "city": "Glenwood Springs",
+       "region": "CO",
+       "postalCode": "81601",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.hickenlooper.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.hickenlooper.senate.gov/contact/",
+    "website": "https://www.hickenlooper.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "D000197": {
+   "seat": "Representative, CO-1",
+   "published": {
+    "name": {
+     "full": "Diana DeGette",
+     "given": "Diana",
+     "family": "DeGette",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CO",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254431",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2111 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0601",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Denver, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13038444988",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "600 Grant Street, Suite 850"
+       ],
+       "city": "Denver",
+       "region": "CO",
+       "postalCode": "80203",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://degette.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://degette.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "N000191": {
+   "seat": "Representative, CO-2",
+   "published": {
+    "name": {
+     "full": "Joe Neguse",
+     "given": "Joe",
+     "family": "Neguse",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CO",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252161",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2400 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0602",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Boulder, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13033351045",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2503 Walnut St, Suite 300"
+       ],
+       "city": "Boulder",
+       "region": "CO",
+       "postalCode": "80302-5748",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fort Collins, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19703723971",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1220 S College Ave, Unit 100A"
+       ],
+       "city": "Fort Collins",
+       "region": "CO",
+       "postalCode": "80524-3785",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Frisco, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13033351045",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "620 E Main Street"
+       ],
+       "city": "Frisco",
+       "region": "CO",
+       "postalCode": "80443",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://neguse.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://neguse.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001100": {
+   "seat": "Representative, CO-3",
+   "published": {
+    "name": {
+     "full": "Jeff Hurd",
+     "given": "Jeff",
+     "family": "Hurd",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "CO",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254676",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1641 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0603",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Grand Junction, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19702080455",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "743 Horizon Ct, Suite 112"
+       ],
+       "city": "Grand Junction",
+       "region": "CO",
+       "postalCode": "81506",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Pueblo, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17196966968",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "503 N Main St, Suite 426"
+       ],
+       "city": "Pueblo",
+       "region": "CO",
+       "postalCode": "81003",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Durango, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19703176167",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "835 E 2nd Ave, Suite 204"
+       ],
+       "city": "Durango",
+       "region": "CO",
+       "postalCode": "81301",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://hurd.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://hurd.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B000825": {
+   "seat": "Representative, CO-4",
+   "published": {
+    "name": {
+     "full": "Lauren Boebert",
+     "given": "Lauren",
+     "family": "Boebert",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "CO",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254761",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1713 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0604",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Castle Rock, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17206399165",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "900 Castleton Rd., Suite 112"
+       ],
+       "city": "Castle Rock",
+       "region": "CO",
+       "postalCode": "80109",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Eaton, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19707022136",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "271 South Elm Ave., Suite 1A"
+       ],
+       "city": "Eaton",
+       "region": "CO",
+       "postalCode": "80615",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://boebert.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://boebert.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001137": {
+   "seat": "Representative, CO-5",
+   "published": {
+    "name": {
+     "full": "Jeff Crank",
+     "given": "Jeff",
+     "family": "Crank",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "CO",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254422",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1029 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0605",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Colorado Springs, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17195200055",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "455 E. Pikes Peak Ave, Suite 103"
+       ],
+       "city": "Colorado Springs",
+       "region": "CO",
+       "postalCode": "80903",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://crank.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://crank.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001121": {
+   "seat": "Representative, CO-6",
+   "published": {
+    "name": {
+     "full": "Jason Crow",
+     "given": "Jason",
+     "family": "Crow",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CO",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022257882",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1323 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0606",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Aurora, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17207487514",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2170 S Parker Road, #280"
+       ],
+       "city": "Aurora",
+       "region": "CO",
+       "postalCode": "80231",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://crow.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://crow.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "P000620": {
+   "seat": "Representative, CO-7",
+   "published": {
+    "name": {
+     "full": "Brittany Pettersen",
+     "given": "Brittany",
+     "family": "Pettersen",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CO",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252645",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "348 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0607",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lakewood, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13032747944",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "550 S. Wadsworth Blvd., Suite 400"
+       ],
+       "city": "Lakewood",
+       "region": "CO",
+       "postalCode": "80226",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cañon City, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17194586161",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "611 Greenwood Ave., Suite C"
+       ],
+       "city": "Cañon City",
+       "region": "CO",
+       "postalCode": "81212",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://pettersen.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://pettersen.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "E000300": {
+   "seat": "Representative, CO-8",
+   "published": {
+    "name": {
+     "full": "Gabe Evans",
+     "given": "Gabe",
+     "family": "Evans",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "CO",
+    "district": 8,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255625",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1229 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0001",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Greeley, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19703242567",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Building 1S",
+        "3400 West 16th St, Suite C"
+       ],
+       "city": "Greeley",
+       "region": "CO",
+       "postalCode": "80634",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Northglenn, CO office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13037236560",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "10701 Melody Dr, Suite 500"
+       ],
+       "city": "Northglenn",
+       "region": "CO",
+       "postalCode": "80234",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://gabeevans.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://gabeevans.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001277": {
+   "seat": "Senator, CT",
+   "published": {
+    "name": {
+     "full": "Richard Blumenthal",
+     "given": "Richard",
+     "family": "Blumenthal",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "CT",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022242823",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "503 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bridgeport, CT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12033300598",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "915 Lafayette Blvd., Suite 304"
+       ],
+       "city": "Bridgeport",
+       "region": "CT",
+       "postalCode": "06604",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Hartford, CT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18602586940",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "90 State House Sq., 10th Floor"
+       ],
+       "city": "Hartford",
+       "region": "CT",
+       "postalCode": "06103",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.blumenthal.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.blumenthal.senate.gov/contact/",
+    "website": "https://www.blumenthal.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001169": {
+   "seat": "Senator, CT",
+   "published": {
+    "name": {
+     "full": "Christopher Murphy",
+     "given": "Christopher",
+     "family": "Murphy",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "CT",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022244041",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "136 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Hartford, CT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18605498463",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Colt Gateway",
+        "120 Huyshope Ave., Suite 401"
+       ],
+       "city": "Hartford",
+       "region": "CT",
+       "postalCode": "06106",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.murphy.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.murphy.senate.gov/contact",
+    "website": "https://www.murphy.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000557": {
+   "seat": "Representative, CT-1",
+   "published": {
+    "name": {
+     "full": "John B. Larson",
+     "given": "John",
+     "family": "Larson",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CT",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252265",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1501 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "East Hartford, CT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18602788888",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "361 Main Street, 3rd Floor"
+       ],
+       "city": "East Hartford",
+       "region": "CT",
+       "postalCode": "06118",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://larson.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://larson.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001069": {
+   "seat": "Representative, CT-2",
+   "published": {
+    "name": {
+     "full": "Joe Courtney",
+     "given": "Joe",
+     "family": "Courtney",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CT",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252076",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2449 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0702",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Enfield, CT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18607416011",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "77 Hazard Ave., Unit J"
+       ],
+       "city": "Enfield",
+       "region": "CT",
+       "postalCode": "06082",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Norwich, CT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18608860139",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "55 Main St., Suite 250"
+       ],
+       "city": "Norwich",
+       "region": "CT",
+       "postalCode": "06360",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://courtney.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://courtney.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "D000216": {
+   "seat": "Representative, CT-3",
+   "published": {
+    "name": {
+     "full": "Rosa L. DeLauro",
+     "given": "Rosa",
+     "family": "DeLauro",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CT",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253661",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2413 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0703",
+       "country": "US"
+      }
+     },
+     {
+      "label": "New Haven, CT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12035623718",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "59 Elm St."
+       ],
+       "city": "New Haven",
+       "region": "CT",
+       "postalCode": "06510",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://delauro.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://delauro.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001047": {
+   "seat": "Representative, CT-4",
+   "published": {
+    "name": {
+     "full": "James A. Himes",
+     "given": "Jim",
+     "family": "Himes",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CT",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255541",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2137 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0704",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Stamford, CT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12033539400",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "888 Washington Blvd., 10th Floor"
+       ],
+       "city": "Stamford",
+       "region": "CT",
+       "postalCode": "06901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bridgeport, CT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12033336600",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Suite 603",
+        "350 Fairfield Ave., Suite 603"
+       ],
+       "city": "Bridgeport",
+       "region": "CT",
+       "postalCode": "06604",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://himes.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://himes.house.gov"
+   },
+   "currentSupplement": null
+  }
+ }
+}

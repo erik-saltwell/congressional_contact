@@ -1,0 +1,2623 @@
+{
+ "batch": "2026-11-05-full-17",
+ "createdAt": "2026-11-05",
+ "dataGeneratedAt": "2026-11-05T19:36:17Z",
+ "officials": {
+  "S001226": {
+   "seat": "Representative, OR-6",
+   "published": {
+    "name": {
+     "full": "Andrea Salinas",
+     "given": "Andrea",
+     "family": "Salinas",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "OR",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255643",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "403 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0001",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tualatin, OR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15033850906",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "18861 SW Martinazzi Avenue, #200"
+       ],
+       "city": "Tualatin",
+       "region": "OR",
+       "postalCode": "97062",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Salem, OR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15033850906",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "530 Center Street NE, #415"
+       ],
+       "city": "Salem",
+       "region": "OR",
+       "postalCode": "97301",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://salinas.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://salinas.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "F000479": {
+   "seat": "Senator, PA",
+   "published": {
+    "name": {
+     "full": "John Fetterman",
+     "given": "John",
+     "family": "Fetterman",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "PA",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022244254",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "142 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Pittsburgh, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14128033501",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1000 Liberty Avenue, Suite 1811"
+       ],
+       "city": "Pittsburgh",
+       "region": "PA",
+       "postalCode": "15222",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Erie, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18144533010",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "17 South Park Row, Suite B-120"
+       ],
+       "city": "Erie",
+       "region": "PA",
+       "postalCode": "16501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Harrisburg, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17177823951",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "320 Market Street, Suite 475E"
+       ],
+       "city": "Harrisburg",
+       "region": "PA",
+       "postalCode": "17101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Wilkes-Barre, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15708204088",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "7 North Wilkes-Barre Boulevard, Suite 406"
+       ],
+       "city": "Wilkes-Barre",
+       "region": "PA",
+       "postalCode": "18702",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Philadelphia, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12152411090",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "200 Chestnut Street, Suite 600"
+       ],
+       "city": "Philadelphia",
+       "region": "PA",
+       "postalCode": "19106",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.fetterman.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.fetterman.senate.gov/contact/",
+    "website": "https://www.fetterman.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001243": {
+   "seat": "Senator, PA",
+   "published": {
+    "name": {
+     "full": "David McCormick",
+     "given": "Dave",
+     "family": "McCormick",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "PA",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022246324",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "702 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Harrisburg, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17172317540",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "200 North Third St, Suite 14A/14th Floor"
+       ],
+       "city": "Harrisburg",
+       "region": "PA",
+       "postalCode": "17101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Pittsburgh, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14128037370",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "310 Grant St, Suite 2415"
+       ],
+       "city": "Pittsburgh",
+       "region": "PA",
+       "postalCode": "15219",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Erie, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18142405213",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "17 South Park Row, Suite B-150"
+       ],
+       "city": "Erie",
+       "region": "PA",
+       "postalCode": "16501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "State College, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18143570314",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "329 Innovation Blvd, Suite 226"
+       ],
+       "city": "State College",
+       "region": "PA",
+       "postalCode": "16803",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Philadelphia, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12154059660",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2000 Market St, Suite 610"
+       ],
+       "city": "Philadelphia",
+       "region": "PA",
+       "postalCode": "19103",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Allentown, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16107829470",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "840 West Hamilton St, Suite 301"
+       ],
+       "city": "Allentown",
+       "region": "PA",
+       "postalCode": "18101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Scranton, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15709410930",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "417 Lackawanna Ave, Suite 303"
+       ],
+       "city": "Scranton",
+       "region": "PA",
+       "postalCode": "18503",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.mccormick.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://mccormick.senate.gov/",
+    "website": "https://www.mccormick.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "F000466": {
+   "seat": "Representative, PA-1",
+   "published": {
+    "name": {
+     "full": "Brian K. Fitzpatrick",
+     "given": "Brian",
+     "family": "Fitzpatrick",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "PA",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254276",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "271 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3801",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Langhorne, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12155798102",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1717 Langhorne Newtown Rd., Suite 225"
+       ],
+       "city": "Langhorne",
+       "region": "PA",
+       "postalCode": "19047",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://fitzpatrick.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://fitzpatrick.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001296": {
+   "seat": "Representative, PA-2",
+   "published": {
+    "name": {
+     "full": "Brendan F. Boyle",
+     "given": "Brendan",
+     "family": "Boyle",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "PA",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256111",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1502 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3802",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Philadelphia, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12673355643",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "One & Olney Shopping Center",
+        "5675 N. Front St., Suite 180"
+       ],
+       "city": "Philadelphia",
+       "region": "PA",
+       "postalCode": "19120",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Philadelphia, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12153353355",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "8572 Bustleton Ave."
+       ],
+       "city": "Philadelphia",
+       "region": "PA",
+       "postalCode": "19152",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Philadelphia, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12159821156",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1318 West Girard Avenue"
+       ],
+       "city": "Philadelphia",
+       "region": "PA",
+       "postalCode": "19123",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://boyle.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://boyle.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "E000296": {
+   "seat": "Representative, PA-3",
+   "published": {
+    "name": {
+     "full": "Dwight Evans",
+     "given": "Dwight",
+     "family": "Evans",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "PA",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254001",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1105 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3803",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Philadelphia, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12152760340",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "7174 Ogontz Ave."
+       ],
+       "city": "Philadelphia",
+       "region": "PA",
+       "postalCode": "19138",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Philadelphia, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12152543400",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1310 Point Breeze Ave"
+       ],
+       "city": "Philadelphia",
+       "region": "PA",
+       "postalCode": "19146",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://evans.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://evans.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "D000631": {
+   "seat": "Representative, PA-4",
+   "published": {
+    "name": {
+     "full": "Madeleine Dean",
+     "given": "Madeleine",
+     "family": "Dean",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "PA",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254731",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "150 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3804",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Glenside, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12158844300",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "115 E Glenside Ave, Suite 1"
+       ],
+       "city": "Glenside",
+       "region": "PA",
+       "postalCode": "19038-4618",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Pottstown, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16103821250",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1200 E. High Street, Suite 105"
+       ],
+       "city": "Pottstown",
+       "region": "PA",
+       "postalCode": "19464",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://dean.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://dean.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001205": {
+   "seat": "Representative, PA-5",
+   "published": {
+    "name": {
+     "full": "Mary Gay Scanlon",
+     "given": "Mary",
+     "family": "Scanlon",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "PA",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252011",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1214 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3805",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Chester, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16106262020",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2501 Seaport Drive, BH230"
+       ],
+       "city": "Chester",
+       "region": "PA",
+       "postalCode": "19013",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://scanlon.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://scanlon.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001085": {
+   "seat": "Representative, PA-6",
+   "published": {
+    "name": {
+     "full": "Chrissy Houlahan",
+     "given": "Chrissy",
+     "family": "Houlahan",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "PA",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254315",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1727 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3806",
+       "country": "US"
+      }
+     },
+     {
+      "label": "West Chester, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16108835050",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "709 E. Gay Street, Suite 4"
+       ],
+       "city": "West Chester",
+       "region": "PA",
+       "postalCode": "19380",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Reading, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16102950815",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "201 Penn Street, Suite 201"
+       ],
+       "city": "Reading",
+       "region": "PA",
+       "postalCode": "19601",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://houlahan.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://houlahan.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001230": {
+   "seat": "Representative, PA-7",
+   "published": {
+    "name": {
+     "full": "Ryan Mackenzie",
+     "given": "Ryan",
+     "family": "Mackenzie",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "PA",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256411",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "121 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3807",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Allentown, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14847816000",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1125 S Cedar Crest Blvd, Suite 109 (Bottom Floor)"
+       ],
+       "city": "Allentown",
+       "region": "PA",
+       "postalCode": "18103",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Allentown, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14847816932",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "840 W Hamilton St., Suite 201"
+       ],
+       "city": "Allentown",
+       "region": "PA",
+       "postalCode": "18101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lehighton, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15708070333",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1163 Interchange Rd, Suite C"
+       ],
+       "city": "Lehighton",
+       "region": "PA",
+       "postalCode": "18235",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bethlehem, PA office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "2151 Emrick Blvd., Suite 204"
+       ],
+       "city": "Bethlehem",
+       "region": "PA",
+       "postalCode": "18020",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mackenzie.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mackenzie.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001327": {
+   "seat": "Representative, PA-8",
+   "published": {
+    "name": {
+     "full": "Robert P. Bresnahan, Jr.",
+     "given": "Robert",
+     "family": "Bresnahan",
+     "suffix": "Jr."
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "PA",
+    "district": 8,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255546",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1133 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3808",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Scotrun, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15705346220",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2398 Rt 611, Suite 101"
+       ],
+       "city": "Scotrun",
+       "region": "PA",
+       "postalCode": "18355",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Forty-Fort, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15707636120",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Bldg. B",
+        "900 Rutter Ave, 1st Floor, Suite C"
+       ],
+       "city": "Forty-Fort",
+       "region": "PA",
+       "postalCode": "18704",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Hazleton, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15707106830",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "145 E Broad St, Suite 3"
+       ],
+       "city": "Hazleton",
+       "region": "PA",
+       "postalCode": "18201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Scranton, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15709066850",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "116 North Washington Ave, Suite 101"
+       ],
+       "city": "Scranton",
+       "region": "PA",
+       "postalCode": "18503",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://bresnahan.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://bresnahan.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001204": {
+   "seat": "Representative, PA-9",
+   "published": {
+    "name": {
+     "full": "Daniel Meuser",
+     "given": "Daniel",
+     "family": "Meuser",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "PA",
+    "district": 9,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256511",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "350 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3809",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Pottsville, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15708716370",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Losch Plaza",
+        "121 Progress Ave, Suite 110"
+       ],
+       "city": "Pottsville",
+       "region": "PA",
+       "postalCode": "17901-2968",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lebanon, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17176031459",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Lebanon County Courthouse",
+        "400 S 8th St"
+       ],
+       "city": "Lebanon",
+       "region": "PA",
+       "postalCode": "17042",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Williamsport, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15702020658",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Executive Plaza",
+        "330 Pine Street, 1st Floor"
+       ],
+       "city": "Williamsport",
+       "region": "PA",
+       "postalCode": "17701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bloomsburg, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15708716370",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Market Street Plaza",
+        "1000 Market Street, Suite 39, Office of Rep. Robert Leadbeter"
+       ],
+       "city": "Bloomsburg",
+       "region": "PA",
+       "postalCode": "17815",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Berwick, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15708716370",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "134 W Front Street, Suite 102, Office of Rep. Robert Leadbeter"
+       ],
+       "city": "Berwick",
+       "region": "PA",
+       "postalCode": "18603",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tunkhannock, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15706653083",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "511 Mile Road"
+       ],
+       "city": "Tunkhannock",
+       "region": "PA",
+       "postalCode": "18657",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Hamburg, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16104280869",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Hamburg Municipal Center",
+        "61 N 3rd St, 2nd floor"
+       ],
+       "city": "Hamburg",
+       "region": "PA",
+       "postalCode": "19526",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://meuser.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://meuser.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "P000605": {
+   "seat": "Representative, PA-10",
+   "published": {
+    "name": {
+     "full": "Scott Perry",
+     "given": "Scott",
+     "family": "Perry",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "PA",
+    "district": 10,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255836",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2160 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3810",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Harrisburg, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17176034980",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "800 Corporate Cir, Suite 202"
+       ],
+       "city": "Harrisburg",
+       "region": "PA",
+       "postalCode": "17110-9346",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Mechanicsburg, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17175506565",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4999 Louise Drive, Suite 205"
+       ],
+       "city": "Mechanicsburg",
+       "region": "PA",
+       "postalCode": "17055",
+       "country": "US"
+      }
+     },
+     {
+      "label": "York, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17178937868",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2501 Catherine Street, Suite 11"
+       ],
+       "city": "York",
+       "region": "PA",
+       "postalCode": "17408",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://perry.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://perry.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001199": {
+   "seat": "Representative, PA-11",
+   "published": {
+    "name": {
+     "full": "Lloyd Smucker",
+     "given": "Lloyd",
+     "family": "Smucker",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "PA",
+    "district": 11,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252411",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "302 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3811",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Red Lion, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17179696133",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "100 Redco Ave"
+       ],
+       "city": "Red Lion",
+       "region": "PA",
+       "postalCode": "17356-1436",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Hanover, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17179696132",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "118 Carlisle Street"
+       ],
+       "city": "Hanover",
+       "region": "PA",
+       "postalCode": "17331",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lancaster, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17173930667",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2270 Erin Court"
+       ],
+       "city": "Lancaster",
+       "region": "PA",
+       "postalCode": "17601",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://smucker.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://smucker.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000602": {
+   "seat": "Representative, PA-12",
+   "published": {
+    "name": {
+     "full": "Summer L. Lee",
+     "given": "Summer",
+     "family": "Lee",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "PA",
+    "district": 12,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252135",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2437 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3812",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Clairton, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14122145000",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "551 Ravensburg Boulevard"
+       ],
+       "city": "Clairton",
+       "region": "PA",
+       "postalCode": "15025",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bethel Park, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14122145000",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "5100 W Library Ave"
+       ],
+       "city": "Bethel Park",
+       "region": "PA",
+       "postalCode": "15102",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Pittsburgh, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14122145000",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "211 N Whitfield St., Suite 802"
+       ],
+       "city": "Pittsburgh",
+       "region": "PA",
+       "postalCode": "15206",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Pittsburgh, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14124125000",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1555 Broadway Avenue, 2nd Floor"
+       ],
+       "city": "Pittsburgh",
+       "region": "PA",
+       "postalCode": "15216",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Jeannette, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14122145000",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "110 S 2nd Street"
+       ],
+       "city": "Jeannette",
+       "region": "PA",
+       "postalCode": "15644",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://summerlee.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://summerlee.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "J000302": {
+   "seat": "Representative, PA-13",
+   "published": {
+    "name": {
+     "full": "John Joyce",
+     "given": "John",
+     "family": "Joyce",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "PA",
+    "district": 13,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252431",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2102 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3813",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Altoona, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18146566081",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "5414 6th Ave"
+       ],
+       "city": "Altoona",
+       "region": "PA",
+       "postalCode": "16602-1203",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Chambersburg, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17177536344",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "100 Lincoln Way E, Suite B"
+       ],
+       "city": "Chambersburg",
+       "region": "PA",
+       "postalCode": "17201-2291",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Johnstown, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18144856020",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1021 Ferndale Ave."
+       ],
+       "city": "Johnstown",
+       "region": "PA",
+       "postalCode": "15905",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lewistown, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17173576320",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3 West Monument Square, Suite 201B"
+       ],
+       "city": "Lewistown",
+       "region": "PA",
+       "postalCode": "17044",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Abbottstown, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17173576320",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "282 West King St."
+       ],
+       "city": "Abbottstown",
+       "region": "PA",
+       "postalCode": "17301",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Ebensburg, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18144856020",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "300 W. High Street"
+       ],
+       "city": "Ebensburg",
+       "region": "PA",
+       "postalCode": "15931",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://johnjoyce.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://johnjoyce.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "R000610": {
+   "seat": "Representative, PA-14",
+   "published": {
+    "name": {
+     "full": "Guy Reschenthaler",
+     "given": "Guy",
+     "family": "Reschenthaler",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "PA",
+    "district": 14,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252065",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2209 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3814",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Latrobe, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17242194200",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "5856 Route 981"
+       ],
+       "city": "Latrobe",
+       "region": "PA",
+       "postalCode": "15650",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Washington, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17242064800",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "14 South Main St."
+       ],
+       "city": "Washington",
+       "region": "PA",
+       "postalCode": "15301",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://reschenthaler.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://reschenthaler.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "T000467": {
+   "seat": "Representative, PA-15",
+   "published": {
+    "name": {
+     "full": "Glenn Thompson",
+     "given": "Glenn",
+     "family": "Thompson",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "PA",
+    "district": 15,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255121",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "400 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3815",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bellefonte, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18143530215",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3555 Benner Pike., Suite 101"
+       ],
+       "city": "Bellefonte",
+       "region": "PA",
+       "postalCode": "16823",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Oil City, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18146700432",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "217 Elm St, B"
+       ],
+       "city": "Oil City",
+       "region": "PA",
+       "postalCode": "16301-1412",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://thompson.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://thompson.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "K000376": {
+   "seat": "Representative, PA-16",
+   "published": {
+    "name": {
+     "full": "Mike Kelly",
+     "given": "Mike",
+     "family": "Kelly",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "PA",
+    "district": 16,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255406",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1707 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3816",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Sharon, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17243427170",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "33 Chestnut Ave."
+       ],
+       "city": "Sharon",
+       "region": "PA",
+       "postalCode": "16146",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Butler, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17242822557",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "245 Pittsburgh Road, Suite 300"
+       ],
+       "city": "Butler",
+       "region": "PA",
+       "postalCode": "16001",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Erie, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18144548190",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "17 S. Park Row, Suite A430"
+       ],
+       "city": "Erie",
+       "region": "PA",
+       "postalCode": "16501",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://kelly.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://kelly.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "D000530": {
+   "seat": "Representative, PA-17",
+   "published": {
+    "name": {
+     "full": "Christopher R. Deluzio",
+     "given": "Chris",
+     "family": "Deluzio",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "PA",
+    "district": 17,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252301",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1222 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3817",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Monaca, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17242064860",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3468 Brodhead Road, Suite 1"
+       ],
+       "city": "Monaca",
+       "region": "PA",
+       "postalCode": "15061",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Carnegie, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14123445583",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Carnegie Office Park, Building 1",
+        "600 N Bell Avenue, Suite 102"
+       ],
+       "city": "Carnegie",
+       "region": "PA",
+       "postalCode": "15106",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Penn Hills, PA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14123445583",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "77 Universal Rd, Suite 1"
+       ],
+       "city": "Penn Hills",
+       "region": "PA",
+       "postalCode": "15235",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://deluzio.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://deluzio.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001103": {
+   "seat": "Resident Commissioner, PR-0",
+   "published": {
+    "name": {
+     "full": "Pablo José Hernández",
+     "given": "Pablo José",
+     "family": "Hernández Rivera",
+     "suffix": null
+    },
+    "role": "resident-commissioner",
+    "party": "Democrat",
+    "state": "PR",
+    "district": 0,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252615",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1419 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-5401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Caguas, PR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17872307959",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Centro de Bellas Artes, Calle Padial, esquina Calle Ruiz Belvis"
+       ],
+       "city": "Caguas",
+       "region": "PR",
+       "postalCode": "00725",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://hernandez.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://hernandez.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "R000122": {
+   "seat": "Senator, RI",
+   "published": {
+    "name": {
+     "full": "Jack Reed",
+     "given": "Jack",
+     "family": "Reed",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "RI",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022244642",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "728 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cranston, RI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14019433100",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1000 Chapel View Blvd., Suite 290"
+       ],
+       "city": "Cranston",
+       "region": "RI",
+       "postalCode": "02920",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Providence, RI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14015285200",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "U.S. District Courthouse",
+        "One Exchange Terrace, Suite 408"
+       ],
+       "city": "Providence",
+       "region": "RI",
+       "postalCode": "02903-1744",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.reed.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.reed.senate.gov/contact/",
+    "website": "https://www.reed.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "W000802": {
+   "seat": "Senator, RI",
+   "published": {
+    "name": {
+     "full": "Sheldon Whitehouse",
+     "given": "Sheldon",
+     "family": "Whitehouse",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "RI",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022242921",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "530 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Providence, RI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14014535294",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "170 Westminster St., Suite 200"
+       ],
+       "city": "Providence",
+       "region": "RI",
+       "postalCode": "02903",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.whitehouse.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.whitehouse.senate.gov/contact/email-sheldon",
+    "website": "https://www.whitehouse.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "A000380": {
+   "seat": "Representative, RI-1",
+   "published": {
+    "name": {
+     "full": "Gabe Amo",
+     "given": "Gabe",
+     "family": "Amo",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "RI",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254911",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1119 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Pawtucket, RI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14017295600",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1070 Main Street, Suite 300"
+       ],
+       "city": "Pawtucket",
+       "region": "RI",
+       "postalCode": "02860",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://amo.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://amo.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001223": {
+   "seat": "Representative, RI-2",
+   "published": {
+    "name": {
+     "full": "Seth Magaziner",
+     "given": "Seth",
+     "family": "Magaziner",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "RI",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252735",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "252 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3902",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Warwick, RI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14012441201",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "935 Jefferson Blvd., Suite 3003"
+       ],
+       "city": "Warwick",
+       "region": "RI",
+       "postalCode": "02886",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://magaziner.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://magaziner.house.gov"
+   },
+   "currentSupplement": null
+  }
+ }
+}

@@ -1,0 +1,1822 @@
+{
+ "M001224": {
+  "id": "M001224",
+  "name": "Nathaniel Moran",
+  "seat": "Representative, TX-1",
+  "pages": [
+   {
+    "url": "https://moran.house.gov",
+    "final": "https://moran.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://moran.house.gov/news/email/",
+    "final": "https://moran.house.gov/news/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://moran.house.gov/contact/",
+    "final": "https://moran.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://moran.house.gov/forms/emailsignup/",
+    "final": "https://moran.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://moran.house.gov/contact/offices.htm",
+    "final": "https://moran.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://moran.house.gov/news/email/show.aspx/",
+    "final": "https://moran.house.gov/email/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://moran.house.gov/news/email/default.aspx/",
+    "final": "https://moran.house.gov/news/email/default.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://moran.house.gov/news/email/show.aspx/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://moran.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "C001120": {
+  "id": "C001120",
+  "name": "Dan Crenshaw",
+  "seat": "Representative, TX-2",
+  "pages": [
+   {
+    "url": "https://crenshaw.house.gov",
+    "final": "https://crenshaw.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://crenshaw.house.gov/contact/",
+    "final": "https://crenshaw.house.gov/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://crenshaw.house.gov/email-me/",
+    "final": "https://crenshaw.house.gov/email-me/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://crenshaw.house.gov/office-locations/",
+    "final": "https://crenshaw.house.gov/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [
+   "+12816407720"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "The Woodlands, TX office: 2829 Technology Forest, #280"
+  ],
+  "forms": [
+   {
+    "url": "https://crenshaw.house.gov/email-me",
+    "positive": [
+     "comment",
+     "issue",
+     "legislation",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "meeting request",
+     "newsletter",
+     "tour request"
+    ]
+   },
+   {
+    "url": "https://crenshaw.house.gov/email-me/",
+    "positive": [
+     "comment",
+     "issue",
+     "legislation",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "meeting request",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "S001224": {
+  "id": "S001224",
+  "name": "Keith Self",
+  "seat": "Representative, TX-3",
+  "pages": [
+   {
+    "url": "https://keithself.house.gov",
+    "final": "https://keithself.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://keithself.house.gov/contact/",
+    "final": "https://keithself.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://keithself.house.gov/contact/offices/",
+    "final": "https://keithself.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://keithself.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://keithself.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://keithself.house.gov/contact/offices/collin-county-office/",
+    "final": "https://keithself.house.gov/contact/offices/collin-county-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://keithself.house.gov/contact/offices/hunt-county-office/",
+    "final": "https://keithself.house.gov/contact/offices/hunt-county-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://keithself.house.gov/contact/office-locations/",
+    "final": "https://keithself.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://keithself.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "F000246": {
+  "id": "F000246",
+  "name": "Pat Fallon",
+  "seat": "Representative, TX-4",
+  "pages": [
+   {
+    "url": "https://fallon.house.gov",
+    "final": "https://fallon.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fallon.house.gov/contact/",
+    "final": "https://fallon.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://fallon.house.gov/forms/emailsignup/",
+    "final": "https://fallon.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fallon.house.gov/contact/offices.htm",
+    "final": "https://fallon.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [
+   "+12029134115"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Frisco, TX office: 6101 Frisco Square Blvd"
+  ],
+  "forms": [
+   {
+    "url": "https://fallon.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "G000589": {
+  "id": "G000589",
+  "name": "Lance Gooden",
+  "seat": "Representative, TX-5",
+  "pages": [
+   {
+    "url": "https://gooden.house.gov",
+    "final": "https://gooden.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gooden.house.gov/contact/",
+    "final": "https://gooden.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gooden.house.gov/email-me/",
+    "final": "https://gooden.house.gov/email-me/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://gooden.house.gov/offices/",
+    "final": "https://gooden.house.gov/offices/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://gooden.house.gov/email-me/",
+    "positive": [
+     "comment",
+     "issue",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "E000071": {
+  "id": "E000071",
+  "name": "Jake Ellzey",
+  "seat": "Representative, TX-6",
+  "pages": [
+   {
+    "url": "https://ellzey.house.gov",
+    "final": "https://ellzey.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ellzey.house.gov/contact/",
+    "final": "https://ellzey.house.gov/contact/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://ellzey.house.gov/office-locations/",
+    "final": "https://ellzey.house.gov/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [
+   "+19036027860"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Corsicana, TX office: 122 N. Beaton St"
+  ],
+  "forms": [
+   {
+    "url": "https://ellzey.house.gov/contact/",
+    "positive": [
+     "concern",
+     "issue",
+     "legislation",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "F000468": {
+  "id": "F000468",
+  "name": "Lizzie Fletcher",
+  "seat": "Representative, TX-7",
+  "pages": [
+   {
+    "url": "https://fletcher.house.gov",
+    "final": "https://fletcher.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fletcher.house.gov/news/email/",
+    "final": "https://fletcher.house.gov/news/email/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://fletcher.house.gov/contact/",
+    "final": "https://fletcher.house.gov/contact/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://fletcher.house.gov/forms/emailsignup/",
+    "final": "https://fletcher.house.gov/forms/form/?ID=35",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fletcher.house.gov/contact/offices.htm",
+    "final": "https://fletcher.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://fletcher.house.gov/news/email/show.aspx/",
+    "final": "https://fletcher.house.gov/email/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fletcher.house.gov/news/email/default.aspx/",
+    "final": "https://fletcher.house.gov/news/email/default.aspx",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://fletcher.house.gov/news/email/show.aspx/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://fletcher.house.gov/news/email/",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "meeting request",
+     "newsletter",
+     "tour request"
+    ]
+   },
+   {
+    "url": "https://fletcher.house.gov/contact/",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "meeting request",
+     "newsletter",
+     "tour request"
+    ]
+   },
+   {
+    "url": "https://fletcher.house.gov/contact/offices.htm",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "meeting request",
+     "newsletter",
+     "tour request"
+    ]
+   },
+   {
+    "url": "https://fletcher.house.gov/news/email/default.aspx",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "meeting request",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "L000603": {
+  "id": "L000603",
+  "name": "Morgan Luttrell",
+  "seat": "Representative, TX-8",
+  "pages": [
+   {
+    "url": "https://luttrell.house.gov",
+    "final": "https://luttrell.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://luttrell.house.gov/contact/",
+    "final": "https://luttrell.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://luttrell.house.gov/contact/offices/",
+    "final": "https://luttrell.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://luttrell.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://luttrell.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://luttrell.house.gov/contact/offices/magnolia-district-office/",
+    "final": "https://luttrell.house.gov/contact/offices/magnolia-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://luttrell.house.gov/contact/office-locations/",
+    "final": "https://luttrell.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://luttrell.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "G000553": {
+  "id": "G000553",
+  "name": "Al Green",
+  "seat": "Representative, TX-9",
+  "pages": [
+   {
+    "url": "https://algreen.house.gov",
+    "final": "https://algreen.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://algreen.house.gov/contact/",
+    "final": "https://algreen.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://algreen.house.gov/contact/offices/",
+    "final": "https://algreen.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://algreen.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://algreen.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://algreen.house.gov/contact/offices/houston-district-office/",
+    "final": "https://algreen.house.gov/contact/offices/houston-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://algreen.house.gov/contact/offices/missouri-city-office/",
+    "final": "https://algreen.house.gov/contact/offices/missouri-city-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://algreen.house.gov/contact/office-locations/",
+    "final": "https://algreen.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://algreen.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "M001157": {
+  "id": "M001157",
+  "name": "Michael T. McCaul",
+  "seat": "Representative, TX-10",
+  "pages": [
+   {
+    "url": "https://mccaul.house.gov",
+    "final": "https://mccaul.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mccaul.house.gov/contact/",
+    "final": "https://mccaul.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mccaul.house.gov/contact/email-me/",
+    "final": "https://mccaul.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://mccaul.house.gov/contact/offices/",
+    "final": "https://mccaul.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mccaul.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://mccaul.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mccaul.house.gov/contact/offices/college-station-district-office/",
+    "final": "https://mccaul.house.gov/contact/offices/college-station-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mccaul.house.gov/contact/office-locations/",
+    "final": "https://mccaul.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [
+   "+15127708929"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Austin, TX office: 11614 FM2244, Suite 160"
+  ],
+  "forms": [
+   {
+    "url": "https://mccaul.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "P000048": {
+  "id": "P000048",
+  "name": "August Pfluger",
+  "seat": "Representative, TX-11",
+  "pages": [
+   {
+    "url": "https://pfluger.house.gov",
+    "final": "https://pfluger.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://pfluger.house.gov/contact/",
+    "final": "https://pfluger.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://pfluger.house.gov/forms/emailsignup/",
+    "final": "https://pfluger.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://pfluger.house.gov/contact/offices.htm",
+    "final": "https://pfluger.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://pfluger.house.gov/forms/writeyourrep/",
+    "final": "https://pfluger.house.gov/forms/writeyourrep/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://pfluger.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://pfluger.house.gov/forms/writeyourrep/",
+    "positive": [
+     "comment",
+     "issue"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "meeting request",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "G000601": {
+  "id": "G000601",
+  "name": "Craig A. Goldman",
+  "seat": "Representative, TX-12",
+  "pages": [
+   {
+    "url": "https://craiggoldman.house.gov",
+    "final": "https://craiggoldman.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://craiggoldman.house.gov/contact/",
+    "final": "https://craiggoldman.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://craiggoldman.house.gov/contact-craig-goldman/",
+    "final": "https://craiggoldman.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://craiggoldman.house.gov/contact/office-locations/",
+    "final": "https://craiggoldman.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://craiggoldman.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://craiggoldman.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://craiggoldman.house.gov/contact/offices/district-office-3/",
+    "final": "https://craiggoldman.house.gov/contact/offices/district-office-3",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://craiggoldman.house.gov/contact/email-me/",
+    "final": "https://craiggoldman.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://craiggoldman.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "J000304": {
+  "id": "J000304",
+  "name": "Ronny Jackson",
+  "seat": "Representative, TX-13",
+  "pages": [
+   {
+    "url": "https://jackson.house.gov",
+    "final": "https://jackson.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://jackson.house.gov/contact/",
+    "final": "https://jackson.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://jackson.house.gov/forms/emailsignup/",
+    "final": "https://jackson.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://jackson.house.gov/contact/offices/",
+    "final": "https://jackson.house.gov/contact/offices/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://jackson.house.gov/news/documentsingle.aspx/",
+    "final": "https://jackson.house.gov/news/documentsingle.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+18063755152"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://jackson.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "W000814": {
+  "id": "W000814",
+  "name": "Randy K. Weber, Sr.",
+  "seat": "Representative, TX-14",
+  "pages": [
+   {
+    "url": "https://weber.house.gov",
+    "final": "https://weber.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://weber.house.gov/contact/",
+    "final": "https://weber.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://weber.house.gov/forms/emailsignup/",
+    "final": "https://weber.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://weber.house.gov/contact/officeinformation.htm",
+    "final": "https://weber.house.gov/contact/officeinformation.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://weber.house.gov/news/email/",
+    "final": "https://weber.house.gov/news/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://weber.house.gov/news/documentquery.aspx/",
+    "final": "https://weber.house.gov/news/documentquery.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://weber.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "D000594": {
+  "id": "D000594",
+  "name": "Monica De La Cruz",
+  "seat": "Representative, TX-15",
+  "pages": [
+   {
+    "url": "https://delacruz.house.gov",
+    "final": "https://delacruz.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://delacruz.house.gov/contact/",
+    "final": "https://delacruz.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://delacruz.house.gov/forms/emailsignup/",
+    "final": "https://delacruz.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://delacruz.house.gov/contact/offices.htm",
+    "final": "https://delacruz.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://delacruz.house.gov/forms/form/",
+    "final": "https://delacruz.house.gov/forms/form/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://delacruz.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "E000299": {
+  "id": "E000299",
+  "name": "Veronica Escobar",
+  "seat": "Representative, TX-16",
+  "pages": [
+   {
+    "url": "https://escobar.house.gov",
+    "final": "https://escobar.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://escobar.house.gov/news/email/",
+    "final": "https://escobar.house.gov/news/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://escobar.house.gov/contact/",
+    "final": "https://escobar.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://escobar.house.gov/forms/emailsignup/",
+    "final": "https://escobar.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://escobar.house.gov/contact/offices.htm",
+    "final": "https://escobar.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://escobar.house.gov/news/documentsingle.aspx/",
+    "final": "https://escobar.house.gov/news/documentsingle.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://escobar.house.gov/news/email/show.aspx/",
+    "final": "https://escobar.house.gov/email/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://escobar.house.gov/news/email/default.aspx/",
+    "final": "https://escobar.house.gov/news/email/default.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://escobar.house.gov/news/email/show.aspx/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://escobar.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "S000250": {
+  "id": "S000250",
+  "name": "Pete Sessions",
+  "seat": "Representative, TX-17",
+  "pages": [
+   {
+    "url": "https://sessions.house.gov",
+    "final": "https://sessions.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sessions.house.gov/email-us/",
+    "final": "https://sessions.house.gov/email-us",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sessions.house.gov/contact/office-locations/",
+    "final": "https://sessions.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sessions.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://sessions.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sessions.house.gov/contact/offices/waco-district-office/",
+    "final": "https://sessions.house.gov/contact/offices/waco-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sessions.house.gov/contact/offices/huntsville-district-office/",
+    "final": "https://sessions.house.gov/contact/offices/huntsville-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sessions.house.gov/contact/offices/lufkin-district-office/",
+    "final": "https://sessions.house.gov/contact/offices/lufkin-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sessions.house.gov/contact/offices/round-rock-district-office/",
+    "final": "https://sessions.house.gov/contact/offices/round-rock-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sessions.house.gov/send-me-an-email/",
+    "final": "https://sessions.house.gov/address_authentication?form=/send-me-an-email",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [
+   "+19365857959"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Nacogdoches, TX office: 3034 Raguet St",
+   "Round Rock, TX office: 310 W Main Street, Suite 106"
+  ],
+  "forms": [
+   {
+    "url": "https://sessions.house.gov/address_authentication?form=/send-me-an-email",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "M001245": {
+  "id": "M001245",
+  "name": "Christian D. Menefee",
+  "seat": "Representative, TX-18",
+  "pages": [
+   {
+    "url": "https://menefee.house.gov",
+    "final": "https://menefee.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://menefee.house.gov/contact/",
+    "final": "https://menefee.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://menefee.house.gov/contact/email-me/",
+    "final": "https://menefee.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://menefee.house.gov/contact/office-locations/",
+    "final": "https://menefee.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://menefee.house.gov/contact/join-my-team/",
+    "final": "https://menefee.house.gov/contact/join-my-team",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://menefee.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://menefee.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://menefee.house.gov/contact/offices/main-district-office/",
+    "final": "https://menefee.house.gov/contact/offices/main-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://menefee.house.gov/contact/offices/fifth-ward-district-office/",
+    "final": "https://menefee.house.gov/contact/offices/fifth-ward-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [
+   "+12818914899"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Houston, TX office: 15651 North Freeway"
+  ],
+  "forms": [
+   {
+    "url": "https://menefee.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "A000375": {
+  "id": "A000375",
+  "name": "Jodey C. Arrington",
+  "seat": "Representative, TX-19",
+  "pages": [
+   {
+    "url": "https://arrington.house.gov",
+    "final": "https://arrington.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://arrington.house.gov/contact/",
+    "final": "https://arrington.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://arrington.house.gov/forms/emailsignup/",
+    "final": "https://arrington.house.gov/contact/subscribe.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://arrington.house.gov/contact/offices.htm",
+    "final": "https://arrington.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://arrington.house.gov/news/documentsingle.aspx/",
+    "final": "https://arrington.house.gov/news/documentsingle.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+18882170281"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://arrington.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "C001091": {
+  "id": "C001091",
+  "name": "Joaquin Castro",
+  "seat": "Representative, TX-20",
+  "pages": [
+   {
+    "url": "https://castro.house.gov",
+    "final": "https://castro.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://castro.house.gov/contact/",
+    "final": "https://castro.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://castro.house.gov/contact/offices/",
+    "final": "https://castro.house.gov/contact/offices/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "R000614": {
+  "id": "R000614",
+  "name": "Chip Roy",
+  "seat": "Representative, TX-21",
+  "pages": [
+   {
+    "url": "https://roy.house.gov",
+    "final": "https://roy.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://roy.house.gov/contact/",
+    "final": "https://roy.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://roy.house.gov/contact/email-me/",
+    "final": "https://roy.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://roy.house.gov/contact/offices/",
+    "final": "https://roy.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://roy.house.gov/contact/tele-town-hall/",
+    "final": "https://roy.house.gov/address_authentication?form=/contact/tele-town-hall",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://roy.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://roy.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://roy.house.gov/contact/offices/kerrville-district-office/",
+    "final": "https://roy.house.gov/contact/offices/kerrville-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://roy.house.gov/contact/offices/san-antonio-district-office/",
+    "final": "https://roy.house.gov/contact/offices/san-antonio-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://roy.house.gov/contact/offices/austin-district-office/",
+    "final": "https://roy.house.gov/contact/offices/austin-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://roy.house.gov/contact/office-locations/",
+    "final": "https://roy.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://roy.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://roy.house.gov/address_authentication?form=/contact/tele-town-hall",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "N000026": {
+  "id": "N000026",
+  "name": "Troy E. Nehls",
+  "seat": "Representative, TX-22",
+  "pages": [
+   {
+    "url": "https://nehls.house.gov",
+    "final": "https://nehls.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://nehls.house.gov/contact/",
+    "final": "https://nehls.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://nehls.house.gov/contact/offices/",
+    "final": "https://nehls.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://nehls.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://nehls.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://nehls.house.gov/contact/offices/fulshear-district-office/",
+    "final": "https://nehls.house.gov/contact/offices/fulshear-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://nehls.house.gov/contact/office-locations/",
+    "final": "https://nehls.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://nehls.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "casework",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "V000134": {
+  "id": "V000134",
+  "name": "Beth Van Duyne",
+  "seat": "Representative, TX-24",
+  "pages": [
+   {
+    "url": "https://vanduyne.house.gov",
+    "final": "https://vanduyne.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vanduyne.house.gov/contact/",
+    "final": "https://vanduyne.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vanduyne.house.gov/e-mail-me/",
+    "final": "https://vanduyne.house.gov/e-mail-me/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://vanduyne.house.gov/office-locations/",
+    "final": "https://vanduyne.house.gov/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://vanduyne.house.gov/e-mail-me/",
+    "positive": [
+     "comment",
+     "issue",
+     "legislation",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "W000816": {
+  "id": "W000816",
+  "name": "Roger Williams",
+  "seat": "Representative, TX-25",
+  "pages": [
+   {
+    "url": "https://williams.house.gov",
+    "final": "https://williams.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://williams.house.gov/contact/",
+    "final": "https://williams.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://williams.house.gov/contact/email-me/",
+    "final": "https://williams.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://williams.house.gov/contact/offices/",
+    "final": "https://williams.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://williams.house.gov/contact/meet-with-the-congressman/",
+    "final": "https://williams.house.gov/address_authentication?form=/contact/meet-with-the-congressman",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://williams.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://williams.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://williams.house.gov/contact/offices/arlington-district/",
+    "final": "https://williams.house.gov/contact/offices/arlington-district",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://williams.house.gov/contact/offices/cleburne-district/",
+    "final": "https://williams.house.gov/contact/offices/cleburne-district",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://williams.house.gov/contact/office-locations/",
+    "final": "https://williams.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://williams.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://williams.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://williams.house.gov/address_authentication?form=/contact/meet-with-the-congressman",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "G000603": {
+  "id": "G000603",
+  "name": "Brandon Gill",
+  "seat": "Representative, TX-26",
+  "pages": [
+   {
+    "url": "https://gill.house.gov",
+    "final": "https://gill.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gill.house.gov/contact/email-me/",
+    "final": "https://gill.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://gill.house.gov/contact/",
+    "final": "https://gill.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gill.house.gov/contact/office-locations/",
+    "final": "https://gill.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gill.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://gill.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gill.house.gov/contact/offices/denton-county-district-office/",
+    "final": "https://gill.house.gov/contact/offices/denton-county-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://gill.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ }
+}

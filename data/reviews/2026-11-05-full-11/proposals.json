@@ -1,0 +1,1294 @@
+{
+ "batch": "2026-11-05-full-11",
+ "reviewedAt": "2026-11-05",
+ "officials": {
+  "B001321": {
+   "name": "Tom Barrett",
+   "seat": "Representative, MI-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://barrett.house.gov/",
+    "https://barrett.house.gov/address_authentication?form=/contact/email-me",
+    "https://barrett.house.gov/contact-0",
+    "https://barrett.house.gov/mobile-office-hours",
+    "https://barrett.house.gov/contact/office-locations",
+    "https://barrett.house.gov/contact",
+    "https://barrett.house.gov/contact/offices/washington-dc-office",
+    "https://barrett.house.gov/contact/offices/lansing-district-office"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://barrett.house.gov/contact/email-me",
+     "source": "https://barrett.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "'Email Me', the member's main contact form, behind an address check; the page offers an issue list about legislation, with agency help and newsletter separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://barrett.house.gov/contact/offices/lansing-district-office",
+     "evidence": "'Lansing District Office Address 101 S. Washington Square Suite 520 Lansing, Michigan 48933 ... Phone: (517) 993-0510'. We publish 328 W Ottawa St, Suite A.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254872",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1232 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-2207",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Lansing, MI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15179930510",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "101 S. Washington Square, Suite 520"
+        ],
+        "city": "Lansing",
+        "region": "MI",
+        "postalCode": "48933",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "M001237": {
+   "name": "Kristen McDonald Rivet",
+   "seat": "Representative, MI-8",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mcdonaldrivet.house.gov/",
+    "https://mcdonaldrivet.house.gov/contact",
+    "https://mcdonaldrivet.house.gov/address_authentication?form=/contact/email-me",
+    "https://mcdonaldrivet.house.gov/contact/office-locations",
+    "https://mcdonaldrivet.house.gov/shareyourstory",
+    "https://mcdonaldrivet.house.gov/contact/offices/washington-dc-office",
+    "https://mcdonaldrivet.house.gov/contact/offices/saginaw-township-district-office",
+    "https://mcdonaldrivet.house.gov/contact/offices/flint-district-office"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mcdonaldrivet.house.gov/contact/email-me",
+     "source": "https://mcdonaldrivet.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "'Email Me', the member's main contact form, behind a ZIP or address check, so its topic list could not be read. 'Share Your Story' is separate and not used."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://mcdonaldrivet.house.gov/contact/offices/saginaw-township-district-office",
+     "evidence": "'Saginaw Township District Office Address 4800 Fashion Square Blvd. Suite 200 Saginaw, Michigan 48604 ... Phone: (989) 898-6060'. We publish only the DC and Flint offices.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253611",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1408 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-2208",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Flint, MI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18102388627",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "601 Saginaw St, Suite 403"
+        ],
+        "city": "Flint",
+        "region": "MI",
+        "postalCode": "48502",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Saginaw, MI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19898986060",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "4800 Fashion Square Blvd., Suite 200"
+        ],
+        "city": "Saginaw",
+        "region": "MI",
+        "postalCode": "48604",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "M001136": {
+   "name": "Lisa C. McClain",
+   "seat": "Representative, MI-9",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mcclain.house.gov/",
+    "https://mcclain.house.gov/contact/",
+    "https://mcclain.house.gov/office-locations/",
+    "https://mcclain.house.gov/index.cfm/",
+    "https://mcclain.house.gov/washington-d-c/",
+    "https://mcclain.house.gov/district-office/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mcclain.house.gov/contact/",
+     "source": "https://mcclain.house.gov/contact/",
+     "evidence": "Contact form with an issue list about legislation; agency help and newsletter are separate."
+    }
+   ]
+  },
+  "J000307": {
+   "name": "John James",
+   "seat": "Representative, MI-10",
+   "status": "verified",
+   "pagesChecked": [
+    "https://james.house.gov/",
+    "https://james.house.gov/contact/",
+    "https://james.house.gov/contact/subscribe.htm",
+    "https://james.house.gov/contact/offices.htm"
+   ],
+   "notes": "Offices match (https://james.house.gov/contact/offices.htm).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://james.house.gov/contact/",
+     "source": "https://james.house.gov/contact/",
+     "evidence": "'Email Me' is the member's main contact form at /contact, behind a ZIP check ('Please enter your zip code below to verify residency within my district and continue'), so its topic list could not be read."
+    }
+   ]
+  },
+  "S001215": {
+   "name": "Haley M. Stevens",
+   "seat": "Representative, MI-11",
+   "status": "verified",
+   "pagesChecked": [
+    "https://stevens.house.gov/",
+    "https://stevens.house.gov/address_authentication?form=/connect-rep-stevens/email-haley",
+    "https://stevens.house.gov/address_authentication?form=/connect-rep-stevens/email-haley",
+    "https://stevens.house.gov/connect-rep-stevens/offices",
+    "https://stevens.house.gov/share-your-health-care-story",
+    "https://stevens.house.gov/connect-rep-haley-stevens",
+    "https://stevens.house.gov/contact/offices/washington-dc-office",
+    "https://stevens.house.gov/contact/offices/farmington-hills-district-office-0"
+   ],
+   "notes": "Offices match. The scheduling mailbox on the site is not a constituent mailbox and was not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://stevens.house.gov/connect-rep-stevens/email-haley",
+     "source": "https://stevens.house.gov/address_authentication?form=/connect-rep-stevens/email-haley",
+     "evidence": "'Email Haley', the member's main contact form, behind an address check; casework, flags and newsletter are separate."
+    }
+   ]
+  },
+  "T000481": {
+   "name": "Rashida Tlaib",
+   "seat": "Representative, MI-12",
+   "status": "verified",
+   "pagesChecked": [
+    "https://tlaib.house.gov/",
+    "https://tlaib.house.gov/contact"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://tlaib.house.gov/contact",
+     "source": "https://tlaib.house.gov/contact",
+     "evidence": "'Contact Our Office': an address check ('Let's check that you're within this district'), then 'How can we help?' with an Issue list, subject line and message."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://tlaib.house.gov/contact",
+     "evidence": "'Congresswoman Tlaib's Offices Washington, DC 2438 Rayburn ... Detroit 7800 W. Outer Drive ... (313) 463-6220 Southfield 26080 Berg Rd. ... (313) 203-7540'. The Inkster office (26215 Trowbridge St.) we publish is no longer listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255126",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2438 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-2212",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Southfield, MI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13132037540",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "26080 Berg Rd."
+        ],
+        "city": "Southfield",
+        "region": "MI",
+        "postalCode": "48033",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Detroit, MI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13134636220",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "7800 W. Outer Drive"
+        ],
+        "city": "Detroit",
+        "region": "MI",
+        "postalCode": "48235",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "T000488": {
+   "name": "Shri Thanedar",
+   "seat": "Representative, MI-13",
+   "status": "verified",
+   "pagesChecked": [
+    "https://thanedar.house.gov/",
+    "https://thanedar.house.gov/contact/",
+    "https://thanedar.house.gov/contact/email-me/",
+    "https://thanedar.house.gov/contact/faq/",
+    "https://thanedar.house.gov/contact/email-me/share-my-story/",
+    "https://thanedar.house.gov/contact/email/"
+   ],
+   "notes": "Site numbers not published are FAQ referrals (legal aid, Social Security, IRS, passport) and were ignored.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://thanedar.house.gov/contact/email/",
+     "source": "https://thanedar.house.gov/contact/email-me/",
+     "evidence": "'Share My Opinion' form, drawn by script behind a ZIP check ('Please enter your zip code to verify residency'), with an issue list (Agriculture, Animals, Arts and Humanities, Banking and Finance ...). 'I Need Help' (casework) and 'Share My Story' are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://thanedar.house.gov/contact/",
+     "evidence": "'Detroit 400 Monroe Street Suite 420 Detroit, MI 48226 Phone: (313) 880-2400'. We publish the address with the suite twice ('Suite 420', '400 Monroe Street, Suite 420').",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255802",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "154 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-2213",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Detroit, MI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13138802400",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "400 Monroe Street, Suite 420"
+        ],
+        "city": "Detroit",
+        "region": "MI",
+        "postalCode": "48226",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "K000367": {
+   "name": "Amy Klobuchar",
+   "seat": "Senator, MN",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.klobuchar.senate.gov/public/index.cfm/contact",
+    "https://www.klobuchar.senate.gov/public/index.cfm/email-amy",
+    "https://www.klobuchar.senate.gov/public/index.cfm/offices"
+   ],
+   "notes": "Homepage blocked (403); the site lives under /public/index.cfm/.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.klobuchar.senate.gov/public/index.cfm/email-amy",
+     "source": "https://www.klobuchar.senate.gov/public/index.cfm/contact",
+     "evidence": "Contact page: 'Click here if you have an opinion or question on an issue' links to 'Email Amy: Opinion or Question on an issue'; casework is a separate form."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.klobuchar.senate.gov/public/index.cfm/offices",
+     "evidence": "'Metro Office P.O. Box Number 15024 Minneapolis, MN 55415 Main Line: 612-727-5220 ... Toll Free: 1-888-224-9043' (we publish 1200 Washington Avenue South, Room 250) and 'Northeastern Office Olcott Plaza, Room 105 820 9th Street North Virginia, MN 55792 Main Line: 218-741-9690 ... Toll Free Number: 1-888-224-9043'.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022243244",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "425 Dirksen Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Minneapolis, MN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16127275220",
+         "type": "voice"
+        },
+        {
+         "number": "+18882249043",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "P.O. Box 15024"
+        ],
+        "city": "Minneapolis",
+        "region": "MN",
+        "postalCode": "55415",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Moorhead, MN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12182872219",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "121 4th Street South"
+        ],
+        "city": "Moorhead",
+        "region": "MN",
+        "postalCode": "56560",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Rochester, MN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15072885321",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1130 1/2 7th Street NW, Room 212"
+        ],
+        "city": "Rochester",
+        "region": "MN",
+        "postalCode": "55901",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Virginia, MN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12187419690",
+         "type": "voice"
+        },
+        {
+         "number": "+18882249043",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Olcott Plaza",
+         "820 9th Street North, Room 105"
+        ],
+        "city": "Virginia",
+        "region": "MN",
+        "postalCode": "55792",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "S001203": {
+   "name": "Tina Smith",
+   "seat": "Senator, MN",
+   "status": "partial",
+   "pagesChecked": [
+    "https://www.smith.senate.gov/contact/",
+    "https://www.smith.senate.gov/share-your-opinion/",
+    "https://www.senate.gov/general/contact_information/senators_cfm.xml"
+   ],
+   "notes": "Local offices not checked: the site lists them only on its homepage, which is blocked (403, in curl and a browser), and no offices page exists (/contact/offices/, /offices/, /office-locations/ are 404). The DC office (720 Hart, 202-224-5641) matches senate.gov's contact list.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.smith.senate.gov/share-your-opinion/",
+     "source": "https://www.smith.senate.gov/share-your-opinion/",
+     "evidence": "'Share Your Opinion: Please use the following form to contact Senator Smith with your comments and concerns', with a topic list; agency help, flags and tours are separate."
+    }
+   ]
+  },
+  "F000475": {
+   "name": "Brad Finstad",
+   "seat": "Representative, MN-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://finstad.house.gov/",
+    "https://finstad.house.gov/contact/",
+    "https://finstad.house.gov/contact/offices/",
+    "https://finstad.house.gov/contact/email-me/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://finstad.house.gov/contact/email-me/",
+     "source": "https://finstad.house.gov/contact/email-me/",
+     "evidence": "'Email Me' form for comments, concerns and opinions with an issue list; agency help and newsletter are separate."
+    }
+   ]
+  },
+  "C001119": {
+   "name": "Angie Craig",
+   "seat": "Representative, MN-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://craig.house.gov/",
+    "https://craig.house.gov/contact/offices",
+    "https://craig.house.gov/address_authentication?form=/contact/email-me",
+    "https://craig.house.gov/address_authentication?form=/contact/email-me",
+    "https://craig.house.gov/contact/offices/washington-dc-office",
+    "https://craig.house.gov/contact/offices/eagan-district-office",
+    "https://craig.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://craig.house.gov/contact/email-me",
+     "source": "https://craig.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "'Email Me', the member's main contact form, behind an address check; the page offers an issue list about legislation, with agency help and newsletter separate."
+    }
+   ]
+  },
+  "M001234": {
+   "name": "Kelly Morrison",
+   "seat": "Representative, MN-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://morrison.house.gov/",
+    "https://morrison.house.gov/contact/",
+    "https://morrison.house.gov/contact/write-to-kelly/",
+    "https://morrison.house.gov/contact/find-our-office-locations/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://morrison.house.gov/contact/write-to-kelly/",
+     "source": "https://morrison.house.gov/contact/write-to-kelly/",
+     "evidence": "'Write To Kelly', drawn by script behind a ZIP check ('ZIP CODE AUTHENTICATION'), with an issue list ('-- Please Select An Issue --', Agriculture, Animals, Arts and Humanities ...)."
+    }
+   ]
+  },
+  "M001143": {
+   "name": "Betty McCollum",
+   "seat": "Representative, MN-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mccollum.house.gov/",
+    "https://mccollum.house.gov/contact",
+    "https://mccollum.house.gov/address_authentication?form=/contact/email",
+    "https://mccollum.house.gov/contact/neighborhood-office-hours",
+    "https://mccollum.house.gov/contact/offices",
+    "https://mccollum.house.gov/helping-you/emergency-contact-information-and-guidance-us-citizens-middle-east",
+    "https://mccollum.house.gov/contact/offices/washington-dc-office",
+    "https://mccollum.house.gov/contact/offices/st-paul-office",
+    "https://mccollum.house.gov/contact/neighborhood-office-hours",
+    "https://mccollum.house.gov/contact/offices"
+   ],
+   "notes": "Offices match. The site's 1-833 and 1-606 numbers are State Department crisis lines and were ignored.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mccollum.house.gov/contact/email",
+     "source": "https://mccollum.house.gov/address_authentication?form=/contact/email",
+     "evidence": "The member's main email form, behind an address check, for opinions on issues and legislation; agency help and newsletter are separate."
+    }
+   ]
+  },
+  "O000173": {
+   "name": "Ilhan Omar",
+   "seat": "Representative, MN-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://omar.house.gov/",
+    "https://omar.house.gov/contact",
+    "https://omar.house.gov/address_authentication?form=/contact/email-me",
+    "https://omar.house.gov/contact/offices",
+    "https://omar.house.gov/contact/offices/washington-dc-office",
+    "https://omar.house.gov/contact/offices/minneapolis-district-office",
+    "https://omar.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://omar.house.gov/contact/email-me",
+     "source": "https://omar.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "'Email Me', the member's main contact form, behind an address check; the page offers an issue list about legislation, with casework and newsletter separate."
+    }
+   ]
+  },
+  "E000294": {
+   "name": "Tom Emmer",
+   "seat": "Representative, MN-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://emmer.house.gov/",
+    "https://emmer.house.gov/contact",
+    "https://emmer.house.gov/address_authentication?form=/contact/email-me",
+    "https://emmer.house.gov/contact/office-locations",
+    "https://emmer.house.gov/contact/offices/washington-dc-office"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://emmer.house.gov/contact/email-me",
+     "source": "https://emmer.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "'Email Me', the member's main contact form, behind an address check; the page offers an issue list about legislation, with agency help and newsletter separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://emmer.house.gov/contact",
+     "evidence": "'Washington DC Office 326 Cannon ... Phone: (202) 225-2331 ... Otsego District Office 9201 Quaday Ave. NE Suite 206 Otsego, MN 55330 Phone: (763) 241-6848'. The Chaska office (1107 Hazeltine Blvd, (952) 262-2999) we publish is no longer listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252331",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "326 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-2306",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Otsego, MN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17632416848",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "9201 Quaday Ave. NE, Suite 206"
+        ],
+        "city": "Otsego",
+        "region": "MN",
+        "postalCode": "55330",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "F000470": {
+   "name": "Michelle Fischbach",
+   "seat": "Representative, MN-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://fischbach.house.gov/",
+    "https://fischbach.house.gov/contact/",
+    "https://fischbach.house.gov/contact",
+    "https://fischbach.house.gov/office-locations/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://fischbach.house.gov/contact",
+     "source": "https://fischbach.house.gov/contact",
+     "evidence": "Contact form for comments on issues and legislation with an issue list; agency help and newsletter are separate."
+    }
+   ]
+  },
+  "S001212": {
+   "name": "Pete Stauber",
+   "seat": "Representative, MN-8",
+   "status": "verified",
+   "pagesChecked": [
+    "https://stauber.house.gov/",
+    "https://stauber.house.gov/contact/email-me",
+    "https://stauber.house.gov/contact/email-me",
+    "https://stauber.house.gov/contact/offices",
+    "https://stauber.house.gov/contact/event-request",
+    "https://stauber.house.gov/contact/offices/washington-dc-office",
+    "https://stauber.house.gov/contact/offices/hermantown-office",
+    "https://stauber.house.gov/contact/offices/brainerd-office",
+    "https://stauber.house.gov/contact/offices/forestlake-office",
+    "https://stauber.house.gov/contact/offices/chisholm-office"
+   ],
+   "notes": "The site lists no phone for the Brainerd and Chisholm offices; the published numbers were kept, since nothing shows them wrong.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://stauber.house.gov/contact/email-me",
+     "source": "https://stauber.house.gov/contact/email-me",
+     "evidence": "'Email Me' form with an issue list about legislation; agency help, meetings and newsletter are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://stauber.house.gov/contact/offices",
+     "evidence": "'Hermantown Office ... (218) 481-6396 Brainerd Office Brainerd City Hall 501 Laurel Street ... Forest Lake Office Forest Lake City Hall 1408 Lake Street South Forest Lake, MN 55025 Chisholm Office Chisholm City Hall 316 W Lake Street Room 7'. The Cambridge office we publish is no longer listed; Forest Lake is not published.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022256211",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "145 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-2308",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Brainerd, MN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12183550862",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Brainerd City Hall",
+         "501 Laurel St"
+        ],
+        "city": "Brainerd",
+        "region": "MN",
+        "postalCode": "56401-3595",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Chisholm, MN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12183550726",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Chisholm City Hall",
+         "316 W Lake St, Suite 7"
+        ],
+        "city": "Chisholm",
+        "region": "MN",
+        "postalCode": "55719-3708",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Hermantown, MN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12184816396",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "5094 Miller Trunk Hwy, Suite 900"
+        ],
+        "city": "Hermantown",
+        "region": "MN",
+        "postalCode": "55811-1626",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Forest Lake, MN office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "Forest Lake City Hall",
+         "1408 Lake Street South"
+        ],
+        "city": "Forest Lake",
+        "region": "MN",
+        "postalCode": "55025",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "H001089": {
+   "name": "Josh Hawley",
+   "seat": "Senator, MO",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.hawley.senate.gov/contact-senator-hawley/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.hawley.senate.gov/contact-senator-hawley/",
+     "source": "https://www.hawley.senate.gov/contact-senator-hawley/",
+     "evidence": "'Opinion on Legislation: Please use the following form to contact me with your comments and concerns regarding legislation or policy'; casework is separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.hawley.senate.gov/contact-senator-hawley/",
+     "evidence": "'Springfield 3236 E. Ridgeview Street Springfield, MO 65804 Office: 417-869-4433 St. Louis 530 Maryville Centre Drive Suite 460 St. Louis, MO 63141 Office: 314-354-7060'. We publish 901 E. St. Louis Street, Suite 1604 and 111 South 10th Street, Suite 23.360.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022246154",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "381 Russell Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Cape Girardeau, MO office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15733345995",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "555 Independence Street, #1600"
+        ],
+        "city": "Cape Girardeau",
+        "region": "MO",
+        "postalCode": "63703-6235",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Columbia, MO office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15735541919",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1123 Wilkes Blvd, Suite 220"
+        ],
+        "city": "Columbia",
+        "region": "MO",
+        "postalCode": "65201-4774",
+        "country": "US"
+       }
+      },
+      {
+       "label": "St. Louis, MO office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13143547060",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "530 Maryville Centre Drive, Suite 460"
+        ],
+        "city": "St. Louis",
+        "region": "MO",
+        "postalCode": "63141",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Kansas City, MO office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18169604694",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "400 E. 9th Street, Suite 9350"
+        ],
+        "city": "Kansas City",
+        "region": "MO",
+        "postalCode": "64106",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Springfield, MO office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14178694433",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "3236 E. Ridgeview Street"
+        ],
+        "city": "Springfield",
+        "region": "MO",
+        "postalCode": "65804",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "S001227": {
+   "name": "Eric Schmitt",
+   "seat": "Senator, MO",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.schmitt.senate.gov/contact/",
+    "https://www.schmitt.senate.gov/contact/share-your-opinion/"
+   ],
+   "notes": "Homepage blocked (403). Office list on the contact page is drawn by script and was read in a browser.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.schmitt.senate.gov/contact/share-your-opinion/",
+     "source": "https://www.schmitt.senate.gov/contact/share-your-opinion/",
+     "evidence": "'Share Your Opinion: ... the best way for you to share your thoughts and feedback', with a topic list."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.schmitt.senate.gov/contact/",
+     "evidence": "'ST. LOUIS Thomas F. Eagleton US Courthouse 111 South 10th Street, Suite 23.360 St. Louis, MO 63102 314-230-7263'. We publish Suite 23.305.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022245721",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "404 Russell Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "St. Louis, MO office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13142307263",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Thomas F. Eagleton US Courthouse",
+         "111 South 10th Street, Suite 23.360"
+        ],
+        "city": "St. Louis",
+        "region": "MO",
+        "postalCode": "63102",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Columbia, MO office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15735148680",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1123 Wilkes Boulevard, Suite 320"
+        ],
+        "city": "Columbia",
+        "region": "MO",
+        "postalCode": "65201",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Springfield, MO office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14172905000",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2870 S. Ingram Mill Rd., Suite D2"
+        ],
+        "city": "Springfield",
+        "region": "MO",
+        "postalCode": "65804",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Kansas City, MO office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18168496234",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "12200 N Ambassador Dr., Suite 233"
+        ],
+        "city": "Kansas City",
+        "region": "MO",
+        "postalCode": "64163",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Cape Girardeau, MO office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15733888340",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "555 Independence St., Suite 1500"
+        ],
+        "city": "Cape Girardeau",
+        "region": "MO",
+        "postalCode": "63703",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "B001324": {
+   "name": "Wesley Bell",
+   "seat": "Representative, MO-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://bell.house.gov/",
+    "https://bell.house.gov/contact",
+    "https://bell.house.gov/address_authentication?form=/contact/email-me",
+    "https://bell.house.gov/contact/office-locations",
+    "https://bell.house.gov/federal-worker-cuts",
+    "https://bell.house.gov/contact/offices/washington-dc-office",
+    "https://bell.house.gov/contact/offices/st-louis-dist-office-mailing-address",
+    "https://bell.house.gov/contact/offices/st-louis-district-office"
+   ],
+   "notes": "Offices match. The press-office mailbox does not count.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://bell.house.gov/contact/email-me",
+     "source": "https://bell.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "'Email Me', the member's main contact form, behind an address check; the page offers an issue list about legislation, with agency help and newsletter separate."
+    }
+   ]
+  },
+  "W000812": {
+   "name": "Ann Wagner",
+   "seat": "Representative, MO-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://wagner.house.gov/",
+    "https://wagner.house.gov/address_authentication?form=/contact",
+    "https://wagner.house.gov/contact/offices",
+    "https://wagner.house.gov/contact/offices/washington-dc-office",
+    "https://wagner.house.gov/contact/offices/washington-mo-office",
+    "https://wagner.house.gov/contact/offices/ballwin-district-office",
+    "https://wagner.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://wagner.house.gov/contact",
+     "source": "https://wagner.house.gov/address_authentication?form=/contact",
+     "evidence": "The member's main contact form, behind an address check; the page offers an issue list about legislation, with agency help and newsletter separate."
+    }
+   ]
+  },
+  "O000177": {
+   "name": "Robert F. Onder, Jr.",
+   "seat": "Representative, MO-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://onder.house.gov/",
+    "https://onder.house.gov/contact",
+    "https://onder.house.gov/address_authentication?form=/contact/email-me",
+    "https://onder.house.gov/contact/office-locations",
+    "https://onder.house.gov/contact/offices/washington-dc-office",
+    "https://onder.house.gov/contact/offices/cottleville-office",
+    "https://onder.house.gov/contact/offices/jefferson-city-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://onder.house.gov/contact/email-me",
+     "source": "https://onder.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "'Email Me', the member's main contact form, behind an address check; the page offers an issue list about legislation, with agency help and newsletter separate."
+    }
+   ]
+  },
+  "A000379": {
+   "name": "Mark Alford",
+   "seat": "Representative, MO-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://alford.house.gov/",
+    "https://alford.house.gov/news/email/",
+    "https://alford.house.gov/contact/",
+    "https://alford.house.gov/forms/emailsignup/",
+    "https://alford.house.gov/contact/offices.htm",
+    "https://alford.house.gov/news/documentsingle.aspx",
+    "https://alford.house.gov/news/email/default.aspx"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://alford.house.gov/contact/",
+     "source": "https://alford.house.gov/contact/",
+     "evidence": "'Email Me' is the member's main contact form at /contact, behind a ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "C001061": {
+   "name": "Emanuel Cleaver",
+   "seat": "Representative, MO-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://cleaver.house.gov/",
+    "https://cleaver.house.gov/contact/offices",
+    "https://cleaver.house.gov/contact/email-me",
+    "https://cleaver.house.gov/contact/email-me",
+    "https://cleaver.house.gov/contact/offices/washington-dc-office",
+    "https://cleaver.house.gov/contact/offices/independence-district-office",
+    "https://cleaver.house.gov/contact/offices/kansas-city-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://cleaver.house.gov/contact/email-me",
+     "source": "https://cleaver.house.gov/contact/email-me",
+     "evidence": "'Email Me', the member's main contact form, behind a ZIP check ('ZIP code below to send as an email'), so its topic list could not be read; agency help and tours are separate."
+    }
+   ]
+  },
+  "G000546": {
+   "name": "Sam Graves",
+   "seat": "Representative, MO-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://graves.house.gov/",
+    "https://graves.house.gov/contact",
+    "https://graves.house.gov/contact/offices/washington-dc-office",
+    "https://graves.house.gov/contact/offices/kansas-city-district-office",
+    "https://graves.house.gov/contact/offices/hannibal-district-office",
+    "https://graves.house.gov/contact/offices/st-joseph-district-office",
+    "https://graves.house.gov/contact/offices/troy-district-office",
+    "https://graves.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://graves.house.gov/contact",
+     "source": "https://graves.house.gov/contact",
+     "evidence": "Contact form ('ZIP code below to send as an email') with an issue list on legislation and concerns; agency help and newsletter are separate."
+    }
+   ]
+  }
+ }
+}

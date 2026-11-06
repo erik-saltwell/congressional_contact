@@ -1,0 +1,14 @@
+{
+  "congress": 119,
+  "houseSeatCount": 441,
+  "gazetteer": {
+    "year": 2025,
+    "note": "Census Gazetteer ZCTA and county centres, used only to choose the nearest local office for each card."
+  },
+  "hud": {
+    "year": 2026,
+    "quarter": 2,
+    "congress": 119,
+    "congressNote": "HUD does not publish which Congress a quarter's districts belong to. This value is inferred by counting ZIPs that change between quarters, by state (research/hud-crosswalk-findings.md). Change it only after repeating that check."
+  }
+}

@@ -1,0 +1,1247 @@
+{
+ "batch": "2026-11-05-full-22",
+ "createdAt": "2026-11-05",
+ "dataGeneratedAt": "2026-11-05T19:36:17Z",
+ "officials": {
+  "P000607": {
+   "seat": "Representative, WI-2",
+   "published": {
+    "name": {
+     "full": "Mark Pocan",
+     "given": "Mark",
+     "family": "Pocan",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "WI",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252906",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1026 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4902",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Madison, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16082589800",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "10 E. Doty St., Suite 405"
+       ],
+       "city": "Madison",
+       "region": "WI",
+       "postalCode": "53703",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://pocan.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://pocan.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "V000135": {
+   "seat": "Representative, WI-3",
+   "published": {
+    "name": {
+     "full": "Derrick Van Orden",
+     "given": "Derrick",
+     "family": "Van Orden",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "WI",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255506",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1513 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4903",
+       "country": "US"
+      }
+     },
+     {
+      "label": "La Crosse, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16087822558",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "210 7th St S, Suite 204"
+       ],
+       "city": "La Crosse",
+       "region": "WI",
+       "postalCode": "54601",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Eau Claire, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17158319214",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "404 S Barstow St, Suite 2"
+       ],
+       "city": "Eau Claire",
+       "region": "WI",
+       "postalCode": "54701",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://vanorden.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://vanorden.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001160": {
+   "seat": "Representative, WI-4",
+   "published": {
+    "name": {
+     "full": "Gwen Moore",
+     "given": "Gwen",
+     "family": "Moore",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "WI",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254572",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2252 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4904",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Milwaukee, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14142971140",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "250 East Wisconsin, Suite 950"
+       ],
+       "city": "Milwaukee",
+       "region": "WI",
+       "postalCode": "53202",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://gwenmoore.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://gwenmoore.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "F000471": {
+   "seat": "Representative, WI-5",
+   "published": {
+    "name": {
+     "full": "Scott Fitzgerald",
+     "given": "Scott",
+     "family": "Fitzgerald",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "WI",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255101",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2444 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4905",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Oconomowoc, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12627841111",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "175 E Wisconsin Ave, H (2nd Floor)"
+       ],
+       "city": "Oconomowoc",
+       "region": "WI",
+       "postalCode": "53066",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://fitzgerald.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://fitzgerald.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000576": {
+   "seat": "Representative, WI-6",
+   "published": {
+    "name": {
+     "full": "Glenn Grothman",
+     "given": "Glenn",
+     "family": "Grothman",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "WI",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252476",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1211 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4906",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fond du Lac, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19209070624",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "525 N Peters Ave, Suite 700"
+       ],
+       "city": "Fond du Lac",
+       "region": "WI",
+       "postalCode": "54937",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://grothman.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://grothman.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "T000165": {
+   "seat": "Representative, WI-7",
+   "published": {
+    "name": {
+     "full": "Thomas P. Tiffany",
+     "given": "Thomas",
+     "family": "Tiffany",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "WI",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253365",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "451 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4907",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Wausau, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17152989344",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2620 Stewart Avenue, Suite 312"
+       ],
+       "city": "Wausau",
+       "region": "WI",
+       "postalCode": "54401",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://tiffany.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://tiffany.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "W000829": {
+   "seat": "Representative, WI-8",
+   "published": {
+    "name": {
+     "full": "Tony Wied",
+     "given": "Tony",
+     "family": "Wied",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "WI",
+    "district": 8,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255665",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "424 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4908",
+       "country": "US"
+      }
+     },
+     {
+      "label": "De Pere, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19203014500",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1702 Scheuring Rd, Suite B"
+       ],
+       "city": "De Pere",
+       "region": "WI",
+       "postalCode": "54115",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://wied.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://wied.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001047": {
+   "seat": "Senator, WV",
+   "published": {
+    "name": {
+     "full": "Shelley Moore Capito",
+     "given": "Shelley",
+     "family": "Capito",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "WV",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022246472",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "170 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Martinsburg, WV office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13042629285",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "300 Foxcroft Ave., Suite 202A"
+       ],
+       "city": "Martinsburg",
+       "region": "WV",
+       "postalCode": "25401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Morgantown, WV office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13042922310",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "48 Donley St., Suite 504"
+       ],
+       "city": "Morgantown",
+       "region": "WV",
+       "postalCode": "26501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Charleston, WV office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13043475372",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "500 Virginia Street East, Suite 950"
+       ],
+       "city": "Charleston",
+       "region": "WV",
+       "postalCode": "25301",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.capito.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.capito.senate.gov/contact/contact-shelley",
+    "website": "https://www.capito.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "J000312": {
+   "seat": "Senator, WV",
+   "published": {
+    "name": {
+     "full": "James C. Justice",
+     "given": "Jim",
+     "family": "Justice",
+     "suffix": "II"
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "WV",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022243954",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "509 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Charleston, WV office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13043425855",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "900 Pennsylvania, Suite 629"
+       ],
+       "city": "Charleston",
+       "region": "WV",
+       "postalCode": "25302",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.justice.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://www.justice.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001205": {
+   "seat": "Representative, WV-1",
+   "published": {
+    "name": {
+     "full": "Carol D. Miller",
+     "given": "Carol",
+     "family": "Miller",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "WV",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253452",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "465 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4801",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Charleston, WV office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16819456556",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3 Tennessee Ave"
+       ],
+       "city": "Charleston",
+       "region": "WV",
+       "postalCode": "25302",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Huntington, WV office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13045222201",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2699 Park Avenue, Suite 220"
+       ],
+       "city": "Huntington",
+       "region": "WV",
+       "postalCode": "25704",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Beckley, WV office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13042506177",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3049 Robert C. Byrd Drive, Suite 240"
+       ],
+       "city": "Beckley",
+       "region": "WV",
+       "postalCode": "25801",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://miller.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://miller.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001235": {
+   "seat": "Representative, WV-2",
+   "published": {
+    "name": {
+     "full": "Riley M. Moore",
+     "given": "Riley",
+     "family": "Moore",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "WV",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252711",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1337 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4802",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Morgantown, WV office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13043506995",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "8 Suburban Ct"
+       ],
+       "city": "Morgantown",
+       "region": "WV",
+       "postalCode": "26505",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Martinsburg, WV office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13043506987",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "739 Winchester Ave"
+       ],
+       "city": "Martinsburg",
+       "region": "WV",
+       "postalCode": "25401",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://rileymoore.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://rileymoore.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001261": {
+   "seat": "Senator, WY",
+   "published": {
+    "name": {
+     "full": "John Barrasso",
+     "given": "John",
+     "family": "Barrasso",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "WY",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022246441",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "307 Dirksen Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Casper, WY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13072616413",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "100 E. B St., Suite 2004"
+       ],
+       "city": "Casper",
+       "region": "WY",
+       "postalCode": "82601",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cheyenne, WY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13077722451",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2120 Capitol Ave., Suite 2013"
+       ],
+       "city": "Cheyenne",
+       "region": "WY",
+       "postalCode": "82001",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Riverton, WY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13078566642",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "324 E. Washington Ave."
+       ],
+       "city": "Riverton",
+       "region": "WY",
+       "postalCode": "82501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rock Springs, WY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13073625012",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Commerce Bank",
+        "1575 Dewar Drive, Suite 218"
+       ],
+       "city": "Rock Springs",
+       "region": "WY",
+       "postalCode": "82901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Sheridan, WY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13076726456",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "51 Coffeen Avenue, Suite 202"
+       ],
+       "city": "Sheridan",
+       "region": "WY",
+       "postalCode": "82801",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.barrasso.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.barrasso.senate.gov/public/index.cfm/contact-form",
+    "website": "https://www.barrasso.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000571": {
+   "seat": "Senator, WY",
+   "published": {
+    "name": {
+     "full": "Cynthia M. Lummis",
+     "given": "Cynthia",
+     "family": "Lummis",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "WY",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022243424",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "127A Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cheyenne, WY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13077722477",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Federal Center",
+        "2120 Capitol Avenue, Suite 2007"
+       ],
+       "city": "Cheyenne",
+       "region": "WY",
+       "postalCode": "82001",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cody, WY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13075279444",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1285 Sheridan Avenue, Suite 215"
+       ],
+       "city": "Cody",
+       "region": "WY",
+       "postalCode": "82414",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Casper, WY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13072616572",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Dick Cheney Federal Building",
+        "100 East B Street, Suite 3201"
+       ],
+       "city": "Casper",
+       "region": "WY",
+       "postalCode": "82602",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Sundance, WY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13072833461",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "120 North 4th Street"
+       ],
+       "city": "Sundance",
+       "region": "WY",
+       "postalCode": "82729",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Afton, WY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13072481736",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "80 1st Avenue, Suite 105"
+       ],
+       "city": "Afton",
+       "region": "WY",
+       "postalCode": "83110",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.lummis.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.lummis.senate.gov/contact/contact-form/",
+    "website": "https://www.lummis.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001096": {
+   "seat": "Representative, WY-0",
+   "published": {
+    "name": {
+     "full": "Harriet M. Hageman",
+     "given": "Harriet",
+     "family": "Hageman",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "WY",
+    "district": 0,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252311",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1227 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-5000",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cheyenne, WY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13077722595",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2120 Capitol Avenue, Suite 8005"
+       ],
+       "city": "Cheyenne",
+       "region": "WY",
+       "postalCode": "82001",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Casper, WY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13072616595",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "100 E B Street, Suite 4003"
+       ],
+       "city": "Casper",
+       "region": "WY",
+       "postalCode": "82601",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://hageman.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://hageman.house.gov"
+   },
+   "currentSupplement": null
+  }
+ }
+}

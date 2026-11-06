@@ -2,3 +2,14 @@
 .env
 .env.*
 !.env.example
+
+# Raw upstream downloads used by tools/build_data.py
+data/cache/
+
+__pycache__/
+
+# Build outputs from tools/build.py
+dist/
+
+# Personal Claude Code settings
+.claude/settings.local.json

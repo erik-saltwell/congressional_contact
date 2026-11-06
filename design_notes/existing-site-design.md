@@ -12,9 +12,33 @@ Reference files:
 
 The sample shows the **recommended options, which the owner did not choose**: embedded fonts and page-scoped accessible colours. It remains as evidence for those measurements. The chosen design is described under "Owner decisions".
 
+## Site update: new colours (2026-11-05, after this analysis)
+
+The owner recoloured eriksaltwell.com after this analysis. The changes are in the site repository's commits `48738c0`, `2637fd5`, `20887de` and `ff85299`. The site is no longer stock: the colour statements in "Summary" and the measurements below describe the site before this update. The table under "Design tokens" shows the new values.
+
+- **`_config.yml`:**
+  - warm off-white page;
+  - orange navbar and footer;
+  - brown-grey navbar and footer text;
+  - copper and brown hover colours.
+
+  Body text (`#404040`) and links (`#008AFF`) are unchanged.
+- **`assets/css/beautifuljekyll.css` now differs from the theme:**
+  - a new `--heading-col: #584F4E`, used for page and post titles that sit over no image, post-preview titles and "read more" links, and pager links;
+  - the navbar hover uses `--navbar-hover-col`, not `--hover-col`;
+  - footer links use `--footer-link-col`.
+- **The styled 404 page has been removed.**
+
+What this means for Congressional Contact:
+- **The Jekyll page picks up the new colours automatically,** because it inherits the theme's variables.
+- **Bootstrap's buttons, input border and focus ring are unchanged** (`#007bff`). The decision to keep stock Bootstrap colours still stands.
+- **The standalone file does not copy these colours.** It uses neutral stock Beautiful Jekyll colours and carries none of the owner's branding (owner, 2026-11-06). See "Standalone file styling".
+- **`.cc-*` rules must not hard-code a white background.** Use `var(--page-col)` so the page matches the off-white.
+- **The contrast figures in this note were measured against white.** They have not been re-measured on `#F8F7F5`.
+
 ## Summary
 
-- **The site is stock Beautiful Jekyll with the theme's default colours.** Its theme files match upstream master commit `b1b667e` (2024-12-13, "Bluesky icon in font awesome"), not the 6.0.1 release named in the footer.
+- **Before the 2026-11-05 update, the site was stock Beautiful Jekyll with the theme's default colours.** Its theme files match upstream master commit `b1b667e` (2024-12-13, "Bluesky icon in font awesome"), not the 6.0.1 release named in the footer.
   - The owner's only design customization is a styled 404 page (`div.notfound`).
   - The other changes are a favicon link and the `{% seo %}` tag.
   - Every colour in `_config.yml` equals the theme default.
@@ -33,17 +57,18 @@ The sample shows the **recommended options, which the owner did not choose**: em
 
 Beautiful Jekyll already stores its tokens as CSS custom properties on `:root`. They are generated from `_config.yml` in `assets/css/beautifuljekyll.css`.
 
-| Token | Value on the site | Used for |
-|---|---|---|
-| `--page-col` | `#FFFFFF` | Page background |
-| `--text-col` | `#404040` | Body text, headings |
-| `--link-col` | `#008AFF` | Links |
-| `--hover-col` | `#0085A1` | Link hover and focus |
-| `--navbar-col` / `--navbar-text-col` / `--navbar-border-col` | `#EAEAEA` / `#404040` / `#DDDDDD` | Navbar |
-| `--footer-col` / `--footer-text-col` / `--footer-link-col` / `--footer-hover-col` | `#EAEAEA` / `#777777` / `#404040` / `#0085A1` | Footer |
-| `--mid-col` | `#808080` | Blockquotes, the rule under the page title, secondary text |
-| `--body-font` | `'Lora', 'Times New Roman', serif` | Body text |
-| `--header-font` | `'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif` | Headings, navbar, footer, subheadings |
+| Token | Value on the site (after 2026-11-05 update) | Theme default | Used for |
+|---|---|---|---|
+| `--page-col` | `#F8F7F5` | `#FFFFFF` | Page background |
+| `--text-col` | `#404040` | same | Body text, headings |
+| `--heading-col` (site CSS, not `_config.yml`) | `#584F4E` | none | Page and post titles over no image, post-preview titles, pager links |
+| `--link-col` | `#008AFF` | same | Links |
+| `--hover-col` | `#C57735` | `#0085A1` | Link hover and focus |
+| `--navbar-col` / `--navbar-text-col` / `--navbar-hover-col` / `--navbar-border-col` | `#F09D51` / `#584F4E` / `#804214` / `#DDDDDD` | `#EAEAEA` / `#404040` / hover-col / `#DDDDDD` | Navbar |
+| `--footer-col` / `--footer-text-col` / `--footer-link-col` / `--footer-hover-col` | `#F09D51` / `#584F4E` / `#584F4E` / `#804214` | `#EAEAEA` / `#777777` / `#404040` / `#0085A1` | Footer |
+| `--mid-col` | `#808080` | same | Blockquotes, the rule under the page title, secondary text |
+| `--body-font` | `'Lora', 'Times New Roman', serif` | same | Body text |
+| `--header-font` | `'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif` | same | Headings, navbar, footer, subheadings |
 
 ## Typography and layout
 
@@ -119,7 +144,7 @@ The shared build adds styling in two layers so the Jekyll page never redefines t
    - the Bootstrap 4.4.1 and Beautiful Jekyll rules the markup uses;
    - `@font-face` rules for the fonts, if the owner chooses to embed them.
 
-The standalone file should include the theme's page header markup (`.intro-header` > `.page-heading`) so it reads like the Jekyll page. It has no navbar or footer.
+The standalone file should include the theme's page header markup (`.intro-header` > `.page-heading`) so it reads like the Jekyll page. It also has an empty header bar and a footer bar; see "Standalone file styling".
 
 ## Standalone styling cost
 
@@ -151,6 +176,108 @@ Both fonts are under the SIL Open Font License 1.1. This was checked from the fo
 - Use `layout: page` and set `title`, `subtitle`, `share-description` and `description`. The theme renders the header.
 - Load `congress.css` through `css:` front matter. It sits after the theme CSS, so the `.cc-app` overrides win without `!important`.
 - No fonts, Bootstrap or theme CSS are added; the theme already loads them.
+
+## Standalone file styling (owner, 2026-11-06)
+
+The standalone file is for other people's sites. It carries none of the owner's branding, and it uses neutral stock Beautiful Jekyll colours instead of eriksaltwell.com's. The Jekyll page is unaffected.
+
+**Nothing that identifies the owner:**
+- no name, logo or avatar;
+- no homepage or navbar links, and no search;
+- no social icons;
+- no copyright.
+
+**Layout:**
+- **Header bar:** an empty bar in the stock navbar style, `#EAEAEA` with a 1 px `#DDDDDD` bottom border.
+- **Page header:** below the bar, the theme's centred title ("Your Congress") and subtitle, as on the Jekyll page.
+- **The app,** with the same markup and `congress.css` as the Jekyll page.
+- **Footer bar:** stock `#EAEAEA`, holding a single small "Host your own copy" link to the project's repository, which is the Phase 8 link to downloads and updates. Nothing else goes in it.
+
+**Colours,** set as `:root` variables in the standalone theme layer:
+
+| Role | Value | Notes |
+|---|---|---|
+| Page background, text | `#FFFFFF`, `#404040` | stock |
+| Header and footer bars | `#EAEAEA`, border `#DDDDDD` | stock |
+| Headings (`--heading-col`) | `#404040` | stock text colour. Stock Beautiful Jekyll has no heading colour, and without this the page would fall back to the owner's `#584F4E`. |
+| Buttons and links (`--cc-accent`) | `#006B80` | the stock teal `#0085A1`, darkened to pass AA: white on it is 6.2:1, and it is 6.2:1 as link text on white. Stock teal is 4.3:1 and stock blue `#008AFF` is 3.5:1. |
+| Hover (`--hover-col`) | `#0085A1` | stock |
+| Button hover | a darker teal | to be chosen when it's built |
+| Messages and errors | burgundy `#7A1F2B` | the same as the Jekyll page, 10.2:1 on white |
+| Invalid-ZIP field border | `--hover-col`, so stock teal | |
+
+Fonts stay as decided: Lora and Open Sans from Google Fonts.
+
+## Owner decisions after the site recolour (2026-11-06)
+
+These replace decisions 2 and 3 below where they conflict. The owner made them after reviewing phone screenshots of the page.
+
+1. **Colours follow the recoloured site, not stock Bootstrap.** The page reads the theme's variables and never sets them. `congress.css` falls back to eriksaltwell.com's values on hosts without them.
+
+   | Element | Colour | Theme variable |
+   |---|---|---|
+   | Buttons | brown `#804214` with white text (7.8:1); darker `#66340F` on hover and press | `--navbar-hover-col` |
+   | Links | the same brown, underlined, because brown against body text is only 1.3:1 | `--navbar-hover-col` |
+   | Link hover | copper `#C57735` | `--hover-col` |
+   | All headings | `#584F4E` | `--heading-col` |
+   | Heading links on hover | copper | `--hover-col` |
+   | Note-box left border | brown | `--navbar-hover-col` |
+
+   No blue is used anywhere on the page.
+2. **One button style.** Find and Save are the same brown `btn btn-primary btn-lg`, 48 px tall, which is phone-touchable. Start over is a text link. A second button style is used only when two buttons are on screen together and need different weights.
+3. **Invalid ZIP:** Bootstrap's `is-invalid` on the field, with a copper border. The error message is in the body text colour (`#404040`, 10:1).
+   - The owner first chose copper for it, which is 3.2:1, below AA.
+   - The second review changed it to brown.
+   - The third review changed it to body text, because brown means "tappable" on this page.
+4. **State labels appear only when a ZIP spans two or more states.** They are small, uppercase and letter-spaced, below the names in the hierarchy.
+5. **Title "Your Congress".** Below 576 px wide, `congress.css` shrinks the theme's page title to 2.25 rem and the subtitle to 1.25 rem. That stylesheet loads only on this page, so this is the one rule outside `.cc-*`.
+6. **Shorter copy:**
+   - no intro paragraph: the subtitle and the field label are enough (second review);
+   - no "to your phone": the subtitle is "Save your senators and representative", and the descriptions say "save them as contacts", because desktop visitors download a file instead;
+   - a one-sentence split-district note;
+   - a two-line no-match message;
+   - "(opens in a new tab)" only on the first house.gov link on screen;
+   - at most one note box. A ZIP that is both split and in two states gets a single combined note.
+
+**Second review (owner, 2026-11-06):**
+
+7. **After a search,** the results scroll into view below the theme's fixed navbar (`scroll-margin-top`), so a small phone no longer hides their top.
+8. **State groups:** each state label has a 2 px heading-colour rule and extra space above it, so the boundary between two states is clear.
+9. **Choosing a representative:** when a state has more than one House candidate, a "Representatives (choose yours)" label sits above them.
+10. **Note boxes** drop the theme's side margins, so they line up with the dividers.
+11. **Opened cards are marked.** Once a Save button has been tapped, it turns into the outlined version of the same brown button. The outline is the one exception to "one button style", and it exists only to show this state. It records the tap only; it doesn't claim the contact was saved. The mark lasts until the next search or Start over.
+
+**Third review (owner, 2026-11-06):**
+- The split-district note is "This ZIP code is split between 2 House districts. Not sure which is yours? Check house.gov.", because the "choose yours" label already gives the instruction.
+- The form has 2 rem of space above it, to set it apart from the page header.
+- "Officials for ZIP code …" and "Representatives (choose yours)" share one label style: Lora 600 in the heading colour.
+- **The page uses "add" throughout** (owner, 2026-11-06):
+  - the subtitle is "Add your lawmakers to your contacts";
+  - each button says "Add to contacts";
+  - the meta descriptions say "add them to your contacts";
+  - the combined note says "Add the senators and representative…";
+  - the card note says "Added from Congressional Contact".
+
+  The subtitle fits on one line at 390 px and wraps to two at 320 px.
+
+**Hierarchy and messages (owner, 2026-11-06).** These replace the state label, the "choose yours" label, the note boxes, the opened-results summary and Start over, all described above.
+- **Structure:**
+  - A state heading appears on every result, even for a single state (this may be removed later).
+  - Under it are two peer cards, "Senator(s)" and "Representative(s)". Each is a 1 px warm-grey bordered card with a small uppercase label, and the label is singular or plural to match.
+  - Each person is a row: the name (Lora 600, 1.0625 rem, body colour) and district on the left, and the Add button on the right. Senators have no role line.
+  - This is the "cards" treatment, chosen from five mock-ups.
+- **Burgundy messages:** every message and error is burgundy text (`#7A1F2B`, 9.5:1), with no box. That covers:
+  - the invalid-ZIP error;
+  - no match;
+  - "crosses N states", shown above the states;
+  - "split between N House districts. Pick yours…", shown inside the Representatives card;
+  - "has no U.S. senators", shown inside the Senators card;
+  - the vacant seat, shown inside its Representative card.
+- **House.gov links** appear only right after a burgundy message that offers one: no match, crosses states, and split.
+- **Removed:**
+  - Start over, because a new search replaces the results;
+  - the bottom "Not seeing your representative?" line;
+  - the "Officials for ZIP code …" line, because the field already shows the ZIP.
 
 ## Owner decisions (2026-11-05)
 

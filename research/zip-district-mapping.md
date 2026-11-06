@@ -4,6 +4,8 @@ Researched November 4, 2026, as follow-up to [official matching](official-matchi
 
 ## Approved source decision
 
+**Update 2026-11-05:** HUD access now works, and 2026 Q2 uses 119th Congress districts. See the [HUD crosswalk findings](hud-crosswalk-findings.md) and the final [data schema](../design_notes/data-schema.md).
+
 The user selected **HUD-USPS ZIP-to-congressional-district data**, to be acquired during local data generation and published as static JSON. The HUD token is configured locally in a Git-ignored `.env` file; the deployed page needs no credential. No authenticated request or HUD data validation has been performed yet. See [approved data approach and proposed JSON format](data-design.md) for the workflow, credential setup, state references per candidate, refresh discussion and remaining checks.
 
 This decision supersedes the conditional Census-first recommendation at the end of this initial research. Census remains comparison evidence rather than the selected primary mapping source.

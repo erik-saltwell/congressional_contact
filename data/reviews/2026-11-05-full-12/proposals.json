@@ -1,0 +1,1399 @@
+{
+ "batch": "2026-11-05-full-12",
+ "reviewedAt": "2026-11-05",
+ "officials": {
+  "B001316": {
+   "name": "Eric Burlison",
+   "seat": "Representative, MO-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://burlison.house.gov/",
+    "https://burlison.house.gov/address_authentication?form=/contact",
+    "https://burlison.house.gov/contact/offices",
+    "https://burlison.house.gov/contact/offices/washington-dc-office",
+    "https://burlison.house.gov/contact/offices/springfield-district-office",
+    "https://burlison.house.gov/contact/offices/joplin-district-office",
+    "https://burlison.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://burlison.house.gov/contact",
+     "source": "https://burlison.house.gov/address_authentication?form=/contact",
+     "evidence": "The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "S001195": {
+   "name": "Jason Smith",
+   "seat": "Representative, MO-8",
+   "status": "verified",
+   "pagesChecked": [
+    "https://jasonsmith.house.gov/",
+    "https://jasonsmith.house.gov/contact/"
+   ],
+   "notes": "Offices match (Rolla '830A S. Bishop Rolla, MO 65401 Phone: 573-364-2455' is on the homepage list).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://jasonsmith.house.gov/contact/",
+     "source": "https://jasonsmith.house.gov/contact/",
+     "evidence": "'Contact Jason Smith' form with an issue list; newsletter is separate."
+    }
+   ]
+  },
+  "K000404": {
+   "name": "Kimberlyn King-Hinds",
+   "seat": "Delegate, MP-0",
+   "status": "verified",
+   "pagesChecked": [
+    "https://king-hinds.house.gov/",
+    "https://king-hinds.house.gov/contact",
+    "https://king-hinds.house.gov/address_authentication?form=/contact/email-me",
+    "https://king-hinds.house.gov/contact/office-locations",
+    "https://king-hinds.house.gov/contact/offices/washington-dc-office",
+    "https://king-hinds.house.gov/contact/offices/rota-office",
+    "https://king-hinds.house.gov/contact/offices/tinian-office",
+    "https://king-hinds.house.gov/contact/offices/saipan-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://king-hinds.house.gov/contact/email-me",
+     "source": "https://king-hinds.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "'Email Me', the member's main contact form, behind an address check; the page offers an issue list about legislation, with agency help and newsletter separate."
+    }
+   ]
+  },
+  "H001079": {
+   "name": "Cindy Hyde-Smith",
+   "seat": "Senator, MS",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.hydesmith.senate.gov/contact-senator",
+    "https://www.hydesmith.senate.gov/offices"
+   ],
+   "notes": "Homepage blocked (403). The site lists Brookhaven and Southaven only as 'Limited Office Hours' with no address or phone.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.hydesmith.senate.gov/contact-senator",
+     "source": "https://www.hydesmith.senate.gov/contact-senator",
+     "evidence": "'Contact Cindy: Please use the following form to contact me with your comments and concerns', with a topic list; tours, flags and agency help are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.hydesmith.senate.gov/offices",
+     "evidence": "'Metro Jackson 1020 Highland Colony Parkway Suite 203 Ridgeland, MS 39157 Office (601) 965-4459' (we publish 190 East Capitol St., #550, Jackson) and 'Brookhaven Limited Office Hours Click Here for more information' with no address or phone (we publish 117 W. Cherokee St, Suite C, (601) 748-8024).",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022245054",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "528 Hart Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Ridgeland, MS office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16019654459",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1020 Highland Colony Parkway, Suite 203"
+        ],
+        "city": "Ridgeland",
+        "region": "MS",
+        "postalCode": "39157",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Oxford, MS office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16622361018",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "911 Jackson Ave., #249"
+        ],
+        "city": "Oxford",
+        "region": "MS",
+        "postalCode": "38655",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Gulfport, MS office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12288679710",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2012 15th Street, #451"
+        ],
+        "city": "Gulfport",
+        "region": "MS",
+        "postalCode": "39501",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "W000437": {
+   "name": "Roger F. Wicker",
+   "seat": "Senator, MS",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.wicker.senate.gov/contact/",
+    "https://www.wicker.senate.gov/contact/email-me/"
+   ],
+   "notes": "Homepage blocked (403). Offices match the contact page. We publish Tupelo twice, once at the street address and once at its P.O. Box 3777 mailing address (both on the site); not changed.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.wicker.senate.gov/contact/email-me/",
+     "source": "https://www.wicker.senate.gov/contact/email-me/",
+     "evidence": "'Email Senator Wicker' form about legislation; agency help, flags and tours are separate."
+    }
+   ]
+  },
+  "K000388": {
+   "name": "Trent Kelly",
+   "seat": "Representative, MS-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://trentkelly.house.gov/",
+    "https://trentkelly.house.gov/newsroom/email/default.aspx",
+    "https://trentkelly.house.gov/newsroom/documentquery.aspx",
+    "https://trentkelly.house.gov/contact/",
+    "https://trentkelly.house.gov/contact/officeinformation.htm",
+    "https://trentkelly.house.gov/forms/form/",
+    "https://trentkelly.house.gov/newsroom/email/default.aspx"
+   ],
+   "notes": "Staff cell numbers on the office page were ignored.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://trentkelly.house.gov/contact/",
+     "source": "https://trentkelly.house.gov/contact/",
+     "evidence": "'Send Me An Email: I value all feedback from residents of my district. Please enter your zip code below to continue', so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://trentkelly.house.gov/contact/officeinformation.htm",
+     "evidence": "The office list shows Washington, Tupelo, Columbus, Hernando, Eupora and 'Iuka Office 1008 Battleground Drive, Room 105 Iuka, Mississippi 38852 C: (662) 687-1525'. The Corinth (4135 County Road 200) and Oxford (107 Courthouse Square) offices we publish are not listed; Oxford is commented out of the homepage list.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254306",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2243 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-2401",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Columbus, MS office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16623270748",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "318 N. 7th St., Suite D"
+        ],
+        "city": "Columbus",
+        "region": "MS",
+        "postalCode": "39701",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Eupora, MS office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16626871545",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "855 S. Dunn St."
+        ],
+        "city": "Eupora",
+        "region": "MS",
+        "postalCode": "39744",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Hernando, MS office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16626870576",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2565 Caffey St., #200"
+        ],
+        "city": "Hernando",
+        "region": "MS",
+        "postalCode": "38632",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Tupelo, MS office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16628418808",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "431 West Main Street, Suite #450"
+        ],
+        "city": "Tupelo",
+        "region": "MS",
+        "postalCode": "38804",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Iuka, MS office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16626871525",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1008 Battleground Drive, Room 105"
+        ],
+        "city": "Iuka",
+        "region": "MS",
+        "postalCode": "38852",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "T000193": {
+   "name": "Bennie G. Thompson",
+   "seat": "Representative, MS-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://benniethompson.house.gov/",
+    "https://benniethompson.house.gov/contact",
+    "https://benniethompson.house.gov/address_authentication?form=/contact/email",
+    "https://benniethompson.house.gov/contact/offices",
+    "https://benniethompson.house.gov/contact/office-directory/staff-directory",
+    "https://benniethompson.house.gov/contact/offices/washington-dc-office",
+    "https://benniethompson.house.gov/contact/offices/bolton-office",
+    "https://benniethompson.house.gov/contact/offices/greenville-office",
+    "https://benniethompson.house.gov/contact/offices/jackson-office",
+    "https://benniethompson.house.gov/contact/offices/marks-office"
+   ],
+   "notes": "Offices match. Not added: a Bolton toll-free line, because the site gives two different numbers for it ('(800) 355-9003' on the homepage, '1-(800) 335-9003' on the staff directory); and a second Mound Bayou line, (662) 741-9002.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://benniethompson.house.gov/contact/email",
+     "source": "https://benniethompson.house.gov/address_authentication?form=/contact/email",
+     "evidence": "The member's main email form, behind an address check; the page offers an issue list about legislation."
+    },
+    {
+     "action": "add-email",
+     "address": "benniethompson@mail.house.gov",
+     "purpose": "general",
+     "source": "https://benniethompson.house.gov/contact/office-directory/staff-directory",
+     "evidence": "'feel free to contact me using the information listed below. I also can be reached via email at benniethompson@mail.house.gov'."
+    }
+   ]
+  },
+  "G000591": {
+   "name": "Michael Guest",
+   "seat": "Representative, MS-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://guest.house.gov/",
+    "https://guest.house.gov/address_authentication?form=/contact",
+    "https://guest.house.gov/contact/offices",
+    "https://guest.house.gov/contact/offices/washington-dc-office",
+    "https://guest.house.gov/contact/offices/meridian-office",
+    "https://guest.house.gov/contact/offices/brandon-office",
+    "https://guest.house.gov/contact/offices/starkville-office",
+    "https://guest.house.gov/contact/offices/brookhaven-office",
+    "https://guest.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://guest.house.gov/contact",
+     "source": "https://guest.house.gov/address_authentication?form=/contact",
+     "evidence": "The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "E000235": {
+   "name": "Mike Ezell",
+   "seat": "Representative, MS-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://ezell.house.gov/",
+    "https://ezell.house.gov/news/email/",
+    "https://ezell.house.gov/contact/",
+    "https://ezell.house.gov/forms/emailsignup/",
+    "https://ezell.house.gov/contact/offices.htm",
+    "https://ezell.house.gov/news/email/default.aspx"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://ezell.house.gov/contact/",
+     "source": "https://ezell.house.gov/contact/",
+     "evidence": "The member's main contact form at /contact, behind a ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "D000618": {
+   "name": "Steve Daines",
+   "seat": "Senator, MT",
+   "status": "partial",
+   "pagesChecked": [
+    "https://www.daines.senate.gov/contact/",
+    "https://www.daines.senate.gov/services/email-steve/",
+    "https://www.senate.gov/general/contact_information/senators_cfm.xml"
+   ],
+   "notes": "Local offices not checked: the site lists them only on its homepage, which is blocked (403, in curl and a browser); the contact page (read in a browser) has no office list, and /contact/offices/, /offices/, /office-locations/ are 404. The DC office (320 Hart, 202-224-2651) matches senate.gov's contact list.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.daines.senate.gov/services/email-steve/",
+     "source": "https://www.daines.senate.gov/contact/",
+     "evidence": "Contact page links 'Share Your Opinion on Legislation' to 'Email Steve', a form for comments and concerns with a topic list; agency help is separate."
+    }
+   ]
+  },
+  "S001232": {
+   "name": "Tim Sheehy",
+   "seat": "Senator, MT",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.sheehy.senate.gov/contact/",
+    "https://www.sheehy.senate.gov/contact/share-your-opinion/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.sheehy.senate.gov/contact/share-your-opinion/",
+     "source": "https://www.sheehy.senate.gov/contact/share-your-opinion/",
+     "evidence": "'Share Your Opinion' form with a topic list about issues and legislation; casework, flags and tours are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.sheehy.senate.gov/contact/",
+     "evidence": "'Billings 222 N 32nd Street Suite 102 Billings, MT 59101 406-252-0559', 'BOZEMAN 2425 Technology Boulevard, Suite 2090 Bozeman, MT 59718 406-872-6350 (By appointment only)', 'KALISPELL 8-3rd Street, East Kalispell, MT 59901' and 'MISSOULA 2620 Connery Way, Suite 202 Missoula, MT 59808 406-218-2658'. We publish the Jameson Federal Building in Billings, 1 East Main Street in Bozeman, a city of 'East Kalispell', and no Missoula office.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022242644",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "124 Russell Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Billings, MT office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14062520559",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "222 N 32nd Street, Suite 102"
+        ],
+        "city": "Billings",
+        "region": "MT",
+        "postalCode": "59101",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Bozeman, MT office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14068726350",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2425 Technology Boulevard, Suite 2090"
+        ],
+        "city": "Bozeman",
+        "region": "MT",
+        "postalCode": "59718",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Butte, MT office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14067822048",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Silver Bow Center",
+         "125 West Granite St, Suite 200"
+        ],
+        "city": "Butte",
+        "region": "MT",
+        "postalCode": "59701",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Kalispell, MT office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14062573398",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "8 3rd Street East"
+        ],
+        "city": "Kalispell",
+        "region": "MT",
+        "postalCode": "59901",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Great Falls, MT office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14064529587",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "119 1st Ave North, Suite 102"
+        ],
+        "city": "Great Falls",
+        "region": "MT",
+        "postalCode": "59401",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Helena, MT office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14064411069",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "208 N Montana Ave, Suite 104"
+        ],
+        "city": "Helena",
+        "region": "MT",
+        "postalCode": "59601",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Missoula, MT office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14062182658",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2620 Connery Way, Suite 202"
+        ],
+        "city": "Missoula",
+        "region": "MT",
+        "postalCode": "59808",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "Z000018": {
+   "name": "Ryan K. Zinke",
+   "seat": "Representative, MT-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://zinke.house.gov/",
+    "https://zinke.house.gov/address_authentication?form=/contact",
+    "https://zinke.house.gov/contact/offices",
+    "https://zinke.house.gov/contact/offices/washington-dc-office",
+    "https://zinke.house.gov/contact/offices/kalispell-district-office"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://zinke.house.gov/contact",
+     "source": "https://zinke.house.gov/address_authentication?form=/contact",
+     "evidence": "The member's main contact form, behind an address check; the page offers an issue list about legislation, with agency help and newsletter separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://zinke.house.gov/contact/offices/",
+     "evidence": "'Office Locations Washington DC Office 512 Cannon ... (202) 225-5628 Kalispell District Office 923 South Main Kalispell, MT 59901 Phone: (406) 317-0277'. The Bozeman and Missoula offices we publish are no longer listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255628",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "512 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-2600",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Kalispell, MT office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14063170277",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "923 South Main"
+        ],
+        "city": "Kalispell",
+        "region": "MT",
+        "postalCode": "59901",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "D000634": {
+   "name": "Troy Downing",
+   "seat": "Representative, MT-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://downing.house.gov/",
+    "https://downing.house.gov/live",
+    "https://downing.house.gov/address_authentication?form=/contact/email-me",
+    "https://downing.house.gov/contact",
+    "https://downing.house.gov/contact/office-locations",
+    "https://downing.house.gov/contact/offices/washington-dc-office",
+    "https://downing.house.gov/contact/offices/helena-district-office",
+    "https://downing.house.gov/contact/offices/billings-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://downing.house.gov/contact/email-me",
+     "source": "https://downing.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "'Email Me', the member's main contact form, behind an address check; the page offers an issue list about legislation, with agency help and newsletter separate."
+    }
+   ]
+  },
+  "B001305": {
+   "name": "Ted Budd",
+   "seat": "Senator, NC",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.budd.senate.gov/contact/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.budd.senate.gov/contact/",
+     "source": "https://www.budd.senate.gov/contact/",
+     "evidence": "'Share Your Opinion: Have questions or comments on legislation? ... send Senator Budd your comments and questions on legislation (e.g., bills, policy issues, or voting records)', in a Senate outreach iframe with a topic list (Abortion, Agriculture, Arts and Humanities ...); casework is separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.budd.senate.gov/contact/",
+     "evidence": "'Wilmington 929 N. Front St. Suite 413 Wilmington, NC 28401 Phone: 910-218-7600'. We publish 201 N. Front St., Suite 809.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022243154",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "354 Russell Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Advance, NC office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13369414470",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "5380 US Highway 158, Suite 202"
+        ],
+        "city": "Advance",
+        "region": "NC",
+        "postalCode": "27006",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Raleigh, NC office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19843495061",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "333 Fayetteville Street, Suite 1504"
+        ],
+        "city": "Raleigh",
+        "region": "NC",
+        "postalCode": "27601",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Wilmington, NC office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19102187600",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "929 N. Front St., Suite 413"
+        ],
+        "city": "Wilmington",
+        "region": "NC",
+        "postalCode": "28401",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Asheville, NC office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18283334130",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "151 Patton Ave., Suite 204"
+        ],
+        "city": "Asheville",
+        "region": "NC",
+        "postalCode": "28801",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "T000476": {
+   "name": "Thom Tillis",
+   "seat": "Senator, NC",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.tillis.senate.gov/office-locations/",
+    "https://www.tillis.senate.gov/email-me/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.tillis.senate.gov/email-me",
+     "source": "https://www.tillis.senate.gov/email-me",
+     "evidence": "'Email Me: If you would like to leave a policy comment, please use the following form', with a topic list; the office no longer takes new casework."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.tillis.senate.gov/office-locations/",
+     "evidence": "'Office Locations Raleigh 310 New Bern Ave Suite 122 ... Charlotte 10150 Mallard Creek Rd Suite 508 ... Greensboro 3200 Northline Ave Suite 150 ... Washington, D.C. 113 Dirksen'. The Greenville and Hendersonville offices we publish are no longer listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022246342",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "113 Dirksen Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Raleigh, NC office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19198564630",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "310 New Bern Ave., Suite 122"
+        ],
+        "city": "Raleigh",
+        "region": "NC",
+        "postalCode": "27601",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Greensboro, NC office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13368850685",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "3200 Northline Avenue, Suite 150"
+        ],
+        "city": "Greensboro",
+        "region": "NC",
+        "postalCode": "27408",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Charlotte, NC office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17045099087",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "10150 Mallard Creek Rd, Suite 508"
+        ],
+        "city": "Charlotte",
+        "region": "NC",
+        "postalCode": "28262",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "D000230": {
+   "name": "Donald G. Davis",
+   "seat": "Representative, NC-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://dondavis.house.gov/",
+    "https://dondavis.house.gov/contact",
+    "https://dondavis.house.gov/contact/job-opportunities",
+    "https://dondavis.house.gov/address_authentication?form=/contact/questions-comments",
+    "https://dondavis.house.gov/contact/offices/washington-dc-office",
+    "https://dondavis.house.gov/contact/offices/elizabeth-city-office",
+    "https://dondavis.house.gov/contact/offices/rocky-mount-office",
+    "https://dondavis.house.gov/contact/offices/goldsboro-office"
+   ],
+   "notes": "Offices match. The jobs mailbox does not count.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://dondavis.house.gov/contact/questions-comments",
+     "source": "https://dondavis.house.gov/address_authentication?form=/contact/questions-comments",
+     "evidence": "'Questions/Comments', the member's main contact form, behind an address check; the page offers an issue list about legislation, with agency help and newsletter separate."
+    }
+   ]
+  },
+  "R000305": {
+   "name": "Deborah K. Ross",
+   "seat": "Representative, NC-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://ross.house.gov/",
+    "https://rossforms.house.gov/forms/writeyourrep/",
+    "https://ross.house.gov/office-locations/",
+    "https://rossforms.house.gov/forms/writeyourrep/",
+    "https://rossforms.house.gov/forms/form/?ID=68",
+    "https://rossforms.house.gov/forms/emailsignup/",
+    "https://ross.house.gov/index.cfm/",
+    "https://ross.house.gov/washington-dc-office/",
+    "https://ross.house.gov/raleigh-district-office/"
+   ],
+   "notes": "Offices match; the extra numbers on the site are faxes.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://rossforms.house.gov/forms/writeyourrep/",
+     "source": "https://rossforms.house.gov/forms/writeyourrep/",
+     "evidence": "'Write your Representative' form for comments on issues and legislation; casework and agency help are separate."
+    }
+   ]
+  },
+  "M001210": {
+   "name": "Gregory F. Murphy",
+   "seat": "Representative, NC-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://murphy.house.gov/",
+    "https://murphy.house.gov/contact/offices",
+    "https://murphy.house.gov/contact/offices/washington-dc-office",
+    "https://murphy.house.gov/contact/offices/new-bern-office",
+    "https://murphy.house.gov/contact/offices/greenville-office",
+    "https://murphy.house.gov/contact/offices/jacksonville-office",
+    "https://murphy.house.gov/contact/offices/carteret-office",
+    "https://murphy.house.gov/contact/offices/manteo-office"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://gregmurphyforms.house.gov/contact/email-me.htm",
+     "source": "https://gregmurphyforms.house.gov/contact/",
+     "evidence": "Contact page: 'Send Me an Email - Fill out this form to contact my office', behind a ZIP check ('Your Zip Zip Code: * +4'), so its topic list could not be read; meetings, events, tours and agency help are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://murphy.house.gov/",
+     "evidence": "'Carteret Office Carteret County Government Administration Building in Beaufort 302 Courthouse Square Beaufort, NC 28516 Phone: (252) 499-0540'. We do not publish this office.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253415",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "407 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3303",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Greenville, NC office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12529311003",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1105 Corporate Drive, Suite C"
+        ],
+        "city": "Greenville",
+        "region": "NC",
+        "postalCode": "27858",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Manteo, NC office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12522303549",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "954 Marshall C. Collins Dr, Room 194"
+        ],
+        "city": "Manteo",
+        "region": "NC",
+        "postalCode": "27954",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Jacksonville, NC office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19109376929",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "815 New Bridge Street"
+        ],
+        "city": "Jacksonville",
+        "region": "NC",
+        "postalCode": "28540",
+        "country": "US"
+       }
+      },
+      {
+       "label": "New Bern, NC office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12526366612",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2402 Dr. M.L.K. Jr. Blvd."
+        ],
+        "city": "New Bern",
+        "region": "NC",
+        "postalCode": "28562",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Beaufort, NC office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12524990540",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Carteret County Government Administration Building",
+         "302 Courthouse Square"
+        ],
+        "city": "Beaufort",
+        "region": "NC",
+        "postalCode": "28516",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "F000477": {
+   "name": "Valerie P. Foushee",
+   "seat": "Representative, NC-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://foushee.house.gov/",
+    "https://foushee.house.gov/contact-me/",
+    "https://foushee.house.gov/contact/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://foushee.house.gov/contact",
+     "source": "https://foushee.house.gov/contact",
+     "evidence": "'Write To Valerie', drawn by script behind a ZIP check ('Please enter your zip code to verify residency'), with an issue list (Agriculture and Food, Animals, Armed Forces and National Security ...)."
+    }
+   ]
+  },
+  "F000450": {
+   "name": "Virginia Foxx",
+   "seat": "Representative, NC-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://foxx.house.gov/",
+    "https://foxx.house.gov/news/documentquery.aspx",
+    "https://foxx.house.gov/news/email/",
+    "https://foxx.house.gov/connect/default.aspx",
+    "https://foxx.house.gov/connect/problem-with-your-9-digit-zip-code.htm",
+    "https://foxx.house.gov/district/5th-district-offices.htm",
+    "https://foxx.house.gov/news/documentsingle.aspx",
+    "https://foxx.house.gov/news/email/default.aspx"
+   ],
+   "notes": "Offices match (https://foxx.house.gov/district/5th-district-offices.htm).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://foxx.house.gov/contact/",
+     "source": "https://foxx.house.gov/contact/",
+     "evidence": "'Email Virginia: Send Me An Email', the member's main contact form, behind a ZIP check, so its topic list could not be read; agency help and tours are separate."
+    }
+   ]
+  },
+  "M001240": {
+   "name": "Addison P. McDowell",
+   "seat": "Representative, NC-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mcdowell.house.gov/",
+    "https://mcdowell.house.gov/share-your-opinion",
+    "https://mcdowell.house.gov/contact/offices/high-point-district-office",
+    "https://mcdowell.house.gov/contact/offices/washington-dc-office",
+    "https://mcdowell.house.gov/address_authentication?form=/share-your-opinion/email-me",
+    "https://mcdowell.house.gov/contact/office-locations"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mcdowell.house.gov/share-your-opinion/email-me",
+     "source": "https://mcdowell.house.gov/address_authentication?form=/share-your-opinion/email-me",
+     "evidence": "'Email Me' under 'Share Your Opinion', the member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://mcdowell.house.gov/",
+     "evidence": "'Office Locations High Point District Office By Appointment Only High Point, NC 27262 Phone: (336) 333-5005'. We publish a Lexington office at 30 E. 1st Ave; the site gives no street address.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253065",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1032 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3306",
+        "country": "US"
+       }
+      },
+      {
+       "label": "High Point, NC office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13363335005",
+         "type": "voice"
+        }
+       ],
+       "address": null
+      }
+     ]
+    }
+   ]
+  },
+  "R000603": {
+   "name": "David Rouzer",
+   "seat": "Representative, NC-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://rouzer.house.gov/",
+    "https://rouzer.house.gov/news/email/",
+    "https://rouzer.house.gov/contact/",
+    "https://rouzer.house.gov/contact/offices.htm",
+    "https://rouzer.house.gov/contact/mobile-office-hours.htm",
+    "https://rouzer.house.gov/signup/",
+    "https://rouzer.house.gov/contact/",
+    "https://rouzer.house.gov/news/email/default.aspx"
+   ],
+   "notes": "Offices match (https://rouzer.house.gov/contact/offices.htm). The Johnston County office (919-938-3040) is commented out of that page and was ignored.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://rouzer.house.gov/contact/",
+     "source": "https://rouzer.house.gov/contact/",
+     "evidence": "The member's main contact form at /contact, behind a ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "H001102": {
+   "name": "Mark Harris",
+   "seat": "Representative, NC-8",
+   "status": "verified",
+   "pagesChecked": [
+    "https://markharris.house.gov/",
+    "https://markharris.house.gov/contact",
+    "https://markharris.house.gov/address_authentication?form=/contact/email-me",
+    "https://markharris.house.gov/contact/office-locations",
+    "https://markharris.house.gov/contact/offices/washington-dc-office",
+    "https://markharris.house.gov/contact/offices/laurinburg-district-office",
+    "https://markharris.house.gov/contact/offices/monroe-district-office"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://markharris.house.gov/contact/email-me",
+     "source": "https://markharris.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "'Email Me', the member's main contact form, behind an address check; the page offers an issue list about legislation, with agency help and newsletter separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://markharris.house.gov/",
+     "evidence": "'Laurinburg District Office 303 West Church Street Laurinburg, NC 28352 Phone: (910) 887-6424'. We publish only the DC and Monroe offices.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022251976",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "126 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3308",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Monroe, NC office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17042185300",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "300 North Main St"
+        ],
+        "city": "Monroe",
+        "region": "NC",
+        "postalCode": "28112",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Laurinburg, NC office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19108876424",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "303 West Church Street"
+        ],
+        "city": "Laurinburg",
+        "region": "NC",
+        "postalCode": "28352",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "H001067": {
+   "name": "Richard Hudson",
+   "seat": "Representative, NC-9",
+   "status": "verified",
+   "pagesChecked": [
+    "https://hudson.house.gov/",
+    "https://hudson.house.gov/address_authentication?form=/contact",
+    "https://hudson.house.gov/contact/offices",
+    "https://hudson.house.gov/contact/offices/washington-dc-office",
+    "https://hudson.house.gov/contact/offices/southern-pines-district-office",
+    "https://hudson.house.gov/contact/offices/fayetteville-district-office",
+    "https://hudson.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://hudson.house.gov/contact",
+     "source": "https://hudson.house.gov/address_authentication?form=/contact",
+     "evidence": "The member's main contact form, behind an address check; the page offers an issue list, with agency help, flags and newsletter separate."
+    }
+   ]
+  },
+  "H001101": {
+   "name": "Pat Harrigan",
+   "seat": "Representative, NC-10",
+   "status": "verified",
+   "pagesChecked": [
+    "https://harrigan.house.gov/",
+    "https://harrigan.house.gov/contact",
+    "https://harrigan.house.gov/contact/email-me",
+    "https://harrigan.house.gov/contact/office-locations",
+    "https://harrigan.house.gov/contact/offices/washington-dc-office",
+    "https://harrigan.house.gov/contact/offices/hickory-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://harrigan.house.gov/contact/email-me",
+     "source": "https://harrigan.house.gov/contact/email-me",
+     "evidence": "'Email Me' form with an issue list about legislation; agency help, meetings and newsletter are separate."
+    }
+   ]
+  }
+ }
+}

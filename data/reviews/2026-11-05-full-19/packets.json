@@ -1,0 +1,2444 @@
+{
+ "batch": "2026-11-05-full-19",
+ "createdAt": "2026-11-05",
+ "dataGeneratedAt": "2026-11-05T19:36:17Z",
+ "officials": {
+  "M001224": {
+   "seat": "Representative, TX-1",
+   "published": {
+    "name": {
+     "full": "Nathaniel Moran",
+     "given": "Nathaniel",
+     "family": "Moran",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253035",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1605 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4301",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Texarkana, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19035616349",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2500 North Robison Rd., Suite 190"
+       ],
+       "city": "Texarkana",
+       "region": "TX",
+       "postalCode": "75501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Longview, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19035616349",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "101 E Methvin, Suite 302"
+       ],
+       "city": "Longview",
+       "region": "TX",
+       "postalCode": "75601",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Marshall, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19035616349",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "100 N. Bolivar., Suite 205"
+       ],
+       "city": "Marshall",
+       "region": "TX",
+       "postalCode": "75671",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tyler, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19035616349",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1121 ESE Loop 323, Suite 206"
+       ],
+       "city": "Tyler",
+       "region": "TX",
+       "postalCode": "75701",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://moran.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://moran.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001120": {
+   "seat": "Representative, TX-2",
+   "published": {
+    "name": {
+     "full": "Dan Crenshaw",
+     "given": "Dan",
+     "family": "Crenshaw",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256565",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "248 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4302",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Kingwood, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17138601330",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1849 Kingwood Dr., #100"
+       ],
+       "city": "Kingwood",
+       "region": "TX",
+       "postalCode": "77339",
+       "country": "US"
+      }
+     },
+     {
+      "label": "The Woodlands, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12816407720",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2829 Technology Forest, #280"
+       ],
+       "city": "The Woodlands",
+       "region": "TX",
+       "postalCode": "77381",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://crenshaw.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://crenshaw.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001224": {
+   "seat": "Representative, TX-3",
+   "published": {
+    "name": {
+     "full": "Keith Self",
+     "given": "Keith",
+     "family": "Self",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254201",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1030 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4303",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Mckinney, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19722024150",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4500 W. Eldorado Pkwy, Suite 3500"
+       ],
+       "city": "Mckinney",
+       "region": "TX",
+       "postalCode": "75070",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Greenville, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19034587037",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2410 Lee Street, Suite 202"
+       ],
+       "city": "Greenville",
+       "region": "TX",
+       "postalCode": "75401",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://keithself.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://keithself.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "F000246": {
+   "seat": "Representative, TX-4",
+   "published": {
+    "name": {
+     "full": "Pat Fallon",
+     "given": "Pat",
+     "family": "Fallon",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256673",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2416 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4304",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rockwall, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19727710100",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "6531 Horizon Rd., Suite A"
+       ],
+       "city": "Rockwall",
+       "region": "TX",
+       "postalCode": "75032",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Sherman, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19038205170",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "100 West Houston St., Suite 14"
+       ],
+       "city": "Sherman",
+       "region": "TX",
+       "postalCode": "75090",
+       "country": "US"
+      }
+     },
+     {
+      "label": "New Boston, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19037167500",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "15 James Carlow Dr."
+       ],
+       "city": "New Boston",
+       "region": "TX",
+       "postalCode": "75570",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Frisco, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12029134115",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "6101 Frisco Square Blvd"
+       ],
+       "city": "Frisco",
+       "region": "TX",
+       "postalCode": "75034",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://fallon.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://fallon.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000589": {
+   "seat": "Representative, TX-5",
+   "published": {
+    "name": {
+     "full": "Lance Gooden",
+     "given": "Lance",
+     "family": "Gooden",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253484",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2431 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4305",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Terrell, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19035025300",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "201 W Nash St., #103"
+       ],
+       "city": "Terrell",
+       "region": "TX",
+       "postalCode": "75160",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://gooden.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://gooden.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "E000071": {
+   "seat": "Representative, TX-6",
+   "published": {
+    "name": {
+     "full": "Jake Ellzey",
+     "given": "Jake",
+     "family": "Ellzey",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252002",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1721 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4306",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Corsicana, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19036027860",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "122 N. Beaton St"
+       ],
+       "city": "Corsicana",
+       "region": "TX",
+       "postalCode": "75110",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Waxahachie, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14695507150",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2001 Bates Drive, Suite 100"
+       ],
+       "city": "Waxahachie",
+       "region": "TX",
+       "postalCode": "75167",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://ellzey.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://ellzey.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "F000468": {
+   "seat": "Representative, TX-7",
+   "published": {
+    "name": {
+     "full": "Lizzie Fletcher",
+     "given": "Lizzie",
+     "family": "Fletcher",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "TX",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252571",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2004 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4307",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Houston, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17133538680",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3700 Buffalo Speedway, Suite 610"
+       ],
+       "city": "Houston",
+       "region": "TX",
+       "postalCode": "77098",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://fletcher.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://fletcher.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000603": {
+   "seat": "Representative, TX-8",
+   "published": {
+    "name": {
+     "full": "Morgan Luttrell",
+     "given": "Morgan",
+     "family": "Luttrell",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 8,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254901",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "444 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4308",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Magnolia, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12813057890",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "18230 FM 1488, Suite 308"
+       ],
+       "city": "Magnolia",
+       "region": "TX",
+       "postalCode": "77354",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://luttrell.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://luttrell.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000553": {
+   "seat": "Representative, TX-9",
+   "published": {
+    "name": {
+     "full": "Al Green",
+     "given": "Al",
+     "family": "Green",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "TX",
+    "district": 9,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022257508",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2347 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4309",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Houston, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17133839234",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3003 South Loop West, Suite 460"
+       ],
+       "city": "Houston",
+       "region": "TX",
+       "postalCode": "77054",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Missouri City, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17133839234",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2440 Texas Parkway, Suite 115"
+       ],
+       "city": "Missouri City",
+       "region": "TX",
+       "postalCode": "77489",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://algreen.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://algreen.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001157": {
+   "seat": "Representative, TX-10",
+   "published": {
+    "name": {
+     "full": "Michael T. McCaul",
+     "given": "Michael",
+     "family": "McCaul",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 10,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252401",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2300 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4310",
+       "country": "US"
+      }
+     },
+     {
+      "label": "College Station, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19794316480",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "175 Century Square Drive, Suite 210"
+       ],
+       "city": "College Station",
+       "region": "TX",
+       "postalCode": "77840",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Austin, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15127708929",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "11614 FM2244, Suite 160"
+       ],
+       "city": "Austin",
+       "region": "TX",
+       "postalCode": "78738",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mccaul.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mccaul.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "P000048": {
+   "seat": "Representative, TX-11",
+   "published": {
+    "name": {
+     "full": "August Pfluger",
+     "given": "August",
+     "family": "Pfluger",
+     "suffix": "II"
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 11,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253605",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2202 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4311",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Killeen, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12546696570",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Pratt Learning and Leadership",
+        "505 E Jasper Drive"
+       ],
+       "city": "Killeen",
+       "region": "TX",
+       "postalCode": "76541",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Brownwood, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13256461950",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "501 Center Ave."
+       ],
+       "city": "Brownwood",
+       "region": "TX",
+       "postalCode": "76801",
+       "country": "US"
+      }
+     },
+     {
+      "label": "San Angelo, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13256594010",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "135 West Twohig Avenue, B"
+       ],
+       "city": "San Angelo",
+       "region": "TX",
+       "postalCode": "76903",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Llano, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13252472826",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "County Annex",
+        "104 W. Sandstone St."
+       ],
+       "city": "Llano",
+       "region": "TX",
+       "postalCode": "78643",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Midland, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14326872390",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "6 Desta Drive, Suite 2000"
+       ],
+       "city": "Midland",
+       "region": "TX",
+       "postalCode": "79705",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Odessa, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14323319667",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Ector County Courthouse, Administration Building",
+        "1010 E 8th St."
+       ],
+       "city": "Odessa",
+       "region": "TX",
+       "postalCode": "79761",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://pfluger.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://pfluger.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000601": {
+   "seat": "Representative, TX-12",
+   "published": {
+    "name": {
+     "full": "Craig A. Goldman",
+     "given": "Craig",
+     "family": "Goldman",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 12,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255071",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1716 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4312",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fort Worth, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18178069474",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "306 West Seventh St, Suite 1145"
+       ],
+       "city": "Fort Worth",
+       "region": "TX",
+       "postalCode": "76102",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://craiggoldman.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://craiggoldman.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "J000304": {
+   "seat": "Representative, TX-13",
+   "published": {
+    "name": {
+     "full": "Ronny Jackson",
+     "given": "Ronny",
+     "family": "Jackson",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 13,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253706",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "125 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4313",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Denton, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19403342030",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "110 W. Hickory Street, Suite 303"
+       ],
+       "city": "Denton",
+       "region": "TX",
+       "postalCode": "76201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Wichita Falls, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19402858000",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2525 Kell Blvd., Suite 406"
+       ],
+       "city": "Wichita Falls",
+       "region": "TX",
+       "postalCode": "76308",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Amarillo, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18066415600",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "620 South Taylor St., Suite 200"
+       ],
+       "city": "Amarillo",
+       "region": "TX",
+       "postalCode": "79101",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://jackson.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://jackson.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "W000814": {
+   "seat": "Representative, TX-14",
+   "published": {
+    "name": {
+     "full": "Randy K. Weber, Sr.",
+     "given": "Randy",
+     "family": "Weber",
+     "suffix": "Sr."
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 14,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252831",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "107 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4314",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lake Jackson, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19792850231",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "122 West Way, Suite 301"
+       ],
+       "city": "Lake Jackson",
+       "region": "TX",
+       "postalCode": "77566",
+       "country": "US"
+      }
+     },
+     {
+      "label": "League City, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12813160231",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "League City Office",
+        "174 Calder Drive, Suite 600"
+       ],
+       "city": "League City",
+       "region": "TX",
+       "postalCode": "77573",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Beaumont, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14098350108",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Beaumont Office",
+        "350 Pine St., Suite 1450"
+       ],
+       "city": "Beaumont",
+       "region": "TX",
+       "postalCode": "77701",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://weber.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://weber.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "D000594": {
+   "seat": "Representative, TX-15",
+   "published": {
+    "name": {
+     "full": "Monica De La Cruz",
+     "given": "Mónica",
+     "family": "De La Cruz",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 15,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022259901",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1415 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4315",
+       "country": "US"
+      }
+     },
+     {
+      "label": "George West, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18304630800",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "George West Library",
+        "402 Houston St"
+       ],
+       "city": "George West",
+       "region": "TX",
+       "postalCode": "78022",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Three Rivers, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18304630800",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Three Rivers Library",
+        "102 Leroy St"
+       ],
+       "city": "Three Rivers",
+       "region": "TX",
+       "postalCode": "78071",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Floresville, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19568006069",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Sam Fore, Jr. Wilson County Public Library",
+        "1103 4th St"
+       ],
+       "city": "Floresville",
+       "region": "TX",
+       "postalCode": "78114",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Karnes City, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18304630800",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Karnes County Annex Building",
+        "210 W Calvert Ave, #120"
+       ],
+       "city": "Karnes City",
+       "region": "TX",
+       "postalCode": "78118",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Seguin, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18304630800",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "112 N Travis St"
+       ],
+       "city": "Seguin",
+       "region": "TX",
+       "postalCode": "78155",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Alice, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19568006069",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Alice Public Works Department",
+        "500 E Main St"
+       ],
+       "city": "Alice",
+       "region": "TX",
+       "postalCode": "78332",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Falfurrias, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19568006069",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Ed Rachal Public Library",
+        "203 S Calixto Mora Ave"
+       ],
+       "city": "Falfurrias",
+       "region": "TX",
+       "postalCode": "78355",
+       "country": "US"
+      }
+     },
+     {
+      "label": "McAllen, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19568006069",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Commerce Center West Building",
+        "1400 N McColl Rd, Ste 103"
+       ],
+       "city": "McAllen",
+       "region": "TX",
+       "postalCode": "78504",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://delacruz.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://delacruz.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "E000299": {
+   "seat": "Representative, TX-16",
+   "published": {
+    "name": {
+     "full": "Veronica Escobar",
+     "given": "Veronica",
+     "family": "Escobar",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "TX",
+    "district": 16,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254831",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2448 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4316",
+       "country": "US"
+      }
+     },
+     {
+      "label": "El Paso, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19155411400",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Wells Fargo Plaza",
+        "221 N Kansas St, Suite 1500"
+       ],
+       "city": "El Paso",
+       "region": "TX",
+       "postalCode": "79901-1443",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://escobar.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://escobar.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S000250": {
+   "seat": "Representative, TX-17",
+   "published": {
+    "name": {
+     "full": "Pete Sessions",
+     "given": "Pete",
+     "family": "Sessions",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 17,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256105",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2204 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4317",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lufkin, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19362196450",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "300 E Shepherd Ave, Suite 210"
+       ],
+       "city": "Lufkin",
+       "region": "TX",
+       "postalCode": "75902-3252",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Nacogdoches, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19365857959",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3034 Raguet St"
+       ],
+       "city": "Nacogdoches",
+       "region": "TX",
+       "postalCode": "75965-2852",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Waco, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12546334500",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "400 Austin Avenue, Suite 302"
+       ],
+       "city": "Waco",
+       "region": "TX",
+       "postalCode": "76701-2139",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Huntsville, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19367557770",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "901 Normal Park Dr, Suite 208"
+       ],
+       "city": "Huntsville",
+       "region": "TX",
+       "postalCode": "77320-3770",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Round Rock, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12023409033",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "310 W Main Street, Suite 106"
+       ],
+       "city": "Round Rock",
+       "region": "TX",
+       "postalCode": "78664",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://sessions.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://sessions.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001245": {
+   "seat": "Representative, TX-18",
+   "published": {
+    "name": {
+     "full": "Christian D. Menefee",
+     "given": "Christian",
+     "family": "Menefee",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "TX",
+    "district": 18,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253816",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1318 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4318",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Houston, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12818914899",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "15651 North Freeway"
+       ],
+       "city": "Houston",
+       "region": "TX",
+       "postalCode": "77090",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Houston, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17132277740",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2020 Solo Street"
+       ],
+       "city": "Houston",
+       "region": "TX",
+       "postalCode": "77020",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Houston, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17136550050",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1919 Smith Street, Suite 1180"
+       ],
+       "city": "Houston",
+       "region": "TX",
+       "postalCode": "77002",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://menefee.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://menefee.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "A000375": {
+   "seat": "Representative, TX-19",
+   "published": {
+    "name": {
+     "full": "Jodey C. Arrington",
+     "given": "Jodey",
+     "family": "Arrington",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 19,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254005",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1111 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4319",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Abilene, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13256759779",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "500 Chestnut St., Suite 819"
+       ],
+       "city": "Abilene",
+       "region": "TX",
+       "postalCode": "79602",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lubbock, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18067631611",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1312 Texas Ave., Suite 219"
+       ],
+       "city": "Lubbock",
+       "region": "TX",
+       "postalCode": "79401",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://arrington.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://arrington.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001091": {
+   "seat": "Representative, TX-20",
+   "published": {
+    "name": {
+     "full": "Joaquin Castro",
+     "given": "Joaquin",
+     "family": "Castro",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "TX",
+    "district": 20,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253236",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2241 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4320",
+       "country": "US"
+      }
+     },
+     {
+      "label": "San Antonio, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12103488216",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "727 E. Cesar E. Chavez Blvd, B-128"
+       ],
+       "city": "San Antonio",
+       "region": "TX",
+       "postalCode": "78206",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://castro.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://castro.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "R000614": {
+   "seat": "Representative, TX-21",
+   "published": {
+    "name": {
+     "full": "Chip Roy",
+     "given": "Chip",
+     "family": "Roy",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 21,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254236",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "103 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4321",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Kerrville, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18308960154",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "125 Lehmann Drive, Suite 201"
+       ],
+       "city": "Kerrville",
+       "region": "TX",
+       "postalCode": "78028",
+       "country": "US"
+      }
+     },
+     {
+      "label": "San Antonio, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12108215024",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "16414 San Pedro Ave, Suite 817"
+       ],
+       "city": "San Antonio",
+       "region": "TX",
+       "postalCode": "78232",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Austin, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15128715959",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Bldg 5",
+        "5900 Southwest Parkway, Suite 520"
+       ],
+       "city": "Austin",
+       "region": "TX",
+       "postalCode": "78735",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://roy.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://roy.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "N000026": {
+   "seat": "Representative, TX-22",
+   "published": {
+    "name": {
+     "full": "Troy E. Nehls",
+     "given": "Troy",
+     "family": "Nehls",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 22,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255951",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1104 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4322",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fulshear, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13467626600",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "6510 FM 359 S, Suite 200"
+       ],
+       "city": "Fulshear",
+       "region": "TX",
+       "postalCode": "77441",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://nehls.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://nehls.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "V000134": {
+   "seat": "Representative, TX-24",
+   "published": {
+    "name": {
+     "full": "Beth Van Duyne",
+     "given": "Beth",
+     "family": "Van Duyne",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 24,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256605",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1725 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4324",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Dallas, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19729665500",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "14951 Dallas Pkwy, Unit 830"
+       ],
+       "city": "Dallas",
+       "region": "TX",
+       "postalCode": "75254",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Keller, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19729665500",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "City of Keller Town Hall",
+        "1100 Bear Creek Parkway"
+       ],
+       "city": "Keller",
+       "region": "TX",
+       "postalCode": "76248",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://vanduyne.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://vanduyne.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "W000816": {
+   "seat": "Representative, TX-25",
+   "published": {
+    "name": {
+     "full": "Roger Williams",
+     "given": "Roger",
+     "family": "Williams",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 25,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022259896",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2336 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4325",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cleburne, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16822185965",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "115 S. Main St., Suite 206"
+       ],
+       "city": "Cleburne",
+       "region": "TX",
+       "postalCode": "76033",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Arlington, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16822185965",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1000 Ballpark Way, Suite 310"
+       ],
+       "city": "Arlington",
+       "region": "TX",
+       "postalCode": "76011",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://williams.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://williams.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000603": {
+   "seat": "Representative, TX-26",
+   "published": {
+    "name": {
+     "full": "Brandon Gill",
+     "given": "Brandon",
+     "family": "Gill",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 26,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022257772",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1305 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4326",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Flower Mound, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19729665454",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "600 Parker Square, Suite 205"
+       ],
+       "city": "Flower Mound",
+       "region": "TX",
+       "postalCode": "75028",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://gill.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://gill.house.gov"
+   },
+   "currentSupplement": null
+  }
+ }
+}

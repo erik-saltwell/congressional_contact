@@ -1,0 +1,1144 @@
+{
+ "batch": "2026-11-05-full-09",
+ "reviewedAt": "2026-11-05",
+ "officials": {
+  "E000298": {
+   "name": "Ron Estes",
+   "seat": "Representative, KS-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://estes.house.gov/",
+    "https://estes.house.gov/contact/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://estes.house.gov/contact/",
+     "source": "https://estes.house.gov/contact/",
+     "evidence": "'To send a message, please enter your zip code below to continue: Send Me An Email'. The form sits behind this ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "M000355": {
+   "name": "Mitch McConnell",
+   "seat": "Senator, KY",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.mcconnell.senate.gov/public/index.cfm?p=contact",
+    "https://www.mcconnell.senate.gov/public/index.cfm/officelocations",
+    "https://www.mcconnell.senate.gov/public/index.cfm/contactform"
+   ],
+   "notes": "Homepage blocked (403); /contact/ redirects to a Senate not-found page. Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.mcconnell.senate.gov/public/index.cfm/contactform",
+     "source": "https://www.mcconnell.senate.gov/public/index.cfm/contactform",
+     "evidence": "'Contact Form': 'I welcome your thoughts and concerns and would like to encourage you to share them with me', with a topic list (Agriculture, Armed Services, Banking, Education, ...)."
+    }
+   ]
+  },
+  "P000603": {
+   "name": "Rand Paul",
+   "seat": "Senator, KY",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.paul.senate.gov/connect/"
+   ],
+   "notes": "Homepage blocked (403). Offices match. The page prints paul_schedule@ (scheduling) and press_paul@ (media); neither is a constituent mailbox, so not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.paul.senate.gov/connect/",
+     "source": "https://www.paul.senate.gov/connect/",
+     "evidence": "'Please use the following form to contact me with your comments and concerns regarding legislation', with a Subject list; agency help is separate."
+    }
+   ]
+  },
+  "C001108": {
+   "name": "James Comer",
+   "seat": "Representative, KY-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://comer.house.gov/",
+    "https://comer.house.gov/contact/email/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://comer.house.gov/contact/email/",
+     "source": "https://comer.house.gov/contact/email/",
+     "evidence": "'Email' form with a topic list (Agriculture, Budget, Defense and Military, Education, ... Veterans)."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://comer.house.gov/",
+     "evidence": "'Madisonville Office 67 North Main Street Madisonville, KY 42431 Phone: 270-561-0240' (we publish 270-487-9509, the Tompkinsville number) and 'Tompkinsville Office ... Phone: 270-487-9509 Toll Free Number: 1-800-328-5629' (we publish no toll-free line).",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253115",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2410 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1701",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Paducah, KY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12704081865",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "300 S. 3rd St."
+        ],
+        "city": "Paducah",
+        "region": "KY",
+        "postalCode": "42003",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Tompkinsville, KY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12704879509",
+         "type": "voice"
+        },
+        {
+         "number": "+18003285629",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "200 N. Main St., Suite F"
+        ],
+        "city": "Tompkinsville",
+        "region": "KY",
+        "postalCode": "42167",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Madisonville, KY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12705610240",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "67 North Main St."
+        ],
+        "city": "Madisonville",
+        "region": "KY",
+        "postalCode": "42431",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Danville, KY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18594395844",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "141 N. 3rd Street, Suite 5"
+        ],
+        "city": "Danville",
+        "region": "KY",
+        "postalCode": "40422",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "G000558": {
+   "name": "Brett Guthrie",
+   "seat": "Representative, KY-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://guthrie.house.gov/",
+    "https://guthrie.house.gov/contact/",
+    "https://guthrie.house.gov/contact/offices.htm"
+   ],
+   "notes": "Offices match; the Radcliff and Owensboro regional offices list no phone, as we publish.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://guthrie.house.gov/contact/",
+     "source": "https://guthrie.house.gov/contact/",
+     "evidence": "Linked as 'Email Brett'; the contact page asks for a ZIP ('Zip:') before the message form, so its topic list could not be read."
+    },
+    {
+     "action": "add-email",
+     "address": "guthrieassistance@mail.house.gov",
+     "purpose": "casework",
+     "source": "https://guthrie.house.gov/contact/offices.htm",
+     "evidence": "'if you have open casework with my office and would like a status of your case or have additional questions, please contact my District Office at 1-270-842-9896 or email guthrieassistance@mail.house.gov'."
+    }
+   ]
+  },
+  "M001220": {
+   "name": "Morgan McGarvey",
+   "seat": "Representative, KY-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mcgarvey.house.gov/",
+    "https://mcgarvey.house.gov/contact/email-me"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mcgarvey.house.gov/contact/email-me",
+     "source": "https://mcgarvey.house.gov/contact/email-me",
+     "evidence": "'Email Me' form behind a ZIP check ('ZIP CODE AUTHENTICATION'), with a 'Topic of Message' list (Agriculture, Animals, Arts and Humanities, Banking and Finance, ...); agency help and tours are separate."
+    }
+   ]
+  },
+  "M001184": {
+   "name": "Thomas Massie",
+   "seat": "Representative, KY-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://massie.house.gov/",
+    "https://massie.house.gov/contact/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://massie.house.gov/contact/",
+     "source": "https://massie.house.gov/contact/",
+     "evidence": "'Please include your zip code below to find the best means by which you may contact me' (write-your-rep form). The form sits behind this ZIP check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://massie.house.gov/",
+     "evidence": "The office list shows only 'Washington, D.C. Office 2371 Rayburn HOB' and 'Northern Kentucky Office 541 Buttermilk Pike Suite 208 Crescent Springs, KY 41017 Phone: (859) 426-0080'. Our LaGrange office (110 W. Jefferson St.) is not listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253465",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2371 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1704",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Crescent Springs, KY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18594260080",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "541 Buttermilk Pike, Suite 208"
+        ],
+        "city": "Crescent Springs",
+        "region": "KY",
+        "postalCode": "41017",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "R000395": {
+   "name": "Harold Rogers",
+   "seat": "Representative, KY-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://halrogers.house.gov/",
+    "https://halrogers.house.gov/email"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://halrogers.house.gov/email",
+     "source": "https://halrogers.house.gov/email",
+     "evidence": "'Email Contact Form ... Issue *' with an issue list (Economy/Jobs, Education, Health, Illegal Drugs, Social Security, Taxes, ...)."
+    }
+   ]
+  },
+  "B001282": {
+   "name": "Andy Barr",
+   "seat": "Representative, KY-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://barr.house.gov/",
+    "https://barr.house.gov/email-me"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://barr.house.gov/email-me",
+     "source": "https://barr.house.gov/email-me",
+     "evidence": "'Email Me' form with a ZIP code field and 'Message Topic' list (Agriculture, Animals, Banking and Finance, Budget and Economy, ...)."
+    }
+   ]
+  },
+  "C001075": {
+   "name": "Bill Cassidy",
+   "seat": "Senator, LA",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.cassidy.senate.gov/contact/",
+    "https://www.cassidy.senate.gov/contact/get-in-touch/"
+   ],
+   "notes": "Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.cassidy.senate.gov/contact/get-in-touch/",
+     "source": "https://www.cassidy.senate.gov/contact/get-in-touch/",
+     "evidence": "'Get In Touch' form with a topic list (Animal Welfare, Banking, Civil Rights, Economy, Education, ...)."
+    }
+   ]
+  },
+  "K000393": {
+   "name": "John Kennedy",
+   "seat": "Senator, LA",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.kennedy.senate.gov/contact/",
+    "https://www.kennedy.senate.gov/contact/email-me/"
+   ],
+   "notes": "The published website (/public) returns 403; the site now lives at the root, so a website change is proposed. The contact page lists every office. Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "website",
+     "url": "https://www.kennedy.senate.gov/",
+     "source": "https://www.kennedy.senate.gov/contact/",
+     "evidence": "The site's own pages link home to 'https://www.kennedy.senate.gov/', and /contact/ and /contact/email-me/ load there; the published https://www.kennedy.senate.gov/public returns 403."
+    },
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.kennedy.senate.gov/contact/email-me/",
+     "source": "https://www.kennedy.senate.gov/contact/email-me/",
+     "evidence": "'E-mail Sen. Kennedy: Submit a legislative opinion'."
+    }
+   ]
+  },
+  "S001176": {
+   "name": "Steve Scalise",
+   "seat": "Representative, LA-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://scalise.house.gov/",
+    "https://scaliseforms.house.gov/contact/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://scaliseforms.house.gov/contact/",
+     "source": "https://scalise.house.gov/contact",
+     "evidence": "Linked as 'Email Me': 'Below please enter your zip code to verify district residence'. The form sits behind this ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "C001125": {
+   "name": "Troy A. Carter",
+   "seat": "Representative, LA-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://troycarter.house.gov/",
+    "https://troycarter.house.gov/contact"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://troycarter.house.gov/contact",
+     "source": "https://troycarter.house.gov/contact",
+     "evidence": "'You can enter your ZIP code below to send as an email'; agency help and tours are separate. The form is behind this ZIP step, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://troycarter.house.gov/",
+     "evidence": "The office list adds 'River Parishes Community College 125 Regala Park Road Suite K135 Reserve, LA 70084' and 'Southern University New Orleans 6803 Press Drive Suite 166 New Orleans, LA 70126' (no phones), and no longer lists our Baton Rouge office (T.H. Harris Hall, 801 Harding Blvd).",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022256636",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "442 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1802",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Gretna, LA office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "Gretna Courthouse",
+         "200 Derbigny St, Suite 3200"
+        ],
+        "city": "Gretna",
+        "region": "LA",
+        "postalCode": "70053",
+        "country": "US"
+       }
+      },
+      {
+       "label": "New Orleans, LA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15043813970",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "3401 General DeGaulle Dr, Suite 100"
+        ],
+        "city": "New Orleans",
+        "region": "LA",
+        "postalCode": "70114",
+        "country": "US"
+       }
+      },
+      {
+       "label": "New Orleans, LA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15042883777",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "650 Poydras St, Suite 2525"
+        ],
+        "city": "New Orleans",
+        "region": "LA",
+        "postalCode": "70130",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Gonzales, LA office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "Ascension Parish Government Bldg",
+         "615 E. Worthy St, Rm 107"
+        ],
+        "city": "Gonzales",
+        "region": "LA",
+        "postalCode": "70737",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Gonzales, LA office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "River Parishes Community College Gonzales Technical Training Center",
+         "925 W. Edenborne Pkwy, Room T117"
+        ],
+        "city": "Gonzales",
+        "region": "LA",
+        "postalCode": "70737",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Reserve, LA office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "River Parishes Community College, 125 Regala Park Road, Suite K135"
+        ],
+        "city": "Reserve",
+        "region": "LA",
+        "postalCode": "70084",
+        "country": "US"
+       }
+      },
+      {
+       "label": "New Orleans, LA office (Southern University)",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "Southern University New Orleans, 6803 Press Drive, Suite 166"
+        ],
+        "city": "New Orleans",
+        "region": "LA",
+        "postalCode": "70126",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "H001077": {
+   "name": "Clay Higgins",
+   "seat": "Representative, LA-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://clayhiggins.house.gov/",
+    "https://clayhigginsforms.house.gov/contact/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://clayhigginsforms.house.gov/contact/",
+     "source": "https://clayhiggins.house.gov/contact/",
+     "evidence": "/contact/ redirects to this form: 'You can enter your ZIP code below to send as an email'. The form sits behind this ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "J000299": {
+   "name": "Mike Johnson",
+   "seat": "Representative, LA-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mikejohnson.house.gov/",
+    "https://mikejohnson.house.gov/contact/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mikejohnson.house.gov/contact/",
+     "source": "https://mikejohnson.house.gov/contact/",
+     "evidence": "'Please enter your zip code below to verify residency within my district and continue' (Send Me an Email). The form sits behind this ZIP check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://mikejohnson.house.gov/",
+     "evidence": "'Northwestern State University - Ft. Polk Mailing: P.O. Box 779 Leesville, LA 71496 Phone: 337-423-4232', 'DeRidder Mailing: P.O. Box 160 DeRidder, LA 70634 Phone: 337-226-6385' (we publish street addresses the site no longer shows) and 'Ruston 401 N. Trenton St. Ruston, LA 71270 Phone: 318-497-6610' (not published).",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252777",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "521 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1804",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Bossier City, LA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13188400309",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2250 Hospital Dr., Suite 248"
+        ],
+        "city": "Bossier City",
+        "region": "LA",
+        "postalCode": "71111",
+        "country": "US"
+       }
+      },
+      {
+       "label": "DeRidder, LA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13372266385",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "P.O. Box 160"
+        ],
+        "city": "DeRidder",
+        "region": "LA",
+        "postalCode": "70634",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Leesville, LA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13374234232",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Northwestern State University - Ft. Polk, P.O. Box 779"
+        ],
+        "city": "Leesville",
+        "region": "LA",
+        "postalCode": "71496",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Ruston, LA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13184976610",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "401 N. Trenton St."
+        ],
+        "city": "Ruston",
+        "region": "LA",
+        "postalCode": "71270",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "L000595": {
+   "name": "Julia Letlow",
+   "seat": "Representative, LA-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://letlow.house.gov/",
+    "https://letlow.house.gov/contact"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://letlow.house.gov/contact",
+     "source": "https://letlow.house.gov/contact",
+     "evidence": "'You can enter your ZIP code below to send as an email'; agency help and tours are separate. The form is behind this ZIP step, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://letlow.house.gov/",
+     "evidence": "'Louisiana Capital Region Office 7932 Wrenwood Blvd Suite C Baton Rouge, LA 70809 Phone: (225) 952-1390' (not published) and 'South Louisiana Office 1514 Martens Drive Suite 3 Hammond, LA 70401 Phone: (985) 284-5200' (we publish this number at 109 E. Oak Street, Amite, which the site no longer lists).",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022258490",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "142 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1805",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Monroe, LA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13185706440",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1900 North 18th Street, Suite 501"
+        ],
+        "city": "Monroe",
+        "region": "LA",
+        "postalCode": "71201",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Baton Rouge, LA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12259521390",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "7932 Wrenwood Blvd, Suite C"
+        ],
+        "city": "Baton Rouge",
+        "region": "LA",
+        "postalCode": "70809",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Hammond, LA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19852845200",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1514 Martens Drive, Suite 3"
+        ],
+        "city": "Hammond",
+        "region": "LA",
+        "postalCode": "70401",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "F000110": {
+   "name": "Cleo Fields",
+   "seat": "Representative, LA-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://fields.house.gov/",
+    "https://fields.house.gov/address_authentication?form=/contact/email-me"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://fields.house.gov/contact/email-me",
+     "source": "https://fields.house.gov/contact/email-me",
+     "evidence": "Linked as 'Email Me'. The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://fields.house.gov/",
+     "evidence": "'Lafayette 1800 North East Evangeline Thruway Suite F-5 Lafayette, LA 70501 Phone: (337) 443-6979' (not published), 'Shreveport 610 Texas Street 4th Floor, Suites 12-13 ... Phone: (318) 761-7990' (we publish no phone) and 'Opelousas 1310 South Union Street Suite #5 ... Phone: (337) 594-6610' (we publish Suite 4 and no phone).",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253901",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2349 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1806",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Baton Rouge, LA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12259521965",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "700 North 10th St, Fourth Floor"
+        ],
+        "city": "Baton Rouge",
+        "region": "LA",
+        "postalCode": "70802",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Shreveport, LA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13187617990",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "610 Texas St, 4th Floor, Suites 12-13"
+        ],
+        "city": "Shreveport",
+        "region": "LA",
+        "postalCode": "71101",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Opelousas, LA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13375946610",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1310 S Union St., Suite 5"
+        ],
+        "city": "Opelousas",
+        "region": "LA",
+        "postalCode": "70570",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Lafayette, LA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13374436979",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1800 North East Evangeline Thruway, Suite F-5"
+        ],
+        "city": "Lafayette",
+        "region": "LA",
+        "postalCode": "70501",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "M000133": {
+   "name": "Edward J. Markey",
+   "seat": "Senator, MA",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.markey.senate.gov/contact/",
+    "https://www.markey.senate.gov/contact/share-your-opinion"
+   ],
+   "notes": "Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.markey.senate.gov/contact/share-your-opinion",
+     "source": "https://www.markey.senate.gov/contact/share-your-opinion",
+     "evidence": "Dedicated 'Share Your Opinion' form ('Your perspectives ...'); assistance is separate."
+    }
+   ]
+  },
+  "W000817": {
+   "name": "Elizabeth Warren",
+   "seat": "Senator, MA",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.warren.senate.gov/contact/",
+    "https://www.warren.senate.gov/contact/share-your-opinion/",
+    "https://www.warren.senate.gov/office-of-personnel-management/"
+   ],
+   "notes": "Homepage blocked (403). Offices match; (202) 228-4850 on the site is the casework fax.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.warren.senate.gov/contact/share-your-opinion/",
+     "source": "https://www.warren.senate.gov/contact/share-your-opinion/",
+     "evidence": "'Share Your Opinion' form with a Topic list (Abortion, Administrative Law and Regulatory Reform, Agriculture, ...)."
+    },
+    {
+     "action": "add-email",
+     "address": "casework@warren.senate.gov",
+     "purpose": "casework",
+     "source": "https://www.warren.senate.gov/office-of-personnel-management/",
+     "evidence": "The casework page prints 'U.S. Senator Elizabeth Warren 2400 JFK Federal Building ... casework@warren.senate.gov' as where to send the signed privacy release form."
+    }
+   ]
+  },
+  "N000015": {
+   "name": "Richard E. Neal",
+   "seat": "Representative, MA-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://neal.house.gov/",
+    "https://neal.house.gov/email-me/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://neal.house.gov/email-me/",
+     "source": "https://neal.house.gov/email-me/",
+     "evidence": "'Send Me an Email' form with an 'Issue of Concern' list (Agriculture, Animals, Arts and Humanities, Banking and Finance, ...)."
+    }
+   ]
+  },
+  "M000312": {
+   "name": "James P. McGovern",
+   "seat": "Representative, MA-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mcgovern.house.gov/",
+    "https://mcgovern.house.gov/contact/zip-auth.htm"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mcgovern.house.gov/contact/zip-auth.htm",
+     "source": "https://mcgovern.house.gov/contact/zip-auth.htm",
+     "evidence": "'If you are a Second District resident, please enter your zip code below to write me a message. This form is to share your thoughts with me'; agency help is separate. Behind this ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "T000482": {
+   "name": "Lori Trahan",
+   "seat": "Representative, MA-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://trahan.house.gov/",
+    "https://trahan.house.gov/contact/write-your-rep.htm"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://trahan.house.gov/contact/write-your-rep.htm",
+     "source": "https://trahan.house.gov/contact/",
+     "evidence": "Linked as 'Share Your Opinion With Me'; the Write Your Rep form asks for a ZIP first ('Zip: +4'), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://trahan.house.gov/",
+     "evidence": "Office list includes 'Lawrence Office 15 Union Street 4th Floor Lawrence, MA 01840 Phone: (978) 258-1138 Hours: Tuesdays & Thursdays', which we do not publish.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253411",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2233 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-2103",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Lowell, MA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19784590101",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "126 John St, Suite 12"
+        ],
+        "city": "Lowell",
+        "region": "MA",
+        "postalCode": "01852-1152",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Lawrence, MA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19782581138",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "15 Union Street, 4th Floor"
+        ],
+        "city": "Lawrence",
+        "region": "MA",
+        "postalCode": "01840",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "A000148": {
+   "name": "Jake Auchincloss",
+   "seat": "Representative, MA-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://auchincloss.house.gov/",
+    "https://auchincloss.house.gov/contact/email-me"
+   ],
+   "notes": "Offices match; Fall River has office hours only and no phone, as we publish.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://auchincloss.house.gov/contact/email-me",
+     "source": "https://auchincloss.house.gov/contact/email-me",
+     "evidence": "'Email Me' form behind a ZIP check ('ZIP CODE AUTHENTICATION ... Please enter your zip code to verify residency'), with an issue category list (Agriculture, Animal Welfare, Appropriations, ...)."
+    }
+   ]
+  },
+  "C001101": {
+   "name": "Katherine M. Clark",
+   "seat": "Representative, MA-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://katherineclark.house.gov/",
+    "https://katherineclark.house.gov/contact/email-me/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://katherineclark.house.gov/contact/email-me/",
+     "source": "https://katherineclark.house.gov/contact/email-me/",
+     "evidence": "'Email Me' message form; its response choices include 'No, I wanted to voice my opinion'."
+    }
+   ]
+  },
+  "M001196": {
+   "name": "Seth Moulton",
+   "seat": "Representative, MA-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://moulton.house.gov/",
+    "https://moulton.house.gov/contact",
+    "https://moulton.house.gov/contact/write-to-me"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://moulton.house.gov/contact/write-to-me/write-to-me-form",
+     "source": "https://moulton.house.gov/contact/write-to-me",
+     "evidence": "'Write to Me: Complete and submit this form to email Congressman Moulton and his team' links to this form, behind an address check ('Please enter your address to verify residency within the district'), so its topic list could not be read. Agency help goes through Services."
+    }
+   ]
+  }
+ }
+}

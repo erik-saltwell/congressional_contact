@@ -1,0 +1,1739 @@
+{
+ "P000617": {
+  "id": "P000617",
+  "name": "Ayanna Pressley",
+  "seat": "Representative, MA-7",
+  "pages": [
+   {
+    "url": "https://pressley.house.gov",
+    "final": "https://pressley.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "L000562": {
+  "id": "L000562",
+  "name": "Stephen F. Lynch",
+  "seat": "Representative, MA-8",
+  "pages": [
+   {
+    "url": "https://lynch.house.gov",
+    "final": "https://lynch.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lynch.house.gov/contact/",
+    "final": "https://lynch.house.gov/email-me",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lynch.house.gov/email-me/",
+    "final": "https://lynch.house.gov/email-me/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "K000375": {
+  "id": "K000375",
+  "name": "William R. Keating",
+  "seat": "Representative, MA-9",
+  "pages": [
+   {
+    "url": "https://keating.house.gov",
+    "final": "https://keating.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "http://keating.house.gov/contact/",
+    "final": "https://keating.house.gov/contact-old",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://keating.house.gov/contact/",
+    "final": "https://keating.house.gov/contact-old",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://keating.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://keating.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://keating.house.gov/contact/offices/plymouth-district-office/",
+    "final": "https://keating.house.gov/contact/offices/plymouth-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://keating.house.gov/contact/offices/hyannis-district-office/",
+    "final": "https://keating.house.gov/contact/offices/hyannis-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://keating.house.gov/contact/offices/new-bedford-district-office/",
+    "final": "https://keating.house.gov/contact/offices/new-bedford-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "http://keating.house.gov/contact/",
+   "https://keating.house.gov/contact/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Plymouth, MA office: 50 Resnik Road, Suite 103"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "A000382": {
+  "id": "A000382",
+  "name": "Angela D. Alsobrooks",
+  "seat": "Senator, MD",
+  "pages": [
+   {
+    "url": "https://www.alsobrooks.senate.gov",
+    "final": "https://www.alsobrooks.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.alsobrooks.senate.gov/contact/",
+    "final": "https://www.alsobrooks.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.alsobrooks.senate.gov/contact/offices/",
+    "final": "https://www.alsobrooks.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.alsobrooks.senate.gov/offices/",
+    "final": "https://www.alsobrooks.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.alsobrooks.senate.gov/office-locations/",
+    "final": "https://www.alsobrooks.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://alsobrooks.senate.gov/",
+    "final": "https://alsobrooks.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.alsobrooks.senate.gov/contact/get-in-touch/",
+    "final": "https://www.alsobrooks.senate.gov/contact/get-in-touch/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.alsobrooks.senate.gov",
+   "https://www.alsobrooks.senate.gov/contact/offices/",
+   "https://www.alsobrooks.senate.gov/offices/",
+   "https://www.alsobrooks.senate.gov/office-locations/",
+   "https://alsobrooks.senate.gov/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+12405753949",
+   "+12405997390",
+   "+14105464250",
+   "+14109624436"
+  ],
+  "publishedAddressesNotFound": [
+   "Bowie, MD office: 10201 Martin Luther King Jr Hwy, Suite 210"
+  ],
+  "forms": [
+   {
+    "url": "https://www.alsobrooks.senate.gov/contact/get-in-touch/",
+    "positive": [
+     "issue",
+     "legislation",
+     "topic",
+     "views"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "flag request",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "V000128": {
+  "id": "V000128",
+  "name": "Chris Van Hollen",
+  "seat": "Senator, MD",
+  "pages": [
+   {
+    "url": "https://www.vanhollen.senate.gov",
+    "final": "https://www.vanhollen.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.vanhollen.senate.gov/contact/",
+    "final": "https://www.vanhollen.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.vanhollen.senate.gov/contact/offices/",
+    "final": "https://www.vanhollen.senate.gov/contact/offices/",
+    "status": 0,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.vanhollen.senate.gov/offices/",
+    "final": "https://www.vanhollen.senate.gov/404?notfound=/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.vanhollen.senate.gov/office-locations/",
+    "final": "https://www.vanhollen.senate.gov/404?notfound=/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.vanhollen.senate.gov/contact/email",
+    "final": "https://www.vanhollen.senate.gov/contact/email",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.vanhollen.senate.gov/share-how-president-trumps-executive-orders-are-impacting-you-or-your-family/",
+    "final": "https://www.vanhollen.senate.gov/share-how-president-trumps-executive-orders-are-impacting-you-or-your-family/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.vanhollen.senate.gov",
+   "https://www.vanhollen.senate.gov/contact/offices/",
+   "https://www.vanhollen.senate.gov/offices/",
+   "https://www.vanhollen.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "H001052": {
+  "id": "H001052",
+  "name": "Andy Harris",
+  "seat": "Representative, MD-1",
+  "pages": [
+   {
+    "url": "https://harris.house.gov",
+    "final": "https://harris.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://harris.house.gov/contact/",
+    "final": "https://harris.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://harris.house.gov/contact/offices/",
+    "final": "https://harris.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://harris.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://harris.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://harris.house.gov/contact/offices/cambridge-district-office/",
+    "final": "https://harris.house.gov/contact/offices/cambridge-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://harris.house.gov/contact/offices/bel-air-district-office/",
+    "final": "https://harris.house.gov/contact/offices/bel-air-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://harris.house.gov/contact/offices/salisbury-district-office/",
+    "final": "https://harris.house.gov/contact/offices/salisbury-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://harris.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "comment",
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://harris.house.gov/contact/offices",
+    "positive": [
+     "comment",
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "O000176": {
+  "id": "O000176",
+  "name": "Johnny Olszewski, Jr.",
+  "seat": "Representative, MD-2",
+  "pages": [
+   {
+    "url": "https://olszewski.house.gov",
+    "final": "https://olszewski.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://olszewski.house.gov/contact/",
+    "final": "https://olszewski.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://olszewski.house.gov/contact/email-me/",
+    "final": "https://olszewski.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://olszewski.house.gov/contact/office-locations/",
+    "final": "https://olszewski.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://olszewski.house.gov/shareyourstory/",
+    "final": "https://olszewski.house.gov/shareyourstory",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://olszewski.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://olszewski.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://olszewski.house.gov/contact/offices/district-office/",
+    "final": "https://olszewski.house.gov/contact/offices/district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Towson, MD office: 110 West Rd, Suite 420"
+  ],
+  "forms": [
+   {
+    "url": "https://olszewski.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "E000301": {
+  "id": "E000301",
+  "name": "Sarah Elfreth",
+  "seat": "Representative, MD-3",
+  "pages": [
+   {
+    "url": "https://elfreth.house.gov",
+    "final": "https://elfreth.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://elfreth.house.gov/contact/",
+    "final": "https://elfreth.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://elfreth.house.gov/contact/email-me/",
+    "final": "https://elfreth.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://elfreth.house.gov/contact/office-locations/",
+    "final": "https://elfreth.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://elfreth.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://elfreth.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://elfreth.house.gov/contact/offices/district-office-3/",
+    "final": "https://elfreth.house.gov/contact/offices/district-office-3",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+12116608493"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://elfreth.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "I000058": {
+  "id": "I000058",
+  "name": "Glenn Ivey",
+  "seat": "Representative, MD-4",
+  "pages": [
+   {
+    "url": "https://ivey.house.gov",
+    "final": "https://ivey.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ivey.house.gov/contact/",
+    "final": "https://ivey.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://ivey.house.gov/contact/offices/",
+    "final": "https://ivey.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ivey.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://ivey.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ivey.house.gov/contact/offices/landover-district-office/",
+    "final": "https://ivey.house.gov/contact/offices/landover-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ivey.house.gov/contact/office-locations/",
+    "final": "https://ivey.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://ivey.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": [
+   "Aaron.Harawa@mail.house.gov",
+   "Ramon.Korionoff@mail.house.gov"
+  ]
+ },
+ "H000874": {
+  "id": "H000874",
+  "name": "Steny H. Hoyer",
+  "seat": "Representative, MD-5",
+  "pages": [
+   {
+    "url": "https://hoyer.house.gov",
+    "final": "https://hoyer.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hoyer.house.gov/help/federal/",
+    "final": "https://hoyer.house.gov/help/federal",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hoyer.house.gov/help/contact-stenys-office/",
+    "final": "https://hoyer.house.gov/help/contact-stenys-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hoyer.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://hoyer.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hoyer.house.gov/contact/offices/greenbelt-district-office/",
+    "final": "https://hoyer.house.gov/contact/offices/greenbelt-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hoyer.house.gov/contact/offices/white-plains-district-office/",
+    "final": "https://hoyer.house.gov/contact/offices/white-plains-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hoyer.house.gov/help/contact/",
+    "final": "https://hoyer.house.gov/address_authentication?form=/help/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://hoyer.house.gov/address_authentication?form=/help/contact",
+    "positive": [
+     "issue"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "M001232": {
+  "id": "M001232",
+  "name": "April McClain Delaney",
+  "seat": "Representative, MD-6",
+  "pages": [
+   {
+    "url": "https://mcclaindelaney.house.gov",
+    "final": "https://mcclaindelaney.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mcclaindelaney.house.gov/contact/",
+    "final": "https://mcclaindelaney.house.gov/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://mcclaindelaney.house.gov/contact/email-me/",
+    "final": "https://mcclaindelaney.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://mcclaindelaney.house.gov/contact/office-locations/",
+    "final": "https://mcclaindelaney.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://mcclaindelaney.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://mcclaindelaney.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://mcclaindelaney.house.gov/contact/offices/frederick-district-office/",
+    "final": "https://mcclaindelaney.house.gov/contact/offices/frederick-district-office",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://mcclaindelaney.house.gov/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://mcclaindelaney.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://mcclaindelaney.house.gov/contact/office-locations",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://mcclaindelaney.house.gov/contact/offices/washington-dc-office",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://mcclaindelaney.house.gov/contact/offices/frederick-district-office",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "M000687": {
+  "id": "M000687",
+  "name": "Kweisi Mfume",
+  "seat": "Representative, MD-7",
+  "pages": [
+   {
+    "url": "https://mfume.house.gov",
+    "final": "https://mfume.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mfume.house.gov/contact/offices/",
+    "final": "https://mfume.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mfume.house.gov/contact/email-me/",
+    "final": "https://mfume.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://mfume.house.gov/contact/",
+    "final": "https://mfume.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mfume.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://mfume.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mfume.house.gov/contact/offices/baltimore-district-office/",
+    "final": "https://mfume.house.gov/contact/offices/baltimore-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mfume.house.gov/contact/offices/baltimore-county-office/",
+    "final": "https://mfume.house.gov/contact/offices/baltimore-county-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://mfume.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "R000606": {
+  "id": "R000606",
+  "name": "Jamie Raskin",
+  "seat": "Representative, MD-8",
+  "pages": [
+   {
+    "url": "https://raskin.house.gov",
+    "final": "https://raskin.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://raskin.house.gov/email-jamie/",
+    "final": "https://raskin.house.gov/email-jamie/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://raskin.house.gov/email-jamie/",
+    "positive": [
+     "concern",
+     "issue",
+     "legislation",
+     "opinion",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "meeting request",
+     "newsletter",
+     "privacy act"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "C001035": {
+  "id": "C001035",
+  "name": "Susan M. Collins",
+  "seat": "Senator, ME",
+  "pages": [
+   {
+    "url": "https://www.collins.senate.gov",
+    "final": "https://www.collins.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.collins.senate.gov/contact/",
+    "final": "https://www.collins.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.collins.senate.gov/contact/offices/",
+    "final": "https://www.collins.senate.gov/404?notfound=/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.collins.senate.gov/offices/",
+    "final": "https://www.collins.senate.gov/404?notfound=/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.collins.senate.gov/office-locations/",
+    "final": "https://www.collins.senate.gov/404?notfound=/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.collins.senate.gov/contact/email-senator-collins/",
+    "final": "https://www.collins.senate.gov/contact/email-senator-collins/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.collins.senate.gov",
+   "https://www.collins.senate.gov/contact/offices/",
+   "https://www.collins.senate.gov/offices/",
+   "https://www.collins.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Lewiston, ME office: 55 Lisbon St."
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "K000383": {
+  "id": "K000383",
+  "name": "Angus S. King, Jr.",
+  "seat": "Senator, ME",
+  "pages": [
+   {
+    "url": "https://www.king.senate.gov",
+    "final": "https://www.king.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.king.senate.gov/contact/",
+    "final": "https://www.king.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.king.senate.gov/contact/offices/",
+    "final": "https://www.king.senate.gov/404?notfound=404",
+    "status": 302,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.king.senate.gov/offices/",
+    "final": "https://www.king.senate.gov/404?notfound=404",
+    "status": 302,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.king.senate.gov/office-locations/",
+    "final": "https://www.king.senate.gov/404?notfound=404",
+    "status": 302,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.king.senate.gov/contact-home/",
+    "final": "https://www.king.senate.gov/contact-home/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.king.senate.gov/contact/office-locations/",
+    "final": "https://www.king.senate.gov/contact/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.king.senate.gov",
+   "https://www.king.senate.gov/contact/offices/",
+   "https://www.king.senate.gov/offices/",
+   "https://www.king.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "P000597": {
+  "id": "P000597",
+  "name": "Chellie Pingree",
+  "seat": "Representative, ME-1",
+  "pages": [
+   {
+    "url": "https://pingree.house.gov",
+    "final": "https://pingree.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://pingree.house.gov/contact/",
+    "final": "https://pingree.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://pingree.house.gov/forms/form/",
+    "final": "https://pingree.house.gov/forms/form/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://pingree.house.gov/contact/default.aspx/",
+    "final": "https://pingree.house.gov/contact/default.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://pingree.house.gov/contact/contactform.htm",
+    "final": "https://pingree.house.gov/contact/contactform.htm",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://pingree.house.gov/forms/emailsignup/",
+    "final": "https://pingree.house.gov/contact/subscribe.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://pingree.house.gov/contact/stay-connected.htm",
+    "final": "https://pingree.house.gov/contact/stay-connected.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://pingree.house.gov/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://pingree.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://pingree.house.gov/contact/default.aspx",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://pingree.house.gov/contact/contactform.htm",
+    "positive": [
+     "issue",
+     "legislation",
+     "opinion",
+     "voice"
+    ],
+    "negative": [
+     "casework",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "G000592": {
+  "id": "G000592",
+  "name": "Jared F. Golden",
+  "seat": "Representative, ME-2",
+  "pages": [
+   {
+    "url": "https://golden.house.gov",
+    "final": "https://golden.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://golden.house.gov/contact/",
+    "final": "https://golden.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://golden.house.gov/contact/offices/",
+    "final": "https://golden.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://golden.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://golden.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://golden.house.gov/contact/offices/caribou-office/",
+    "final": "https://golden.house.gov/contact/offices/caribou-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://golden.house.gov/contact/offices/lewiston-office/",
+    "final": "https://golden.house.gov/contact/offices/lewiston-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://golden.house.gov/contact/offices/bangor-office/",
+    "final": "https://golden.house.gov/contact/offices/bangor-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://golden.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "P000595": {
+  "id": "P000595",
+  "name": "Gary C. Peters",
+  "seat": "Senator, MI",
+  "pages": [
+   {
+    "url": "https://www.peters.senate.gov",
+    "final": "https://www.peters.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.peters.senate.gov/contact/",
+    "final": "https://www.peters.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.peters.senate.gov/contact/offices/",
+    "final": "https://www.peters.senate.gov/404?notfound=/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.peters.senate.gov/offices/",
+    "final": "https://www.peters.senate.gov/404?notfound=/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.peters.senate.gov/office-locations/",
+    "final": "https://www.peters.senate.gov/404?notfound=/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.peters.senate.gov/contact/email-gary",
+    "final": "https://www.peters.senate.gov/contact/email-gary",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.peters.senate.gov",
+   "https://www.peters.senate.gov/contact/offices/",
+   "https://www.peters.senate.gov/offices/",
+   "https://www.peters.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+18445067420"
+  ],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 724 Hart Senate Office Building"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "S001208": {
+  "id": "S001208",
+  "name": "Elissa Slotkin",
+  "seat": "Senator, MI",
+  "pages": [
+   {
+    "url": "https://www.slotkin.senate.gov",
+    "final": "https://www.slotkin.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.slotkin.senate.gov/contact/",
+    "final": "https://www.slotkin.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.slotkin.senate.gov/contact/offices/",
+    "final": "https://www.slotkin.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.slotkin.senate.gov/offices/",
+    "final": "https://www.slotkin.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.slotkin.senate.gov/office-locations/",
+    "final": "https://www.slotkin.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.slotkin.senate.gov/contact/contact-senator-slotkin/",
+    "final": "https://www.slotkin.senate.gov/contact/contact-senator-slotkin/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.slotkin.senate.gov/contact/1012-2/",
+    "final": "https://www.slotkin.senate.gov/contact/1012-2/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.slotkin.senate.gov",
+   "https://www.slotkin.senate.gov/contact/offices/",
+   "https://www.slotkin.senate.gov/offices/",
+   "https://www.slotkin.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+15179930510"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+12319291031",
+   "+13139614330",
+   "+15172031760",
+   "+16169750052",
+   "+18107204172"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "B001301": {
+  "id": "B001301",
+  "name": "Jack Bergman",
+  "seat": "Representative, MI-1",
+  "pages": [
+   {
+    "url": "https://bergman.house.gov",
+    "final": "https://bergman.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bergman.house.gov/news/documentquery.aspx/",
+    "final": "https://bergman.house.gov/news/documentquery.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bergman.house.gov/contact/",
+    "final": "https://bergman.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://bergman.house.gov/forms/emailsignup/",
+    "final": "https://bergman.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bergman.house.gov/contact/officeinformation.htm",
+    "final": "https://bergman.house.gov/contact/officeinformation.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://bergman.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": [
+   "Bergman.constituent@mail.house.gov"
+  ]
+ },
+ "M001194": {
+  "id": "M001194",
+  "name": "John R. Moolenaar",
+  "seat": "Representative, MI-2",
+  "pages": [
+   {
+    "url": "https://moolenaar.house.gov",
+    "final": "https://moolenaar.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://moolenaar.house.gov/contact/",
+    "final": "https://moolenaar.house.gov/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://moolenaar.house.gov/contact/offices/",
+    "final": "https://moolenaar.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://moolenaar.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://moolenaar.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://moolenaar.house.gov/contact/offices/caledonia-office/",
+    "final": "https://moolenaar.house.gov/contact/offices/caledonia-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://moolenaar.house.gov/contact/offices/clare-office/",
+    "final": "https://moolenaar.house.gov/contact/offices/clare-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://moolenaar.house.gov/contact",
+    "positive": [
+     "issue",
+     "legislation",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "S001221": {
+  "id": "S001221",
+  "name": "Hillary J. Scholten",
+  "seat": "Representative, MI-3",
+  "pages": [
+   {
+    "url": "https://scholten.house.gov",
+    "final": "https://scholten.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://scholten.house.gov/contact/",
+    "final": "https://scholten.house.gov/services/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://scholten.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://scholten.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://scholten.house.gov/contact/offices/grand-rapids-district-office/",
+    "final": "https://scholten.house.gov/contact/offices/grand-rapids-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://scholten.house.gov/contact/offices/",
+    "final": "https://scholten.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://scholten.house.gov/services/contact",
+    "positive": [
+     "issue",
+     "legislation",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "H001058": {
+  "id": "H001058",
+  "name": "Bill Huizenga",
+  "seat": "Representative, MI-4",
+  "pages": [
+   {
+    "url": "https://huizenga.house.gov",
+    "final": "https://huizenga.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://huizenga.house.gov/contact/",
+    "final": "https://huizenga.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://huizenga.house.gov/news/email/",
+    "final": "https://huizenga.house.gov/news/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://huizenga.house.gov/forms/emailsignup/",
+    "final": "https://huizenga.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://huizenga.house.gov/news/email/show.aspx/",
+    "final": "https://huizenga.house.gov/email/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://huizenga.house.gov/news/email/default.aspx/",
+    "final": "https://huizenga.house.gov/news/email/default.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://huizenga.house.gov/news/email/show.aspx/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+12022260779",
+   "+17712005821"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://huizenga.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "W000798": {
+  "id": "W000798",
+  "name": "Tim Walberg",
+  "seat": "Representative, MI-5",
+  "pages": [
+   {
+    "url": "https://walberg.house.gov",
+    "final": "https://walberg.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://walberg.house.gov/contact/",
+    "final": "https://walberg.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://walberg.house.gov/contact/email/",
+    "final": "https://walberg.house.gov/address_authentication?form=/contact/email",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://walberg.house.gov/contact/offices/",
+    "final": "https://walberg.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://walberg.house.gov/contact/offices/jackson-district-office/",
+    "final": "https://walberg.house.gov/contact/offices/jackson-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://walberg.house.gov/contact/offices/niles-district-office/",
+    "final": "https://walberg.house.gov/contact/offices/niles-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://walberg.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://walberg.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://walberg.house.gov/address_authentication?form=/contact/email",
+    "positive": [
+     "issue",
+     "opinion"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "D000624": {
+  "id": "D000624",
+  "name": "Debbie Dingell",
+  "seat": "Representative, MI-6",
+  "pages": [
+   {
+    "url": "https://debbiedingell.house.gov",
+    "final": "https://debbiedingell.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://debbiedingell.house.gov/constituents/premium-notices.htm",
+    "final": "https://debbiedingell.house.gov/constituents/premium-notices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://debbiedingell.house.gov/contact/",
+    "final": "https://debbiedingell.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://debbiedingell.house.gov/homepage/share-your-story.htm",
+    "final": "https://debbiedingell.house.gov/homepage/share-your-story.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://debbiedingell.house.gov/forms/emailsignup/",
+    "final": "https://debbiedingell.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://debbiedingell.house.gov/contact/offices.htm",
+    "final": "https://debbiedingell.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://debbiedingell.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ }
+}

@@ -1,0 +1,1253 @@
+{
+ "batch": "2026-11-05-full-15",
+ "reviewedAt": "2026-11-05",
+ "officials": {
+  "J000294": {
+   "name": "Hakeem S. Jeffries",
+   "seat": "Representative, NY-8",
+   "status": "verified",
+   "pagesChecked": [
+    "https://jeffries.house.gov/",
+    "https://jeffries.house.gov/contact/",
+    "https://jeffries.house.gov/contact/email-me/",
+    "https://jeffries.house.gov/contact/invite-me-to-speak/",
+    "https://jeffries.house.gov/contact/offices/",
+    "https://jeffries.house.gov/putting-people-over-politics/share-your-story/"
+   ],
+   "notes": "Offices match. The 800-354-0365 number on the homepage is a city immigration hotline, not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://jeffries.house.gov/contact/email-me/",
+     "source": "https://jeffries.house.gov/",
+     "evidence": "The site's 'Email Me' page, the member's main contact form: 'I value feedback from residents of my district', with a ZIP code entry (behind a ZIP check), so its topic list could not be read."
+    }
+   ]
+  },
+  "C001067": {
+   "name": "Yvette D. Clarke",
+   "seat": "Representative, NY-9",
+   "status": "verified",
+   "pagesChecked": [
+    "https://clarke.house.gov/",
+    "https://clarke.house.gov/contact/",
+    "https://clarke.house.gov/contact/email/",
+    "https://www.house.gov/representatives/find-your-representative",
+    "https://clarke.house.gov/contact/offices/"
+   ],
+   "notes": "Offices match. The (202) numbers the scan saw are the House switchboard on house.gov, not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://clarke.house.gov/contact/email/",
+     "source": "https://clarke.house.gov/",
+     "evidence": "The site's 'Email' page, the member's main contact form: 'zipcode to verify residency and continue to next steps' (behind a ZIP check), so its topic list could not be read."
+    }
+   ]
+  },
+  "G000599": {
+   "name": "Daniel S. Goldman",
+   "seat": "Representative, NY-10",
+   "status": "verified",
+   "pagesChecked": [
+    "https://goldman.house.gov/",
+    "https://goldman.house.gov/address_authentication?form=/contact",
+    "https://goldman.house.gov/contact/offices",
+    "https://goldman.house.gov/contact/share-your-story",
+    "https://goldman.house.gov/contact/offices/washington-dc-office",
+    "https://goldman.house.gov/contact/offices/manhattan-district-office",
+    "https://goldman.house.gov/contact/offices/brooklyn-district-office",
+    "https://goldman.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://goldman.house.gov/contact",
+     "source": "https://goldman.house.gov/",
+     "evidence": "The member's main 'Email Me' contact form (behind an address check (address_authentication?form=/contact)), so its topic list could not be read."
+    }
+   ]
+  },
+  "M000317": {
+   "name": "Nicole Malliotakis",
+   "seat": "Representative, NY-11",
+   "status": "verified",
+   "pagesChecked": [
+    "https://malliotakis.house.gov/",
+    "https://malliotakis.house.gov/contact",
+    "https://malliotakis.house.gov/contact/offices",
+    "https://malliotakis.house.gov/contact/offices/washington-dc-office",
+    "https://malliotakis.house.gov/contact/offices/staten-island-district-office",
+    "https://malliotakis.house.gov/contact/offices/brooklyn-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://malliotakis.house.gov/contact",
+     "source": "https://malliotakis.house.gov/contact",
+     "evidence": "Contact page: 'You can enter your ZIP code below to send as an email'; a multi-page form whose first page is identity fields, so its topic list could not be read. Federal agency help and tours are separate."
+    }
+   ]
+  },
+  "N000002": {
+   "name": "Jerrold Nadler",
+   "seat": "Representative, NY-12",
+   "status": "verified",
+   "pagesChecked": [
+    "https://nadler.house.gov/",
+    "https://nadler.house.gov/contact/",
+    "https://nadler.house.gov/forms/form/default.aspx?ID=545",
+    "https://nadler.house.gov/contact/washington-dc.htm",
+    "https://nadler.house.gov/contact/manhattan-office.htm"
+   ],
+   "notes": "Offices match. A Brooklyn office (6605 Fort Hamilton Parkway, 718-373-3198) is in the page source but commented out, so not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://nadler.house.gov/contact/",
+     "source": "https://nadler.house.gov/",
+     "evidence": "The Contact page's 'Write your Representative' form (forms/writeyourrep), the member's main contact form, which asks for 'Zip Code: * +4' (behind a ZIP check), so its topic list could not be read."
+    }
+   ]
+  },
+  "E000297": {
+   "name": "Adriano Espaillat",
+   "seat": "Representative, NY-13",
+   "status": "verified",
+   "pagesChecked": [
+    "https://espaillat.house.gov/",
+    "https://espaillat.house.gov/address_authentication?form=/email",
+    "https://espaillat.house.gov/contact/offices",
+    "https://espaillat.house.gov/contact/offices/washington-dc-office",
+    "https://espaillat.house.gov/contact/offices/bronx-district-office",
+    "https://espaillat.house.gov/contact/offices/new-york-district-office",
+    "https://espaillat.house.gov/contact/offices/new-york-district-office-0",
+    "https://espaillat.house.gov/contact/offices",
+    "https://espaillat.house.gov/address_authentication?form=/email"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://espaillat.house.gov/email",
+     "source": "https://espaillat.house.gov/",
+     "evidence": "The member's main 'Email' contact form (behind an address check (address_authentication?form=/email)), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://espaillat.house.gov/",
+     "evidence": "'Bronx District Office By Appointment Only Bronx, NY 10463 Phone: (646) 740-3632', with no street address. We publish 3107 Kingsbridge Avenue.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254365",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2332 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3213",
+        "country": "US"
+       }
+      },
+      {
+       "label": "New York, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12126633900",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Harlem State Office Building",
+         "163 West 125th Street, #508"
+        ],
+        "city": "New York",
+        "region": "NY",
+        "postalCode": "10027",
+        "country": "US"
+       }
+      },
+      {
+       "label": "New York, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12124975959",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "720 West 181st Street, Suite 2"
+        ],
+        "city": "New York",
+        "region": "NY",
+        "postalCode": "10033",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Bronx, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16467403632",
+         "type": "voice"
+        }
+       ],
+       "address": null
+      }
+     ]
+    }
+   ]
+  },
+  "O000172": {
+   "name": "Alexandria Ocasio-Cortez",
+   "seat": "Representative, NY-14",
+   "status": "verified",
+   "pagesChecked": [
+    "https://ocasio-cortez.house.gov/",
+    "https://ocasio-cortez.house.gov/contact",
+    "https://ocasio-cortez.house.gov/contact/offices",
+    "https://ocasio-cortez.house.gov/contact/call-us-0",
+    "https://ocasio-cortez.house.gov/contact/offices/washington-dc-office",
+    "https://ocasio-cortez.house.gov/contact/offices/astoria-office",
+    "https://ocasio-cortez.house.gov/contact/offices/hunts-point-office"
+   ],
+   "notes": "The site gives one constituent line for both district offices.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://ocasio-cortez.house.gov/contact",
+     "source": "https://ocasio-cortez.house.gov/",
+     "evidence": "'Email Me ... Constituents, please put your zip code below to be directed to our email form' (behind a ZIP check), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://ocasio-cortez.house.gov/contact/offices",
+     "evidence": "'Constituents Only: 718-662-5970 ... Visits to our Astoria Office are by Appointment Only, please call us at 718-662-5970 ... during the week, we are available by phone at 718-662-5970'. We publish no phone for the Astoria (Queens) or Hunts Point (Bronx) office.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253965",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "250 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3214",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Bronx, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17186625970",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1231 Lafayette Ave, Suite L-610"
+        ],
+        "city": "Bronx",
+        "region": "NY",
+        "postalCode": "10474",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Queens, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17186625970",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "30-83 31st Street"
+        ],
+        "city": "Queens",
+        "region": "NY",
+        "postalCode": "11102",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "T000486": {
+   "name": "Ritchie Torres",
+   "seat": "Representative, NY-15",
+   "status": "verified",
+   "pagesChecked": [
+    "https://ritchietorres.house.gov/",
+    "https://ritchietorres.house.gov/contact"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://ritchietorres.house.gov/contact",
+     "source": "https://ritchietorres.house.gov/contact",
+     "evidence": "Contact page: for 'opinions regarding legislation, please enter your address below and follow the prompts. ... Let's check that you're within this district' (behind an address check), so its topic list could not be read."
+    }
+   ]
+  },
+  "L000606": {
+   "name": "George Latimer",
+   "seat": "Representative, NY-16",
+   "status": "verified",
+   "pagesChecked": [
+    "https://latimer.house.gov/",
+    "https://latimer.house.gov/contact",
+    "https://latimer.house.gov/address_authentication?form=/contact/email-me",
+    "https://latimer.house.gov/contact/office-contact-information",
+    "https://latimer.house.gov/contact/offices/washington-dc-office",
+    "https://latimer.house.gov/contact/office-locations"
+   ],
+   "notes": "Phones match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://latimer.house.gov/contact/email-me",
+     "source": "https://latimer.house.gov/",
+     "evidence": "The site's 'Email Me' link, the member's main contact form (behind an address check (address_authentication?form=/contact/email-me)), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://latimer.house.gov/contact/office-contact-information",
+     "evidence": "'Office Contact Information Bronx District Office Phone: (718) 530-7888 White Plains District Office Phone: (914) 323-5550', with no street addresses anywhere on the site. We publish 222 Mamaroneck Ave, Suite 312 and 177 Dreiser Loop, Room 3.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252464",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1507 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3216",
+        "country": "US"
+       }
+      },
+      {
+       "label": "White Plains, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19143235550",
+         "type": "voice"
+        }
+       ],
+       "address": null
+      },
+      {
+       "label": "Bronx, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17185307888",
+         "type": "voice"
+        }
+       ],
+       "address": null
+      }
+     ]
+    }
+   ]
+  },
+  "L000599": {
+   "name": "Michael Lawler",
+   "seat": "Representative, NY-17",
+   "status": "verified",
+   "pagesChecked": [
+    "https://lawler.house.gov/",
+    "https://lawler.house.gov/about/welcome.htm",
+    "https://lawler.house.gov/contact/",
+    "https://lawler.house.gov/forms/form/?ID=8",
+    "https://lawler.house.gov/contact/offices.htm",
+    "https://lawler.house.gov/news/documentsingle.aspx"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://lawler.house.gov/contact/",
+     "source": "https://lawler.house.gov/",
+     "evidence": "Contact page: 'zip code below to verify residency within my district and continue', in front of the member's 'write your rep' form (behind a ZIP check), so its topic list could not be read."
+    }
+   ]
+  },
+  "R000579": {
+   "name": "Patrick Ryan",
+   "seat": "Representative, NY-18",
+   "status": "verified",
+   "pagesChecked": [
+    "https://patryan.house.gov/",
+    "https://patryan.house.gov/contact",
+    "https://patryan.house.gov/address_authentication?form=/contact/email-me",
+    "https://patryan.house.gov/contact/offices",
+    "https://patryan.house.gov/contact/offices/washington-dc-office",
+    "https://patryan.house.gov/contact/offices/poughkeepsie-district-office",
+    "https://patryan.house.gov/contact/offices/newburgh-district-office",
+    "https://patryan.house.gov/contact/offices/kingston-district-office",
+    "https://patryan.house.gov/contact/offices"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://patryan.house.gov/contact/email-me",
+     "source": "https://patryan.house.gov/",
+     "evidence": "The site's 'Email Me' link, the member's main contact form (behind an address check (address_authentication?form=/contact/email-me)), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://patryan.house.gov/",
+     "evidence": "'Poughkeepsie District Office 29 N Hamilton Street Suites 112 and 113 Poughkeepsie, NY 12601 Phone: (845) 443-2930 Newburgh District Office By appointment only 245 Liberty Street Newburgh, NY 12550 Phone: (845) 275-6390 Kingston District Office By appointment only 20 Broadway, Second Floor Kingston, NY 12401 Phone: (845) 443-2980'. We publish 12 Raymond Avenue, 605 Broadway and 307 Wall Street, all with (845) 443-2930.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255614",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1708 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3218",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Kingston, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18454432980",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "20 Broadway, Second Floor"
+        ],
+        "city": "Kingston",
+        "region": "NY",
+        "postalCode": "12401",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Newburgh, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18452756390",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "245 Liberty Street"
+        ],
+        "city": "Newburgh",
+        "region": "NY",
+        "postalCode": "12550",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Poughkeepsie, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18454432930",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "29 N Hamilton Street, Suites 112 and 113"
+        ],
+        "city": "Poughkeepsie",
+        "region": "NY",
+        "postalCode": "12601",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "R000622": {
+   "name": "Josh Riley",
+   "seat": "Representative, NY-19",
+   "status": "verified",
+   "pagesChecked": [
+    "https://riley.house.gov/",
+    "https://riley.house.gov/contact/",
+    "https://riley.house.gov/contact/email-josh/",
+    "https://riley.house.gov/contact/events/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://riley.house.gov/contact/email-josh/",
+     "source": "https://riley.house.gov/contact/",
+     "evidence": "'Email Josh' form, the member's main contact form, with a topic list and the choice 'voice my opinion'."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://riley.house.gov/contact/",
+     "evidence": "Office list adds 'Delhi Office By Appointment Only 74 Main Street Suite E Delhi, NY 13753 Phone: (607) 242-0201', which we do not publish.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255441",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "128 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3219",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Binghamton, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16072420200",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "49 Court St, Suite 210"
+        ],
+        "city": "Binghamton",
+        "region": "NY",
+        "postalCode": "13901",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Leeds, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15186252100",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "49 Gilfeather Park Rd, Unit 1"
+        ],
+        "city": "Leeds",
+        "region": "NY",
+        "postalCode": "12451",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Delhi, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16072420201",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "74 Main Street, Suite E"
+        ],
+        "city": "Delhi",
+        "region": "NY",
+        "postalCode": "13753",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "T000469": {
+   "name": "Paul Tonko",
+   "seat": "Representative, NY-20",
+   "status": "verified",
+   "pagesChecked": [
+    "https://tonko.house.gov/",
+    "https://tonko.house.gov/news/email/",
+    "https://tonko.house.gov/contact/",
+    "https://tonko.house.gov/news/email/default.aspx"
+   ],
+   "notes": "Offices match ('Unit 302' and 'Suite 302' for Albany taken as the same).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://tonko.house.gov/contact/",
+     "source": "https://tonko.house.gov/",
+     "evidence": "Contact page 'Contact Paul' form (forms/writeyourrep), the member's main contact form, which first asks for 'Zip: +4' (behind a ZIP check), so its topic list could not be read."
+    }
+   ]
+  },
+  "S001196": {
+   "name": "Elise M. Stefanik",
+   "seat": "Representative, NY-21",
+   "status": "verified",
+   "pagesChecked": [
+    "https://stefanik.house.gov/",
+    "https://stefanik.house.gov/contact/",
+    "https://stefanik.house.gov/offices/",
+    "https://stefanik.house.gov/email-me/",
+    "https://stefanik.house.gov/index.cfm/",
+    "https://stefanik.house.gov/2021/4/washington-dc-office/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://stefanik.house.gov/email-me/",
+     "source": "https://stefanik.house.gov/contact/",
+     "evidence": "'Email Congresswoman Stefanik' form with an issue list (Agriculture, Animal Rights, ... Border and Immigration, ...) and a 'Comments' field."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://stefanik.house.gov/offices/",
+     "evidence": "'District Offices Schuylerville Office 12 Spring Street Suite 102 Schuylerville, NY 12871 (518) 242-4707 Ogdensburg Office 330 Ford Street Suite B8 Ogdensburg, NY 13669 Phone: (315) 541-2670'. No Herkimer or Plattsburgh office is listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254611",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2211 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3221",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Ogdensburg, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13155412670",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "330 Ford Street, Suite B8"
+        ],
+        "city": "Ogdensburg",
+        "region": "NY",
+        "postalCode": "13669",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Schuylerville, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15182424707",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "12 Spring Street, Suite 102"
+        ],
+        "city": "Schuylerville",
+        "region": "NY",
+        "postalCode": "12871",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "M001231": {
+   "name": "John W. Mannion",
+   "seat": "Representative, NY-22",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mannion.house.gov/",
+    "https://mannion.house.gov/contact",
+    "https://mannion.house.gov/contact/email-me",
+    "https://mannion.house.gov/contact/office-locations",
+    "https://mannion.house.gov/contact/coffee-your-congressman",
+    "https://mannion.house.gov/contact/offices/washington-dc-office",
+    "https://mannion.house.gov/contact/offices/syracuse-district-office",
+    "https://mannion.house.gov/contact/offices/utica-district-office"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mannion.house.gov/contact/email-me",
+     "source": "https://mannion.house.gov/",
+     "evidence": "The site's 'Email Me' form, the member's main contact form, with an issue list (Agriculture, ...); meeting requests and federal agency help are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://mannion.house.gov/",
+     "evidence": "Office list adds 'Utica District Office 207 Genesee St Suite 405 Utica, NY 13501 Phone: (315) 732-0713', which we do not publish.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253701",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1516 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3222",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Syracuse, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13152334333",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "440 South Warren St, Suite 706"
+        ],
+        "city": "Syracuse",
+        "region": "NY",
+        "postalCode": "13202",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Utica, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13157320713",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "207 Genesee St, Suite 405"
+        ],
+        "city": "Utica",
+        "region": "NY",
+        "postalCode": "13501",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "L000600": {
+   "name": "Nicholas A. Langworthy",
+   "seat": "Representative, NY-23",
+   "status": "verified",
+   "pagesChecked": [
+    "https://langworthy.house.gov/",
+    "https://langworthy.house.gov/address_authentication?form=/contact",
+    "https://langworthy.house.gov/contact/offices",
+    "https://langworthy.house.gov/contact/offices/washington-dc-office",
+    "https://langworthy.house.gov/contact/offices/jamestown-district-office",
+    "https://langworthy.house.gov/contact/offices/olean-district-office",
+    "https://langworthy.house.gov/contact/offices/elmira-district-office",
+    "https://langworthy.house.gov/contact/offices/clarence-district-office",
+    "https://langworthy.house.gov/contact/offices"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://langworthy.house.gov/contact",
+     "source": "https://langworthy.house.gov/",
+     "evidence": "The member's main contact form (behind an address check (address_authentication?form=/contact)), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://langworthy.house.gov/",
+     "evidence": "'Elmira District Office 203 Lake St. 1st Floor P.O. Box 588 Elmira, NY 14902 Phone: (607) 377-3130'. No Corning office is listed; we publish 89 W. Market Street, Corning with the same phone.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253161",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "422 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3223",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Williamsville, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17165476844",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "8201 Main Street, Suite 13"
+        ],
+        "city": "Williamsville",
+        "region": "NY",
+        "postalCode": "14221",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Jamestown, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17164888111",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "The Fenton Building",
+         "2-6 East Second Street, Room 208"
+        ],
+        "city": "Jamestown",
+        "region": "NY",
+        "postalCode": "14701",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Olean, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15855435033",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1 Bluebird Square"
+        ],
+        "city": "Olean",
+        "region": "NY",
+        "postalCode": "14760",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Elmira, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16073773130",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "203 Lake St., 1st Floor",
+         "P.O. Box 588"
+        ],
+        "city": "Elmira",
+        "region": "NY",
+        "postalCode": "14902",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "T000478": {
+   "name": "Claudia Tenney",
+   "seat": "Representative, NY-24",
+   "status": "verified",
+   "pagesChecked": [
+    "https://tenney.house.gov/",
+    "https://tenney.house.gov/contact",
+    "https://tenney.house.gov/contact/offices",
+    "https://tenney.house.gov/contact/offices/washington-dc-office",
+    "https://tenney.house.gov/contact/offices/watertown-satellite-office",
+    "https://tenney.house.gov/contact/offices/lockport-district-office",
+    "https://tenney.house.gov/contact/offices/canandaigua-district-office",
+    "https://tenney.house.gov/contact/offices/oswego-district-office"
+   ],
+   "notes": "Offices match; the Watertown office lists no phone.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://tenney.house.gov/contact",
+     "source": "https://tenney.house.gov/contact",
+     "evidence": "Contact page: 'You can enter your ZIP code below to send as an email'; a multi-page form whose first page is identity fields, so its topic list could not be read. Federal agency help and tours are separate."
+    }
+   ]
+  },
+  "M001206": {
+   "name": "Joseph D. Morelle",
+   "seat": "Representative, NY-25",
+   "status": "verified",
+   "pagesChecked": [
+    "https://morelle.house.gov/",
+    "https://morelle.house.gov/contact",
+    "https://morelle.house.gov/contact/visiting-washington-dc",
+    "https://morelle.house.gov/contact/offices",
+    "https://morelle.house.gov/contact/offices/washington-dc-office",
+    "https://morelle.house.gov/contact/offices/rochester-district-office",
+    "https://morelle.house.gov/contact/visiting-washington-dc"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://morelleforms.house.gov/contact/",
+     "source": "https://morelle.house.gov/",
+     "evidence": "The site's 'Email Me' link (morelleforms.house.gov/contact/?form=/contact/email-me): 'Email — Please enter your zip code below to verify residency within my district and continue' (behind a ZIP check), so its topic list could not be read."
+    }
+   ]
+  },
+  "K000402": {
+   "name": "Timothy M. Kennedy",
+   "seat": "Representative, NY-26",
+   "status": "verified",
+   "pagesChecked": [
+    "https://kennedy.house.gov/",
+    "https://kennedy.house.gov/contact/",
+    "https://kennedy.house.gov/forms/emailsignup/",
+    "https://kennedy.house.gov/contact/offices.htm"
+   ],
+   "notes": "Offices match; the other 716 numbers are faxes.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://kennedy.house.gov/contact/",
+     "source": "https://kennedy.house.gov/",
+     "evidence": "Contact page: 'zip code below to verify residency within my district and continue', in front of the member's 'write your rep' form (behind a ZIP check), so its topic list could not be read."
+    }
+   ]
+  },
+  "H001104": {
+   "name": "Jon Husted",
+   "seat": "Senator, OH",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.husted.senate.gov/contact/",
+    "https://www.husted.senate.gov/contact/contact-jon/"
+   ],
+   "notes": "Homepage blocked (403). Offices match; the Southeast Ohio mobile team uses the Columbus office number.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.husted.senate.gov/contact/contact-jon/",
+     "source": "https://www.husted.senate.gov/contact/contact-jon/",
+     "evidence": "'Contact Jon' form with a 'Topic' list (Agriculture, Animals, Arts and Humanities, Banking, ...)."
+    }
+   ]
+  },
+  "M001242": {
+   "name": "Bernie Moreno",
+   "seat": "Senator, OH",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.moreno.senate.gov/contact/",
+    "https://www.moreno.senate.gov/contact/share-your-opinion/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.moreno.senate.gov/contact/share-your-opinion/",
+     "source": "https://www.moreno.senate.gov/contact/share-your-opinion/",
+     "evidence": "'Share Your Opinion': 'This web form is the best way to ensure your views and feedback get to the Senator'; federal agency assistance is separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.moreno.senate.gov/contact/",
+     "evidence": "'Cleveland 1300 East 9th Street Suite 820 Cleveland, OH 44114 Phone: (216) 522-7272'. We publish the Carl B. Stokes U.S. Courthouse, 801 W Superior Ave, Suite 1400.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022242315",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "284 Russell Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Columbus, OH office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16144692083",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Bricker Federal Building",
+         "200 North High St, Room 618"
+        ],
+        "city": "Columbus",
+        "region": "OH",
+        "postalCode": "43215",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Cleveland, OH office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12165227272",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1300 East 9th Street, Suite 820"
+        ],
+        "city": "Cleveland",
+        "region": "OH",
+        "postalCode": "44114",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Cincinnati, OH office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15136841021",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "John W. Peck Federal Building",
+         "550 Main St, Suite 10-273"
+        ],
+        "city": "Cincinnati",
+        "region": "OH",
+        "postalCode": "45202",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "L000601": {
+   "name": "Greg Landsman",
+   "seat": "Representative, OH-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://landsman.house.gov/",
+    "https://landsman.house.gov/contact",
+    "https://landsman.house.gov/address_authentication?form=/contact/share-your-opinion",
+    "https://landsman.house.gov/contact/office-locations",
+    "https://landsman.house.gov/about/events/springboro-mobile-office-hours-0",
+    "https://landsman.house.gov/contact/offices/washington-dc-office",
+    "https://landsman.house.gov/contact/offices/lebanon-district-office",
+    "https://landsman.house.gov/contact/offices/cincinnati-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://landsman.house.gov/contact/share-your-opinion",
+     "source": "https://landsman.house.gov/",
+     "evidence": "The site's 'Share Your Opinion' form (behind an address check (address_authentication?form=/contact/share-your-opinion)), so its topic list could not be read."
+    }
+   ]
+  },
+  "T000490": {
+   "name": "David J. Taylor",
+   "seat": "Representative, OH-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://taylor.house.gov/",
+    "https://taylor.house.gov/contact",
+    "https://taylor.house.gov/contact/email-me",
+    "https://taylor.house.gov/contact/office-locations",
+    "https://taylor.house.gov/contact/offices/washington-dc-office",
+    "https://taylor.house.gov/contact/offices/union-township-district-office",
+    "https://taylor.house.gov/contact/offices/peebles-district-office",
+    "https://taylor.house.gov/contact/offices/chillicothe-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://taylor.house.gov/contact/email-me",
+     "source": "https://taylor.house.gov/",
+     "evidence": "The site's 'Email Me' form, the member's main contact form, with an issue list (Agriculture, ...); meeting requests and federal agency help are separate."
+    }
+   ]
+  },
+  "B001281": {
+   "name": "Joyce Beatty",
+   "seat": "Representative, OH-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://beatty.house.gov/",
+    "https://beatty.house.gov/contact",
+    "https://beatty.house.gov/contact/offices",
+    "https://beatty.house.gov/contact/offices/washington-dc-office",
+    "https://beatty.house.gov/contact/offices/columbus-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://beatty.house.gov/contact",
+     "source": "https://beatty.house.gov/contact",
+     "evidence": "Contact page: 'You can enter your ZIP code below to send as an email' (behind a ZIP check), so its topic list could not be read. Federal agency help and tours are separate."
+    }
+   ]
+  },
+  "J000289": {
+   "name": "Jim Jordan",
+   "seat": "Representative, OH-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://jordan.house.gov/",
+    "https://jordan.house.gov/address_authentication?form=/contact",
+    "https://jordan.house.gov/contact/offices/washington-dc-office",
+    "https://jordan.house.gov/contact/offices/mansfield-district-office",
+    "https://jordan.house.gov/contact/offices/lima-district-office",
+    "https://jordan.house.gov/contact/offices",
+    "https://jordan.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://jordan.house.gov/contact",
+     "source": "https://jordan.house.gov/",
+     "evidence": "The member's main 'Email Me' contact form (behind an address check (address_authentication?form=/contact)), so its topic list could not be read."
+    }
+   ]
+  }
+ }
+}

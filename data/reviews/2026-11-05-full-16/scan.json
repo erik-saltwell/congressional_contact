@@ -1,0 +1,1724 @@
+{
+ "L000566": {
+  "id": "L000566",
+  "name": "Robert E. Latta",
+  "seat": "Representative, OH-5",
+  "pages": [
+   {
+    "url": "https://latta.house.gov",
+    "final": "https://latta.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://latta.house.gov/contact/",
+    "final": "https://latta.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+18005416446"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://latta.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "R000619": {
+  "id": "R000619",
+  "name": "Michael A. Rulli",
+  "seat": "Representative, OH-6",
+  "pages": [
+   {
+    "url": "https://rulli.house.gov",
+    "final": "https://rulli.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://rulli.house.gov/contact/",
+    "final": "https://rulli.house.gov/contact/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [
+   "+17408854860"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+17403383738"
+  ],
+  "publishedAddressesNotFound": [
+   "Marietta, OH office: 246 Front Street"
+  ],
+  "forms": [
+   {
+    "url": "https://rulli.house.gov/contact/",
+    "positive": [
+     "comment",
+     "concern",
+     "issue",
+     "opinion",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "M001222": {
+  "id": "M001222",
+  "name": "Max L. Miller",
+  "seat": "Representative, OH-7",
+  "pages": [
+   {
+    "url": "https://maxmiller.house.gov",
+    "final": "https://maxmiller.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://maxmiller.house.gov/contact/",
+    "final": "https://maxmiller.house.gov/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 143 Cannon House Office Building"
+  ],
+  "forms": [
+   {
+    "url": "https://maxmiller.house.gov/contact",
+    "positive": [
+     "issue",
+     "topic"
+    ],
+    "negative": [
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "D000626": {
+  "id": "D000626",
+  "name": "Warren Davidson",
+  "seat": "Representative, OH-8",
+  "pages": [
+   {
+    "url": "https://davidson.house.gov",
+    "final": "https://davidson.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://davidson.house.gov/contact/",
+    "final": "https://davidson.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://davidson.house.gov/contact/email-me/",
+    "final": "https://davidson.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://davidson.house.gov/contact/office-locations/",
+    "final": "https://davidson.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://davidson.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://davidson.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://davidson.house.gov/contact/offices/liberty-township-district-office/",
+    "final": "https://davidson.house.gov/contact/offices/liberty-township-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://davidson.house.gov/contact/offices/cincinnati-district-office/",
+    "final": "https://davidson.house.gov/contact/offices/cincinnati-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+19373391524"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://davidson.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "K000009": {
+  "id": "K000009",
+  "name": "Marcy Kaptur",
+  "seat": "Representative, OH-9",
+  "pages": [
+   {
+    "url": "https://kaptur.house.gov",
+    "final": "https://kaptur.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kaptur.house.gov/contact/",
+    "final": "https://kaptur.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://kaptur.house.gov/contact/offices/",
+    "final": "https://kaptur.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kaptur.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://kaptur.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kaptur.house.gov/contact/offices/toledo-district-office/",
+    "final": "https://kaptur.house.gov/contact/offices/toledo-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kaptur.house.gov/contact/office-locations/",
+    "final": "https://kaptur.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://kaptur.house.gov/address_authentication?form=/contact",
+    "positive": [],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "T000463": {
+  "id": "T000463",
+  "name": "Michael R. Turner",
+  "seat": "Representative, OH-10",
+  "pages": [
+   {
+    "url": "https://turner.house.gov",
+    "final": "https://turner.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://turner.house.gov/contact/",
+    "final": "https://turner.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://turner.house.gov/contact/email-me/",
+    "final": "https://turner.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://turner.house.gov/contact/office-locations/",
+    "final": "https://turner.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://turner.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://turner.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://turner.house.gov/contact/offices/dayton-district-office/",
+    "final": "https://turner.house.gov/contact/offices/dayton-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://turner.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "B001313": {
+  "id": "B001313",
+  "name": "Shontel M. Brown",
+  "seat": "Representative, OH-11",
+  "pages": [
+   {
+    "url": "https://shontelbrown.house.gov",
+    "final": "https://shontelbrown.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://shontelbrown.house.gov/contact/",
+    "final": "https://shontelbrown.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://shontelbrown.house.gov/contact/offices/",
+    "final": "https://shontelbrown.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://shontelbrown.house.gov/contact/live/",
+    "final": "https://shontelbrown.house.gov/contact/live",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://shontelbrown.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://shontelbrown.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://shontelbrown.house.gov/contact/offices/district-office-east/",
+    "final": "https://shontelbrown.house.gov/contact/offices/district-office-east",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://shontelbrown.house.gov/contact/office-locations/",
+    "final": "https://shontelbrown.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [
+   "+12165351100"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Cleveland, OH office: 17021 Lorain Avenue"
+  ],
+  "forms": [
+   {
+    "url": "https://shontelbrown.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation",
+     "opinion"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "B001306": {
+  "id": "B001306",
+  "name": "Troy Balderson",
+  "seat": "Representative, OH-12",
+  "pages": [
+   {
+    "url": "https://balderson.house.gov",
+    "final": "https://balderson.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://balderson.house.gov/coronavirus-updates/",
+    "final": "https://balderson.house.gov/coronavirus-updates/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://balderson.house.gov/news/email/",
+    "final": "https://balderson.house.gov/news/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://balderson.house.gov/contact/",
+    "final": "https://balderson.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://balderson.house.gov/forms/emailsignup/",
+    "final": "https://balderson.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://balderson.house.gov/news/documentsingle.aspx/",
+    "final": "https://balderson.house.gov/news/documentsingle.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://balderson.house.gov/news/email/show.aspx/",
+    "final": "https://balderson.house.gov/email/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://balderson.house.gov/news/email/default.aspx/",
+    "final": "https://balderson.house.gov/news/email/default.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://balderson.house.gov/news/email/show.aspx/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://balderson.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "S001223": {
+  "id": "S001223",
+  "name": "Emilia Strong Sykes",
+  "seat": "Representative, OH-13",
+  "pages": [
+   {
+    "url": "https://sykes.house.gov",
+    "final": "https://sykes.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sykes.house.gov/contact/",
+    "final": "https://sykes.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sykes.house.gov/contact/email-me/",
+    "final": "https://sykes.house.gov/contact/email-me/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sykes.house.gov/contact/offices/",
+    "final": "https://sykes.house.gov/contact/offices/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sykes.house.gov/visiting-the-dc-office/",
+    "final": "https://sykes.house.gov/visiting-the-dc-office/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sykes.house.gov/contact/join-our-team/",
+    "final": "https://sykes.house.gov/contact/join-our-team/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": [
+   "JoinTeamSykes@mail.house.gov"
+  ]
+ },
+ "J000295": {
+  "id": "J000295",
+  "name": "David P. Joyce",
+  "seat": "Representative, OH-14",
+  "pages": [
+   {
+    "url": "https://joyce.house.gov",
+    "final": "https://joyce.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://joyce.house.gov/contact/",
+    "final": "https://joyce.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "C001126": {
+  "id": "C001126",
+  "name": "Mike Carey",
+  "seat": "Representative, OH-15",
+  "pages": [
+   {
+    "url": "https://carey.house.gov",
+    "final": "https://carey.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://carey.house.gov/contact/",
+    "final": "https://carey.house.gov/contact/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://carey.house.gov/contact/'+e+'/",
+    "final": "https://carey.house.gov/contact/'+e+'/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://carey.house.gov/contact/'+e+'/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+19377785145"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://carey.house.gov/contact/",
+    "positive": [
+     "concern",
+     "issue",
+     "legislation",
+     "opinion",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": [
+   "john@doe.com"
+  ]
+ },
+ "A000383": {
+  "id": "A000383",
+  "name": "Alan Armstrong",
+  "seat": "Senator, OK",
+  "pages": [
+   {
+    "url": "https://www.armstrong.senate.gov",
+    "final": "https://www.armstrong.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.armstrong.senate.gov/contact/",
+    "final": "https://www.armstrong.senate.gov/contact/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.armstrong.senate.gov/contact/offices/",
+    "final": "https://www.armstrong.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.armstrong.senate.gov/offices/",
+    "final": "https://www.armstrong.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.armstrong.senate.gov/office-locations/",
+    "final": "https://www.armstrong.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.armstrong.senate.gov",
+   "https://www.armstrong.senate.gov/contact/offices/",
+   "https://www.armstrong.senate.gov/offices/",
+   "https://www.armstrong.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+19189218520"
+  ],
+  "publishedAddressesNotFound": [
+   "Oklahoma City, OK office: 3817 NW Expressway, #780"
+  ],
+  "forms": [
+   {
+    "url": "https://www.armstrong.senate.gov/contact/",
+    "positive": [
+     "comment",
+     "issue",
+     "opinion",
+     "share your",
+     "topic",
+     "views"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "flag request",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "L000575": {
+  "id": "L000575",
+  "name": "James Lankford",
+  "seat": "Senator, OK",
+  "pages": [
+   {
+    "url": "https://www.lankford.senate.gov",
+    "final": "https://www.lankford.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.lankford.senate.gov/contact/",
+    "final": "https://www.lankford.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.lankford.senate.gov/contact/offices/",
+    "final": "https://www.lankford.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.lankford.senate.gov/offices/",
+    "final": "https://www.lankford.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.lankford.senate.gov/office-locations/",
+    "final": "https://www.lankford.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.lankford.senate.gov/contact/email",
+    "final": "https://www.lankford.senate.gov/contact/email/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.lankford.senate.gov/contact/itemDataObject.url/",
+    "final": "https://www.lankford.senate.gov/contact/itemDataObject.url/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.lankford.senate.gov/contact/{{{data.link}}}/",
+    "final": "https://www.lankford.senate.gov/contact/{{{data.link}}}/",
+    "status": 0,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.lankford.senate.gov",
+   "https://www.lankford.senate.gov/contact/offices/",
+   "https://www.lankford.senate.gov/offices/",
+   "https://www.lankford.senate.gov/office-locations/",
+   "https://www.lankford.senate.gov/contact/itemDataObject.url/",
+   "https://www.lankford.senate.gov/contact/{{{data.link}}}/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.lankford.senate.gov/contact/email/",
+    "positive": [
+     "issue",
+     "legislation",
+     "opinion",
+     "share your",
+     "topic"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter",
+     "privacy release",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "H001082": {
+  "id": "H001082",
+  "name": "Kevin Hern",
+  "seat": "Representative, OK-1",
+  "pages": [
+   {
+    "url": "https://hern.house.gov",
+    "final": "https://hern.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hern.house.gov/contact/",
+    "final": "https://hern.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://hern.house.gov/forms/emailsignup/",
+    "final": "https://hern.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hern.house.gov/contact/offices.htm",
+    "final": "https://hern.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hern.house.gov/contact/global-competitiveness-tax-team.htm",
+    "final": "https://hern.house.gov/contact/global-competitiveness-tax-team.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hern.house.gov/statistics/",
+    "final": "https://hern.house.gov/statistics/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://hern.house.gov/statistics/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://hern.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": [
+   "GlobalCompetitiveness@mail.house.gov"
+  ]
+ },
+ "B001317": {
+  "id": "B001317",
+  "name": "Josh Brecheen",
+  "seat": "Representative, OK-2",
+  "pages": [
+   {
+    "url": "https://brecheen.house.gov",
+    "final": "https://brecheen.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://brecheen.house.gov/contact/",
+    "final": "https://brecheen.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://brecheen.house.gov/contact/email-me.htm",
+    "final": "https://brecheen.house.gov/contact/email-me.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://brecheen.house.gov/forms/emailsignup/",
+    "final": "https://brecheen.house.gov/forms/form/default.aspx?ID=41",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://brecheen.house.gov/contact/email-me.htm",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "L000491": {
+  "id": "L000491",
+  "name": "Frank D. Lucas",
+  "seat": "Representative, OK-3",
+  "pages": [
+   {
+    "url": "https://lucas.house.gov",
+    "final": "https://lucas.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lucas.house.gov/contact/",
+    "final": "https://lucas.house.gov/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://lucas.house.gov/contact",
+    "positive": [
+     "issue",
+     "topic"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "C001053": {
+  "id": "C001053",
+  "name": "Tom Cole",
+  "seat": "Representative, OK-4",
+  "pages": [
+   {
+    "url": "https://cole.house.gov",
+    "final": "https://cole.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://cole.house.gov/contact/",
+    "final": "https://cole.house.gov/zip_authentication?form=/contact/email",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://cole.house.gov/contact/email/",
+    "final": "https://cole.house.gov/zip_authentication?form=/contact/email",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://cole.house.gov/contact/offices/",
+    "final": "https://cole.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://cole.house.gov/contact/fy2026-appropriations-requests/",
+    "final": "https://cole.house.gov/contact/fy2026-appropriations-requests",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://cole.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://cole.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://cole.house.gov/contact/offices/ada-district-office/",
+    "final": "https://cole.house.gov/contact/offices/ada-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://cole.house.gov/contact/offices/lawton-district-office/",
+    "final": "https://cole.house.gov/contact/offices/lawton-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://cole.house.gov/contact/offices/norman-district-office/",
+    "final": "https://cole.house.gov/contact/offices/norman-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Lawton, OK office: 711 SW. D Ave., Suite 201"
+  ],
+  "forms": [
+   {
+    "url": "https://cole.house.gov/zip_authentication?form=/contact/email",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://cole.house.gov/zip_authentication?form=/contact/email",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": [
+   "olivia.porcaro@mail.house.gov"
+  ]
+ },
+ "B000740": {
+  "id": "B000740",
+  "name": "Stephanie I. Bice",
+  "seat": "Representative, OK-5",
+  "pages": [
+   {
+    "url": "https://bice.house.gov",
+    "final": "https://bice.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bice.house.gov/contact/fy-2027-request-forms/",
+    "final": "https://bice.house.gov/contact/fy-2027-request-forms",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bice.house.gov/contact/offices/",
+    "final": "https://bice.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bice.house.gov/contact/",
+    "final": "https://biceforms.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://bice.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://bice.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bice.house.gov/contact/offices/oklahoma-city-district-office/",
+    "final": "https://bice.house.gov/contact/offices/oklahoma-city-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://biceforms.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "M001176": {
+  "id": "M001176",
+  "name": "Jeff Merkley",
+  "seat": "Senator, OR",
+  "pages": [
+   {
+    "url": "https://www.merkley.senate.gov",
+    "final": "https://www.merkley.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.merkley.senate.gov/contact/",
+    "final": "https://www.merkley.senate.gov/connect/contact/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.merkley.senate.gov/contact/offices/",
+    "final": "https://www.merkley.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.merkley.senate.gov/offices/",
+    "final": "https://www.merkley.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.merkley.senate.gov/office-locations/",
+    "final": "https://www.merkley.senate.gov/connect/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.merkley.senate.gov/connect/contact/",
+    "final": "https://www.merkley.senate.gov/connect/contact/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.merkley.senate.gov/connect/office-locations/",
+    "final": "https://www.merkley.senate.gov/connect/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.merkley.senate.gov/es/connect/contact/",
+    "final": "https://www.merkley.senate.gov/es/connect/contact/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.merkley.senate.gov",
+   "https://www.merkley.senate.gov/contact/offices/",
+   "https://www.merkley.senate.gov/offices/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.merkley.senate.gov/connect/contact/",
+    "positive": [
+     "comment",
+     "concern",
+     "issue",
+     "share your",
+     "topic"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "flag request"
+    ]
+   },
+   {
+    "url": "https://www.merkley.senate.gov/connect/contact/",
+    "positive": [
+     "comment",
+     "concern",
+     "issue",
+     "share your",
+     "topic"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "flag request"
+    ]
+   },
+   {
+    "url": "https://www.merkley.senate.gov/es/connect/contact/",
+    "positive": [
+     "issue"
+    ],
+    "negative": [
+     "casework"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "W000779": {
+  "id": "W000779",
+  "name": "Ron Wyden",
+  "seat": "Senator, OR",
+  "pages": [
+   {
+    "url": "https://www.wyden.senate.gov",
+    "final": "https://www.wyden.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.wyden.senate.gov/contact/",
+    "final": "https://www.wyden.senate.gov/contact/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.wyden.senate.gov/contact/offices/",
+    "final": "https://www.wyden.senate.gov/contact/offices/",
+    "status": 410,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.wyden.senate.gov/offices/",
+    "final": "https://www.wyden.senate.gov/offices/",
+    "status": 410,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.wyden.senate.gov/office-locations/",
+    "final": "https://www.wyden.senate.gov/office-locations/",
+    "status": 410,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.wyden.senate.gov/contact/email-ron/",
+    "final": "https://www.wyden.senate.gov/contact/email-ron/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.wyden.senate.gov/contact/office-locations/",
+    "final": "https://www.wyden.senate.gov/contact/office-locations/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.wyden.senate.gov",
+   "https://www.wyden.senate.gov/contact/offices/",
+   "https://www.wyden.senate.gov/offices/",
+   "https://www.wyden.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+15419627691"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+12022282717",
+   "+15416123466"
+  ],
+  "publishedAddressesNotFound": [
+   "La Grande, OR office: SAC Annex Building, 105 Fir St., Suite 201"
+  ],
+  "forms": [
+   {
+    "url": "https://www.wyden.senate.gov/contact/",
+    "positive": [
+     "issue"
+    ],
+    "negative": [
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://www.wyden.senate.gov/contact/email-ron/",
+    "positive": [
+     "issue",
+     "legislation",
+     "opinion",
+     "share your"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://www.wyden.senate.gov/contact/office-locations/",
+    "positive": [
+     "issue"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "B001278": {
+  "id": "B001278",
+  "name": "Suzanne Bonamici",
+  "seat": "Representative, OR-1",
+  "pages": [
+   {
+    "url": "https://bonamici.house.gov",
+    "final": "https://bonamici.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bonamici.house.gov/contact/",
+    "final": "https://bonamici.house.gov/address_authentication?form=/contact/email/comment",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://bonamici.house.gov/contact/email/",
+    "final": "https://bonamici.house.gov/contact/email",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bonamici.house.gov/contact/offices/",
+    "final": "https://bonamici.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bonamici.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://bonamici.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bonamici.house.gov/contact/offices/beaverton-district-office/",
+    "final": "https://bonamici.house.gov/contact/offices/beaverton-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bonamici.house.gov/contact/office-locations/",
+    "final": "https://bonamici.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bonamici.house.gov/contact/email/comment/",
+    "final": "https://bonamici.house.gov/address_authentication?form=/contact/email/comment",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Beaverton, OR office: 12725 SW Millikan Way, Suite 220"
+  ],
+  "forms": [
+   {
+    "url": "https://bonamici.house.gov/address_authentication?form=/contact/email/comment",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://bonamici.house.gov/address_authentication?form=/contact/email/comment",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "B000668": {
+  "id": "B000668",
+  "name": "Cliff Bentz",
+  "seat": "Representative, OR-2",
+  "pages": [
+   {
+    "url": "https://bentz.house.gov",
+    "final": "https://bentz.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bentz.house.gov/contact/",
+    "final": "https://bentz.house.gov/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://bentz.house.gov/zip_authentication/",
+    "final": "https://bentz.house.gov/zip_authentication",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://bentz.house.gov/contact/offices/",
+    "final": "https://bentz.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bentz.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://bentz.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bentz.house.gov/contact/offices/medford-district-office/",
+    "final": "https://bentz.house.gov/contact/offices/medford-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bentz.house.gov/contact/offices/ontario-district-office/",
+    "final": "https://bentz.house.gov/contact/offices/ontario-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+18723692183"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://bentz.house.gov/contact",
+    "positive": [
+     "issue"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://bentz.house.gov/zip_authentication",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "D000635": {
+  "id": "D000635",
+  "name": "Maxine Dexter",
+  "seat": "Representative, OR-3",
+  "pages": [
+   {
+    "url": "https://dexter.house.gov",
+    "final": "https://dexter.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://dexter.house.gov/contact/email-me/",
+    "final": "https://dexter.house.gov/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://dexter.house.gov/shareyourstory/",
+    "final": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=mYITktAiSU2NMHFw1YltmIqvUzng37FHjsMGeMfz2BZUMUo2R1BIQU9WUDdHT0w4MVJXWkMwWUlVMCQlQCN0PWcu&route=shorturl",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://dexter.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://dexter.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://dexter.house.gov/contact/offices/portland-office/",
+    "final": "https://dexter.house.gov/contact/offices/portland-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://dexter.house.gov/contact/",
+    "final": "https://dexter.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://dexter.house.gov/contact/office-locations/",
+    "final": "https://dexter.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://dexter.house.gov/contact/email-me",
+    "positive": [
+     "concern",
+     "issue",
+     "legislation",
+     "opinion",
+     "share your",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "H001094": {
+  "id": "H001094",
+  "name": "Val T. Hoyle",
+  "seat": "Representative, OR-4",
+  "pages": [
+   {
+    "url": "https://hoyle.house.gov",
+    "final": "https://hoyle.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hoyle.house.gov/contact/",
+    "final": "https://hoyle.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hoyle.house.gov/contact/email-val/",
+    "final": "https://hoyle.house.gov/contact/email-val/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hoyle.house.gov/contact/offices/",
+    "final": "https://hoyle.house.gov/contact/offices/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "B001326": {
+  "id": "B001326",
+  "name": "Janelle S. Bynum",
+  "seat": "Representative, OR-5",
+  "pages": [
+   {
+    "url": "https://bynum.house.gov",
+    "final": "https://bynum.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bynum.house.gov/contact/email-me/",
+    "final": "https://bynum.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://bynum.house.gov/contact/",
+    "final": "https://bynum.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bynum.house.gov/contact/office-locations/",
+    "final": "https://bynum.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bynum.house.gov/contact/share-your-stories/",
+    "final": "https://bynum.house.gov/contact/share-your-stories",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bynum.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://bynum.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bynum.house.gov/contact/offices/oregon-city-district-office/",
+    "final": "https://bynum.house.gov/contact/offices/oregon-city-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://bynum.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ }
+}

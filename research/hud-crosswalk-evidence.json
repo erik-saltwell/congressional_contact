@@ -1,0 +1,242 @@
+{
+  "recordedAt": "2026-11-05",
+  "api": "https://www.huduser.gov/hudapi/public/usps",
+  "crosswalkType": 5,
+  "note": "Counts computed from authenticated HUD API responses (query=All). The token is not recorded. Raw responses were kept in a scratch directory, not the repository.",
+  "quarters": {
+    "2024Q1": {
+      "rows": 46657,
+      "zips": 39363,
+      "distinctGeoids": 451,
+      "multiCandidateZips": 6570,
+      "crossStateZips": 133,
+      "unassignedRows": 36,
+      "zeroResidentialRows": 4196
+    },
+    "2025Q1": {
+      "rows": 46622,
+      "zips": 39368,
+      "distinctGeoids": 446,
+      "multiCandidateZips": 6542,
+      "crossStateZips": 121,
+      "unassignedRows": 19,
+      "zeroResidentialRows": 3938
+    },
+    "2025Q3": {
+      "rows": 46615,
+      "zips": 39364,
+      "distinctGeoids": 446,
+      "multiCandidateZips": 6541,
+      "crossStateZips": 122,
+      "unassignedRows": 19,
+      "zeroResidentialRows": 3921
+    },
+    "2025Q4": {
+      "rows": 46615,
+      "zips": 39364,
+      "distinctGeoids": 446,
+      "multiCandidateZips": 6541,
+      "crossStateZips": 122,
+      "unassignedRows": 19,
+      "zeroResidentialRows": 3905
+    },
+    "2026Q1": {
+      "rows": 46020,
+      "zips": 39350,
+      "distinctGeoids": 443,
+      "multiCandidateZips": 6060,
+      "crossStateZips": 123,
+      "unassignedRows": 5,
+      "zeroResidentialRows": 3757
+    },
+    "2026Q2": {
+      "rows": 46018,
+      "zips": 39347,
+      "distinctGeoids": 443,
+      "multiCandidateZips": 6061,
+      "crossStateZips": 123,
+      "unassignedRows": 5,
+      "zeroResidentialRows": 3713
+    }
+  },
+  "quarterChanges": {
+    "2024Q1->2025Q1": {
+      "changedZips": 1703,
+      "largest": {
+        "NC": 400,
+        "AL": 278,
+        "NY": 275,
+        "LA": 274,
+        "GA": 179
+      },
+      "reading": "118th to 119th Congress redistricting"
+    },
+    "2025Q1->2025Q3": {
+      "changedZips": 11
+    },
+    "2025Q3->2025Q4": {
+      "changedZips": 0
+    },
+    "2025Q4->2026Q1": {
+      "changedZips": 624,
+      "removedCandidates": 625,
+      "addedCandidates": 43,
+      "removedMedianResRatio": 0.0004,
+      "reading": "sliver cleanup spread across states, not redistricting"
+    },
+    "2026Q1->2026Q2": {
+      "changedZips": 7
+    }
+  },
+  "samples2026Q2": {
+    "10003": {
+      "hud": [
+        "NY-10",
+        "NY-12"
+      ],
+      "house": [
+        "NY-10",
+        "NY-12"
+      ]
+    },
+    "42223": {
+      "hud": [
+        "KY-1",
+        "TN-1"
+      ],
+      "house": [
+        "KY-1",
+        "TN-1",
+        "TN-7"
+      ],
+      "census2020zcta": [
+        "KY-1",
+        "TN-7"
+      ],
+      "hudStateField": "KY for both rows"
+    },
+    "97635": {
+      "hud": [
+        "CA-1",
+        "OR-2"
+      ],
+      "house": [
+        "CA-1",
+        "OR-2"
+      ],
+      "hudStateField": "OR for both rows"
+    },
+    "98103": {
+      "hud": [
+        "WA-7"
+      ]
+    },
+    "01731": {
+      "hud": [
+        "MA-5",
+        "MA-6 (res_ratio 0)"
+      ],
+      "house": [
+        "MA-5",
+        "MA-6"
+      ]
+    },
+    "50321": {
+      "hud": [
+        "IA-3",
+        "IA-1 (res_ratio 0)"
+      ],
+      "house": [
+        "IA-1",
+        "IA-3"
+      ]
+    },
+    "20164": {
+      "hud": [
+        "VA-10",
+        "VA-11 (res_ratio 0)"
+      ],
+      "house": "single result (rendered client-side; district not parsed)"
+    },
+    "78557": {
+      "hud": [
+        "TX-15",
+        "TX-26 (res_ratio 0)"
+      ],
+      "house": "single result (not parsed)"
+    },
+    "90631": {
+      "hud": [
+        "CA-38",
+        "CA-45 (res_ratio 0)"
+      ],
+      "house": "single result (not parsed)"
+    },
+    "20001": {
+      "hud": [
+        "DC-0 (geoid 1100)"
+      ]
+    },
+    "00901": {
+      "hud": [
+        "PR-0 (geoid 7200)"
+      ]
+    },
+    "96799": {
+      "hud": "HTTP 404 (American Samoa absent)"
+    },
+    "96898": {
+      "hud": "geoid 6800, Wake Island, no representative"
+    }
+  },
+  "coverage2026Q2": {
+    "territoriesPresent": [
+      "DC",
+      "PR",
+      "GU",
+      "VI"
+    ],
+    "territoriesAbsent": [
+      "AS",
+      "MP"
+    ],
+    "postalStateDiffersFromDistrictState": 131,
+    "ratioValuesInExponentForm": 71,
+    "maxCandidatesPerZip": 4,
+    "candidateCountDistribution": {
+      "1": 33286,
+      "2": 5488,
+      "3": 536,
+      "4": 37
+    },
+    "multiCandidateZipsWithZeroResidentialCandidate": 238,
+    "ofWhichWouldBecomeSingle": 202,
+    "compactIndex": {
+      "zips": 39346,
+      "rawBytes": 728092,
+      "gzipBytes": 105258,
+      "form": "zip -> sorted seat keys like NY-12"
+    }
+  },
+  "roster": {
+    "fetchedAt": "2026-11-05",
+    "communityLastModified": "Thu, 24 Sep 2026 10:21:30 GMT",
+    "clerkPublishDate": "November 3, 2026",
+    "clerkCongress": 119,
+    "communityRecords": {
+      "rep": 439,
+      "sen": 100
+    },
+    "clerkMemberIdsMatchCommunity": true,
+    "senateIdsMatchCommunity": true,
+    "clerkVacancies": [
+      "FL-20",
+      "TX-23"
+    ],
+    "delegateDistrictInCommunityData": 0,
+    "appointedSenatorsWithTermEnd2026-11-03": [
+      "H001104 Jon Husted (OH)",
+      "M001244 Ashley Moody (FL)"
+    ]
+  }
+}

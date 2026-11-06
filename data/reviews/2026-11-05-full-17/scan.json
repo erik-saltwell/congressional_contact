@@ -1,0 +1,1971 @@
+{
+ "S001226": {
+  "id": "S001226",
+  "name": "Andrea Salinas",
+  "seat": "Representative, OR-6",
+  "pages": [
+   {
+    "url": "https://salinas.house.gov",
+    "final": "https://salinas.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://salinas.house.gov/contact/",
+    "final": "https://salinas.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://salinas.house.gov/how-can-we-help-you/",
+    "final": "https://salinas.house.gov/how-can-we-help-you",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://salinas.house.gov/contact/offices/",
+    "final": "https://salinas.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://salinas.house.gov/node/4237/",
+    "final": "https://salinas.house.gov/node/4237/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://salinas.house.gov/contact/offices/tualatin-district-office/",
+    "final": "https://salinas.house.gov/contact/offices/tualatin-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://salinas.house.gov/contact/offices/salem-district-office/",
+    "final": "https://salinas.house.gov/contact/offices/salem-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://salinas.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://salinas.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://salinas.house.gov/node/4237/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://salinas.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "F000479": {
+  "id": "F000479",
+  "name": "John Fetterman",
+  "seat": "Senator, PA",
+  "pages": [
+   {
+    "url": "https://www.fetterman.senate.gov",
+    "final": "https://www.fetterman.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.fetterman.senate.gov/contact/",
+    "final": "https://www.fetterman.senate.gov/contact/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.fetterman.senate.gov/contact/offices/",
+    "final": "https://www.fetterman.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.fetterman.senate.gov/offices/",
+    "final": "https://www.fetterman.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.fetterman.senate.gov/office-locations/",
+    "final": "https://www.fetterman.senate.gov/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.fetterman.senate.gov",
+   "https://www.fetterman.senate.gov/contact/offices/",
+   "https://www.fetterman.senate.gov/offices/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+15828337050"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.fetterman.senate.gov/contact/",
+    "positive": [
+     "comment",
+     "issue",
+     "legislation",
+     "share your"
+    ],
+    "negative": [
+     "federal agency"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "M001243": {
+  "id": "M001243",
+  "name": "David McCormick",
+  "seat": "Senator, PA",
+  "pages": [
+   {
+    "url": "https://www.mccormick.senate.gov",
+    "final": "https://www.mccormick.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.mccormick.senate.gov/contact/",
+    "final": "https://www.mccormick.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.mccormick.senate.gov/contact/offices/",
+    "final": "https://www.mccormick.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.mccormick.senate.gov/offices/",
+    "final": "https://www.mccormick.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.mccormick.senate.gov/office-locations/",
+    "final": "https://www.mccormick.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mccormick.senate.gov/",
+    "final": "https://mccormick.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.mccormick.senate.gov/contact/contact-dave/",
+    "final": "https://www.mccormick.senate.gov/contact/contact-dave/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.mccormick.senate.gov",
+   "https://www.mccormick.senate.gov/contact/offices/",
+   "https://www.mccormick.senate.gov/offices/",
+   "https://www.mccormick.senate.gov/office-locations/",
+   "https://mccormick.senate.gov/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.mccormick.senate.gov/contact/contact-dave/",
+    "positive": [
+     "issue",
+     "legislation",
+     "topic"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "F000466": {
+  "id": "F000466",
+  "name": "Brian K. Fitzpatrick",
+  "seat": "Representative, PA-1",
+  "pages": [
+   {
+    "url": "https://fitzpatrick.house.gov",
+    "final": "https://fitzpatrick.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fitzpatrick.house.gov/contact/",
+    "final": "https://fitzpatrick.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fitzpatrick.house.gov/email/",
+    "final": "https://fitzpatrick.house.gov/email/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://fitzpatrick.house.gov/district-office/",
+    "final": "https://fitzpatrick.house.gov/district-office/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fitzpatrick.house.gov/washington-d-c-office/",
+    "final": "https://fitzpatrick.house.gov/washington-d-c-office/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://fitzpatrick.house.gov/email/",
+    "positive": [
+     "concern",
+     "issue",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "B001296": {
+  "id": "B001296",
+  "name": "Brendan F. Boyle",
+  "seat": "Representative, PA-2",
+  "pages": [
+   {
+    "url": "https://boyle.house.gov",
+    "final": "https://boyle.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://boyle.house.gov/contact/",
+    "final": "https://boyle.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://boyle.house.gov/contact/email/",
+    "final": "https://boyle.house.gov/address_authentication?form=/contact/email",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://boyle.house.gov/contact/offices/",
+    "final": "https://boyle.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://boyle.house.gov/contact/share-your-story-how-are-rising-health-care-costs-impacting-you/",
+    "final": "https://boyle.house.gov/contact/share-your-story-how-are-rising-health-care-costs-impacting-you",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://boyle.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://boyle.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://boyle.house.gov/contact/offices/olney-office/",
+    "final": "https://boyle.house.gov/contact/offices/olney-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://boyle.house.gov/contact/offices/bustleton-office/",
+    "final": "https://boyle.house.gov/contact/offices/bustleton-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://boyle.house.gov/contact/offices/girard-office/",
+    "final": "https://boyle.house.gov/contact/offices/girard-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://boyle.house.gov/contact/office-locations/",
+    "final": "https://boyle.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://boyle.house.gov/address_authentication?form=/contact/email",
+    "positive": [
+     "issue",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "E000296": {
+  "id": "E000296",
+  "name": "Dwight Evans",
+  "seat": "Representative, PA-3",
+  "pages": [
+   {
+    "url": "https://evans.house.gov",
+    "final": "https://evans.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://evans.house.gov/story/",
+    "final": "https://evans.house.gov/address_authentication?form=/story",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://evans.house.gov/contact/email/",
+    "final": "https://evans.house.gov/zip_authentication?form=/contact/email",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://evans.house.gov/contact/offices/",
+    "final": "https://evans.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://evans.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://evans.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://evans.house.gov/contact/offices/philadelphia-office/",
+    "final": "https://evans.house.gov/contact/offices/philadelphia-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://evans.house.gov/contact/offices/philadelphia-office-point-breeze/",
+    "final": "https://evans.house.gov/contact/offices/philadelphia-office-point-breeze",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://evans.house.gov/contact/office-locations/",
+    "final": "https://evans.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://evans.house.gov/address_authentication?form=/story",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://evans.house.gov/zip_authentication?form=/contact/email",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "D000631": {
+  "id": "D000631",
+  "name": "Madeleine Dean",
+  "seat": "Representative, PA-4",
+  "pages": [
+   {
+    "url": "https://dean.house.gov",
+    "final": "https://dean.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://dean.house.gov/contact/",
+    "final": "https://dean.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://dean.house.gov/email-me/",
+    "final": "https://dean.house.gov/email-me/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://dean.house.gov/offices/",
+    "final": "https://dean.house.gov/offices/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "S001205": {
+  "id": "S001205",
+  "name": "Mary Gay Scanlon",
+  "seat": "Representative, PA-5",
+  "pages": [
+   {
+    "url": "https://scanlon.house.gov",
+    "final": "https://scanlon.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://scanlon.house.gov/forms/form/",
+    "final": "https://scanlon.house.gov/forms/form/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://scanlon.house.gov/contact/",
+    "final": "https://scanlon.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://scanlon.house.gov/forms/emailsignup/",
+    "final": "https://scanlon.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://scanlon.house.gov/contact/offices.htm",
+    "final": "https://scanlon.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://scanlon.house.gov/contact/satellite-hours.htm",
+    "final": "https://scanlon.house.gov/contact/satellite-hours.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://scanlon.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "H001085": {
+  "id": "H001085",
+  "name": "Chrissy Houlahan",
+  "seat": "Representative, PA-6",
+  "pages": [
+   {
+    "url": "https://houlahan.house.gov",
+    "final": "https://houlahan.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://houlahan.house.gov/contact/",
+    "final": "https://houlahan.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://houlahan.house.gov/forms/emailsignup/",
+    "final": "https://houlahan.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://houlahan.house.gov/contact/event-requests.htm",
+    "final": "https://houlahan.house.gov/contact/event-requests.htm",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://houlahan.house.gov/news/email/",
+    "final": "https://houlahan.house.gov/news/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://houlahan.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://houlahan.house.gov/contact/event-requests.htm",
+    "positive": [
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "meeting request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": [
+   "errin.cecil-smith@mail.house.gov"
+  ]
+ },
+ "M001230": {
+  "id": "M001230",
+  "name": "Ryan Mackenzie",
+  "seat": "Representative, PA-7",
+  "pages": [
+   {
+    "url": "https://mackenzie.house.gov",
+    "final": "https://mackenzie.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mackenzie.house.gov/contact/email-me/",
+    "final": "https://mackenzie.house.gov/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://mackenzie.house.gov/contact/",
+    "final": "https://mackenzie.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mackenzie.house.gov/contact/office-locations/",
+    "final": "https://mackenzie.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mackenzie.house.gov/contact/town-hall-rsvp/",
+    "final": "https://mackenzie.house.gov/contact/town-hall-rsvp",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mackenzie.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://mackenzie.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mackenzie.house.gov/contact/offices/lehigh-county/",
+    "final": "https://mackenzie.house.gov/contact/offices/lehigh-county",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mackenzie.house.gov/contact/offices/northampton-county/",
+    "final": "https://mackenzie.house.gov/contact/offices/northampton-county",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mackenzie.house.gov/contact/offices/downtown-allentown/",
+    "final": "https://mackenzie.house.gov/contact/offices/downtown-allentown",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mackenzie.house.gov/contact/offices/carbon-and-monroe-county/",
+    "final": "https://mackenzie.house.gov/contact/offices/carbon-and-monroe-county",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+16103331170"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://mackenzie.house.gov/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "B001327": {
+  "id": "B001327",
+  "name": "Robert P. Bresnahan, Jr.",
+  "seat": "Representative, PA-8",
+  "pages": [
+   {
+    "url": "https://bresnahan.house.gov",
+    "final": "https://bresnahan.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bresnahan.house.gov/contact/",
+    "final": "https://bresnahan.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bresnahan.house.gov/contact/email-me/",
+    "final": "https://bresnahan.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://bresnahan.house.gov/contact/office-locations/",
+    "final": "https://bresnahan.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bresnahan.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://bresnahan.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bresnahan.house.gov/contact/offices/scotrun-office/",
+    "final": "https://bresnahan.house.gov/contact/offices/scotrun-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bresnahan.house.gov/contact/offices/forty-fort-office/",
+    "final": "https://bresnahan.house.gov/contact/offices/forty-fort-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bresnahan.house.gov/contact/offices/hazleton-office/",
+    "final": "https://bresnahan.house.gov/contact/offices/hazleton-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://bresnahan.house.gov/contact/offices/scranton-office/",
+    "final": "https://bresnahan.house.gov/contact/offices/scranton-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://bresnahan.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "M001204": {
+  "id": "M001204",
+  "name": "Daniel Meuser",
+  "seat": "Representative, PA-9",
+  "pages": [
+   {
+    "url": "https://meuser.house.gov",
+    "final": "https://meuser.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://meuser.house.gov/contact/",
+    "final": "https://meuser.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://meuser.house.gov/contact/email-me/",
+    "final": "https://meuser.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://meuser.house.gov/contact/offices/",
+    "final": "https://meuser.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://meuser.house.gov/contact/updates/",
+    "final": "https://meuser.house.gov/contact/updates",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://meuser.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://meuser.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://meuser.house.gov/contact/offices/hamburg-office/",
+    "final": "https://meuser.house.gov/contact/offices/hamburg-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://meuser.house.gov/contact/offices/lebanon-office/",
+    "final": "https://meuser.house.gov/contact/offices/lebanon-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://meuser.house.gov/contact/offices/tunkhannock-office/",
+    "final": "https://meuser.house.gov/contact/offices/tunkhannock-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://meuser.house.gov/contact/offices/williamsport-office/",
+    "final": "https://meuser.house.gov/contact/offices/williamsport-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Bloomsburg, PA office: Market Street Plaza, 1000 Market Street, Suite 39, Office of Rep. Robert Leadbeter"
+  ],
+  "forms": [
+   {
+    "url": "https://meuser.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "legislation"
+    ],
+    "negative": [
+     "federal agency"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "P000605": {
+  "id": "P000605",
+  "name": "Scott Perry",
+  "seat": "Representative, PA-10",
+  "pages": [
+   {
+    "url": "https://perry.house.gov",
+    "final": "https://perry.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://perry.house.gov/contact/",
+    "final": "https://perry.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://perry.house.gov/forms/emailsignup/",
+    "final": "https://perry.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://perry.house.gov/contact/officeinformation.htm",
+    "final": "https://perry.house.gov/contact/officeinformation.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+17173381919"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://perry.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "S001199": {
+  "id": "S001199",
+  "name": "Lloyd Smucker",
+  "seat": "Representative, PA-11",
+  "pages": [
+   {
+    "url": "https://smucker.house.gov",
+    "final": "https://smucker.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://smucker.house.gov/contact/",
+    "final": "https://smucker.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://smucker.house.gov/contact/offices/",
+    "final": "https://smucker.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://smucker.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://smucker.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://smucker.house.gov/contact/offices/hanover-office/",
+    "final": "https://smucker.house.gov/contact/offices/hanover-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://smucker.house.gov/contact/offices/lancaster-office/",
+    "final": "https://smucker.house.gov/contact/offices/lancaster-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://smucker.house.gov/contact/offices/red-lion-office/",
+    "final": "https://smucker.house.gov/contact/offices/red-lion-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://smucker.house.gov/contact/office-locations/",
+    "final": "https://smucker.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+18882170231"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://smucker.house.gov/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://smucker.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "L000602": {
+  "id": "L000602",
+  "name": "Summer L. Lee",
+  "seat": "Representative, PA-12",
+  "pages": [
+   {
+    "url": "https://summerlee.house.gov",
+    "final": "https://summerlee.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://summerlee.house.gov/contact-us/",
+    "final": "https://summerlee.house.gov/contact-us",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://summerlee.house.gov/contact-us/write-to-summer/",
+    "final": "https://summerlee.house.gov/address_authentication?form=/contact-us/write-to-summer",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://summerlee.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://summerlee.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://summerlee.house.gov/contact/offices/clairton-satellite-office/",
+    "final": "https://summerlee.house.gov/contact/offices/clairton-satellite-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://summerlee.house.gov/contact/offices/monroeville-satellite-office/",
+    "final": "https://summerlee.house.gov/contact/offices/monroeville-satellite-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://summerlee.house.gov/contact/offices/pittsburgh-district-office/",
+    "final": "https://summerlee.house.gov/contact/offices/pittsburgh-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://summerlee.house.gov/contact/offices/jeannette-district-office-0/",
+    "final": "https://summerlee.house.gov/contact/offices/jeannette-district-office-0",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://summerlee.house.gov/contact/offices/bethel-park-district-office/",
+    "final": "https://summerlee.house.gov/contact/offices/bethel-park-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://summerlee.house.gov/contact/offices/beechview-satellite-office/",
+    "final": "https://summerlee.house.gov/contact/offices/beechview-satellite-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [
+   "+14124125000"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://summerlee.house.gov/address_authentication?form=/contact-us/write-to-summer",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "flag request",
+     "meeting request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "J000302": {
+  "id": "J000302",
+  "name": "John Joyce",
+  "seat": "Representative, PA-13",
+  "pages": [
+   {
+    "url": "https://johnjoyce.house.gov",
+    "final": "https://johnjoyce.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://johnjoyce.house.gov/contact/",
+    "final": "https://johnjoyce.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://johnjoyce.house.gov/contact/offices/",
+    "final": "https://johnjoyce.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://johnjoyce.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://johnjoyce.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://johnjoyce.house.gov/contact/offices/johnstown-district-office/",
+    "final": "https://johnjoyce.house.gov/contact/offices/johnstown-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://johnjoyce.house.gov/contact/offices/cambria-county-district-office-0/",
+    "final": "https://johnjoyce.house.gov/contact/offices/cambria-county-district-office-0",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://johnjoyce.house.gov/contact/offices/juniata-valley-district-office/",
+    "final": "https://johnjoyce.house.gov/contact/offices/juniata-valley-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://johnjoyce.house.gov/contact/offices/chambersburg-district-office/",
+    "final": "https://johnjoyce.house.gov/contact/offices/chambersburg-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://johnjoyce.house.gov/contact/offices/adams-county-district-office/",
+    "final": "https://johnjoyce.house.gov/contact/offices/adams-county-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://johnjoyce.house.gov/contact/offices/altoona-district-office/",
+    "final": "https://johnjoyce.house.gov/contact/offices/altoona-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://johnjoyce.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "meeting request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "R000610": {
+  "id": "R000610",
+  "name": "Guy Reschenthaler",
+  "seat": "Representative, PA-14",
+  "pages": [
+   {
+    "url": "https://reschenthaler.house.gov",
+    "final": "https://reschenthaler.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://reschenthaler.house.gov/contact/",
+    "final": "https://reschenthaler.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://reschenthaler.house.gov/contact/email-me/",
+    "final": "https://reschenthaler.house.gov/contact/email-me/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://reschenthaler.house.gov/contact/offices/",
+    "final": "https://reschenthaler.house.gov/contact/offices/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "T000467": {
+  "id": "T000467",
+  "name": "Glenn Thompson",
+  "seat": "Representative, PA-15",
+  "pages": [
+   {
+    "url": "https://thompson.house.gov",
+    "final": "https://thompson.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://thompson.house.gov/contact/email-me/",
+    "final": "https://thompson.house.gov/zip_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://thompson.house.gov/contact/offices/",
+    "final": "https://thompson.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://thompson.house.gov/contact/invite-me-to-speak/",
+    "final": "https://thompson.house.gov/address_authentication?form=/contact/invite-me-to-speak",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://thompson.house.gov/contact/",
+    "final": "https://thompson.house.gov/zip_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://thompson.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://thompson.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://thompson.house.gov/contact/offices/bellefonte-office/",
+    "final": "https://thompson.house.gov/contact/offices/bellefonte-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://thompson.house.gov/contact/offices/oil-city-office/",
+    "final": "https://thompson.house.gov/contact/offices/oil-city-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://thompson.house.gov/zip_authentication?form=/contact/email-me",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://thompson.house.gov/address_authentication?form=/contact/invite-me-to-speak",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://thompson.house.gov/zip_authentication?form=/contact/email-me",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "K000376": {
+  "id": "K000376",
+  "name": "Mike Kelly",
+  "seat": "Representative, PA-16",
+  "pages": [
+   {
+    "url": "https://kelly.house.gov",
+    "final": "https://kelly.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kelly.house.gov/contact/",
+    "final": "https://kelly.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kelly.house.gov/contact/offices/",
+    "final": "https://kelly.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kelly.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://kelly.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kelly.house.gov/contact/offices/erie-district-office/",
+    "final": "https://kelly.house.gov/contact/offices/erie-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kelly.house.gov/contact/offices/hermitage-district-office/",
+    "final": "https://kelly.house.gov/contact/offices/hermitage-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kelly.house.gov/contact/offices/butler-district-office/",
+    "final": "https://kelly.house.gov/contact/offices/butler-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kelly.house.gov/contact/email-me/",
+    "final": "https://kelly.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Sharon, PA office: 33 Chestnut Ave."
+  ],
+  "forms": [
+   {
+    "url": "https://kelly.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "D000530": {
+  "id": "D000530",
+  "name": "Christopher R. Deluzio",
+  "seat": "Representative, PA-17",
+  "pages": [
+   {
+    "url": "https://deluzio.house.gov",
+    "final": "https://deluzio.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://deluzio.house.gov/contact/",
+    "final": "https://deluzio.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://deluzio.house.gov/contact/offices/",
+    "final": "https://deluzio.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://deluzio.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://deluzio.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://deluzio.house.gov/contact/offices/beaver-county-district-office/",
+    "final": "https://deluzio.house.gov/contact/offices/beaver-county-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://deluzio.house.gov/contact/offices/penn-hills-district-office/",
+    "final": "https://deluzio.house.gov/contact/offices/penn-hills-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://deluzio.house.gov/contact/offices/carnegie-district-office/",
+    "final": "https://deluzio.house.gov/contact/offices/carnegie-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://deluzio.house.gov/email-me/",
+    "final": "https://deluzio.house.gov/address_authentication?form=/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Carnegie, PA office: Carnegie Office Park, Building 1, 600 N Bell Avenue, Suite 102"
+  ],
+  "forms": [
+   {
+    "url": "https://deluzio.house.gov/address_authentication?form=/email-me",
+    "positive": [
+     "concern",
+     "issue",
+     "legislation",
+     "opinion",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "H001103": {
+  "id": "H001103",
+  "name": "Pablo Jos\u00e9 Hern\u00e1ndez",
+  "seat": "Resident Commissioner, PR-0",
+  "pages": [
+   {
+    "url": "https://hernandez.house.gov",
+    "final": "https://hernandez.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hernandez.house.gov/contact/email-me/",
+    "final": "https://hernandezforms.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://hernandez.house.gov/contact/",
+    "final": "https://hernandezforms.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://hernandez.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://hernandez.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hernandez.house.gov/contact/offices/puerto-rico/",
+    "final": "https://hernandez.house.gov/contact/offices/puerto-rico",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hernandezforms.house.gov/forms/emailsignup/",
+    "final": "https://hernandezforms.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://hernandezforms.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://hernandezforms.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "R000122": {
+  "id": "R000122",
+  "name": "Jack Reed",
+  "seat": "Senator, RI",
+  "pages": [
+   {
+    "url": "https://www.reed.senate.gov",
+    "final": "https://www.reed.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.reed.senate.gov/contact/",
+    "final": "https://www.reed.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.reed.senate.gov/contact/offices/",
+    "final": "https://www.reed.senate.gov/404?notfound=/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.reed.senate.gov/offices/",
+    "final": "https://www.reed.senate.gov/404?notfound=/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.reed.senate.gov/office-locations/",
+    "final": "https://www.reed.senate.gov/404?notfound=/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.reed.senate.gov/contact/es/",
+    "final": "https://www.reed.senate.gov/contact/es/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.reed.senate.gov/contact/assistance/",
+    "final": "https://www.reed.senate.gov/contact/assistance/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.reed.senate.gov/contact/email/",
+    "final": "https://www.reed.senate.gov/contact/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.reed.senate.gov",
+   "https://www.reed.senate.gov/contact/offices/",
+   "https://www.reed.senate.gov/offices/",
+   "https://www.reed.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+12022244680",
+   "+14014646837",
+   "+18007455555"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "W000802": {
+  "id": "W000802",
+  "name": "Sheldon Whitehouse",
+  "seat": "Senator, RI",
+  "pages": [
+   {
+    "url": "https://www.whitehouse.senate.gov",
+    "final": "https://www.whitehouse.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.whitehouse.senate.gov/contact/",
+    "final": "https://www.whitehouse.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.whitehouse.senate.gov/contact/offices/",
+    "final": "https://www.whitehouse.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.whitehouse.senate.gov/offices/",
+    "final": "https://www.whitehouse.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.whitehouse.senate.gov/office-locations/",
+    "final": "https://www.whitehouse.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.whitehouse.senate.gov/contact/email-sheldon",
+    "final": "https://www.whitehouse.senate.gov/contact/email-sheldon/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.whitehouse.senate.gov/contact/sign-up/",
+    "final": "https://www.whitehouse.senate.gov/contact/sign-up/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.whitehouse.senate.gov/contact/itemDataObject.url/",
+    "final": "https://www.whitehouse.senate.gov/contact/itemDataObject.url/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.whitehouse.senate.gov/contact/{{{data.link}}}/",
+    "final": "https://www.whitehouse.senate.gov/contact/{{{data.link}}}/",
+    "status": 0,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.whitehouse.senate.gov",
+   "https://www.whitehouse.senate.gov/contact/offices/",
+   "https://www.whitehouse.senate.gov/offices/",
+   "https://www.whitehouse.senate.gov/office-locations/",
+   "https://www.whitehouse.senate.gov/contact/itemDataObject.url/",
+   "https://www.whitehouse.senate.gov/contact/{{{data.link}}}/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 530 Hart Senate Office Building"
+  ],
+  "forms": [
+   {
+    "url": "https://www.whitehouse.senate.gov/contact/email-sheldon/",
+    "positive": [
+     "comment",
+     "issue",
+     "legislation",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "meeting request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": [
+   "scheduling@whitehouse.senate.gov"
+  ]
+ },
+ "A000380": {
+  "id": "A000380",
+  "name": "Gabe Amo",
+  "seat": "Representative, RI-1",
+  "pages": [
+   {
+    "url": "https://amo.house.gov",
+    "final": "https://amo.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://amo.house.gov/contact/",
+    "final": "https://amo.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://amo.house.gov/contact/offices/",
+    "final": "https://amo.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://amo.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://amo.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://amo.house.gov/contact/offices/rhode-island-district-office/",
+    "final": "https://amo.house.gov/contact/offices/rhode-island-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Pawtucket, RI office: 1070 Main Street, Suite 300"
+  ],
+  "forms": [
+   {
+    "url": "https://amo.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "M001223": {
+  "id": "M001223",
+  "name": "Seth Magaziner",
+  "seat": "Representative, RI-2",
+  "pages": [
+   {
+    "url": "https://magaziner.house.gov",
+    "final": "https://magaziner.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://magaziner.house.gov/contact/",
+    "final": "https://magaziner.house.gov/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://magaziner.house.gov/contact/offices/",
+    "final": "https://magaziner.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://magaziner.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://magaziner.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://magaziner.house.gov/contact/offices/warwick-district-office/",
+    "final": "https://magaziner.house.gov/contact/offices/warwick-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://magaziner.house.gov/contact",
+    "positive": [
+     "concern",
+     "issue",
+     "opinion",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ }
+}

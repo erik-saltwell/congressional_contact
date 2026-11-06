@@ -1,0 +1,1306 @@
+{
+ "batch": "2026-11-05-full-13",
+ "reviewedAt": "2026-11-05",
+ "officials": {
+  "E000246": {
+   "name": "Chuck Edwards",
+   "seat": "Representative, NC-11",
+   "status": "verified",
+   "pagesChecked": [
+    "https://edwards.house.gov/",
+    "https://edwards.house.gov/contact",
+    "https://edwards.house.gov/contact/offices",
+    "https://edwards.house.gov/contact/offices/washington-dc-office",
+    "https://edwards.house.gov/contact/offices/hendersonville-district-office",
+    "https://edwards.house.gov/about/events"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://edwards.house.gov/contact",
+     "source": "https://edwards.house.gov/contact",
+     "evidence": "'Submit an Opinion/Inquiry' form with 'Please choose the issue of concern' list (Agriculture, ... Welfare) and the option 'No, I wanted to voice my opinion'."
+    }
+   ]
+  },
+  "A000370": {
+   "name": "Alma S. Adams",
+   "seat": "Representative, NC-12",
+   "status": "verified",
+   "pagesChecked": [
+    "https://adams.house.gov/",
+    "https://adams.house.gov/contact/offices",
+    "https://adams.house.gov/contact/offices/charlotte-district-office",
+    "https://adamsforms.house.gov/contact/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://adamsforms.house.gov/contact/",
+     "source": "https://adams.house.gov/",
+     "evidence": "The site's 'Connect With Me' / email link: 'Send Me An Email I value all feedback from residents of my district. Please enter your zip code to continue' (behind a ZIP check), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://adams.house.gov/contact/offices/charlotte-district-office",
+     "evidence": "'Charlotte District Office Address By Appointment Only Charlotte, North Carolina 28262 ... Phone: (704) 344-9950', with no street address. We publish 10815 David Taylor Dr., Suite 100.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022251510",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2436 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3312",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Charlotte, NC office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17043449950",
+         "type": "voice"
+        }
+       ],
+       "address": null
+      }
+     ]
+    }
+   ]
+  },
+  "K000405": {
+   "name": "Brad Knott",
+   "seat": "Representative, NC-13",
+   "status": "verified",
+   "pagesChecked": [
+    "https://knott.house.gov/",
+    "https://knott.house.gov/address_authentication?form=/contact/email-me",
+    "https://knott.house.gov/contact",
+    "https://knott.house.gov/contact/office-locations",
+    "https://knott.house.gov/contact/offices/washington-dc-office",
+    "https://knott.house.gov/contact/offices/mobile-office-hours-granville-county",
+    "https://knott.house.gov/contact/offices/mobile-office-hours-harnett-county",
+    "https://knott.house.gov/contact/offices/district-office"
+   ],
+   "notes": "Offices match; the site also lists two mobile office hours locations (Stem and Lillington) with no phone, not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://knott.house.gov/contact/email-me",
+     "source": "https://knott.house.gov/",
+     "evidence": "The site's 'Email Me' link, the member's main contact form, behind an address check (address_authentication?form=/contact/email-me), so its topic list could not be read."
+    }
+   ]
+  },
+  "M001236": {
+   "name": "Tim Moore",
+   "seat": "Representative, NC-14",
+   "status": "verified",
+   "pagesChecked": [
+    "https://timmoore.house.gov/",
+    "https://timmoore.house.gov/contact",
+    "https://timmoore.house.gov/address_authentication?form=/contact/email-me",
+    "https://timmoore.house.gov/contact/office-locations",
+    "https://timmoore.house.gov/contact/offices/washington-dc-office",
+    "https://timmoore.house.gov/contact/offices/morganton-district-office",
+    "https://timmoore.house.gov/contact/offices/shelby-district-office",
+    "https://timmoore.house.gov/contact/offices/rutherford-district-office",
+    "https://timmoore.house.gov/contact/offices/gastonia-district-office",
+    "https://timmoore.house.gov/contact/offices/cornelius-district-office"
+   ],
+   "notes": "Morganton and Shelby offices list no phone ('Please Call to Make Appointment').",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://timmoore.house.gov/contact/email-me",
+     "source": "https://timmoore.house.gov/",
+     "evidence": "The site's 'Email Me' link, the member's main contact form, behind an address check (address_authentication?form=/contact/email-me), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://timmoore.house.gov/contact/office-locations",
+     "evidence": "Office list adds 'Morganton District Office Burke County Government Center 200 Avery Avenue Morganton, NC 28655', 'Shelby District Office Cleveland County Administration Building 311 East Marion Street Shelby, NC 28150', 'Cornelius District Office Cornelius Town Hall 21445 Catawba Avenue Cornelius, NC 28031 Phone: (980) 460-8110' and 'Rutherford District Office Isothermal Community College, The Foundation 286 ICC Loop Road Spindale, NC 28160 Phone: (980) 460-8110'; we publish only Gastonia.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255634",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1424 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0001",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Gastonia, NC office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19804608110",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "128 West Main Ave"
+        ],
+        "city": "Gastonia",
+        "region": "NC",
+        "postalCode": "28052",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Morganton, NC office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "Burke County Government Center",
+         "200 Avery Avenue"
+        ],
+        "city": "Morganton",
+        "region": "NC",
+        "postalCode": "28655",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Shelby, NC office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "Cleveland County Administration Building",
+         "311 East Marion Street"
+        ],
+        "city": "Shelby",
+        "region": "NC",
+        "postalCode": "28150",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Cornelius, NC office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19804608110",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Cornelius Town Hall",
+         "21445 Catawba Avenue"
+        ],
+        "city": "Cornelius",
+        "region": "NC",
+        "postalCode": "28031",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Spindale, NC office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19804608110",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Isothermal Community College, The Foundation",
+         "286 ICC Loop Road"
+        ],
+        "city": "Spindale",
+        "region": "NC",
+        "postalCode": "28160",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "C001096": {
+   "name": "Kevin Cramer",
+   "seat": "Senator, ND",
+   "status": "partial",
+   "pagesChecked": [
+    "https://www.cramer.senate.gov/contact",
+    "https://www.cramer.senate.gov/contact/offices",
+    "https://www.cramer.senate.gov/contact/contact-kevin"
+   ],
+   "notes": "Homepage blocked (403). Offices match (contact/offices page). Policy-feedback form not checked: the Contact page's 'WRITE TO ME / CONTACT ME' link opens https://www.cramer.senate.gov/contact/contact-kevin, but that page draws no form in curl or a browser (only site-search forms), so no issue list could be read and no form is proposed.",
+   "proposals": []
+  },
+  "H001061": {
+   "name": "John Hoeven",
+   "seat": "Senator, ND",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.hoeven.senate.gov/contact",
+    "https://www.hoeven.senate.gov/contact/contact-the-senator/comment-on-an-issue-before-the-senate"
+   ],
+   "notes": "Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.hoeven.senate.gov/contact/contact-the-senator/comment-on-an-issue-before-the-senate",
+     "source": "https://www.hoeven.senate.gov/contact/contact-the-senator/comment-on-an-issue-before-the-senate",
+     "evidence": "'Comment on an Issue Before the Senate' form with a 'Topic' list (Agriculture, Budget, ... Veterans); scheduling and federal-agency help are separate."
+    }
+   ]
+  },
+  "F000482": {
+   "name": "Julie Fedorchak",
+   "seat": "Representative, ND-0",
+   "status": "verified",
+   "pagesChecked": [
+    "https://fedorchak.house.gov/",
+    "https://fedorchak.house.gov/contact",
+    "https://fedorchak.house.gov/contact/office-locations",
+    "https://fedorchak.house.gov/contact/fedorchak-forum-conversations-constituents",
+    "https://fedorchak.house.gov/contact/offices/washington-dc-office",
+    "https://fedorchak.house.gov/contact/offices/bismarck-office",
+    "https://fedorchak.house.gov/contact/offices/fargo-office",
+    "https://fedorchakforms.house.gov/contact/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://fedorchakforms.house.gov/contact/",
+     "source": "https://fedorchak.house.gov/",
+     "evidence": "The site's 'Email Me' link: 'Send Me an Email — Please enter your zip code below to verify residency within my district and continue' (behind a ZIP check), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://fedorchak.house.gov/contact/office-locations",
+     "evidence": "'Bismarck Office 400 E Broadway Avenue Suite 306 Bismarck, ND 58501 Phone: (701) 354-6700'. We publish U.S. Federal Building, 220 E Rosser Ave, Room 228.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252611",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1607 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3400",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Bismarck, ND office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17013546700",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "400 E Broadway Avenue, Suite 306"
+        ],
+        "city": "Bismarck",
+        "region": "ND",
+        "postalCode": "58501",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Fargo, ND office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17013536665",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "3217 Fiechtner Dr, Suite B"
+        ],
+        "city": "Fargo",
+        "region": "ND",
+        "postalCode": "58103",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "F000463": {
+   "name": "Deb Fischer",
+   "seat": "Senator, NE",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.fischer.senate.gov/connect/",
+    "https://www.fischer.senate.gov/connect/email-deb/"
+   ],
+   "notes": "Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.fischer.senate.gov/connect/email-deb/",
+     "source": "https://www.fischer.senate.gov/connect/",
+     "evidence": "'Email Deb' form ('I want to hear from you') with a 'Topic' list (Agriculture, Banking, Budget, ...); federal agency assistance is separate."
+    }
+   ]
+  },
+  "R000618": {
+   "name": "Pete Ricketts",
+   "seat": "Senator, NE",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.ricketts.senate.gov/contact/",
+    "https://www.ricketts.senate.gov/contact/share-your-opinion/"
+   ],
+   "notes": "Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.ricketts.senate.gov/contact/share-your-opinion/",
+     "source": "https://www.ricketts.senate.gov/contact/share-your-opinion/",
+     "evidence": "'Share Your Opinion' form: 'This web form is the best way to ensure your views and feedback get to Pete'; casework and scheduling are separate."
+    }
+   ]
+  },
+  "F000474": {
+   "name": "Mike Flood",
+   "seat": "Representative, NE-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://flood.house.gov/",
+    "https://flood.house.gov/contact",
+    "https://flood.house.gov/contact/offices",
+    "https://flood.house.gov/contact/offices/washington-dc-office",
+    "https://flood.house.gov/contact/offices/lincoln-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://flood.house.gov/contact",
+     "source": "https://flood.house.gov/contact",
+     "evidence": "Contact page: 'You can enter your ZIP code below to send as an email'; a multi-page form whose first page is identity fields, so its topic list could not be read. Federal agency help and tours are separate."
+    }
+   ]
+  },
+  "B001298": {
+   "name": "Don Bacon",
+   "seat": "Representative, NE-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://bacon.house.gov/",
+    "https://bacon.house.gov/contact/",
+    "https://bacon.house.gov/contact/subscribe.htm",
+    "https://bacon.house.gov/contact/offices.htm"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://bacon.house.gov/contact/",
+     "source": "https://bacon.house.gov/contact/",
+     "evidence": "The member's main contact page, which asks for a ZIP code before the form (behind a ZIP check), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://bacon.house.gov/contact/",
+     "evidence": "'Office Locations Washington, DC Office 2104 Rayburn HOB ... Phone: (202) 225-4155 Toll-Free: 888-221-7452 Omaha Office 13906 Gold Circle Suite 101 Omaha, NE 68144 Phone: (402) 938-0300'. No Wahoo office is listed, and the toll-free line is not published.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254155",
+         "type": "voice"
+        },
+        {
+         "number": "+18882217452",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2104 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-2702",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Omaha, NE office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14029380300",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "13906 Gold Circle, Suite 101"
+        ],
+        "city": "Omaha",
+        "region": "NE",
+        "postalCode": "68144",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "S001172": {
+   "name": "Adrian Smith",
+   "seat": "Representative, NE-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://adriansmith.house.gov/",
+    "https://adriansmith.house.gov/address_authentication?form=/contact",
+    "https://adriansmith.house.gov/contact/offices",
+    "https://adriansmith.house.gov/contact/offices/washington-dc-office",
+    "https://adriansmith.house.gov/contact/offices/nebraska-city-district-office",
+    "https://adriansmith.house.gov/contact/offices/grand-island-district-office",
+    "https://adriansmith.house.gov/contact/offices/scottsbluff-district-office",
+    "https://adriansmith.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://adriansmith.house.gov/contact",
+     "source": "https://adriansmith.house.gov/",
+     "evidence": "The member's main contact form, behind an address check (address_authentication?form=/contact), so its topic list could not be read."
+    }
+   ]
+  },
+  "H001076": {
+   "name": "Margaret Wood Hassan",
+   "seat": "Senator, NH",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.hassan.senate.gov/contact/",
+    "https://www.hassan.senate.gov/contact/email"
+   ],
+   "notes": "Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.hassan.senate.gov/contact/email",
+     "source": "https://www.hassan.senate.gov/contact/",
+     "evidence": "'Email Senator Hassan': 'If you are looking for further information about legislative issues, please fill out the message form below'; agency help, meetings and tours are separate. The form fields did not render in curl or a browser, so its purpose is taken from the page text."
+    }
+   ]
+  },
+  "S001181": {
+   "name": "Jeanne Shaheen",
+   "seat": "Senator, NH",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.shaheen.senate.gov/contact/",
+    "https://www.shaheen.senate.gov/contact/contact-jeanne"
+   ],
+   "notes": "Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.shaheen.senate.gov/contact/contact-jeanne",
+     "source": "https://www.shaheen.senate.gov/contact/",
+     "evidence": "'Contact Jeanne': 'To contact Senator Shaheen with a question, concern or comment, please fill in the information below ... Please use the below form to let Senator Shaheen hear from you.' The form fields did not render in curl or a browser, so its purpose is taken from the page text."
+    }
+   ]
+  },
+  "P000614": {
+   "name": "Chris Pappas",
+   "seat": "Representative, NH-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://pappas.house.gov/",
+    "https://pappas.house.gov/contact",
+    "https://pappas.house.gov/zip_authentication?form=/contact/email-me",
+    "https://pappas.house.gov/contact/offices",
+    "https://pappas.house.gov/contact/offices/washington-dc-office",
+    "https://pappas.house.gov/contact/offices/manchester-district-office",
+    "https://pappas.house.gov/contact/offices/dover-district-office",
+    "https://pappas.house.gov/contact/offices/north-conway-office"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://pappas.house.gov/contact/email-me",
+     "source": "https://pappas.house.gov/contact",
+     "evidence": "The site's 'Email Me' link, the member's main contact form, behind a ZIP check (zip_authentication?form=/contact/email-me), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://pappas.house.gov/contact/offices",
+     "evidence": "'Dover District Office 15 Third Street Suite 101 Dover, NH 03820 Phone: (603) 285-4300'. We publish 660 Central Ave, Suite 101.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255456",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "452 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-2901",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Dover, NH office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16032854300",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "15 Third Street, Suite 101"
+        ],
+        "city": "Dover",
+        "region": "NH",
+        "postalCode": "03820",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Manchester, NH office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16039356710",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "889 Elm Street"
+        ],
+        "city": "Manchester",
+        "region": "NH",
+        "postalCode": "03101",
+        "country": "US"
+       }
+      },
+      {
+       "label": "North Conway, NH office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16037335100",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Building 1",
+         "2541 White Mountain Highway, Unit 4"
+        ],
+        "city": "North Conway",
+        "region": "NH",
+        "postalCode": "03860",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "G000604": {
+   "name": "Maggie Goodlander",
+   "seat": "Representative, NH-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://goodlander.house.gov/",
+    "https://goodlander.house.gov/contact-maggie/"
+   ],
+   "notes": "The site prints GoodlanderScheduling@mail.house.gov, a scheduling mailbox, not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://goodlander.house.gov/contact-maggie/",
+     "source": "https://goodlander.house.gov/contact-maggie/",
+     "evidence": "'CONTACT' form with 'Please choose the issue of concern' list (Agriculture, Animals, ... Foreign Relations, Guns, Health)."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://goodlander.house.gov/",
+     "evidence": "'NASHUA DISTRICT OFFICE 184 Main Street Suite 222 Nashua, NH 03060 Phone: (603) 226-1002' and 'LITTLETON DISTRICT OFFICE 33 Main Street Suite 202 Littleton, NH 03561 Phone: (603) 226-1002'. We publish (603) 595-2006 and (603) 444-7700.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255206",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "223 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-2902",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Concord, NH office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16032261002",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "18 North Main St, 4th Floor"
+        ],
+        "city": "Concord",
+        "region": "NH",
+        "postalCode": "03301",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Nashua, NH office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16032261002",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "184 Main St, Suite 222"
+        ],
+        "city": "Nashua",
+        "region": "NH",
+        "postalCode": "03060",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Littleton, NH office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16032261002",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "33 Main St, Suite 202"
+        ],
+        "city": "Littleton",
+        "region": "NH",
+        "postalCode": "03561",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "B001288": {
+   "name": "Cory A. Booker",
+   "seat": "Senator, NJ",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.booker.senate.gov/contact",
+    "https://www.booker.senate.gov/contact/write-to-cory"
+   ],
+   "notes": "Homepage blocked (403). Offices match. The page source holds socialcorybooker@gmail.com, which is not printed for constituents, so it is not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.booker.senate.gov/contact/write-to-cory",
+     "source": "https://www.booker.senate.gov/contact",
+     "evidence": "'Write to Cory' form with an 'Issue' list (Agriculture and Nutrition, Animal Welfare, Armed Services, ...); a separate federal-agency help option."
+    }
+   ]
+  },
+  "K000394": {
+   "name": "Andy Kim",
+   "seat": "Senator, NJ",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.kim.senate.gov/contact/",
+    "https://www.kim.senate.gov/office-locations/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.kim.senate.gov/contact/",
+     "source": "https://www.kim.senate.gov/contact/",
+     "evidence": "'Write to Andy ... For general comments (sharing your comments on pending or proposed legislation ...), use the form below', with a topic list; agency help is separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.kim.senate.gov/office-locations/",
+     "evidence": "Office list includes 'Northfield, NJ 1423 Tilton Road Suite 5 Northfield, NJ 08225 Phone: (609) 241-7770', which we do not publish.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022244744",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "520 Hart Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Barrington, NJ office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18567575353",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "208 White Horse Pike, Suite 18"
+        ],
+        "city": "Barrington",
+        "region": "NJ",
+        "postalCode": "08007",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Jersey City, NJ office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12013770900",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Harborside 3",
+         "210 Hudson Street, Suite 1000"
+        ],
+        "city": "Jersey City",
+        "region": "NJ",
+        "postalCode": "07311",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Northfield, NJ office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16092417770",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1423 Tilton Road, Suite 5"
+        ],
+        "city": "Northfield",
+        "region": "NJ",
+        "postalCode": "08225",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "N000188": {
+   "name": "Donald Norcross",
+   "seat": "Representative, NJ-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://norcross.house.gov/",
+    "https://norcross.house.gov/contact",
+    "https://norcross.house.gov/address_authentication?form=/contact/email-me",
+    "https://norcross.house.gov/address_authentication?form=/contact/telephone-town-hall-sign-up",
+    "https://norcross.house.gov/contact/constituent-success-stories",
+    "https://norcross.house.gov/contact/offices/washington-dc-office",
+    "https://norcross.house.gov/contact/offices/cherry-hill-district-office",
+    "https://norcross.house.gov/contact/offices/camden-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://norcross.house.gov/contact/email-me",
+     "source": "https://norcross.house.gov/",
+     "evidence": "The site's 'Email Me' link, the member's main contact form, behind an address check (address_authentication?form=/contact/email-me), so its topic list could not be read."
+    }
+   ]
+  },
+  "V000133": {
+   "name": "Jefferson Van Drew",
+   "seat": "Representative, NJ-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://vandrew.house.gov/",
+    "https://vandrew.house.gov/news/email/",
+    "https://vandrew.house.gov/contact/",
+    "https://vandrew.house.gov/forms/emailsignup/",
+    "https://vandrew.house.gov/news/email/default.aspx"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://vandrew.house.gov/contact/",
+     "source": "https://vandrew.house.gov/contact/",
+     "evidence": "The site's 'Email Me' page: 'Send Me an Email — Please enter your zip code below to verify residency within my district and continue' (behind a ZIP check), so its topic list could not be read."
+    }
+   ]
+  },
+  "C001136": {
+   "name": "Herbert C. Conaway, Jr.",
+   "seat": "Representative, NJ-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://conaway.house.gov/",
+    "https://conaway.house.gov/contact",
+    "https://conaway.house.gov/address_authentication?form=/contact/email-me",
+    "https://conaway.house.gov/contact/office-locations",
+    "https://conaway.house.gov/contact/offices/washington-dc-office",
+    "https://conaway.house.gov/contact/offices/hamilton-district-office",
+    "https://conaway.house.gov/contact/offices/freehold-district-office",
+    "https://conaway.house.gov/contact/offices/marlton-district-office"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://conaway.house.gov/contact/email-me",
+     "source": "https://conaway.house.gov/",
+     "evidence": "The site's 'Email Me' link, the member's main contact form, behind an address check (address_authentication?form=/contact/email-me), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://conaway.house.gov/contact",
+     "evidence": "Office list adds 'Freehold District Office 30 Mechanic Street Freehold, NJ 07728 Phone: (609) 438-6290' and 'Marlton District Office 5 Greentree Centre Suite 307 Marlton, NJ 08053 Phone: (609) 438-6290', which we do not publish.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254765",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1022 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3003",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Trenton, NJ office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16094386290",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "4573 S Broad Street"
+        ],
+        "city": "Trenton",
+        "region": "NJ",
+        "postalCode": "08620",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Freehold, NJ office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16094386290",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "30 Mechanic Street"
+        ],
+        "city": "Freehold",
+        "region": "NJ",
+        "postalCode": "07728",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Marlton, NJ office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16094386290",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "5 Greentree Centre, Suite 307"
+        ],
+        "city": "Marlton",
+        "region": "NJ",
+        "postalCode": "08053",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "S000522": {
+   "name": "Christopher H. Smith",
+   "seat": "Representative, NJ-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://chrissmith.house.gov/",
+    "https://chrissmith.house.gov/contact/",
+    "https://chrissmith.house.gov/contact/zipauth.htm"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://chrissmith.house.gov/contact/zipauth.htm",
+     "source": "https://chrissmith.house.gov/contact/",
+     "evidence": "The site's 'Email Chris' link, a 'Zip Authentication' page in front of the member's contact form (behind a ZIP check), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://chrissmith.house.gov/contact/",
+     "evidence": "Offices listed are only 'Washington, DC Office 2373 Rayburn House Office Building ... (202) 225-3765' and 'Constituent Service Center 1005 Hooper Avenue Toms River, NJ 08753 ... phone (732) 504-0567'. No Middletown office is listed, and we publish P.O. Box 728, 33 Washington Street for Toms River.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253765",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2373 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3004",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Toms River, NJ office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17325040567",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1005 Hooper Avenue"
+        ],
+        "city": "Toms River",
+        "region": "NJ",
+        "postalCode": "08753",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "G000583": {
+   "name": "Josh Gottheimer",
+   "seat": "Representative, NJ-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://gottheimer.house.gov/",
+    "https://gottheimer.house.gov/contact"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://gottheimer.house.gov/contact",
+     "source": "https://gottheimer.house.gov/contact",
+     "evidence": "Contact form with a 'Topic' field, 'Subject Line' and 'Message' ('Your message will be read by a member of my staff first')."
+    }
+   ]
+  },
+  "P000034": {
+   "name": "Frank Pallone, Jr.",
+   "seat": "Representative, NJ-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://pallone.house.gov/",
+    "https://pallone.house.gov/contact/offices",
+    "https://pallone.house.gov/satellite-offices",
+    "https://palloneforms.house.gov/contact/"
+   ],
+   "notes": "Offices match; the Satellite Offices page lists no extra offices.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://palloneforms.house.gov/contact/",
+     "source": "https://pallone.house.gov/",
+     "evidence": "The site's 'Email' link: 'Send Me An Email I value all feedback from residents of my district. Please enter your zip code below to continue' (behind a ZIP check), so its topic list could not be read."
+    }
+   ]
+  },
+  "K000398": {
+   "name": "Thomas H. Kean, Jr.",
+   "seat": "Representative, NJ-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://kean.house.gov/",
+    "https://kean.house.gov/address_authentication?form=/contact",
+    "https://kean.house.gov/contact/offices",
+    "https://kean.house.gov/contact/offices",
+    "https://kean.house.gov/contact/offices/washington-dc-office",
+    "https://kean.house.gov/contact/offices/lebanon-borough-district-office",
+    "https://kean.house.gov/contact/offices/hopatcong-satellite-office",
+    "https://kean.house.gov/contact/offices/mount-olive-satellite-office",
+    "https://kean.house.gov/contact/offices/washington-borough-satellite-office",
+    "https://kean.house.gov/contact/offices/bridgewater-satellite-office"
+   ],
+   "notes": "Satellite offices list hours but no phone.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://kean.house.gov/contact",
+     "source": "https://kean.house.gov/",
+     "evidence": "The site's 'Email Me' link, the member's main contact form, behind an address check (address_authentication?form=/contact), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://kean.house.gov/address_authentication?form=/contact",
+     "evidence": "Office list: 'Lebanon Borough District Office 100 Corporate Drive, Suite 106 Lebanon, NJ 08833 ... 908-547-3307', satellite offices at Hopatcong, Mount Olive (Budd Lake), Washington Borough, 'Bridgewater Satellite Office Bridgewater Township Municipal Building 100 Commons Way, Conference Room 102A-B Bridgewater, NJ 08807' and 'Clark Satellite Office Clark Township Municipal Building 430 Westfield Ave, Room 30 (History Room) Clark, NJ 07066'. Mountainside, Bernardsville and Flemington are no longer listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255361",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "251 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3007",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Budd Lake, NJ office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "Mount Olive Township Municipal Building",
+         "204 Flanders-Drakestown Road, Municipal Council Chambers"
+        ],
+        "city": "Budd Lake",
+        "region": "NJ",
+        "postalCode": "07828",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Hopatcong, NJ office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "Hopatcong Borough Municipal Building",
+         "111 River Styx Road"
+        ],
+        "city": "Hopatcong",
+        "region": "NJ",
+        "postalCode": "07843",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Washington, NJ office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "100 Belvidere Avenue, Second Floor Council Chambers"
+        ],
+        "city": "Washington",
+        "region": "NJ",
+        "postalCode": "07882",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Lebanon, NJ office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19085473307",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "100 Corporate Drive, Suite 106"
+        ],
+        "city": "Lebanon",
+        "region": "NJ",
+        "postalCode": "08833",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Bridgewater, NJ office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "Bridgewater Township Municipal Building",
+         "100 Commons Way, Conference Room 102A-B"
+        ],
+        "city": "Bridgewater",
+        "region": "NJ",
+        "postalCode": "08807",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Clark, NJ office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "Clark Township Municipal Building",
+         "430 Westfield Ave, Room 30"
+        ],
+        "city": "Clark",
+        "region": "NJ",
+        "postalCode": "07066",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

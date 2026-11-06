@@ -1,0 +1,1167 @@
+{
+ "batch": "2026-11-05-full-16",
+ "reviewedAt": "2026-11-05",
+ "officials": {
+  "L000566": {
+   "name": "Robert E. Latta",
+   "seat": "Representative, OH-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://latta.house.gov/",
+    "https://latta.house.gov/contact/"
+   ],
+   "notes": "Offices match (Elyria '5th Floor' and 'Room 503' both appear).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://latta.house.gov/contact/",
+     "source": "https://latta.house.gov/contact/",
+     "evidence": "'To email me with a comment or concern, please enter your zip code below' ('Send Me An Email'); the member's main email form, behind a ZIP check, so its topic list could not be read. Meetings and casework are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://latta.house.gov/contact/",
+     "evidence": "The contact page's office list opens with 'Ohio toll free number 800-541-6446 (OHIO)' (not tied to one office; its toll-free fax 419-354-8702 sits with Bowling Green's 419-354-8700 block), then 'Bowling Green Office: 1045 N. Main Street, Suite 6 ... Phone: (419) 354-8700'. We publish no toll-free number. Added to Bowling Green; reject if a statewide line should not sit on one office.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022256405",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2470 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3505",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Bowling Green, OH office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14193548700",
+         "type": "voice"
+        },
+        {
+         "number": "+18005416446",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1045 N. Main St., Suite 6"
+        ],
+        "city": "Bowling Green",
+        "region": "OH",
+        "postalCode": "43402",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Findlay, OH office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14194227791",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "318 Dorney Plz., Room 302"
+        ],
+        "city": "Findlay",
+        "region": "OH",
+        "postalCode": "45840",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Elyria, OH office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14404065010",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "226 Middle Avenue, 5th Floor"
+        ],
+        "city": "Elyria",
+        "region": "OH",
+        "postalCode": "44035",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "R000619": {
+   "name": "Michael A. Rulli",
+   "seat": "Representative, OH-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://rulli.house.gov/",
+    "https://rulli.house.gov/contact/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://rulli.house.gov/contact/",
+     "source": "https://rulli.house.gov/contact/",
+     "evidence": "Contact form with an issue list and 'No, I wanted to voice my opinion'; agency help is separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://rulli.house.gov/contact/",
+     "evidence": "Office Locations lists Washington, Canfield and 'St.Clairsville Office 101 North Market Street St. Clairsville, OH 43950 Phone: (740) 338-3738'. The Marietta office (246 Front Street, (740) 885-4860) we publish is not listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255705",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "421 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3506",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Canfield, OH office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13309677312",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "4137 Boardman-Canfield Road, Suite 106"
+        ],
+        "city": "Canfield",
+        "region": "OH",
+        "postalCode": "44406",
+        "country": "US"
+       }
+      },
+      {
+       "label": "St. Clairsville, OH office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17403383738",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "101 North Market Street"
+        ],
+        "city": "St. Clairsville",
+        "region": "OH",
+        "postalCode": "43950",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "M001222": {
+   "name": "Max L. Miller",
+   "seat": "Representative, OH-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://maxmiller.house.gov/",
+    "https://maxmiller.house.gov/contact"
+   ],
+   "notes": "Offices match: Parma and Medina are listed 'By Appointment' with phones only.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://maxmiller.house.gov/contact",
+     "source": "https://maxmiller.house.gov/contact",
+     "evidence": "Contact form behind an address check ('Let's check that you're within this district'), then 'How can we help?' with a Topic list and message."
+    }
+   ]
+  },
+  "D000626": {
+   "name": "Warren Davidson",
+   "seat": "Representative, OH-8",
+   "status": "verified",
+   "pagesChecked": [
+    "https://davidson.house.gov/",
+    "https://davidson.house.gov/contact",
+    "https://davidson.house.gov/address_authentication?form=/contact/email-me",
+    "https://davidson.house.gov/contact/office-locations",
+    "https://davidson.house.gov/contact/offices/washington-dc-office",
+    "https://davidson.house.gov/contact/offices/liberty-township-district-office",
+    "https://davidson.house.gov/contact/offices/cincinnati-district-office"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://davidson.house.gov/contact/email-me",
+     "source": "https://davidson.house.gov/contact",
+     "evidence": "'You can send us an email by entering your address and completing the Email Me form'; the main email form, behind an address check (address_authentication)."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://davidson.house.gov/contact",
+     "evidence": "'Liberty Township District Office 4879 Mercedes Drive Suite A Liberty Township, OH 45011 Phone: (513) 779-5400, (937) 339-1524'. We publish only (513) 779-5400.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022256205",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2113 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3508",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Liberty Township, OH office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15137795400",
+         "type": "voice"
+        },
+        {
+         "number": "+19373391524",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "4879 Mercedes Drive, Suite A"
+        ],
+        "city": "Liberty Township",
+        "region": "OH",
+        "postalCode": "45011",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Cincinnati, OH office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15137795400",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "5520 Harrison Avenue, Suite C"
+        ],
+        "city": "Cincinnati",
+        "region": "OH",
+        "postalCode": "45248",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "K000009": {
+   "name": "Marcy Kaptur",
+   "seat": "Representative, OH-9",
+   "status": "verified",
+   "pagesChecked": [
+    "https://kaptur.house.gov/",
+    "https://kaptur.house.gov/address_authentication?form=/contact",
+    "https://kaptur.house.gov/contact/offices",
+    "https://kaptur.house.gov/contact/offices/washington-dc-office",
+    "https://kaptur.house.gov/contact/offices/toledo-district-office",
+    "https://kaptur.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://kaptur.house.gov/contact",
+     "source": "https://kaptur.house.gov/address_authentication?form=/contact",
+     "evidence": "The member's main contact form ('Contact Marcy', 'Email'), behind an address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "T000463": {
+   "name": "Michael R. Turner",
+   "seat": "Representative, OH-10",
+   "status": "verified",
+   "pagesChecked": [
+    "https://turner.house.gov/",
+    "https://turner.house.gov/contact",
+    "https://turner.house.gov/address_authentication?form=/contact/email-me",
+    "https://turner.house.gov/contact/office-locations",
+    "https://turner.house.gov/contact/offices/washington-dc-office",
+    "https://turner.house.gov/contact/offices/dayton-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://turner.house.gov/contact/email-me",
+     "source": "https://turner.house.gov/contact",
+     "evidence": "The member's main email form, behind an address check (address_authentication), so its topic list could not be read; agency help and flags are separate."
+    }
+   ]
+  },
+  "B001313": {
+   "name": "Shontel M. Brown",
+   "seat": "Representative, OH-11",
+   "status": "verified",
+   "pagesChecked": [
+    "https://shontelbrown.house.gov/",
+    "https://shontelbrown.house.gov/address_authentication?form=/contact",
+    "https://shontelbrown.house.gov/contact/offices",
+    "https://shontelbrown.house.gov/contact/live",
+    "https://shontelbrown.house.gov/contact/offices/washington-dc-office",
+    "https://shontelbrown.house.gov/contact/offices/district-office-east",
+    "https://shontelbrown.house.gov/contact/offices"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://shontelbrown.house.gov/contact",
+     "source": "https://shontelbrown.house.gov/contact",
+     "evidence": "The member's main contact form, behind an address check (address_authentication), so its topic list could not be read; agency help is separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://shontelbrown.house.gov/contact/offices",
+     "evidence": "Office Locations lists only 'Washington DC Office 2455 Rayburn ... (202) 225-7032' and 'District Office East 25200 Chagrin Blvd Suite 200 Beachwood, OH 44122 Phone: (216) 522-4900'. The Cleveland office (17021 Lorain Avenue, (216) 535-1100) we publish is not listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022257032",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2455 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3511",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Beachwood, OH office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12165224900",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "25200 Chagrin Blvd, Suite 200"
+        ],
+        "city": "Beachwood",
+        "region": "OH",
+        "postalCode": "44122",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "B001306": {
+   "name": "Troy Balderson",
+   "seat": "Representative, OH-12",
+   "status": "verified",
+   "pagesChecked": [
+    "https://balderson.house.gov/",
+    "https://balderson.house.gov/coronavirus-updates/",
+    "https://balderson.house.gov/news/email/",
+    "https://balderson.house.gov/contact/",
+    "https://balderson.house.gov/forms/emailsignup/",
+    "https://balderson.house.gov/news/documentsingle.aspx",
+    "https://balderson.house.gov/news/email/default.aspx"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://balderson.house.gov/contact/",
+     "source": "https://balderson.house.gov/contact/",
+     "evidence": "'Send Me an Email ... Please enter your zip code below to continue'; the member's main email form, behind a ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "S001223": {
+   "name": "Emilia Strong Sykes",
+   "seat": "Representative, OH-13",
+   "status": "verified",
+   "pagesChecked": [
+    "https://sykes.house.gov/",
+    "https://sykes.house.gov/contact/",
+    "https://sykes.house.gov/contact/email-me/",
+    "https://sykes.house.gov/contact/offices/",
+    "https://sykes.house.gov/visiting-the-dc-office/",
+    "https://sykes.house.gov/contact/join-our-team/"
+   ],
+   "notes": "Offices match. JoinTeamSykes@mail.house.gov is a jobs address, not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://sykes.house.gov/contact/email-me",
+     "source": "https://sykes.house.gov/contact",
+     "evidence": "'Email Me' page under Contact; the form is drawn by script, so its topic list could not be read. Scheduling and agency help are separate."
+    }
+   ]
+  },
+  "J000295": {
+   "name": "David P. Joyce",
+   "seat": "Representative, OH-14",
+   "status": "verified",
+   "pagesChecked": [
+    "https://joyce.house.gov/",
+    "https://joyce.house.gov/contact"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://joyce.house.gov/contact",
+     "source": "https://joyce.house.gov/contact",
+     "evidence": "The contact page embeds a message form (House iqconnect eForm) with a Topic list of policy areas and 'No response necessary'."
+    }
+   ]
+  },
+  "C001126": {
+   "name": "Mike Carey",
+   "seat": "Representative, OH-15",
+   "status": "verified",
+   "pagesChecked": [
+    "https://carey.house.gov/",
+    "https://carey.house.gov/contact/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://carey.house.gov/contact/",
+     "source": "https://carey.house.gov/contact/",
+     "evidence": "Contact form with 'Please choose the issue of concern' and 'No, I wanted to voice my opinion'."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://carey.house.gov/contact/",
+     "evidence": "Office Locations lists 'Piqua Office 201 W. Water Street 2nd Floor Piqua , OH 45356 (937) 778-5145 ext. 3256', which we do not publish (extension not stored).",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252015",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1433 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3515",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Columbus, OH office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16149276902",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "140 E Town St., Suite 1200"
+        ],
+        "city": "Columbus",
+        "region": "OH",
+        "postalCode": "43215",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Piqua, OH office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19377785145",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "201 W. Water Street, 2nd Floor"
+        ],
+        "city": "Piqua",
+        "region": "OH",
+        "postalCode": "45356",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "A000383": {
+   "name": "Alan Armstrong",
+   "seat": "Senator, OK",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.armstrong.senate.gov/contact/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.armstrong.senate.gov/contact/",
+     "source": "https://www.armstrong.senate.gov/contact/",
+     "evidence": "'Share Your Opinion: Send the Senator a message ... share your views on a policy issue', with a Topic list; casework is a separate intake."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.armstrong.senate.gov/contact/",
+     "evidence": "'Oklahoma City 621 N Robinson Ave Suite 401 Oklahoma City, OK 73102 (405) 246-0025' (we publish 3817 NW Expressway, #780) and 'Tulsa 15 W 6th St. Suite 2100 Tulsa, OK 74119 (918) 921-8520' (not published).",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022244721",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "330 Hart Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Oklahoma City, OK office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14052460025",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "621 N Robinson Ave, Suite 401"
+        ],
+        "city": "Oklahoma City",
+        "region": "OK",
+        "postalCode": "73102",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Tulsa, OK office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19189218520",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "15 W 6th St., Suite 2100"
+        ],
+        "city": "Tulsa",
+        "region": "OK",
+        "postalCode": "74119",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "L000575": {
+   "name": "James Lankford",
+   "seat": "Senator, OK",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.lankford.senate.gov/contact/",
+    "https://www.lankford.senate.gov/contact/email/"
+   ],
+   "notes": "Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.lankford.senate.gov/contact/email/",
+     "source": "https://www.lankford.senate.gov/contact/email/",
+     "evidence": "'Email James: Share your opinion' form; agency help and office locations are separate choices."
+    }
+   ]
+  },
+  "H001082": {
+   "name": "Kevin Hern",
+   "seat": "Representative, OK-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://hern.house.gov/",
+    "https://hern.house.gov/contact/",
+    "https://hern.house.gov/forms/emailsignup/",
+    "https://hern.house.gov/contact/offices.htm",
+    "https://hern.house.gov/contact/global-competitiveness-tax-team.htm"
+   ],
+   "notes": "Offices match. GlobalCompetitiveness@mail.house.gov is a policy-team inbox for one initiative, not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://hern.house.gov/contact/",
+     "source": "https://hern.house.gov/contact/",
+     "evidence": "'Email Me' contact page; the member's main email form, behind a ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "B001317": {
+   "name": "Josh Brecheen",
+   "seat": "Representative, OK-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://brecheen.house.gov/",
+    "https://brecheen.house.gov/contact/",
+    "https://brecheen.house.gov/contact/email-me.htm",
+    "https://brecheen.house.gov/forms/form/default.aspx?ID=41"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://brecheen.house.gov/contact/email-me.htm",
+     "source": "https://brecheen.house.gov/contact/email-me.htm",
+     "evidence": "'Email Me: Please enter your ZIP Code below to verify residency'; the member's main email form, behind a ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "L000491": {
+   "name": "Frank D. Lucas",
+   "seat": "Representative, OK-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://lucas.house.gov/",
+    "https://lucas.house.gov/contact"
+   ],
+   "notes": "Offices match ('Canadian County' office in Yukon).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://lucas.house.gov/contact",
+     "source": "https://lucas.house.gov/contact",
+     "evidence": "Contact form behind an address check, then 'How can we help?' with a Topic list; federal agency help is separate."
+    }
+   ]
+  },
+  "C001053": {
+   "name": "Tom Cole",
+   "seat": "Representative, OK-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://cole.house.gov/",
+    "https://cole.house.gov/zip_authentication?form=/contact/email",
+    "https://cole.house.gov/zip_authentication?form=/contact/email",
+    "https://cole.house.gov/contact/offices",
+    "https://cole.house.gov/contact/fy2026-appropriations-requests",
+    "https://cole.house.gov/contact/offices/washington-dc-office",
+    "https://cole.house.gov/contact/offices/ada-district-office",
+    "https://cole.house.gov/contact/offices/lawton-district-office",
+    "https://cole.house.gov/contact/offices/norman-district-office"
+   ],
+   "notes": "olivia.porcaro@mail.house.gov is a staff address, not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://cole.house.gov/contact/email",
+     "source": "https://cole.house.gov/",
+     "evidence": "'E-mail Me'; the member's main email form, behind a ZIP check (zip_authentication), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://cole.house.gov/",
+     "evidence": "'Lawton District Office 713 SW C Ave. Suite 101 Lawton, OK 73501 Phone: (580) 357-2131'. We publish 711 SW. D Ave., Suite 201.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022256165",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2207 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3604",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Lawton, OK office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15803572131",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "713 SW C Ave., Suite 101"
+        ],
+        "city": "Lawton",
+        "region": "OK",
+        "postalCode": "73501",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Norman, OK office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14053296500",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "3219 Rock Creek Rd., Suite 125"
+        ],
+        "city": "Norman",
+        "region": "OK",
+        "postalCode": "73072",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Ada, OK office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15804365375",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "100 E. 13th St., Suite 213"
+        ],
+        "city": "Ada",
+        "region": "OK",
+        "postalCode": "74820",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "B000740": {
+   "name": "Stephanie I. Bice",
+   "seat": "Representative, OK-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://bice.house.gov/",
+    "https://bice.house.gov/contact/fy-2027-request-forms",
+    "https://bice.house.gov/contact/offices",
+    "https://biceforms.house.gov/contact/",
+    "https://bice.house.gov/contact/offices/washington-dc-office",
+    "https://bice.house.gov/contact/offices/oklahoma-city-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://biceforms.house.gov/contact/",
+     "source": "https://bice.house.gov/",
+     "evidence": "The site's 'Email Me' link goes to this House forms page, which starts with a ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "M001176": {
+   "name": "Jeff Merkley",
+   "seat": "Senator, OR",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.merkley.senate.gov/connect/contact/",
+    "https://www.merkley.senate.gov/connect/office-locations/",
+    "https://www.merkley.senate.gov/connect/contact/",
+    "https://www.merkley.senate.gov/connect/office-locations/",
+    "https://www.merkley.senate.gov/es/connect/contact/"
+   ],
+   "notes": "Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.merkley.senate.gov/connect/contact/",
+     "source": "https://www.merkley.senate.gov/connect/contact/",
+     "evidence": "'To ask him a question or share your concerns on an issue, please select a topic then fill out the form below'; casework and flags are separate."
+    }
+   ]
+  },
+  "W000779": {
+   "name": "Ron Wyden",
+   "seat": "Senator, OR",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.wyden.senate.gov/contact/",
+    "https://www.wyden.senate.gov/contact/email-ron/",
+    "https://www.wyden.senate.gov/contact/office-locations/"
+   ],
+   "notes": "Homepage blocked (403). (202) 228-2717 is the DC fax.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.wyden.senate.gov/contact/email-ron/",
+     "source": "https://www.wyden.senate.gov/contact/email-ron/",
+     "evidence": "'Email Ron' page; the 'Share Your Opinion On Legislation' choice opens the message form, drawn by script."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.wyden.senate.gov/contact/office-locations/",
+     "evidence": "Office Locations lists 'Pendleton ... 2411 NW Carden Ave. Suite 207 Pendleton, OR, 97801 P: (541) 612-3466' and no La Grande office. We publish La Grande (SAC Annex Building, 105 Fir St., (541) 962-7691).",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022245244",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "221 Dirksen Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Bend, OR office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15413309142",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "The Jamison Building",
+         "131 NW. Hawthorne Ave., Suite 107"
+        ],
+        "city": "Bend",
+        "region": "OR",
+        "postalCode": "97701",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Eugene, OR office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15414310229",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "405 E. 8th Ave., Suite 2020"
+        ],
+        "city": "Eugene",
+        "region": "OR",
+        "postalCode": "97401",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Medford, OR office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15418585122",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Federal Courthouse",
+         "310 W. 6th St., Room 118"
+        ],
+        "city": "Medford",
+        "region": "OR",
+        "postalCode": "97501",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Portland, OR office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15033267525",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "911 NE 11th Ave., Suite 630"
+        ],
+        "city": "Portland",
+        "region": "OR",
+        "postalCode": "97232",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Salem, OR office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15035894555",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "707 13th St., Suite 285"
+        ],
+        "city": "Salem",
+        "region": "OR",
+        "postalCode": "97301",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Pendleton, OR office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15416123466",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2411 NW Carden Ave., Suite 207"
+        ],
+        "city": "Pendleton",
+        "region": "OR",
+        "postalCode": "97801",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "B001278": {
+   "name": "Suzanne Bonamici",
+   "seat": "Representative, OR-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://bonamici.house.gov/",
+    "https://bonamici.house.gov/address_authentication?form=/contact/email/comment",
+    "https://bonamici.house.gov/contact/email",
+    "https://bonamici.house.gov/contact/offices",
+    "https://bonamici.house.gov/contact/offices/washington-dc-office",
+    "https://bonamici.house.gov/contact/offices/beaverton-district-office",
+    "https://bonamici.house.gov/contact/offices",
+    "https://bonamici.house.gov/address_authentication?form=/contact/email/comment"
+   ],
+   "notes": "Offices match ('12725 Southwest Millikan Way').",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://bonamici.house.gov/contact/email/comment",
+     "source": "https://bonamici.house.gov/contact/email/comment",
+     "evidence": "'Email Suzanne' comment form, behind an address check (address_authentication), so its topic list could not be read; agency help is separate."
+    }
+   ]
+  },
+  "B000668": {
+   "name": "Cliff Bentz",
+   "seat": "Representative, OR-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://bentz.house.gov/",
+    "https://bentz.house.gov/contact",
+    "https://bentz.house.gov/zip_authentication",
+    "https://bentz.house.gov/contact/offices",
+    "https://bentz.house.gov/contact/offices/washington-dc-office",
+    "https://bentz.house.gov/contact/offices/medford-district-office",
+    "https://bentz.house.gov/contact/offices/ontario-district-office"
+   ],
+   "notes": "Offices match. The extra number the scan found is map coordinates.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://bentz.house.gov/contact",
+     "source": "https://bentz.house.gov/contact",
+     "evidence": "'You can enter your ZIP code below to send us an email'; the member's main email form, behind a ZIP check. Agency help and tours are separate."
+    }
+   ]
+  },
+  "D000635": {
+   "name": "Maxine Dexter",
+   "seat": "Representative, OR-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://dexter.house.gov/",
+    "https://dexter.house.gov/contact/email-me",
+    "https://forms.cloud.microsoft/pages/responsepage.aspx?id=mYITktAiSU2NMHFw1YltmIqvUzng37FHjsMGeMfz2BZUMUo2R1BIQU9WUDdHT0w4MVJXWkMwWUlVMCQlQCN0PWcu&route=shorturl",
+    "https://dexter.house.gov/contact/offices/washington-dc-office",
+    "https://dexter.house.gov/contact/offices/portland-office",
+    "https://dexter.house.gov/contact",
+    "https://dexter.house.gov/contact/office-locations"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://dexter.house.gov/contact/email-me",
+     "source": "https://dexter.house.gov/contact/email-me",
+     "evidence": "'Contact Me ... enter your information below to send us an email', with 'Please choose the issue of concern' list; agency help is separate."
+    }
+   ]
+  },
+  "H001094": {
+   "name": "Val T. Hoyle",
+   "seat": "Representative, OR-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://hoyle.house.gov/",
+    "https://hoyle.house.gov/contact/",
+    "https://hoyle.house.gov/contact/email-val/",
+    "https://hoyle.house.gov/contact/offices/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://hoyle.house.gov/contact/email-val",
+     "source": "https://hoyle.house.gov/",
+     "evidence": "'Email Val - Share Comments/Opinions': 'This is the form to submit comments or opinions to Congresswoman Hoyle'; the form is drawn by script. Agency help and tours are separate."
+    }
+   ]
+  },
+  "B001326": {
+   "name": "Janelle S. Bynum",
+   "seat": "Representative, OR-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://bynum.house.gov/",
+    "https://bynum.house.gov/address_authentication?form=/contact/email-me",
+    "https://bynum.house.gov/contact",
+    "https://bynum.house.gov/contact/office-locations",
+    "https://bynum.house.gov/contact/share-your-stories",
+    "https://bynum.house.gov/contact/offices/washington-dc-office",
+    "https://bynum.house.gov/contact/offices/oregon-city-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://bynum.house.gov/contact/email-me",
+     "source": "https://bynum.house.gov/contact/email-me",
+     "evidence": "'Email Me', the member's main email form, behind an address check (address_authentication), so its topic list could not be read; 'Share Your Stories' is separate."
+    }
+   ]
+  }
+ }
+}

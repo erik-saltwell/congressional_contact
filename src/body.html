@@ -1,0 +1,12 @@
+<div id="cc-app" class="cc-app">
+  <form id="cc-form" class="cc-form" novalidate>
+    <label for="cc-zip" class="cc-label">ZIP code</label>
+    <div class="cc-form-row">
+      <input id="cc-zip" class="form-control form-control-lg cc-zip" type="text" inputmode="numeric" autocomplete="postal-code" maxlength="5" aria-describedby="cc-zip-error">
+      <button type="submit" class="btn btn-primary btn-lg">Find my officials</button>
+    </div>
+    <p id="cc-zip-error" class="cc-error" hidden></p>
+  </form>
+  <div id="cc-results" class="cc-results" tabindex="-1" aria-live="polite" hidden></div>
+  <noscript><p class="cc-noscript">This page needs JavaScript to look up your officials.</p></noscript>
+</div>

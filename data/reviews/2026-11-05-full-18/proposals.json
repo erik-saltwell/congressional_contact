@@ -1,0 +1,1177 @@
+{
+ "batch": "2026-11-05-full-18",
+ "reviewedAt": "2026-11-05",
+ "officials": {
+  "G000608": {
+   "name": "Darline Graham",
+   "seat": "Senator, SC",
+   "status": "partial",
+   "pagesChecked": [
+    "https://www.senate.gov/general/contact_information/senators_cfm.xml"
+   ],
+   "notes": "The site https://www.dgraham.senate.gov/ is blocked (403 'Unauthorized') and every subpage tried (contact/, offices/, contact-form/, email/, about/) returns 404, so the website, a feedback form and any state offices could not be checked. The Senate roster (senate.gov) confirms the DC office: '211 Russell Senate Office Building Washington DC 20510', '(202) 224-5972', website https://www.dgraham.senate.gov/. No feedback form found.",
+   "proposals": []
+  },
+  "S001184": {
+   "name": "Tim Scott",
+   "seat": "Senator, SC",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.scott.senate.gov/contact/",
+    "https://www.scott.senate.gov/contact/email-me/"
+   ],
+   "notes": "Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.scott.senate.gov/contact/email-me/",
+     "source": "https://www.scott.senate.gov/contact/email-me/",
+     "evidence": "'Have questions or comments on legislation? ... contact Senator Scott with your comments and questions on legislation'; casework, benefits and tours are separate."
+    }
+   ]
+  },
+  "M000194": {
+   "name": "Nancy Mace",
+   "seat": "Representative, SC-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mace.house.gov/",
+    "https://mace.house.gov/contact",
+    "https://mace.house.gov/how-are-we-doing",
+    "https://mace.house.gov/contact/offices",
+    "https://mace.house.gov/contact/sunday-sunsets",
+    "https://mace.house.gov/contact/district-dogs",
+    "https://mace.house.gov/contact/offices/washington-dc-office",
+    "https://mace.house.gov/contact/offices/beaufort-office",
+    "https://mace.house.gov/contact/offices/daniel-island-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mace.house.gov/contact",
+     "source": "https://mace.house.gov/contact",
+     "evidence": "'You can enter your ZIP code below to send us an email'; the member's main email form, behind a ZIP check, so its topic list could not be read. 'Sunday Sunsets' and 'District Dogs' are not feedback forms."
+    }
+   ]
+  },
+  "W000795": {
+   "name": "Joe Wilson",
+   "seat": "Representative, SC-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://joewilson.house.gov/",
+    "https://joewilson.house.gov/zip_authentication?form=/contact",
+    "https://joewilson.house.gov/contact/offices",
+    "https://joewilson.house.gov/contact/invite-me-to-speak",
+    "https://joewilson.house.gov/contact/offices/washington-dc-office",
+    "https://joewilson.house.gov/contact/offices/aikenbarnwell-office",
+    "https://joewilson.house.gov/contact/offices/midlands-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://joewilson.house.gov/contact",
+     "source": "https://joewilson.house.gov/contact",
+     "evidence": "The member's main contact form, behind a ZIP check (zip_authentication), so its topic list could not be read. 'Invite me to speak' is separate."
+    }
+   ]
+  },
+  "B001325": {
+   "name": "Sheri Biggs",
+   "seat": "Representative, SC-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://sheribiggs.house.gov/",
+    "https://sheribiggs.house.gov/address_authentication?form=/contact/email-me",
+    "https://sheribiggs.house.gov/contact",
+    "https://sheribiggs.house.gov/contact/office-locations",
+    "https://sheribiggs.house.gov/contact/offices/washington-dc-office",
+    "https://sheribiggs.house.gov/contact/offices/anderson-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://sheribiggs.house.gov/contact/email-me",
+     "source": "https://sheribiggs.house.gov/contact/email-me",
+     "evidence": "The member's main email form, behind an address check (address_authentication), so its topic list could not be read; agency help is separate."
+    }
+   ]
+  },
+  "T000480": {
+   "name": "William R. Timmons IV",
+   "seat": "Representative, SC-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://timmons.house.gov/",
+    "https://timmons.house.gov/contact/",
+    "https://timmons.house.gov/forms/emailsignup/",
+    "https://timmons.house.gov/contact/offices.htm",
+    "https://timmons.house.gov/contact/offices.htm",
+    "https://timmons.house.gov/contact/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://timmons.house.gov/contact/",
+     "source": "https://timmons.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "N000190": {
+   "name": "Ralph Norman",
+   "seat": "Representative, SC-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://norman.house.gov/",
+    "https://norman.house.gov/forms/form/?ID=9",
+    "https://norman.house.gov/contact/",
+    "https://norman.house.gov/contact/office-locations.htm"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://norman.house.gov/contact/",
+     "source": "https://norman.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "C000537": {
+   "name": "James E. Clyburn",
+   "seat": "Representative, SC-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://clyburn.house.gov/",
+    "https://clyburn.house.gov/get-in-touch/",
+    "https://clyburn.house.gov/share-your-story/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://clyburn.house.gov/get-in-touch/",
+     "source": "https://clyburn.house.gov/get-in-touch/",
+     "evidence": "'Get In Touch' ('Email Me') page embeds a message form (House iqconnect eForm) with an 'Issue of Concern' list."
+    }
+   ]
+  },
+  "F000478": {
+   "name": "Russell Fry",
+   "seat": "Representative, SC-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://fry.house.gov/",
+    "https://fry.house.gov/contact/",
+    "https://fry.house.gov/forms/emailsignup/",
+    "https://fry.house.gov/contact/offices.htm"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://fry.house.gov/contact/",
+     "source": "https://fry.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://fry.house.gov/contact/offices.htm",
+     "evidence": "'Pee Dee District Office 401 West Evans Street Suite 205 Florence, SC 29501 (843) 799-6880'. We publish 1831 West Evans Street, Suite 300.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022259895",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "345 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-4007",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Florence, SC office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18437996880",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "401 West Evans Street, Suite 205"
+        ],
+        "city": "Florence",
+        "region": "SC",
+        "postalCode": "29501",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Surfside Beach, SC office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18433535377",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1500 Hwy 17 N, Suite 304"
+        ],
+        "city": "Surfside Beach",
+        "region": "SC",
+        "postalCode": "29575",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "R000605": {
+   "name": "Mike Rounds",
+   "seat": "Senator, SD",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.rounds.senate.gov/contact/",
+    "https://www.rounds.senate.gov/contact/email-mike",
+    "https://www.rounds.senate.gov/contact/rounds-up/",
+    "https://www.rounds.senate.gov/contact/office-locations/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.rounds.senate.gov/contact/email-mike",
+     "source": "https://www.rounds.senate.gov/contact/email-mike",
+     "evidence": "'Email Mike' with the choice 'Share your opinions or comment on legislation or issues'; scheduling, agency help, tours and flags are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.rounds.senate.gov/contact/office-locations/",
+     "evidence": "'Washington, D.C. Hart Senate Office Bldg., Suite 716 ... Phone : (202) 224-5842 Fax : (202) 224-7482 Toll Free : (844) 875-5268'. We publish no toll-free number.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022245842",
+         "type": "voice"
+        },
+        {
+         "number": "+18448755268",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "716 Hart Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Pierre, SD office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16052241450",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "111 W. Capitol Ave., Suite 210"
+        ],
+        "city": "Pierre",
+        "region": "SD",
+        "postalCode": "57501",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Sioux Falls, SD office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16053360486",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "320 N. Main Ave., Suite A"
+        ],
+        "city": "Sioux Falls",
+        "region": "SD",
+        "postalCode": "57104",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Aberdeen, SD office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16052250366",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "221 Brown County Highway 19 S, Suite 112"
+        ],
+        "city": "Aberdeen",
+        "region": "SD",
+        "postalCode": "57401",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Rapid City, SD office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16053435035",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "603 Omaha St., Suite 100"
+        ],
+        "city": "Rapid City",
+        "region": "SD",
+        "postalCode": "57701",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "T000250": {
+   "name": "John Thune",
+   "seat": "Senator, SD",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.thune.senate.gov/contact/",
+    "https://www.thune.senate.gov/contact/",
+    "https://www.thune.senate.gov/contact/email-senator-thune/",
+    "https://www.thune.senate.gov/contact/sign-up-for-updates/"
+   ],
+   "notes": "Homepage blocked (403). DC office shown as 'SD-511', which matches 511 Dirksen.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.thune.senate.gov/contact/email-senator-thune/",
+     "source": "https://www.thune.senate.gov/contact/email-senator-thune/",
+     "evidence": "'Please use the following form to contact Senator John Thune with your comments and concerns', with 'What is your general topic?' list."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.thune.senate.gov/contact/",
+     "evidence": "'WASHINGTON DC United States Senate SD-511 Washington, DC 20510 Phone: (202) 224-2321 Fax: (202) 228-5429 Toll-Free: 1-866-850-3855'. We publish no toll-free number.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022242321",
+         "type": "voice"
+        },
+        {
+         "number": "+18668503855",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "511 Dirksen Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Rapid City, SD office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16053487551",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "246 Founders Park Dr., Suite 102"
+        ],
+        "city": "Rapid City",
+        "region": "SD",
+        "postalCode": "57701",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Sioux Falls, SD office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16053349596",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2401 West Trevi Place, Suite 200"
+        ],
+        "city": "Sioux Falls",
+        "region": "SD",
+        "postalCode": "57108",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Aberdeen, SD office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16052258823",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "205 6th Avenue SE, Suite 202"
+        ],
+        "city": "Aberdeen",
+        "region": "SD",
+        "postalCode": "57401",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "J000301": {
+   "name": "Dusty Johnson",
+   "seat": "Representative, SD-0",
+   "status": "verified",
+   "pagesChecked": [
+    "https://dustyjohnson.house.gov/",
+    "https://dustyjohnson.house.gov/contact",
+    "https://dustyjohnson.house.gov/address_authentication?form=/contact/email-me",
+    "https://dustyjohnson.house.gov/contact/offices",
+    "https://dustyjohnson.house.gov/contact/offices/washington-dc-office",
+    "https://dustyjohnson.house.gov/contact/offices/aberdeen-district-office",
+    "https://dustyjohnson.house.gov/contact/offices/rapid-city-district-office",
+    "https://dustyjohnson.house.gov/contact/offices/sioux-falls-district-office",
+    "https://dustyjohnson.house.gov/address_authentication"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://dustyjohnson.house.gov/contact/email-me",
+     "source": "https://dustyjohnson.house.gov/contact/email-me",
+     "evidence": "The member's main email form, behind an address check (address_authentication), so its topic list could not be read."
+    }
+   ]
+  },
+  "B001243": {
+   "name": "Marsha Blackburn",
+   "seat": "Senator, TN",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.blackburn.senate.gov/email-me",
+    "https://www.blackburn.senate.gov/email-me",
+    "https://www.blackburn.senate.gov/call-me"
+   ],
+   "notes": "Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.blackburn.senate.gov/email-me",
+     "source": "https://www.blackburn.senate.gov/email-me",
+     "evidence": "'Email Me: Please use the following form to contact me with your comments and concerns'; agency help is separate."
+    }
+   ]
+  },
+  "H000601": {
+   "name": "Bill Hagerty",
+   "seat": "Senator, TN",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.hagerty.senate.gov/contact-bill/",
+    "https://www.hagerty.senate.gov/office-locations/",
+    "https://www.hagerty.senate.gov/email-me/",
+    "https://www.hagerty.senate.gov/comments/feed/"
+   ],
+   "notes": "Homepage blocked (403). Offices match ('Russell Senate Office Building Room 251').",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.hagerty.senate.gov/email-me/",
+     "source": "https://www.hagerty.senate.gov/contact-bill/",
+     "evidence": "'Email Bill', the senator's message form; agency help, flags and newsletter are separate."
+    }
+   ]
+  },
+  "H001086": {
+   "name": "Diana Harshbarger",
+   "seat": "Representative, TN-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://harshbarger.house.gov/",
+    "https://harshbarger.house.gov/contact",
+    "https://harshbarger.house.gov/contact/offices",
+    "https://harshbarger.house.gov/contact/offices/washington-dc-office",
+    "https://harshbarger.house.gov/contact/offices/morristown-district-office",
+    "https://harshbarger.house.gov/contact/offices/kingsport-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://harshbarger.house.gov/contact",
+     "source": "https://harshbarger.house.gov/contact",
+     "evidence": "'You can enter your ZIP code below to send us an email'; the member's main email form, behind a ZIP check, so its topic list could not be read. Agency help is separate."
+    }
+   ]
+  },
+  "B001309": {
+   "name": "Tim Burchett",
+   "seat": "Representative, TN-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://burchett.house.gov/",
+    "https://burchett.house.gov/contact",
+    "https://burchett.house.gov/address_authentication?form=/contact/email-me",
+    "https://burchett.house.gov/contact/offices",
+    "https://burchett.house.gov/contact/offices/washington-dc-office",
+    "https://burchett.house.gov/contact/offices/knoxville-district-office",
+    "https://burchett.house.gov/contact/offices/maryville-district-office-appointment-only",
+    "https://burchett.house.gov/contact/offices"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://burchett.house.gov/contact/email-me",
+     "source": "https://burchett.house.gov/contact/email-me",
+     "evidence": "The member's main email form, behind an address check (address_authentication), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://burchett.house.gov/contact/offices",
+     "evidence": "'Maryville District Office - By Appointment Only 331 Court Street Maryville, TN 37804 Phone: (865) 523-3772'. We publish (865) 984-5464.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255435",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1122 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-4202",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Knoxville, TN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18655233772",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "800 Market St, Suite 110"
+        ],
+        "city": "Knoxville",
+        "region": "TN",
+        "postalCode": "37902-2327",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Maryville, TN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18655233772",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "331 Court Street"
+        ],
+        "city": "Maryville",
+        "region": "TN",
+        "postalCode": "37804",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "F000459": {
+   "name": "Charles J. \"Chuck\" Fleischmann",
+   "seat": "Representative, TN-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://fleischmann.house.gov/",
+    "https://fleischmann.house.gov/contact",
+    "https://fleischmann.house.gov/address_authentication?form=/contact/email",
+    "https://fleischmann.house.gov/contact/offices/chattanooga-tn",
+    "https://fleischmann.house.gov/contact/offices/washington-dc",
+    "https://fleischmann.house.gov/contact/offices",
+    "https://fleischmann.house.gov/contact/offices"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://fleischmann.house.gov/contact/email",
+     "source": "https://fleischmann.house.gov/contact/email",
+     "evidence": "'Email Chuck', the member's main email form, behind an address check (address_authentication), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://fleischmann.house.gov/contact/offices",
+     "evidence": "Office Locations lists only 'Washington, D.C. Office 2187 Rayburn ... (202) 225-3271' and 'Chattanooga Office 900 Georgia Avenue Suite 126 ... (423) 756-2342'. The Athens and Oak Ridge offices we publish are not listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253271",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2187 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-4203",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Chattanooga, TN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14237562342",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "900 Georgia Ave., Suite 126"
+        ],
+        "city": "Chattanooga",
+        "region": "TN",
+        "postalCode": "37402",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "D000616": {
+   "name": "Scott DesJarlais",
+   "seat": "Representative, TN-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://desjarlais.house.gov/",
+    "https://desjarlais.house.gov/email-me",
+    "https://desjarlais.house.gov/email-me/",
+    "https://desjarlais.house.gov/office-locations/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://desjarlais.house.gov/email-me/",
+     "source": "https://desjarlais.house.gov/email-me/",
+     "evidence": "'Email Me', the member's main message form (no topic list, 'Would you like a response?'); meetings are separate."
+    }
+   ]
+  },
+  "O000175": {
+   "name": "Andrew Ogles",
+   "seat": "Representative, TN-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://ogles.house.gov/",
+    "https://ogles.house.gov/address_authentication?form=/contact",
+    "https://ogles.house.gov/contact/offices",
+    "https://ogles.house.gov/contact/offices/washington-dc-office",
+    "https://ogles.house.gov/contact/offices/columbia-district-office",
+    "https://ogles.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://ogles.house.gov/contact",
+     "source": "https://ogles.house.gov/contact",
+     "evidence": "The member's main contact form, behind an address check (address_authentication), so its topic list could not be read."
+    }
+   ]
+  },
+  "R000612": {
+   "name": "John W. Rose",
+   "seat": "Representative, TN-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://johnrose.house.gov/",
+    "https://johnrose.house.gov/address_authentication?form=/contact",
+    "https://johnrose.house.gov/contact/offices",
+    "https://johnrose.house.gov/contact/offices/washington-dc-office",
+    "https://johnrose.house.gov/contact/offices/cookeville-district-office",
+    "https://johnrose.house.gov/contact/offices/gallatin-district-office",
+    "https://johnrose.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://johnrose.house.gov/contact",
+     "source": "https://johnrose.house.gov/contact",
+     "evidence": "The member's main contact form, behind an address check (address_authentication), so its topic list could not be read."
+    }
+   ]
+  },
+  "V000139": {
+   "name": "Matt Van Epps",
+   "seat": "Representative, TN-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://vanepps.house.gov/",
+    "https://vanepps.house.gov/contact",
+    "https://vanepps.house.gov/address_authentication?form=/contact/email-me",
+    "https://vanepps.house.gov/contact/office-locations",
+    "https://vanepps.house.gov/contact/offices/washington-dc-office",
+    "https://vanepps.house.gov/contact/offices/clarksville-district-office",
+    "https://vanepps.house.gov/contact/offices/franklin-district-office"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://vanepps.house.gov/contact/email-me",
+     "source": "https://vanepps.house.gov/contact/email-me",
+     "evidence": "The member's main email form, behind an address check (address_authentication), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://vanepps.house.gov/contact/office-locations",
+     "evidence": "Office Locations lists only Washington, 'Clarksville District Office ... (931) 266-4483' and 'Franklin District Office ... (629) 223-6050'. The Nashville office (801 Broadway, Suite C 507, (629) 999-4950) we publish is not listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252811",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2446 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-4207",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Clarksville, TN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19312664483",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "128 N Second St, Suite 104"
+        ],
+        "city": "Clarksville",
+        "region": "TN",
+        "postalCode": "37040",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Franklin, TN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16292236050",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "305 Public Square, Suite 212"
+        ],
+        "city": "Franklin",
+        "region": "TN",
+        "postalCode": "37064",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "K000392": {
+   "name": "David Kustoff",
+   "seat": "Representative, TN-8",
+   "status": "verified",
+   "pagesChecked": [
+    "https://kustoff.house.gov/",
+    "https://kustoff.house.gov/address_authentication?form=/contact",
+    "https://kustoff.house.gov/address_authentication?form=/contact/email",
+    "https://kustoff.house.gov/contact/offices",
+    "https://kustoff.house.gov/contact/offices/washington-dc-office",
+    "https://kustoff.house.gov/contact/offices/memphis-district-office",
+    "https://kustoff.house.gov/contact/offices/jackson-district-office",
+    "https://kustoff.house.gov/contact/offices/martin-district-office",
+    "https://kustoff.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://kustoff.house.gov/contact/email",
+     "source": "https://kustoff.house.gov/contact/email",
+     "evidence": "The member's main email form, behind an address check (address_authentication), so its topic list could not be read; agency help is separate."
+    }
+   ]
+  },
+  "C001068": {
+   "name": "Steve Cohen",
+   "seat": "Representative, TN-9",
+   "status": "verified",
+   "pagesChecked": [
+    "https://cohen.house.gov/",
+    "https://cohen.house.gov/contact",
+    "https://cohen.house.gov/contact/offices",
+    "https://cohen.house.gov/address_authentication?form=/contact/email",
+    "https://cohen.house.gov/contact/offices/washington-dc-office",
+    "https://cohen.house.gov/contact/offices/memphis-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://cohen.house.gov/contact/email",
+     "source": "https://cohen.house.gov/contact/email",
+     "evidence": "The member's main email form, behind an address check (address_authentication), so its topic list could not be read; agency help, meetings and tours are separate."
+    }
+   ]
+  },
+  "C001056": {
+   "name": "John Cornyn",
+   "seat": "Senator, TX",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.cornyn.senate.gov/contact-john-cornyn/",
+    "https://www.cornyn.senate.gov/contact-john-cornyn/",
+    "https://www.cornyn.senate.gov/es-mx/pngase-en-contacto-con-john-cornyn/",
+    "https://www.cornyn.senate.gov/share-opinion/"
+   ],
+   "notes": "Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.cornyn.senate.gov/share-opinion/",
+     "source": "https://www.cornyn.senate.gov/contact-john-cornyn/",
+     "evidence": "'Share Your Opinion: ... he wants to hear from you about the issues that matter most. Please use the form below to send a message'."
+    }
+   ]
+  },
+  "C001098": {
+   "name": "Ted Cruz",
+   "seat": "Senator, TX",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.cruz.senate.gov/contact/",
+    "https://www.cruz.senate.gov/contact/write-ted/",
+    "https://www.cruz.senate.gov/contact/office-locations/"
+   ],
+   "notes": "Homepage blocked (403). The West Texas office is listed with an email link only, no address or phone.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.cruz.senate.gov/contact/write-ted/",
+     "source": "https://www.cruz.senate.gov/contact/write-ted/",
+     "evidence": "'Write to Ted' form with an Issue list (including 'Write Ted - No Response Required'); agency help and meetings are separate."
+    },
+    {
+     "action": "add-email",
+     "address": "central_texas@cruz.senate.gov",
+     "purpose": "Central Texas office (Austin)",
+     "source": "https://www.cruz.senate.gov/contact/office-locations/",
+     "evidence": "'Central Texas 300 E. 8th, Suite 961 Austin, TX 78701 ... Email Us' links to mailto:central_texas@cruz.senate.gov."
+    },
+    {
+     "action": "add-email",
+     "address": "north_texas@cruz.senate.gov",
+     "purpose": "North Texas office (Dallas)",
+     "source": "https://www.cruz.senate.gov/contact/office-locations/",
+     "evidence": "'North Texas Lee Park Tower II 3626 N. Hall St., Suite 410 Dallas ... Email Us' links to mailto:north_texas@cruz.senate.gov."
+    },
+    {
+     "action": "add-email",
+     "address": "southeast_texas@cruz.senate.gov",
+     "purpose": "Southeast Texas office (Houston)",
+     "source": "https://www.cruz.senate.gov/contact/office-locations/",
+     "evidence": "'Southeast Texas Mickey Leland Federal Bldg. 1919 Smith St., Suite 9047 Houston ... Email Us' links to mailto:southeast_texas@cruz.senate.gov."
+    },
+    {
+     "action": "add-email",
+     "address": "southcentral_texas@cruz.senate.gov",
+     "purpose": "South/Central Texas office (San Antonio)",
+     "source": "https://www.cruz.senate.gov/contact/office-locations/",
+     "evidence": "'South/Central Texas 9901 IH-10W, Suite 950 San Antonio ... Email Us' links to mailto:southcentral_texas@cruz.senate.gov."
+    },
+    {
+     "action": "add-email",
+     "address": "east_texas@cruz.senate.gov",
+     "purpose": "East Texas office (Tyler)",
+     "source": "https://www.cruz.senate.gov/contact/office-locations/",
+     "evidence": "'East Texas 305 S. Broadway, Suite 501 Tyler ... Email Us' links to mailto:east_texas@cruz.senate.gov."
+    },
+    {
+     "action": "add-email",
+     "address": "south_texas@cruz.senate.gov",
+     "purpose": "South Texas office (McAllen)",
+     "source": "https://www.cruz.senate.gov/contact/office-locations/",
+     "evidence": "'South Texas 200 S. 10th St., Suite 1107 McAllen ... Email Us' links to mailto:south_texas@cruz.senate.gov."
+    },
+    {
+     "action": "add-email",
+     "address": "west_texas@cruz.senate.gov",
+     "purpose": "West Texas office",
+     "source": "https://www.cruz.senate.gov/contact/office-locations/",
+     "evidence": "'West Texas Email Us' links to mailto:west_texas@cruz.senate.gov (no address or phone given)."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.cruz.senate.gov/contact/office-locations/",
+     "evidence": "'South Texas 200 S. 10th St., Suite 1107 McAllen, TX 78501 Phone number: (956) 686-7339'. We publish Suite 1603.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022245922",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "167 Russell Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Austin, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15129165834",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "300 E 8th, Suite 961"
+        ],
+        "city": "Austin",
+        "region": "TX",
+        "postalCode": "78701",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Dallas, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12145998749",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Lee Park Tower II",
+         "3626 N. Hall St., Suite 410"
+        ],
+        "city": "Dallas",
+        "region": "TX",
+        "postalCode": "75219",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Houston, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17137183057",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "The Mickey Leland Federal Building",
+         "1919 Smith St., Suite 9047"
+        ],
+        "city": "Houston",
+        "region": "TX",
+        "postalCode": "77002",
+        "country": "US"
+       }
+      },
+      {
+       "label": "McAllen, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19566867339",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "200 S. 10th St., Suite 1107"
+        ],
+        "city": "McAllen",
+        "region": "TX",
+        "postalCode": "78501",
+        "country": "US"
+       }
+      },
+      {
+       "label": "San Antonio, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12103402885",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "9901 Ih-10w, Suite 950"
+        ],
+        "city": "San Antonio",
+        "region": "TX",
+        "postalCode": "78230",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Tyler, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19035935130",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "305 S. Broadway, Suite 501"
+        ],
+        "city": "Tyler",
+        "region": "TX",
+        "postalCode": "75702",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

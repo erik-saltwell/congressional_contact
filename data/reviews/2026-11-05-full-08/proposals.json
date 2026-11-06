@@ -1,0 +1,1445 @@
+{
+ "batch": "2026-11-05-full-08",
+ "reviewedAt": "2026-11-05",
+ "officials": {
+  "S001145": {
+   "name": "Janice D. Schakowsky",
+   "seat": "Representative, IL-9",
+   "status": "verified",
+   "pagesChecked": [
+    "https://schakowsky.house.gov/",
+    "https://schakowsky.house.gov/contact"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://schakowsky.house.gov/contact/email-me",
+     "source": "https://schakowsky.house.gov/contact",
+     "evidence": "Linked as 'Register an opinion' and 'Contact Jan'. The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "S001190": {
+   "name": "Bradley Scott Schneider",
+   "seat": "Representative, IL-10",
+   "status": "verified",
+   "pagesChecked": [
+    "https://schneider.house.gov/",
+    "https://schneider.house.gov/address_authentication?form=/contact/email-me"
+   ],
+   "notes": "The site says 'Our office is currently forwarding mail from the Lincolnshire office to the D.C. office'.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://schneider.house.gov/contact/email-me",
+     "source": "https://schneider.house.gov/contact/email-me",
+     "evidence": "Linked as 'Email Me'. The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://schneider.house.gov/",
+     "evidence": "'Lincolnshire District Office Lincolnshire, IL 60069 By Appointment Only Phone: (847) 383-4870', with no street address; the banner says mail to the Lincolnshire office is forwarded to D.C. We publish 111 Barclay Blvd., Suite 200.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254835",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "300 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1310",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Lincolnshire, IL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18473834870",
+         "type": "voice"
+        }
+       ],
+       "address": null
+      }
+     ]
+    }
+   ]
+  },
+  "F000454": {
+   "name": "Bill Foster",
+   "seat": "Representative, IL-11",
+   "status": "verified",
+   "pagesChecked": [
+    "https://foster.house.gov/",
+    "https://foster.house.gov/address_authentication?form=/contact/email-me"
+   ],
+   "notes": "Offices match; Huntley is open by appointment and lists the Aurora number for scheduling, as we publish.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://foster.house.gov/contact/email-me",
+     "source": "https://foster.house.gov/contact/email-me",
+     "evidence": "Linked as 'send me an email'. The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "B001295": {
+   "name": "Mike Bost",
+   "seat": "Representative, IL-12",
+   "status": "verified",
+   "pagesChecked": [
+    "https://bost.house.gov/",
+    "https://bost.house.gov/email"
+   ],
+   "notes": "Offices match; the site also links separate satellite offices, not checked as published offices.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://bost.house.gov/email",
+     "source": "https://bost.house.gov/email",
+     "evidence": "'Please enter your zip code to verify district residence' on the member's Email page; the form is behind this ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "B001315": {
+   "name": "Nikki Budzinski",
+   "seat": "Representative, IL-13",
+   "status": "verified",
+   "pagesChecked": [
+    "https://budzinski.house.gov/",
+    "https://budzinski.house.gov/contact"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://budzinski.house.gov/contact",
+     "source": "https://budzinski.house.gov/contact",
+     "evidence": "'Contact Me' form: step 1 checks the address ('Let's check that you're within this district'), step 2 'How can we help?' with Topic, Subject Line and Message."
+    }
+   ]
+  },
+  "U000040": {
+   "name": "Lauren Underwood",
+   "seat": "Representative, IL-14",
+   "status": "verified",
+   "pagesChecked": [
+    "https://underwood.house.gov/",
+    "https://underwood.house.gov/address_authentication?form=/contact/email-me"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://underwood.house.gov/contact/email-me",
+     "source": "https://underwood.house.gov/contact/email-me",
+     "evidence": "Linked as 'Send Me An Email'. The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://underwood.house.gov/",
+     "evidence": "Office list includes 'DeKalb District Office 2179 Sycamore Road Suite 107 Dekalb, IL 60115 (630) 549-2190', which we do not publish.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252976",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2228 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1314",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Joliet, IL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16305492190",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Joliet District Office",
+         "116 N. Chicago Street, Suite 201"
+        ],
+        "city": "Joliet",
+        "region": "IL",
+        "postalCode": "60432",
+        "country": "US"
+       }
+      },
+      {
+       "label": "DeKalb, IL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16305492190",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2179 Sycamore Road, Suite 107"
+        ],
+        "city": "DeKalb",
+        "region": "IL",
+        "postalCode": "60115",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "M001211": {
+   "name": "Mary E. Miller",
+   "seat": "Representative, IL-15",
+   "status": "verified",
+   "pagesChecked": [
+    "https://marymiller.house.gov/",
+    "https://marymillerforms.house.gov/contact/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://marymillerforms.house.gov/contact/",
+     "source": "https://marymiller.house.gov/contact",
+     "evidence": "/contact redirects to this form: 'Please enter your zip code below to verify residency within my district and continue' (Send Me an Email). The form sits behind this ZIP check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://marymiller.house.gov/",
+     "evidence": "Office list includes 'Highland District Office 1001 Main Street Highland, IL 62249 Phone: (217) 703-6100 Wednesday 10AM-4PM', which we do not publish.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255271",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1740 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1315",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Mahomet, IL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12177036100",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "604 East Main Street, G"
+        ],
+        "city": "Mahomet",
+        "region": "IL",
+        "postalCode": "61853",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Quincy, IL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12176406210",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "3236 Broadway St, Suite 200"
+        ],
+        "city": "Quincy",
+        "region": "IL",
+        "postalCode": "62301",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Highland, IL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12177036100",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1001 Main Street"
+        ],
+        "city": "Highland",
+        "region": "IL",
+        "postalCode": "62249",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "L000585": {
+   "name": "Darin LaHood",
+   "seat": "Representative, IL-16",
+   "status": "verified",
+   "pagesChecked": [
+    "https://lahood.house.gov/",
+    "https://lahood.house.gov/contact/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://lahood.house.gov/email-me",
+     "source": "https://lahood.house.gov/email-me",
+     "evidence": "'Email Me' page: 'Please enter your zip code to verify district residence'; the form is behind this ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "S001225": {
+   "name": "Eric Sorensen",
+   "seat": "Representative, IL-17",
+   "status": "verified",
+   "pagesChecked": [
+    "https://sorensen.house.gov/",
+    "https://sorensen.house.gov/address_authentication?form=/contact"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://sorensen.house.gov/contact",
+     "source": "https://sorensen.house.gov/contact",
+     "evidence": "Linked as 'E-mail Me'. The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://sorensen.house.gov/",
+     "evidence": "'Peoria District Office Conductor's Quarters Building 403-1/2 NE Jefferson Avenue Peoria, IL 61603 Phone: (309) 621-7070'. We publish NE Jefferson Street.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255905",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1314 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1317",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Rockford, IL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17795134960",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "401 E. State Street, Ground Floor"
+        ],
+        "city": "Rockford",
+        "region": "IL",
+        "postalCode": "61104",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Rock Island, IL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13097863406",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "423 17th Street, Suite 201"
+        ],
+        "city": "Rock Island",
+        "region": "IL",
+        "postalCode": "61201",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Peoria, IL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13096217070",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Conductor's Quarters Building, 403-1/2 NE Jefferson Avenue"
+        ],
+        "city": "Peoria",
+        "region": "IL",
+        "postalCode": "61603",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "B001299": {
+   "name": "Jim Banks",
+   "seat": "Senator, IN",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.banks.senate.gov/contact/",
+    "https://www.banks.senate.gov/contact/share-your-opinion/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.banks.senate.gov/contact/share-your-opinion/",
+     "source": "https://www.banks.senate.gov/contact/share-your-opinion/",
+     "evidence": "'Share Your Opinion' form with a topic list (Agriculture, Budget, Economy, Education, ... Veterans)."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.banks.senate.gov/contact/",
+     "evidence": "Office list includes 'Fishers 11 Municipal Drive, Suite 410 Fishers, IN 46038 (463) 687-2190', which we do not publish.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022244814",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "303 Hart Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Fort Wayne, IN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12603217130",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "E Ross Adair Federal Building",
+         "1300 S. Harrison St."
+        ],
+        "city": "Fort Wayne",
+        "region": "IN",
+        "postalCode": "46802",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Hammond, IN office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "Hammond Federal Building Courthouse",
+         "5400 Federal Plaza, Suite 3200"
+        ],
+        "city": "Hammond",
+        "region": "IN",
+        "postalCode": "46320",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Fishers, IN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14636872190",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "11 Municipal Drive, Suite 410"
+        ],
+        "city": "Fishers",
+        "region": "IN",
+        "postalCode": "46038",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "Y000064": {
+   "name": "Todd Young",
+   "seat": "Senator, IN",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.young.senate.gov/contact/",
+    "https://www.young.senate.gov/contact/email-todd/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.young.senate.gov/contact/email-todd/",
+     "source": "https://www.young.senate.gov/contact/email-todd/",
+     "evidence": "'Email Todd' form with a topic list (Agriculture, Animal Welfare, Appropriations, Banking, ...)."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.young.senate.gov/contact/",
+     "evidence": "'Fort Wayne 1300 S. Harrison St., Suite 3161 ... (317) 226-6700 By Appointment Only' and 'Valparaiso 212 E. Lincolnway, Suite 205A ... (317)-226-6700 By Appointment Only'. We publish no phone for Fort Wayne and (219) 747-7780 for Valparaiso, which the site does not show.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022245623",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "185 Dirksen Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "New Albany, IN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18125424820",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "3602 Northgate Ct, Suite 15"
+        ],
+        "city": "New Albany",
+        "region": "IN",
+        "postalCode": "47150",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Fort Wayne, IN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13172266700",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1300 South Harrison Street, Suite 3161"
+        ],
+        "city": "Fort Wayne",
+        "region": "IN",
+        "postalCode": "46802",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Indianapolis, IN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13172266700",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "310 E. 96th St., Suite 350"
+        ],
+        "city": "Indianapolis",
+        "region": "IN",
+        "postalCode": "46240",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Valparaiso, IN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13172266700",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "212 E. Lincolnway, Suite 205A"
+        ],
+        "city": "Valparaiso",
+        "region": "IN",
+        "postalCode": "46383",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "M001214": {
+   "name": "Frank J. Mrvan",
+   "seat": "Representative, IN-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mrvan.house.gov/",
+    "https://mrvan.house.gov/contact"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mrvan.house.gov/contact",
+     "source": "https://mrvan.house.gov/contact",
+     "evidence": "'You can enter your ZIP code below to send as an email'; agency help and tours are separate. The form is behind this ZIP step, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://mrvan.house.gov/",
+     "evidence": "'Merrillville District Office 8001 Broadway, Suite 102 Merrillville, IN 46410 Phone: (219) 795-1844'. We publish Suite 201.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252461",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2441 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1401",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Merrillville, IN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12197951844",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "8001 Broadway, Suite 102"
+        ],
+        "city": "Merrillville",
+        "region": "IN",
+        "postalCode": "46410",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "Y000067": {
+   "name": "Rudy Yakym III",
+   "seat": "Representative, IN-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://yakym.house.gov/",
+    "https://yakym.house.gov/address_authentication?form=/contact/email-me"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://yakym.house.gov/contact/email-me",
+     "source": "https://yakym.house.gov/contact/email-me",
+     "evidence": "Linked as 'Email Me'. The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "S001188": {
+   "name": "Marlin A. Stutzman",
+   "seat": "Representative, IN-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://stutzman.house.gov/",
+    "https://stutzman.house.gov/address_authentication?form=/contact/email-me"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://stutzman.house.gov/contact/email-me",
+     "source": "https://stutzman.house.gov/contact/email-me",
+     "evidence": "Linked as 'Email Me'. The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://stutzman.house.gov/",
+     "evidence": "'Fort Wayne Office 6714 Pointe Inverness Way Suite 220 Fort Wayne, IN 46804 Phone: (260) 702-4750'. We publish no suite.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254436",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "404 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1403",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Fort Wayne, IN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12607024750",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "6714 Pointe Inverness Way, Suite 220"
+        ],
+        "city": "Fort Wayne",
+        "region": "IN",
+        "postalCode": "46804",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "B001307": {
+   "name": "James R. Baird",
+   "seat": "Representative, IN-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://baird.house.gov/",
+    "https://baird.house.gov/contact/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://baird.house.gov/contact/",
+     "source": "https://baird.house.gov/contact/",
+     "evidence": "'Please enter your zip code below to verify residency within my district and continue' (Send Me an Email). The form sits behind this ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "S000929": {
+   "name": "Victoria Spartz",
+   "seat": "Representative, IN-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://spartz.house.gov/",
+    "https://spartz.house.gov/contact",
+    "https://spartz.house.gov/services/general-inquiry"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://spartz.house.gov/services/general-inquiry",
+     "source": "https://spartz.house.gov/contact",
+     "evidence": "Linked as 'General Inquiry' from Contact; the form asks 'Please choose the issue of concern' (Agriculture, Budget and Economy, Education, ... Veterans)."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://spartz.house.gov/contact",
+     "evidence": "'East District Office 416 S High Street Muncie, IN 47305 Phone: (765) 639-0671'. We publish 420 S High Street, Suite 207.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252276",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1609 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1405",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Noblesville, IN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13178480201",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "5540 Pebble Village Lane, Suite 400"
+        ],
+        "city": "Noblesville",
+        "region": "IN",
+        "postalCode": "46062",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Muncie, IN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17656390671",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "416 S High Street"
+        ],
+        "city": "Muncie",
+        "region": "IN",
+        "postalCode": "47305",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "S001229": {
+   "name": "Jefferson Shreve",
+   "seat": "Representative, IN-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://shreve.house.gov/",
+    "https://shreve.house.gov/address_authentication?form=/contact/email-me"
+   ],
+   "notes": "The Richmond (East District) office is listed 'By appointment' with no phone, so its phone is removed.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://shreve.house.gov/contact/email-me",
+     "source": "https://shreve.house.gov/contact/email-me",
+     "evidence": "Linked as 'Email Me'. The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://shreve.house.gov/",
+     "evidence": "The office list shows only Washington DC, 'Central District Office 300 S. Madison Ave Suite 300 Greenwood, IN 46142 Phone: (317) 399-3333' and 'East District Office By appointment 50 N Fifth St 2nd Floor Richmond, IN 47374'. Our Greenfield office (18 E Main St) is not listed. The Richmond office shows no phone; we publish (317) 399-3333 there.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253021",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "224 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1406",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Richmond, IN office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "50 N Fifth St, 2nd Floor"
+        ],
+        "city": "Richmond",
+        "region": "IN",
+        "postalCode": "47374",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Greenwood, IN office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13173993333",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "300 South Madison Ave, Suite 300"
+        ],
+        "city": "Greenwood",
+        "region": "IN",
+        "postalCode": "46142",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "C001072": {
+   "name": "André Carson",
+   "seat": "Representative, IN-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://carson.house.gov/",
+    "https://carson.house.gov/address_authentication?form=/contact/email-me"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://carson.house.gov/contact/email-me",
+     "source": "https://carson.house.gov/contact/email-me",
+     "evidence": "Linked as 'Email Me' and 'Contact'. The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "M001233": {
+   "name": "Mark B. Messmer",
+   "seat": "Representative, IN-8",
+   "status": "verified",
+   "pagesChecked": [
+    "https://messmer.house.gov/",
+    "https://messmer.house.gov/contact/"
+   ],
+   "notes": "Offices match; Jasper is by appointment through the Evansville number, as we publish.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://messmer.house.gov/contact/",
+     "source": "https://messmer.house.gov/contact/",
+     "evidence": "'Please enter your zip code below to verify residency within my district and continue' (Send Me an Email). The form sits behind this ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "H001093": {
+   "name": "Erin Houchin",
+   "seat": "Representative, IN-9",
+   "status": "verified",
+   "pagesChecked": [
+    "https://houchin.house.gov/",
+    "https://houchin.house.gov/contact",
+    "https://houchinforms.house.gov/contact/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://houchin.house.gov/contact",
+     "source": "https://houchin.house.gov/contact",
+     "evidence": "Linked as 'Email Me'; the page loads houchinforms.house.gov/contact/, which reads 'Send Me an Email - Please enter your zip code below to verify residency within my district and continue'. Behind this ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "M000934": {
+   "name": "Jerry Moran",
+   "seat": "Senator, KS",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.moran.senate.gov/public/index.cfm/contact-info",
+    "https://www.moran.senate.gov/public/index.cfm/e-mail-jerry"
+   ],
+   "notes": "Homepage and /contact/ redirect to a Senate not-found page; the site lives under /public/index.cfm.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.moran.senate.gov/public/index.cfm/e-mail-jerry",
+     "source": "https://www.moran.senate.gov/public/index.cfm/e-mail-jerry",
+     "evidence": "'E-mail Jerry' form; its options include 'Comment or Questions on a Specific Issues, Policy or Legislation - share your opinion'."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.moran.senate.gov/public/index.cfm/contact-info",
+     "evidence": "'Wichita 100 North Broadway, Suite 210 ... Phone: (316) 269-9257 Fax: (316) 269-9259' (we publish the fax number as the phone) and 'Garden City 312 N. 8th Street Suite B Garden City, KS 67846 Phone: (620)-260-3025' (we publish 1511 East Fulton Terrace).",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022246521",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "521 Dirksen Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Hays, KS office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17856286401",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1200 Main St., Suite 402"
+        ],
+        "city": "Hays",
+        "region": "KS",
+        "postalCode": "67601",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Olathe, KS office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19133930711",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "23600 College Blvd., Suite 201"
+        ],
+        "city": "Olathe",
+        "region": "KS",
+        "postalCode": "66061",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Pittsburg, KS office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16202322286",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "306 N. Broadway, Suite 125"
+        ],
+        "city": "Pittsburg",
+        "region": "KS",
+        "postalCode": "66762",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Wichita, KS office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13162699257",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "100 North Broadway, Suite 210"
+        ],
+        "city": "Wichita",
+        "region": "KS",
+        "postalCode": "67202",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Manhattan, KS office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17855398973",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1880 Kimball Ave, Suite 270"
+        ],
+        "city": "Manhattan",
+        "region": "KS",
+        "postalCode": "66502",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Garden City, KS office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16202603025",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "312 N. 8th Street, Suite B"
+        ],
+        "city": "Garden City",
+        "region": "KS",
+        "postalCode": "67846",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "M001198": {
+   "name": "Roger Marshall",
+   "seat": "Senator, KS",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.marshall.senate.gov/contact/",
+    "https://www.marshall.senate.gov/contact/contact-form/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.marshall.senate.gov/contact/contact-form/",
+     "source": "https://www.marshall.senate.gov/contact/",
+     "evidence": "Linked as 'Share your opinion'; the form has a topic list (Banking & Financial Services, Budget and Economy, Defense and Military, Education, ...)."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.marshall.senate.gov/contact/",
+     "evidence": "'Kansas City 400 State Ave, Suite 230, Kansas City, KS 66101 Phone: 913-549-1570'. We publish Suite 1006.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022244774",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "479A Russell Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Kansas City, KS office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19135491570",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "400 State Ave, Suite 230"
+        ],
+        "city": "Kansas City",
+        "region": "KS",
+        "postalCode": "66101",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Overland Park, KS office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19138797070",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "7011 W. 121st Street, Suite 100"
+        ],
+        "city": "Overland Park",
+        "region": "KS",
+        "postalCode": "66209",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Topeka, KS office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17854147501",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "800 SW Jackson Street, Suite 600"
+        ],
+        "city": "Topeka",
+        "region": "KS",
+        "postalCode": "66612",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Pittsburg, KS office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16204047016",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "402B North Broadway"
+        ],
+        "city": "Pittsburg",
+        "region": "KS",
+        "postalCode": "66762",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Wichita, KS office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13168036120",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "100 S. Market, Suite 102"
+        ],
+        "city": "Wichita",
+        "region": "KS",
+        "postalCode": "67202",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Salina, KS office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17858299000",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "204 S. Santa Fe Avenue, Suite 1"
+        ],
+        "city": "Salina",
+        "region": "KS",
+        "postalCode": "67401",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Garden City, KS office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16207657800",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "921 Larue Street, Suite C"
+        ],
+        "city": "Garden City",
+        "region": "KS",
+        "postalCode": "67846",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "M000871": {
+   "name": "Tracey Mann",
+   "seat": "Representative, KS-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mann.house.gov/",
+    "https://mann.house.gov/contact"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mann.house.gov/contact",
+     "source": "https://mann.house.gov/contact",
+     "evidence": "'Email Me': 'You can enter your ZIP code below to send as an email'; agency help and tours are separate. The form is behind this ZIP step, so its topic list could not be read."
+    }
+   ]
+  },
+  "S001228": {
+   "name": "Derek Schmidt",
+   "seat": "Representative, KS-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://schmidt.house.gov/",
+    "https://schmidt.house.gov/address_authentication?form=/contact/email-me"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://schmidt.house.gov/contact/email-me",
+     "source": "https://schmidt.house.gov/contact/email-me",
+     "evidence": "Linked as 'Email Me'. The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "D000629": {
+   "name": "Sharice Davids",
+   "seat": "Representative, KS-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://davids.house.gov/",
+    "https://davids.house.gov/contact/email-me"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://davids.house.gov/contact/email-me",
+     "source": "https://davids.house.gov/contact/email-me",
+     "evidence": "'Email Me': 'Please fill out the below form to share your views with me.'"
+    }
+   ]
+  }
+ }
+}

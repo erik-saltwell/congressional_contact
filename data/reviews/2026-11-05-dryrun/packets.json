@@ -1,0 +1,419 @@
+{
+ "batch": "2026-11-05-dryrun",
+ "createdAt": "2026-11-05",
+ "dataGeneratedAt": "2026-11-05T19:24:37Z",
+ "officials": {
+  "M001111": {
+   "seat": "Senator, WA",
+   "published": {
+    "name": {
+     "full": "Patty Murray",
+     "given": "Patty",
+     "family": "Murray",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "WA",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022242621",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "154 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Everett, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14252596515",
+        "type": "voice"
+       },
+       {
+        "number": "+14252597152",
+        "type": "fax"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2930 Wetmore Ave., Suite 9D"
+       ],
+       "city": "Everett",
+       "region": "WA",
+       "postalCode": "98201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Seattle, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12065535545",
+        "type": "voice"
+       },
+       {
+        "number": "+12065530891",
+        "type": "fax"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Jackson Federal Building",
+        "915 2nd Ave., #2988"
+       ],
+       "city": "Seattle",
+       "region": "WA",
+       "postalCode": "98174",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Vancouver, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13606967797",
+        "type": "voice"
+       },
+       {
+        "number": "+13606967798",
+        "type": "fax"
+       }
+      ],
+      "address": {
+       "lines": [
+        "The Marshall House",
+        "1323 Officer's Row"
+       ],
+       "city": "Vancouver",
+       "region": "WA",
+       "postalCode": "98661",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tacoma, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12535723636",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1301 A Street, Ste 213"
+       ],
+       "city": "Tacoma",
+       "region": "WA",
+       "postalCode": "98402",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Spokane, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15096249515",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "920 West Riverside Avenue, Ste 485"
+       ],
+       "city": "Spokane",
+       "region": "WA",
+       "postalCode": "99201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Richland, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15094537462",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "825 Jadwin Avenue, Suite 160K"
+       ],
+       "city": "Richland",
+       "region": "WA",
+       "postalCode": "99352",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Olympia, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13602052878",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "771 Capitol Way Sound, Suite 502"
+       ],
+       "city": "Olympia",
+       "region": "WA",
+       "postalCode": "98501",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.murray.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.murray.senate.gov/write-to-patty/",
+    "website": "https://www.murray.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "J000298": {
+   "seat": "Representative, WA-7",
+   "published": {
+    "name": {
+     "full": "Pramila Jayapal",
+     "given": "Pramila",
+     "family": "Jayapal",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "WA",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253106",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2346 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4707",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Seattle, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12066740040",
+        "type": "voice"
+       },
+       {
+        "number": "+17712005813",
+        "type": "fax"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2033 6th Ave., Suite 1011"
+       ],
+       "city": "Seattle",
+       "region": "WA",
+       "postalCode": "98121",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://jayapal.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://jayapal.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "N000147": {
+   "seat": "Delegate, DC-0",
+   "published": {
+    "name": {
+     "full": "Eleanor Holmes Norton",
+     "given": "Eleanor",
+     "family": "Norton",
+     "suffix": null
+    },
+    "role": "delegate",
+    "party": "Democrat",
+    "state": "DC",
+    "district": 0,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022258050",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2136 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-5101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Washington, DC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12024089041",
+        "type": "voice"
+       },
+       {
+        "number": "+12024089048",
+        "type": "fax"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1300 Pennsylvania Ave NW, M-1000"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20004",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://norton.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://norton.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "R000600": {
+   "seat": "Delegate, AS-0",
+   "published": {
+    "name": {
+     "full": "Aumua Amata Coleman Radewagen",
+     "given": "Aumua Amata",
+     "family": "Radewagen",
+     "suffix": null
+    },
+    "role": "delegate",
+    "party": "Republican",
+    "state": "AS",
+    "district": 0,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022258577",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2001 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-5200",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Pagopago, AS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16846333601",
+        "type": "voice"
+       },
+       {
+        "number": "+16846333607",
+        "type": "fax"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1 Fagatogo Square, Box 5859"
+       ],
+       "city": "Pagopago",
+       "region": "AS",
+       "postalCode": "96799",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://radewagen.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://radewagen.house.gov"
+   },
+   "currentSupplement": null
+  }
+ }
+}

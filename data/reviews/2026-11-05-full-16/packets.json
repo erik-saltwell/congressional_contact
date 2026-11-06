@@ -1,0 +1,2131 @@
+{
+ "batch": "2026-11-05-full-16",
+ "createdAt": "2026-11-05",
+ "dataGeneratedAt": "2026-11-05T19:36:17Z",
+ "officials": {
+  "L000566": {
+   "seat": "Representative, OH-5",
+   "published": {
+    "name": {
+     "full": "Robert E. Latta",
+     "given": "Robert",
+     "family": "Latta",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "OH",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256405",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2470 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3505",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bowling Green, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14193548700",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1045 N. Main St., Suite 6"
+       ],
+       "city": "Bowling Green",
+       "region": "OH",
+       "postalCode": "43402",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Findlay, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14194227791",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "318 Dorney Plz., Room 302"
+       ],
+       "city": "Findlay",
+       "region": "OH",
+       "postalCode": "45840",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Elyria, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14404065010",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "226 Middle Avenue, 5th Floor"
+       ],
+       "city": "Elyria",
+       "region": "OH",
+       "postalCode": "44035",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://latta.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://latta.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "R000619": {
+   "seat": "Representative, OH-6",
+   "published": {
+    "name": {
+     "full": "Michael A. Rulli",
+     "given": "Michael",
+     "family": "Rulli",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "OH",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255705",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "421 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3506",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Canfield, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13309677312",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4137 Boardman-Canfield Road, Suite 106"
+       ],
+       "city": "Canfield",
+       "region": "OH",
+       "postalCode": "44406",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Marietta, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17408854860",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "246 Front Street"
+       ],
+       "city": "Marietta",
+       "region": "OH",
+       "postalCode": "45750",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://rulli.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://rulli.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001222": {
+   "seat": "Representative, OH-7",
+   "published": {
+    "name": {
+     "full": "Max L. Miller",
+     "given": "Max",
+     "family": "Miller",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "OH",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253876",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "143 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3507",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Parma, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14406926120",
+        "type": "voice"
+       }
+      ],
+      "address": null
+     },
+     {
+      "label": "Medina, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13306616654",
+        "type": "voice"
+       }
+      ],
+      "address": null
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://maxmiller.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://maxmiller.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "D000626": {
+   "seat": "Representative, OH-8",
+   "published": {
+    "name": {
+     "full": "Warren Davidson",
+     "given": "Warren",
+     "family": "Davidson",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "OH",
+    "district": 8,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256205",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2113 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3508",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Liberty Township, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15137795400",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4879 Mercedes Drive, Suite A"
+       ],
+       "city": "Liberty Township",
+       "region": "OH",
+       "postalCode": "45011",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cincinnati, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15137795400",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "5520 Harrison Avenue, Suite C"
+       ],
+       "city": "Cincinnati",
+       "region": "OH",
+       "postalCode": "45248",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://davidson.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://davidson.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "K000009": {
+   "seat": "Representative, OH-9",
+   "published": {
+    "name": {
+     "full": "Marcy Kaptur",
+     "given": "Marcy",
+     "family": "Kaptur",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "OH",
+    "district": 9,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254146",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2314 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3509",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Toledo, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14192597500",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1 Maritime Plaza, #600"
+       ],
+       "city": "Toledo",
+       "region": "OH",
+       "postalCode": "43604",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://kaptur.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://kaptur.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "T000463": {
+   "seat": "Representative, OH-10",
+   "published": {
+    "name": {
+     "full": "Michael R. Turner",
+     "given": "Michael",
+     "family": "Turner",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "OH",
+    "district": 10,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256465",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2183 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Dayton, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19372252843",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "120 W. 3rd St., Suite 305"
+       ],
+       "city": "Dayton",
+       "region": "OH",
+       "postalCode": "45402",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://turner.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://turner.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001313": {
+   "seat": "Representative, OH-11",
+   "published": {
+    "name": {
+     "full": "Shontel M. Brown",
+     "given": "Shontel",
+     "family": "Brown",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "OH",
+    "district": 11,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022257032",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2455 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3511",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cleveland, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12165351100",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "17021 Lorain Avenue"
+       ],
+       "city": "Cleveland",
+       "region": "OH",
+       "postalCode": "44111",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Beachwood, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12165224900",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "25200 Chagrin Blvd, Suite 200"
+       ],
+       "city": "Beachwood",
+       "region": "OH",
+       "postalCode": "44122",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://shontelbrown.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://shontelbrown.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001306": {
+   "seat": "Representative, OH-12",
+   "published": {
+    "name": {
+     "full": "Troy Balderson",
+     "given": "Troy",
+     "family": "Balderson",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "OH",
+    "district": 12,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255355",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2429 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3512",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Pickerington, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16145232555",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "12931 Stonecreek Drive"
+       ],
+       "city": "Pickerington",
+       "region": "OH",
+       "postalCode": "43147",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://balderson.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://balderson.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001223": {
+   "seat": "Representative, OH-13",
+   "published": {
+    "name": {
+     "full": "Emilia Strong Sykes",
+     "given": "Emilia",
+     "family": "Sykes",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "OH",
+    "district": 13,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256265",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1217 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3513",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Akron, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13304005350",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "121 South Main Street, Suite 107"
+       ],
+       "city": "Akron",
+       "region": "OH",
+       "postalCode": "44308",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Canton, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13304005350",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "400 Third St. SE, Suite W101"
+       ],
+       "city": "Canton",
+       "region": "OH",
+       "postalCode": "44702",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://sykes.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://sykes.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "J000295": {
+   "seat": "Representative, OH-14",
+   "published": {
+    "name": {
+     "full": "David P. Joyce",
+     "given": "David",
+     "family": "Joyce",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "OH",
+    "district": 14,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255731",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2065 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3514",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Mentor, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14403523939",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "8500 Station St, Suite 390"
+       ],
+       "city": "Mentor",
+       "region": "OH",
+       "postalCode": "44060",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Ravenna, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13303574139",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "449 S. Meridian Street, Room 138"
+       ],
+       "city": "Ravenna",
+       "region": "OH",
+       "postalCode": "44266",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Warren, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13307527673",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "125 West Market Street, Room 204"
+       ],
+       "city": "Warren",
+       "region": "OH",
+       "postalCode": "44481",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://joyce.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://joyce.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001126": {
+   "seat": "Representative, OH-15",
+   "published": {
+    "name": {
+     "full": "Mike Carey",
+     "given": "Mike",
+     "family": "Carey",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "OH",
+    "district": 15,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252015",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1433 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3515",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Columbus, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16149276902",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "140 E Town St., Suite 1200"
+       ],
+       "city": "Columbus",
+       "region": "OH",
+       "postalCode": "43215",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://carey.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://carey.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "A000383": {
+   "seat": "Senator, OK",
+   "published": {
+    "name": {
+     "full": "Alan Armstrong",
+     "given": "Alan",
+     "family": "Armstrong",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "OK",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022244721",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "330 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Oklahoma City, OK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14052460025",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3817 NW Expressway, #780"
+       ],
+       "city": "Oklahoma City",
+       "region": "OK",
+       "postalCode": "73112",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.armstrong.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://www.armstrong.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000575": {
+   "seat": "Senator, OK",
+   "published": {
+    "name": {
+     "full": "James Lankford",
+     "given": "James",
+     "family": "Lankford",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "OK",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022245754",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "731 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Oklahoma City, OK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14052314941",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1015 N. Broadway Ave., Suite 310"
+       ],
+       "city": "Oklahoma City",
+       "region": "OK",
+       "postalCode": "73102",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tulsa, OK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19185817651",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "401 South Boston Ave., Suite 2150"
+       ],
+       "city": "Tulsa",
+       "region": "OK",
+       "postalCode": "74103",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.lankford.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.lankford.senate.gov/contact/email",
+    "website": "https://www.lankford.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001082": {
+   "seat": "Representative, OK-1",
+   "published": {
+    "name": {
+     "full": "Kevin Hern",
+     "given": "Kevin",
+     "family": "Hern",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "OK",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252211",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "171 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3601",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tulsa, OK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19189353222",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2448 E. 81st St., Suite 5150"
+       ],
+       "city": "Tulsa",
+       "region": "OK",
+       "postalCode": "74137",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://hern.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://hern.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001317": {
+   "seat": "Representative, OK-2",
+   "published": {
+    "name": {
+     "full": "Josh Brecheen",
+     "given": "Josh",
+     "family": "Brecheen",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "OK",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252701",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "351 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3602",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Claremore, OK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19182836262",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "223 W Patti Page Blvd."
+       ],
+       "city": "Claremore",
+       "region": "OK",
+       "postalCode": "74017",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://brecheen.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://brecheen.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000491": {
+   "seat": "Representative, OK-3",
+   "published": {
+    "name": {
+     "full": "Frank D. Lucas",
+     "given": "Frank",
+     "family": "Lucas",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "OK",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255565",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2405 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3603",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Yukon, OK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14053731958",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "11528 SW 15th Street, Suite 200"
+       ],
+       "city": "Yukon",
+       "region": "OK",
+       "postalCode": "73099",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://lucas.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://lucas.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001053": {
+   "seat": "Representative, OK-4",
+   "published": {
+    "name": {
+     "full": "Tom Cole",
+     "given": "Tom",
+     "family": "Cole",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "OK",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256165",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2207 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3604",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lawton, OK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15803572131",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "711 SW. D Ave., Suite 201"
+       ],
+       "city": "Lawton",
+       "region": "OK",
+       "postalCode": "73501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Norman, OK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14053296500",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3219 Rock Creek Rd., Suite 125"
+       ],
+       "city": "Norman",
+       "region": "OK",
+       "postalCode": "73072",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Ada, OK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15804365375",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "100 E. 13th St., Suite 213"
+       ],
+       "city": "Ada",
+       "region": "OK",
+       "postalCode": "74820",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://cole.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://cole.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B000740": {
+   "seat": "Representative, OK-5",
+   "published": {
+    "name": {
+     "full": "Stephanie I. Bice",
+     "given": "Stephanie",
+     "family": "Bice",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "OK",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252132",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2402 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3605",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Oklahoma City, OK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14053006890",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "101 N Robinson, Suite 1105"
+       ],
+       "city": "Oklahoma City",
+       "region": "OK",
+       "postalCode": "73102",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://bice.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://bice.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001176": {
+   "seat": "Senator, OR",
+   "published": {
+    "name": {
+     "full": "Jeff Merkley",
+     "given": "Jeff",
+     "family": "Merkley",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "OR",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022243753",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "531 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Baker City, OR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15412781129",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1705 Main St., Suite 504"
+       ],
+       "city": "Baker City",
+       "region": "OR",
+       "postalCode": "97814",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bend, OR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15413181298",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "131 NW Hawthorne Ave., Suite 208"
+       ],
+       "city": "Bend",
+       "region": "OR",
+       "postalCode": "97703",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Eugene, OR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15414656750",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "405 East 8th Ave., Suite 2010"
+       ],
+       "city": "Eugene",
+       "region": "OR",
+       "postalCode": "97401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Medford, OR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15416089102",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "10 South Bartlett St., Suite 201"
+       ],
+       "city": "Medford",
+       "region": "OR",
+       "postalCode": "97501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Portland, OR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15033263386",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "121 SW Salmon St., Suite 1400"
+       ],
+       "city": "Portland",
+       "region": "OR",
+       "postalCode": "97204",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Salem, OR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15033628102",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "500 Liberty St. SE, Suite 320"
+       ],
+       "city": "Salem",
+       "region": "OR",
+       "postalCode": "97301",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.merkley.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.merkley.senate.gov/contact/",
+    "website": "https://www.merkley.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "W000779": {
+   "seat": "Senator, OR",
+   "published": {
+    "name": {
+     "full": "Ron Wyden",
+     "given": "Ron",
+     "family": "Wyden",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "OR",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022245244",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "221 Dirksen Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bend, OR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15413309142",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "The Jamison Building",
+        "131 NW. Hawthorne Ave., Suite 107"
+       ],
+       "city": "Bend",
+       "region": "OR",
+       "postalCode": "97701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Eugene, OR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15414310229",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "405 E. 8th Ave., Suite 2020"
+       ],
+       "city": "Eugene",
+       "region": "OR",
+       "postalCode": "97401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "La Grande, OR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15419627691",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "SAC Annex Building",
+        "105 Fir St., Suite 201"
+       ],
+       "city": "La Grande",
+       "region": "OR",
+       "postalCode": "97850",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Medford, OR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15418585122",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Federal Courthouse",
+        "310 W. 6th St., Room 118"
+       ],
+       "city": "Medford",
+       "region": "OR",
+       "postalCode": "97501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Portland, OR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15033267525",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "911 NE 11th Ave., Suite 630"
+       ],
+       "city": "Portland",
+       "region": "OR",
+       "postalCode": "97232",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Salem, OR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15035894555",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "707 13th St., Suite 285"
+       ],
+       "city": "Salem",
+       "region": "OR",
+       "postalCode": "97301",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.wyden.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.wyden.senate.gov/contact/",
+    "website": "https://www.wyden.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001278": {
+   "seat": "Representative, OR-1",
+   "published": {
+    "name": {
+     "full": "Suzanne Bonamici",
+     "given": "Suzanne",
+     "family": "Bonamici",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "OR",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022250855",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2231 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Beaverton, OR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15034696010",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "12725 SW Millikan Way, Suite 220"
+       ],
+       "city": "Beaverton",
+       "region": "OR",
+       "postalCode": "97005",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://bonamici.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://bonamici.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B000668": {
+   "seat": "Representative, OR-2",
+   "published": {
+    "name": {
+     "full": "Cliff Bentz",
+     "given": "Cliff",
+     "family": "Bentz",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "OR",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256730",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "409 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3702",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Medford, OR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15417764646",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "14 N. Central Avenue, Suite 112"
+       ],
+       "city": "Medford",
+       "region": "OR",
+       "postalCode": "97501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Ontario, OR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15417092040",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2430 SW 4th Avenue, Suite 2"
+       ],
+       "city": "Ontario",
+       "region": "OR",
+       "postalCode": "97914",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://bentz.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://bentz.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "D000635": {
+   "seat": "Representative, OR-3",
+   "published": {
+    "name": {
+     "full": "Maxine Dexter",
+     "given": "Maxine",
+     "family": "Dexter",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "OR",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254811",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1207 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3703",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Portland, OR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15032312300",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "911 NE 11th Ave"
+       ],
+       "city": "Portland",
+       "region": "OR",
+       "postalCode": "97232",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://dexter.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://dexter.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001094": {
+   "seat": "Representative, OR-4",
+   "published": {
+    "name": {
+     "full": "Val T. Hoyle",
+     "given": "Valerie",
+     "family": "Hoyle",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "OR",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256416",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1620 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3704",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Eugene, OR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15414656732",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "940 Willamette St"
+       ],
+       "city": "Eugene",
+       "region": "OR",
+       "postalCode": "97401",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://hoyle.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://hoyle.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001326": {
+   "seat": "Representative, OR-5",
+   "published": {
+    "name": {
+     "full": "Janelle S. Bynum",
+     "given": "Janelle",
+     "family": "Bynum",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "OR",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255711",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1508 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3705",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Oregon City, OR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15033878651",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "502 7th Street, Suite 203"
+       ],
+       "city": "Oregon City",
+       "region": "OR",
+       "postalCode": "97045",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://bynum.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://bynum.house.gov"
+   },
+   "currentSupplement": null
+  }
+ }
+}

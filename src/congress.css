@@ -1,0 +1,225 @@
+/* Congressional Contact: app rules. Fonts and layout come from the host theme
+   (Beautiful Jekyll + Bootstrap 4). Colours follow the owner's site theme
+   (2026-11-06): headings in the heading colour, links and buttons in the
+   navbar highlight brown, hovers in the site's copper hover colour.
+   The page reads the theme's variables and never sets them; the fallbacks are
+   eriksaltwell.com's values, for hosts without them. Apart from the page-header
+   size rule at the end, every selector is scoped to .cc-*. */
+.cc-app {
+  --cc-heading: var(--heading-col, #584F4E);
+  --cc-accent: var(--navbar-hover-col, #804214);
+  --cc-accent-dark: #66340F; /* button hover and press: the accent, darkened */
+  --cc-hover: var(--hover-col, #C57735);
+  --cc-on-accent: #fff; /* button text on the brown */
+  --cc-ring: rgba(128, 66, 20, 0.35);
+  --cc-ring-invalid: rgba(197, 119, 53, 0.35);
+  --cc-muted: var(--mid-col, #808080);
+  --cc-text: var(--text-col, #404040);
+  --cc-message: #7A1F2B; /* burgundy for every message and error: 9.5:1 on the page */
+  --cc-rule: #eee; /* the theme's post-list divider */
+  --cc-card-border: #e2dcd6; /* a warm light grey for the section cards */
+  --cc-gap: 0.75rem;
+}
+
+/* Headings and links */
+.cc-app h2,
+.cc-app h3 {
+  color: var(--cc-heading);
+}
+
+.cc-app a:not(.btn) {
+  color: var(--cc-accent);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.cc-app a:not(.btn):hover,
+.cc-app a:not(.btn):focus,
+.cc-app h2 a:hover,
+.cc-app h3 a:hover {
+  color: var(--cc-hover);
+}
+
+/* The one button style: the Find and Save buttons. */
+.cc-app .btn-primary {
+  background-color: var(--cc-accent);
+  border-color: var(--cc-accent);
+  color: var(--cc-on-accent);
+  min-height: 48px;
+}
+
+.cc-app .btn-primary:hover,
+.cc-app .btn-primary:focus,
+.cc-app .btn-primary:active,
+.cc-app .btn-primary:not(:disabled):not(.disabled):active {
+  background-color: var(--cc-accent-dark);
+  border-color: var(--cc-accent-dark);
+  color: var(--cc-on-accent);
+}
+
+.cc-app .btn-primary:focus,
+.cc-app .btn-primary:not(:disabled):not(.disabled):active:focus {
+  box-shadow: 0 0 0 0.2rem var(--cc-ring);
+}
+
+/* A card that has been opened: the same button, outlined. */
+.cc-app .btn-primary.cc-saved {
+  background-color: transparent;
+  border-color: var(--cc-accent);
+  color: var(--cc-accent);
+}
+
+.cc-app .btn-primary.cc-saved:hover,
+.cc-app .btn-primary.cc-saved:focus {
+  background-color: var(--cc-accent);
+  color: var(--cc-on-accent);
+}
+
+/* ZIP form */
+.cc-form {
+  margin-top: 2rem; /* sets the form apart from the theme's page header */
+}
+
+.cc-label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.cc-form-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--cc-gap);
+  align-items: center;
+}
+
+.cc-zip {
+  max-width: 9rem;
+}
+
+.cc-app .form-control:focus {
+  border-color: var(--cc-accent);
+  box-shadow: 0 0 0 0.2rem var(--cc-ring);
+}
+
+/* Invalid ZIP: Bootstrap's is-invalid, in the site's hover colour. */
+.cc-app .form-control.is-invalid,
+.cc-app .form-control.is-invalid:focus {
+  border-color: var(--cc-hover);
+  background-image: none;
+  padding-right: 1rem;
+}
+
+.cc-app .form-control.is-invalid:focus {
+  box-shadow: 0 0 0 0.2rem var(--cc-ring-invalid);
+}
+
+/* Errors use the burgundy message colour (owner, 2026-11-06). */
+.cc-error {
+  color: var(--cc-message);
+  font-weight: 600;
+  margin: 0.5rem 0 0;
+}
+
+/* Results */
+.cc-results {
+  margin-top: 1.5rem;
+  scroll-margin-top: 4.5rem; /* clears the theme's fixed navbar after a search */
+}
+
+.cc-results:focus {
+  outline: none;
+}
+
+/* Burgundy messages: text only, directly under the heading they explain. */
+.cc-message {
+  color: var(--cc-message);
+  font-weight: 600;
+  margin: 0.5rem 0 1rem;
+}
+
+/* Hierarchy (owner, 2026-11-06, "cards" treatment): a state heading, then a
+   card each for Senators and Representatives, then one row per person with
+   the name on the left and the Add button on the right. */
+.cc-group {
+  margin-bottom: 2rem;
+}
+
+.cc-app .cc-state {
+  font-size: 1.5rem;
+  margin: 0 0 0.25rem;
+}
+
+.cc-chamber {
+  border: 1px solid var(--cc-card-border);
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+  margin-top: 0.75rem;
+}
+
+.cc-app .cc-chamber-title {
+  font-size: 0.875rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin: 0 0 0.25rem;
+}
+
+.cc-officials {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.cc-official {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.625rem 0;
+  border-bottom: 1px solid var(--cc-rule);
+}
+
+.cc-official:last-child {
+  border-bottom: 0;
+}
+
+.cc-person {
+  flex: 1;
+  min-width: 0;
+}
+
+.cc-app .cc-official .cc-name {
+  font-family: inherit;
+  font-size: 1.0625rem;
+  font-weight: 600;
+  color: var(--cc-text);
+  margin: 0 0 0.125rem;
+}
+
+.cc-role {
+  color: var(--cc-text);
+  font-size: 0.9375rem;
+  margin: 0;
+}
+
+.cc-official .cc-save {
+  flex: none;
+  font-size: 1rem;
+  padding: 0.5rem 0.875rem;
+}
+
+.cc-vacant .cc-message {
+  margin: 0;
+}
+
+/* Page header (this stylesheet loads only on this page): fit the theme's
+   50px title and 27px subtitle on a phone. */
+@media (max-width: 575.98px) {
+  .intro-header .page-heading h1 {
+    font-size: 2.25rem;
+  }
+
+  .intro-header .page-heading .page-subheading {
+    font-size: 1.25rem;
+  }
+}

@@ -1,0 +1,1324 @@
+{
+ "batch": "2026-11-05-full-06",
+ "reviewedAt": "2026-11-05",
+ "officials": {
+  "D000032": {
+   "name": "Byron Donalds",
+   "seat": "Representative, FL-19",
+   "status": "verified",
+   "pagesChecked": [
+    "https://donalds.house.gov/",
+    "https://donalds.house.gov/news/email/",
+    "https://donalds.house.gov/contact/",
+    "https://donalds.house.gov/contact/subscribe.htm",
+    "https://donalds.house.gov/contact/offices.htm",
+    "https://donalds.house.gov/contact/staff-directory.htm",
+    "https://donalds.house.gov/news/email/default.aspx"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://donalds.house.gov/contact/",
+     "source": "https://donalds.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "M001199": {
+   "name": "Brian J. Mast",
+   "seat": "Representative, FL-21",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mast.house.gov/",
+    "https://mast.house.gov/contact/",
+    "https://mast.house.gov/contact/email-brian/",
+    "https://mast.house.gov/contact/get-updates/",
+    "https://mast.house.gov/contact/our-offices/",
+    "https://mast.house.gov/contact/fraud/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mast.house.gov/contact/email-brian/",
+     "source": "https://mast.house.gov/contact/email-brian/",
+     "evidence": "'Email Brian' form for sharing views and opinions on issues and legislation, with a topic list; casework and federal agency help are separate. The fraud page is not a feedback form."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://mast.house.gov/",
+     "evidence": "Office list: 'Port St Lucie 121 SW Port St. Lucie Blvd ... Phone: 772-403-0900 Stuart 171 SW Flagler Ave ... Phone: 772-403-0900 Jupiter 210 Military Trail Jupiter, FL 33458 Phone: 772-403-0900 ... Fort Pierce 100 North U.S. HWY 1, Suite 217 ... Phone: 772-403-0900'. We publish (772) 336-2877, (561) 530-7778 and (772) 446-8855 for Port St. Lucie, Jupiter and Fort Pierce, and 601 Heritage Drive, Suite 144 for Jupiter.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253026",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2182 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0921",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Port St. Lucie, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17724030900",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "121 SW. Port St. Lucie Blvd."
+        ],
+        "city": "Port St. Lucie",
+        "region": "FL",
+        "postalCode": "34984",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Stuart, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17724030900",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "171 SW Flagler Ave."
+        ],
+        "city": "Stuart",
+        "region": "FL",
+        "postalCode": "34994",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Jupiter, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17724030900",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "210 Military Trail"
+        ],
+        "city": "Jupiter",
+        "region": "FL",
+        "postalCode": "33458",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Fort Pierce, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17724030900",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "100 North U.S. HWY 1, Suite 217"
+        ],
+        "city": "Fort Pierce",
+        "region": "FL",
+        "postalCode": "34950",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "F000462": {
+   "name": "Lois Frankel",
+   "seat": "Representative, FL-22",
+   "status": "verified",
+   "pagesChecked": [
+    "https://frankel.house.gov/",
+    "https://frankel.house.gov/contact/",
+    "https://frankel.house.gov/forms/form/",
+    "https://frankel.house.gov/contact/office-information.htm",
+    "https://frankel.house.gov/contact/rep-frankel-s-staff-supporting-florida-s-22nd-district.htm",
+    "https://frankel.house.gov/contact/newsletter-sign-up.htm",
+    "https://frankel.house.gov/news/documentsingle.aspx"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://frankel.house.gov/contact/",
+     "source": "https://frankel.house.gov/contact/",
+     "evidence": "Contact form with an issue list about legislation; federal agency help, meetings, tours and newsletter are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://frankel.house.gov/contact/office-information.htm",
+     "evidence": "'Delray Beach, FL 7499 West Atlantic Ave, Unit 206 ... Phone: (561) 998-9045 Toll-free: (866) 264-0957'; we publish no toll-free line.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022259890",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2305 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0922",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Delray Beach, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15619989045",
+         "type": "voice"
+        },
+        {
+         "number": "+18662640957",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "7499 West Atlantic Ave, Unit 206"
+        ],
+        "city": "Delray Beach",
+        "region": "FL",
+        "postalCode": "33446",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "M001217": {
+   "name": "Jared Moskowitz",
+   "seat": "Representative, FL-23",
+   "status": "verified",
+   "pagesChecked": [
+    "https://moskowitz.house.gov/",
+    "https://moskowitz.house.gov/contact"
+   ],
+   "notes": "Offices match the contact page (DC, Coral Springs, Fort Lauderdale and Boca Raton, all locals at (754) 240-6330).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://moskowitz.house.gov/contact",
+     "source": "https://moskowitz.house.gov/contact",
+     "evidence": "Contact form behind an address check ('Let's check that you're within this district'), then 'How can we help?' with a Topic list."
+    }
+   ]
+  },
+  "W000808": {
+   "name": "Frederica S. Wilson",
+   "seat": "Representative, FL-24",
+   "status": "verified",
+   "pagesChecked": [
+    "https://wilson.house.gov/",
+    "https://wilson.house.gov/contact",
+    "https://wilson.house.gov/address_authentication?form=/contact/email-me",
+    "https://wilson.house.gov/contact/office-locations",
+    "https://wilson.house.gov/contact/offices/washington-dc-office",
+    "https://wilson.house.gov/contact/offices/district-office-0",
+    "https://wilson.house.gov/contact/offices/west-park-district-office",
+    "https://wilson.house.gov/contact/offices/north-miami-district-office",
+    "https://wilson.house.gov/contact/offices/miami-gardens-office"
+   ],
+   "notes": "The West Park office is listed as 'West Park City Hall Satellite Office' with no street; the published City Hall street address is kept.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://wilson.house.gov/contact/email-me",
+     "source": "https://wilson.house.gov/contact/email-me",
+     "evidence": "The member's main Email Me form, behind an address check, with an issue list about legislation."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://wilson.house.gov/contact/office-locations",
+     "evidence": "'Miami Beach District Office 1700 Convention Center Dr First Floor Suite Miami Beach, FL 33139 Phone: (305) 690-5905' (we publish (305) 673-7000) and 'Miami Gardens Office 18425 NW 2nd Ave Suite 355' (we publish no suite).",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254506",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2080 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0924",
+        "country": "US"
+       }
+      },
+      {
+       "label": "West Park, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19549892688",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "West Park City Hall",
+         "1965 South State Road 7"
+        ],
+        "city": "West Park",
+        "region": "FL",
+        "postalCode": "33023",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Miami Beach, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13056905905",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1700 Convention Center Drive, First Floor Suite"
+        ],
+        "city": "Miami Beach",
+        "region": "FL",
+        "postalCode": "33139",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Miami Gardens, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13056905905",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "18425 NW 2nd Avenue, Suite 355"
+        ],
+        "city": "Miami Gardens",
+        "region": "FL",
+        "postalCode": "33169",
+        "country": "US"
+       }
+      },
+      {
+       "label": "North Miami, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13056905905",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Scott Galvin Community Center",
+         "1600 NE 126th Street"
+        ],
+        "city": "North Miami",
+        "region": "FL",
+        "postalCode": "33181",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "W000797": {
+   "name": "Debbie Wasserman Schultz",
+   "seat": "Representative, FL-25",
+   "status": "verified",
+   "pagesChecked": [
+    "https://wassermanschultz.house.gov/",
+    "https://wassermanschultz.house.gov/forms/form/",
+    "https://wassermanschultz.house.gov/news/email/",
+    "https://wassermanschultz.house.gov/contact/",
+    "https://wassermanschultz.house.gov/contact/officeinformation.htm",
+    "https://wassermanschultz.house.gov/news/documentsingle.aspx",
+    "https://wassermanschultz.house.gov/news/email/default.aspx"
+   ],
+   "notes": "Offices match (Sunrise and Hollywood share (954) 845-1179).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://wassermanschultz.house.gov/contact/",
+     "source": "https://wassermanschultz.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "D000600": {
+   "name": "Mario Diaz-Balart",
+   "seat": "Representative, FL-26",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mariodiazbalart.house.gov/",
+    "https://mariodiazbalart.house.gov/contact-mario/office-hours-near-you",
+    "https://mariodiazbalart.house.gov/contact/offices",
+    "https://mariodiazbalart.house.gov/contact/offices/washington-dc-office",
+    "https://mariodiazbalart.house.gov/contact/offices/doral-district-office",
+    "https://mariodiazbalart.house.gov/contact/offices/naples-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mariodiazbalart.house.gov/contact-mario",
+     "source": "https://mariodiazbalart.house.gov/",
+     "evidence": "'Contact Mario', the member's main contact form, behind an address check (address_authentication?form=/contact-mario), so its topic list could not be read."
+    }
+   ]
+  },
+  "S000168": {
+   "name": "Maria Elvira Salazar",
+   "seat": "Representative, FL-27",
+   "status": "verified",
+   "pagesChecked": [
+    "https://salazar.house.gov/",
+    "https://salazar.house.gov/contact",
+    "https://salazar.house.gov/contact/offices",
+    "https://salazar.house.gov/contact/offices/washington-dc-office",
+    "https://salazar.house.gov/contact/offices/main-district-office-0",
+    "https://salazar.house.gov/contact/offices/palmetto-bay",
+    "https://salazar.house.gov/contact/offices/cutler-bay"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://salazar.house.gov/contact",
+     "source": "https://salazar.house.gov/contact",
+     "evidence": "'Send Message', the member's main contact form, a four-page form whose later pages (where the topic is chosen) cannot be read without filling page 1; tours and federal cases are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://salazar.house.gov/contact/offices",
+     "evidence": "'Palmetto Bay By Appointment Only Address Available Upon Request Palmetto Bay, FL 33157' and 'Cutler Bay By Appointment Only Address Available Upon Request Cutler Bay, FL 33189'. We publish 9705 Hibiscus Street and 10720 Caribbean Blvd, Suite 220.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253931",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2162 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0927",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Miami, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13056682285",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "5725 SW 8th St, Suite 200"
+        ],
+        "city": "Miami",
+        "region": "FL",
+        "postalCode": "33144",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Palmetto Bay, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13056682285",
+         "type": "voice"
+        }
+       ],
+       "address": null
+      },
+      {
+       "label": "Cutler Bay, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13056682285",
+         "type": "voice"
+        }
+       ],
+       "address": null
+      }
+     ]
+    }
+   ]
+  },
+  "G000593": {
+   "name": "Carlos A. Gimenez",
+   "seat": "Representative, FL-28",
+   "status": "verified",
+   "pagesChecked": [
+    "https://gimenez.house.gov/",
+    "https://gimenez.house.gov/contact",
+    "https://gimenez.house.gov/address_authentication?form=/contact/email-me",
+    "https://gimenez.house.gov/contact/office-hours",
+    "https://gimenez.house.gov/contact/office-locations",
+    "https://gimenez.house.gov/contact/office-locations/washington-dc-office",
+    "https://gimenez.house.gov/contact/office-locations/miami-district-office",
+    "https://gimenez.house.gov/contact/office-locations/key-west-district-office"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://gimenez.house.gov/contact/email-me",
+     "source": "https://gimenez.house.gov/contact/email-me",
+     "evidence": "The member's main Email Me form, behind an address check, with an issue list about legislation."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://gimenez.house.gov/",
+     "evidence": "'Key West District Office 1100 Simonton St. Room 1-213 Key West, FL 33040 Phone: (305) 222-0160'; we publish (305) 292-4485.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252778",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "448 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0001",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Key West, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13052220160",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1100 Simonton St., Room 1-213"
+        ],
+        "city": "Key West",
+        "region": "FL",
+        "postalCode": "33040",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Miami, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13052220160",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "14221 SW 120th St., #115"
+        ],
+        "city": "Miami",
+        "region": "FL",
+        "postalCode": "33186",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "O000174": {
+   "name": "Jon Ossoff",
+   "seat": "Senator, GA",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.ossoff.senate.gov/contact-us/",
+    "https://www.ossoff.senate.gov/contact-us/offices/",
+    "https://www.ossoff.senate.gov/contact-us/",
+    "https://www.ossoff.senate.gov/es/contact-us/",
+    "https://www.ossoff.senate.gov/contact-us/share-your-views/",
+    "https://www.ossoff.senate.gov/contact-us/offices/"
+   ],
+   "notes": "Homepage blocked (403). Offices match the offices page ('Hart Senate Office Building Suite 317').",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.ossoff.senate.gov/contact-us/share-your-views/",
+     "source": "https://www.ossoff.senate.gov/contact-us/share-your-views/",
+     "evidence": "'Share Your Views' form for comments and opinions on issues, with a topic list; casework, federal agency help and tours are separate."
+    }
+   ]
+  },
+  "W000790": {
+   "name": "Raphael G. Warnock",
+   "seat": "Senator, GA",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.warnock.senate.gov/contact/",
+    "https://www.warnock.senate.gov/contact/contact-form/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.warnock.senate.gov/contact/contact-form/",
+     "source": "https://www.warnock.senate.gov/contact/contact-form/",
+     "evidence": "Contact form for comments and opinions on issues, with a topic list; casework, federal agency help and flags are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.warnock.senate.gov/contact/",
+     "evidence": "'Atlanta 201 17th Street NW Suite 530 Atlanta, GA 30363 (770) 694-7828'; we repeat 'Suite 530' as an extra address line. DC matches ('Hart Senate Office Building Suite 717').",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022243643",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "717 Hart Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Atlanta, GA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17706947828",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "201 17th Street NW, Suite 530"
+        ],
+        "city": "Atlanta",
+        "region": "GA",
+        "postalCode": "30363",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "C001103": {
+   "name": "Earl L. \"Buddy\" Carter",
+   "seat": "Representative, GA-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://buddycarter.house.gov/",
+    "https://buddycarter.house.gov/news/email/",
+    "https://buddycarter.house.gov/contact/",
+    "https://buddycarter.house.gov/contact/officeinformation.htm",
+    "https://buddycarter.house.gov/news/email/default.aspx"
+   ],
+   "notes": "Offices match. The (202) 809-5889 number is a press contact, not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://buddycarter.house.gov/contact/",
+     "source": "https://buddycarter.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "B000490": {
+   "name": "Sanford D. Bishop, Jr.",
+   "seat": "Representative, GA-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://bishop.house.gov/",
+    "https://bishop.house.gov/address_authentication?form=/contact",
+    "https://bishop.house.gov/Connect",
+    "https://bishop.house.gov/address_authentication?form=/contact",
+    "https://bishop.house.gov/contact/offices",
+    "https://bishop.house.gov/contact/offices/washington-dc-office",
+    "https://bishop.house.gov/contact/offices/albany-district-office",
+    "https://bishop.house.gov/contact/offices/columbus-district-office",
+    "https://bishop.house.gov/contact/offices/macon-district-office"
+   ],
+   "notes": "Offices match the offices page and each office page.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://bishop.house.gov/contact",
+     "source": "https://bishop.house.gov/contact",
+     "evidence": "The member's main contact form, behind an address check (address_authentication?form=/contact), so its topic list could not be read."
+    }
+   ]
+  },
+  "J000311": {
+   "name": "Brian Jack",
+   "seat": "Representative, GA-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://jack.house.gov/",
+    "https://jack.house.gov/address_authentication?form=/contact/email-me",
+    "https://jack.house.gov/contact",
+    "https://jack.house.gov/contact/office-locations",
+    "https://jack.house.gov/contact/offices/washington-dc-office",
+    "https://jack.house.gov/contact/offices/district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://jack.house.gov/contact/email-me",
+     "source": "https://jack.house.gov/contact/email-me",
+     "evidence": "The member's main Email Me form, behind an address check (address_authentication?form=/contact/email-me), so its topic list could not be read."
+    }
+   ]
+  },
+  "J000288": {
+   "name": "Henry C. \"Hank\" Johnson, Jr.",
+   "seat": "Representative, GA-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://hankjohnson.house.gov/",
+    "https://hankjohnson.house.gov/address_authentication?form=/contact",
+    "https://hankjohnson.house.gov/contact/offices",
+    "https://hankjohnson.house.gov/contact/offices/washington-dc-office",
+    "https://hankjohnson.house.gov/contact/offices/decatur-office",
+    "https://hankjohnson.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://hankjohnson.house.gov/contact",
+     "source": "https://hankjohnson.house.gov/contact",
+     "evidence": "The member's main contact form, behind an address check (address_authentication?form=/contact), with an issue list about legislation."
+    }
+   ]
+  },
+  "W000788": {
+   "name": "Nikema Williams",
+   "seat": "Representative, GA-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://nikemawilliams.house.gov/",
+    "https://nikemawilliams.house.gov/contact"
+   ],
+   "notes": "Offices match. Form found in a browser.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://nikemawilliams.house.gov/contact",
+     "source": "https://nikemawilliams.house.gov/",
+     "evidence": "'CONTACT ME' page (drawn by script), the member's main contact form behind an address check ('Let's check that you're within this district ... Enter your address')."
+    }
+   ]
+  },
+  "M001208": {
+   "name": "Lucy McBath",
+   "seat": "Representative, GA-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mcbath.house.gov/",
+    "https://mcbath.house.gov/about/offices/",
+    "https://mcbath.house.gov/contact/",
+    "https://mcbath.house.gov/contact/email-me/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mcbath.house.gov/contact/email-me/",
+     "source": "https://mcbath.house.gov/contact/email-me/",
+     "evidence": "Email Me form with an issue list for comments, concerns and opinions on legislation; federal agency help and newsletter are separate."
+    }
+   ]
+  },
+  "M001218": {
+   "name": "Richard McCormick",
+   "seat": "Representative, GA-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mccormick.house.gov/",
+    "https://mccormick.house.gov/address_authentication?form=/contact",
+    "https://mccormick.house.gov/contact/offices",
+    "https://mccormick.house.gov/contact/offices/washington-dc-office",
+    "https://mccormick.house.gov/contact/offices/alpharetta-district-office",
+    "https://mccormick.house.gov/contact/offices"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mccormick.house.gov/contact",
+     "source": "https://mccormick.house.gov/contact",
+     "evidence": "The member's main contact form, behind an address check (address_authentication?form=/contact), with an issue list about legislation; casework is separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://mccormick.house.gov/contact/offices",
+     "evidence": "'Alpharetta District Office 6230 Shiloh Road, Suite 230 Alpharetta, GA 30005 Phone: (770) 232-3005'; we publish a Cumming office at 115 W Court House Square with the same phone, which is no longer listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254272",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1719 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1007",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Alpharetta, GA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17702323005",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "6230 Shiloh Road, Suite 230"
+        ],
+        "city": "Alpharetta",
+        "region": "GA",
+        "postalCode": "30005",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "S001189": {
+   "name": "Austin Scott",
+   "seat": "Representative, GA-8",
+   "status": "verified",
+   "pagesChecked": [
+    "https://austinscott.house.gov/",
+    "https://austinscott.house.gov/contact-austin/",
+    "https://austinscott.house.gov/contact-austin",
+    "https://austinscott.house.gov/office-locations/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://austinscott.house.gov/contact-austin/",
+     "source": "https://austinscott.house.gov/contact-austin/",
+     "evidence": "'Contact Austin' form with an issue list for comments on legislation; federal agency help and newsletter are separate."
+    }
+   ]
+  },
+  "C001116": {
+   "name": "Andrew S. Clyde",
+   "seat": "Representative, GA-9",
+   "status": "verified",
+   "pagesChecked": [
+    "https://clyde.house.gov/",
+    "https://clyde.house.gov/news/email/",
+    "https://clyde.house.gov/contact/",
+    "https://clyde.house.gov/forms/emailsignup/",
+    "https://clyde.house.gov/contact/offices.htm",
+    "https://clyde.house.gov/contact/america-250-celebration-july-4-2026.htm"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://clyde.house.gov/contact/",
+     "source": "https://clyde.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "C001129": {
+   "name": "Mike Collins",
+   "seat": "Representative, GA-10",
+   "status": "verified",
+   "pagesChecked": [
+    "https://collins.house.gov/",
+    "https://collins.house.gov/contact",
+    "https://collins.house.gov/contact/event-request",
+    "https://collins.house.gov/contact/offices",
+    "https://collins.house.gov/contact/offices/washington-dc-office",
+    "https://collins.house.gov/contact/offices/monroe-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://collins.house.gov/contact",
+     "source": "https://collins.house.gov/contact",
+     "evidence": "Contact form with an issue list about legislation; federal agency help, meetings and newsletter are separate."
+    }
+   ]
+  },
+  "L000583": {
+   "name": "Barry Loudermilk",
+   "seat": "Representative, GA-11",
+   "status": "verified",
+   "pagesChecked": [
+    "https://loudermilk.house.gov/",
+    "https://loudermilk.house.gov/contact/",
+    "https://loudermilk.house.gov/contact/email-barry/",
+    "https://loudermilk.house.gov/contact/contact-event-request/",
+    "https://loudermilk.house.gov/contact/contact-meet-with-rep-loudermilk/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://loudermilk.house.gov/contact/email-barry/",
+     "source": "https://loudermilk.house.gov/contact/email-barry/",
+     "evidence": "'Email Barry' form with an issue list for comments, concerns and opinions on legislation; federal agency help and newsletter are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://loudermilk.house.gov/contact/",
+     "evidence": "Office list shows only 'Washington D.C. Office 2133 Rayburn' and 'Woodstock Office 9898 Highway 92, Suite 100 ... Phone: 770-429-1776'; the Cartersville office (135 W. Cherokee Ave., Suite 122) we publish is not listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252931",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2133 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1011",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Woodstock, GA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17704291776",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "9898 Highway 92, Suite 100"
+        ],
+        "city": "Woodstock",
+        "region": "GA",
+        "postalCode": "30188",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "A000372": {
+   "name": "Rick W. Allen",
+   "seat": "Representative, GA-12",
+   "status": "verified",
+   "pagesChecked": [
+    "https://allen.house.gov/",
+    "https://allen.house.gov/news/email/",
+    "https://allen.house.gov/news/documentquery.aspx",
+    "https://allen.house.gov/contact/congressional-prayer-caucus.htm",
+    "https://allen.house.gov/contact/",
+    "https://allen.house.gov/contact/officeinformation.htm",
+    "https://allen.house.gov/forms/emailsignup/",
+    "https://allen.house.gov/news/email/default.aspx"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://allen.house.gov/contact/",
+     "source": "https://allen.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP check, so its topic list could not be read. The prayer caucus page is not a feedback form."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://allen.house.gov/contact/officeinformation.htm",
+     "evidence": "'Vidalia Satellite Office 107 Old Airport Road, Suite A Vidalia, GA 30474 Phone: (912) 243 9452'; we publish ZIP 30475. Other offices match.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252823",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "462 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1012",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Dublin, GA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14782916324",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "100 S. Church St."
+        ],
+        "city": "Dublin",
+        "region": "GA",
+        "postalCode": "31021",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Statesboro, GA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19122439452",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "50 E. Main St."
+        ],
+        "city": "Statesboro",
+        "region": "GA",
+        "postalCode": "30458",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Vidalia, GA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19122439452",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "107 Old Airport Rd., Suite A"
+        ],
+        "city": "Vidalia",
+        "region": "GA",
+        "postalCode": "30474",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Augusta, GA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17062281980",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Building 200",
+         "2743 Perimeter Parkway, Suite 105"
+        ],
+        "city": "Augusta",
+        "region": "GA",
+        "postalCode": "30909",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "B001328": {
+   "name": "Everton Blair Jr.",
+   "seat": "Representative, GA-13",
+   "status": "verified",
+   "pagesChecked": [
+    "https://blair.house.gov/",
+    "https://blair.house.gov/contact",
+    "https://blair.house.gov/address_authentication?form=/contact/email-me",
+    "https://blair.house.gov/contact/office-locations",
+    "https://blair.house.gov/contact/offices/washington-dc-office",
+    "https://blair.house.gov/contact/offices/stockbridge-district-office"
+   ],
+   "notes": "Mailboxes printed on the homepage are press contacts; not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://blair.house.gov/contact/email-me",
+     "source": "https://blair.house.gov/contact/email-me",
+     "evidence": "The member's main Email Me form, behind an address check, with an issue list about legislation."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://blair.house.gov/",
+     "evidence": "'Stockbridge District Office 5 Gresham Landing Suite A Stockbridge, GA 30281 Phone: (770) 210-5073'; we publish no local office.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252939",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "468 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1013",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Stockbridge, GA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17702105073",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "5 Gresham Landing, Suite A"
+        ],
+        "city": "Stockbridge",
+        "region": "GA",
+        "postalCode": "30281",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "F000485": {
+   "name": "Clay Fuller",
+   "seat": "Representative, GA-14",
+   "status": "verified",
+   "pagesChecked": [
+    "https://fuller.house.gov/",
+    "https://fuller.house.gov/contact",
+    "https://fuller.house.gov/contact/office-locations",
+    "https://fuller.house.gov/contact/send-me-an-email",
+    "https://fuller.house.gov/contact/offices/washington-dc-office",
+    "https://fuller.house.gov/contact/offices/rome-district-office",
+    "https://fuller.house.gov/contact/offices/dallas-district-office",
+    "https://fuller.house.gov/contact/offices/dalton-district-office"
+   ],
+   "notes": "The Rome and Dallas offices list no phone.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://fuller.house.gov/contact/send-me-an-email",
+     "source": "https://fuller.house.gov/contact/send-me-an-email",
+     "evidence": "'Send Me an Email' page embedding fullerforms.house.gov/forms/writeyourrep with 'Select the issue your email relates to' and 'No, I just want you to know my thoughts'."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://fuller.house.gov/contact/office-locations",
+     "evidence": "'Rome District Office Floyd County Administrative Building ... 12 East 4th Ave Rome, GA 30161', 'Dallas District Office Paulding County Watson Government Complex ... 240 Constitution Boulevard Dallas, GA 30132' (neither published, no phones) and 'Dalton District Office 702 South Thornton Ave P.O. Box 829 Dalton, GA 30722 Phone: (706) 226-5320' (we publish only the P.O. box).",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255211",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2201 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1014",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Dalton, GA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17062265320",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "702 South Thornton Ave",
+         "P.O. Box 829"
+        ],
+        "city": "Dalton",
+        "region": "GA",
+        "postalCode": "30722",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Rome, GA office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "Floyd County Administrative Building",
+         "12 East 4th Ave"
+        ],
+        "city": "Rome",
+        "region": "GA",
+        "postalCode": "30161",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Dallas, GA office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "Paulding County Watson Government Complex",
+         "240 Constitution Boulevard"
+        ],
+        "city": "Dallas",
+        "region": "GA",
+        "postalCode": "30132",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,1996 @@
+{
+ "batch": "2026-11-05-full-02",
+ "createdAt": "2026-11-05",
+ "dataGeneratedAt": "2026-11-05T19:36:17Z",
+ "officials": {
+  "B001302": {
+   "seat": "Representative, AZ-5",
+   "published": {
+    "name": {
+     "full": "Andy Biggs",
+     "given": "Andy",
+     "family": "Biggs",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "AZ",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252635",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "464 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0305",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Mesa, AZ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14806998239",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2509 S. Power Rd., Suite 204"
+       ],
+       "city": "Mesa",
+       "region": "AZ",
+       "postalCode": "85209",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://biggs.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://biggs.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001133": {
+   "seat": "Representative, AZ-6",
+   "published": {
+    "name": {
+     "full": "Juan Ciscomani",
+     "given": "Juan",
+     "family": "Ciscomani",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "AZ",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252542",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "461 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0306",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Sierra Vista, AZ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15204593115",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2600 E. Wilcox Dr., Room H-106"
+       ],
+       "city": "Sierra Vista",
+       "region": "AZ",
+       "postalCode": "85635",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tucson, AZ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15208813588",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1636 N Swan Road, Suite 200"
+       ],
+       "city": "Tucson",
+       "region": "AZ",
+       "postalCode": "85712",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://ciscomani.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://ciscomani.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000606": {
+   "seat": "Representative, AZ-7",
+   "published": {
+    "name": {
+     "full": "Adelita S. Grijalva",
+     "given": "Adelita",
+     "family": "Grijalva",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "AZ",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252435",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1203 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0307",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tucson, AZ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15206226788",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Building 4",
+        "101 W. Irvington Road"
+       ],
+       "city": "Tucson",
+       "region": "AZ",
+       "postalCode": "85714",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://grijalva.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://grijalva.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001098": {
+   "seat": "Representative, AZ-8",
+   "published": {
+    "name": {
+     "full": "Abraham J. Hamadeh",
+     "given": "Abraham",
+     "family": "Hamadeh",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "AZ",
+    "district": 8,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254576",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1722 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0308",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Surprise, AZ office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "12515 W. Bell Rd, Suite 104"
+       ],
+       "city": "Surprise",
+       "region": "AZ",
+       "postalCode": "85378",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://hamadeh.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://hamadeh.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000565": {
+   "seat": "Representative, AZ-9",
+   "published": {
+    "name": {
+     "full": "Paul A. Gosar",
+     "given": "Paul",
+     "family": "Gosar",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "AZ",
+    "district": 9,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252315",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2057 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0309",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Goodyear, AZ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16237070530",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1300 S. Litchfield Road, Suite 115-H"
+       ],
+       "city": "Goodyear",
+       "region": "AZ",
+       "postalCode": "85338",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://gosar.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://gosar.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "P000145": {
+   "seat": "Senator, CA",
+   "published": {
+    "name": {
+     "full": "Alex Padilla",
+     "given": "Alex",
+     "family": "Padilla",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "CA",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022243553",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "331 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fresno, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15594975109",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2500 Tulare Street, Suite 5290"
+       ],
+       "city": "Fresno",
+       "region": "CA",
+       "postalCode": "93721",
+       "country": "US"
+      }
+     },
+     {
+      "label": "San Francisco, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14159819369",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "333 Bush Street, Suite 3225"
+       ],
+       "city": "San Francisco",
+       "region": "CA",
+       "postalCode": "94104",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Sacramento, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19164482787",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "501 I Street, Suite 7-800"
+       ],
+       "city": "Sacramento",
+       "region": "CA",
+       "postalCode": "95814",
+       "country": "US"
+      }
+     },
+     {
+      "label": "San Diego, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16192393884",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "600 B Street, Suite 2240"
+       ],
+       "city": "San Diego",
+       "region": "CA",
+       "postalCode": "92101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Los Angeles, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13102314494",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "255 E. Temple St., Suite 1860"
+       ],
+       "city": "Los Angeles",
+       "region": "CA",
+       "postalCode": "90012",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.padilla.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.padilla.senate.gov/contact/",
+    "website": "https://www.padilla.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001150": {
+   "seat": "Senator, CA",
+   "published": {
+    "name": {
+     "full": "Adam B. Schiff",
+     "given": "Adam",
+     "family": "Schiff",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "CA",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022243841",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "112 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "San Francisco, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14153930707",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1 Post St, Suite 2450"
+       ],
+       "city": "San Francisco",
+       "region": "CA",
+       "postalCode": "94104",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fresno, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15594857430",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2500 Tulare Street, Suite 4290"
+       ],
+       "city": "Fresno",
+       "region": "CA",
+       "postalCode": "93721",
+       "country": "US"
+      }
+     },
+     {
+      "label": "San Diego, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16192319712",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "880 Front Street, Suite 4236"
+       ],
+       "city": "San Diego",
+       "region": "CA",
+       "postalCode": "92101",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.schiff.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://www.schiff.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000607": {
+   "seat": "Representative, CA-1",
+   "published": {
+    "name": {
+     "full": "James Gallagher",
+     "given": "James",
+     "family": "Gallagher",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "CA",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253076",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "408 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0501",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://gallagher.house.gov/"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://gallagher.house.gov/"
+   },
+   "currentSupplement": null
+  },
+  "H001068": {
+   "seat": "Representative, CA-2",
+   "published": {
+    "name": {
+     "full": "Jared Huffman",
+     "given": "Jared",
+     "family": "Huffman",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255161",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2330 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0502",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Eureka, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17074073585",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "317 Third St., Suite 1"
+       ],
+       "city": "Eureka",
+       "region": "CA",
+       "postalCode": "95501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fort Bragg, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17079620933",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "430 N. Franklin St., P.O. Box 2208"
+       ],
+       "city": "Fort Bragg",
+       "region": "CA",
+       "postalCode": "95437",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Petaluma, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17079818967",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "206 G St., Unit #3"
+       ],
+       "city": "Petaluma",
+       "region": "CA",
+       "postalCode": "94952",
+       "country": "US"
+      }
+     },
+     {
+      "label": "San Rafael, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14152589657",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "999 Fifth Ave., Suite 290"
+       ],
+       "city": "San Rafael",
+       "region": "CA",
+       "postalCode": "94901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Ukiah, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17076717449",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "200 South School Street"
+       ],
+       "city": "Ukiah",
+       "region": "CA",
+       "postalCode": "95482",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://huffman.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://huffman.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "K000401": {
+   "seat": "Representative, CA-3",
+   "published": {
+    "name": {
+     "full": "Kevin Kiley",
+     "given": "Kevin",
+     "family": "Kiley",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Independent",
+    "state": "CA",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252523",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2445 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0503",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rocklin, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19167242575",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "6538 Lonetree Blvd, Suite 200"
+       ],
+       "city": "Rocklin",
+       "region": "CA",
+       "postalCode": "95765",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://kiley.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://kiley.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "T000460": {
+   "seat": "Representative, CA-4",
+   "published": {
+    "name": {
+     "full": "Mike Thompson",
+     "given": "Mike",
+     "family": "Thompson",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253311",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "268 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0504",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Napa, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17072269898",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2721 Napa Valley Corporate Dr."
+       ],
+       "city": "Napa",
+       "region": "CA",
+       "postalCode": "94558",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Santa Rosa, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17075427182",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2300 County Center Dr., Suite A100"
+       ],
+       "city": "Santa Rosa",
+       "region": "CA",
+       "postalCode": "95403",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Woodland, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15307535301",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "622 Main Street, Suite 106"
+       ],
+       "city": "Woodland",
+       "region": "CA",
+       "postalCode": "95695",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mikethompson.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mikethompson.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001177": {
+   "seat": "Representative, CA-5",
+   "published": {
+    "name": {
+     "full": "Tom McClintock",
+     "given": "Tom",
+     "family": "McClintock",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "CA",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252511",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2256 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0505",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Modesto, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12095506910",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1020 15th Street, Suite 11"
+       ],
+       "city": "Modesto",
+       "region": "CA",
+       "postalCode": "95354",
+       "country": "US"
+      }
+     },
+     {
+      "label": "El Dorado Hills, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19167865560",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4359 Town Center Blvd., Suite 210"
+       ],
+       "city": "El Dorado Hills",
+       "region": "CA",
+       "postalCode": "95762",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mcclintock.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mcclintock.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001287": {
+   "seat": "Representative, CA-6",
+   "published": {
+    "name": {
+     "full": "Ami Bera",
+     "given": "Ami",
+     "family": "Bera",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255716",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "172 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0506",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Sacramento, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19166350505",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Building 3",
+        "8950 Cal Center Dr., Suite 100"
+       ],
+       "city": "Sacramento",
+       "region": "CA",
+       "postalCode": "95826",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://bera.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://bera.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001163": {
+   "seat": "Representative, CA-7",
+   "published": {
+    "name": {
+     "full": "Doris O. Matsui",
+     "given": "Doris",
+     "family": "Matsui",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022257163",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2206 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0507",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Sacramento, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19164985600",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Robert T. Matsui U.S. Courthouse",
+        "501 I St., Suite 12-600"
+       ],
+       "city": "Sacramento",
+       "region": "CA",
+       "postalCode": "95814",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://matsui.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://matsui.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000559": {
+   "seat": "Representative, CA-8",
+   "published": {
+    "name": {
+     "full": "John Garamendi",
+     "given": "John",
+     "family": "Garamendi",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 8,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022251880",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2428 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0508",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fairfield, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17074381822",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1261 Travis Boulevard, Suite 100"
+       ],
+       "city": "Fairfield",
+       "region": "CA",
+       "postalCode": "94533",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Vallejo, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17076451888",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "420 Virginia Street, Suite #1c"
+       ],
+       "city": "Vallejo",
+       "region": "CA",
+       "postalCode": "94590",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Richmond, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15106201001",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "440 Civic Center Plaza, 2nd Floor"
+       ],
+       "city": "Richmond",
+       "region": "CA",
+       "postalCode": "94804",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://garamendi.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://garamendi.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001090": {
+   "seat": "Representative, CA-9",
+   "published": {
+    "name": {
+     "full": "Josh Harder",
+     "given": "Josh",
+     "family": "Harder",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 9,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254540",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "209 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0509",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Stockton, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12095795458",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1776 W March Ln, Suite 360"
+       ],
+       "city": "Stockton",
+       "region": "CA",
+       "postalCode": "95207",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://harder.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://harder.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "D000623": {
+   "seat": "Representative, CA-10",
+   "published": {
+    "name": {
+     "full": "Mark DeSaulnier",
+     "given": "Mark",
+     "family": "DeSaulnier",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 10,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252095",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2134 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Walnut Creek, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19259332660",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3100 Oak Road, Suite 110"
+       ],
+       "city": "Walnut Creek",
+       "region": "CA",
+       "postalCode": "94597",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Antioch, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19257540716",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4703 Lone Tree Way"
+       ],
+       "city": "Antioch",
+       "region": "CA",
+       "postalCode": "94531",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://desaulnier.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://desaulnier.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "P000197": {
+   "seat": "Representative, CA-11",
+   "published": {
+    "name": {
+     "full": "Nancy Pelosi",
+     "given": "Nancy",
+     "family": "Pelosi",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 11,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254965",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1236 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0511",
+       "country": "US"
+      }
+     },
+     {
+      "label": "San Francisco, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14155564862",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "90 7th St., Suite 2-800"
+       ],
+       "city": "San Francisco",
+       "region": "CA",
+       "postalCode": "94103",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://pelosi.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://pelosi.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001231": {
+   "seat": "Representative, CA-12",
+   "published": {
+    "name": {
+     "full": "Lateefah Simon",
+     "given": "Lateefah",
+     "family": "Simon",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 12,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252661",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1023 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0512",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Oakland, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15107630370",
+        "type": "voice"
+       }
+      ],
+      "address": null
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://simon.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://simon.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000605": {
+   "seat": "Representative, CA-13",
+   "published": {
+    "name": {
+     "full": "Adam Gray",
+     "given": "Adam",
+     "family": "Gray",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 13,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022251947",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1230 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0513",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Turlock, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12092266880",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "90 S. First St."
+       ],
+       "city": "Turlock",
+       "region": "CA",
+       "postalCode": "95380",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://gray.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://gray.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "W000832": {
+   "seat": "Representative, CA-14",
+   "published": {
+    "name": {
+     "full": "Aisha Wahab",
+     "given": "Aisha",
+     "family": "Wahab",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 14,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255065",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "174 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0514",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://wahab.house.gov/"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://wahab.house.gov/"
+   },
+   "currentSupplement": null
+  },
+  "M001225": {
+   "seat": "Representative, CA-15",
+   "published": {
+    "name": {
+     "full": "Kevin Mullin",
+     "given": "Kevin",
+     "family": "Mullin",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 15,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253531",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1404 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0515",
+       "country": "US"
+      }
+     },
+     {
+      "label": "San Mateo, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16503420300",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1528 S. El Camino Real, Suite 307"
+       ],
+       "city": "San Mateo",
+       "region": "CA",
+       "postalCode": "94402",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://kevinmullin.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://kevinmullin.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000607": {
+   "seat": "Representative, CA-16",
+   "published": {
+    "name": {
+     "full": "Sam T. Liccardo",
+     "given": "Sam",
+     "family": "Liccardo",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 16,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022258104",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1117 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0516",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Half Moon Bay, CA office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "270 Capistrano Rd, Suite 6"
+       ],
+       "city": "Half Moon Bay",
+       "region": "CA",
+       "postalCode": "94019",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://liccardo.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://liccardo.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "K000389": {
+   "seat": "Representative, CA-17",
+   "published": {
+    "name": {
+     "full": "Ro Khanna",
+     "given": "Ro",
+     "family": "Khanna",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 17,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252631",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "306 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0517",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Santa Clara, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14084362720",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3150 De La Cruz Blvd, Suite 240"
+       ],
+       "city": "Santa Clara",
+       "region": "CA",
+       "postalCode": "95054",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://khanna.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://khanna.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000397": {
+   "seat": "Representative, CA-18",
+   "published": {
+    "name": {
+     "full": "Zoe Lofgren",
+     "given": "Zoe",
+     "family": "Lofgren",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CA",
+    "district": 18,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253072",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1401 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0518",
+       "country": "US"
+      }
+     },
+     {
+      "label": "San Jose, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14082718700",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "635 N. First St., Suite B"
+       ],
+       "city": "San Jose",
+       "region": "CA",
+       "postalCode": "95112",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Salinas, CA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18318376000",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "142 West Alisal Street, Room E116"
+       ],
+       "city": "Salinas",
+       "region": "CA",
+       "postalCode": "93901",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://lofgren.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://lofgren.house.gov"
+   },
+   "currentSupplement": null
+  }
+ }
+}

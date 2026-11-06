@@ -6,6 +6,8 @@ Researched November 4, 2026. Answers the [research intent](../.work-items/resear
 
 The user then selected HUD-USPS for local acquisition of the ZIP mapping and publication as static JSON. Credential setup is complete, but HUD access, quarter/Congress alignment and actual coverage have not yet been verified. The [data design handoff](data-design.md) records the approved direction and proposed format; the earlier no-account/no-key discussion below describes the initial research constraints, with the approved maintainer-side credential exception now explicit.
 
+**Update 2026-11-05:** HUD access now works, and 2026 Q2 uses 119th Congress districts. See the [HUD crosswalk findings](hud-crosswalk-findings.md) and the final [data schema](../design_notes/data-schema.md).
+
 ## Answer and recommendation
 
 The page can satisfy the primary user's needs entirely with bundled data: let the user select their state and recognize their House representative in a list, then obtain the state's senators automatically. Searching directly for a House member could also infer the state. Neither approach requires an address, API key, backend, or external request during matching.

@@ -1,0 +1,1852 @@
+{
+ "P000613": {
+  "id": "P000613",
+  "name": "Jimmy Panetta",
+  "seat": "Representative, CA-19",
+  "pages": [
+   {
+    "url": "https://panetta.house.gov",
+    "final": "https://panetta.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://panetta.house.gov/contact/",
+    "final": "https://panetta.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://panetta.house.gov/contact/offices/",
+    "final": "https://panetta.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://panetta.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://panetta.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://panetta.house.gov/contact/offices/monterey-district-office/",
+    "final": "https://panetta.house.gov/contact/offices/monterey-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://panetta.house.gov/contact/offices/santa-cruz-district-office/",
+    "final": "https://panetta.house.gov/contact/offices/santa-cruz-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://panetta.house.gov/contact/offices/san-jose-district-office/",
+    "final": "https://panetta.house.gov/contact/offices/san-jose-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://panetta.house.gov/contact/offices/paso-robles-district-office/",
+    "final": "https://panetta.house.gov/contact/offices/paso-robles-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://panetta.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "F000480": {
+  "id": "F000480",
+  "name": "Vince Fong",
+  "seat": "Representative, CA-20",
+  "pages": [
+   {
+    "url": "https://fong.house.gov",
+    "final": "https://fong.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fong.house.gov/contact/",
+    "final": "https://fong.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://fong.house.gov/contact/offices/",
+    "final": "https://fong.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fong.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://fong.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fong.house.gov/contact/offices/clovis-district-office/",
+    "final": "https://fong.house.gov/contact/offices/clovis-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fong.house.gov/contact/offices/bakersfield-district-office/",
+    "final": "https://fong.house.gov/contact/offices/bakersfield-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fong.house.gov/contact/office-locations/",
+    "final": "https://fong.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://fong.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "C001059": {
+  "id": "C001059",
+  "name": "Jim Costa",
+  "seat": "Representative, CA-21",
+  "pages": [
+   {
+    "url": "https://costa.house.gov",
+    "final": "https://costa.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://costa.house.gov/contact/email-me/",
+    "final": "https://costa.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://costa.house.gov/contact/",
+    "final": "https://costa.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://costa.house.gov/contact/offices/fresno-district-office/",
+    "final": "https://costa.house.gov/contact/offices/fresno-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://costa.house.gov/contact/offices/visalia-district-office/",
+    "final": "https://costa.house.gov/contact/offices/visalia-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://costa.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://costa.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://costa.house.gov/contact/office-locations/",
+    "final": "https://costa.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://costa.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "V000129": {
+  "id": "V000129",
+  "name": "David G. Valadao",
+  "seat": "Representative, CA-22",
+  "pages": [
+   {
+    "url": "https://valadao.house.gov",
+    "final": "https://valadao.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://valadao.house.gov/news/email/",
+    "final": "https://valadao.house.gov/news/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://valadao.house.gov/contact/",
+    "final": "https://valadao.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://valadao.house.gov/forms/emailsignup/",
+    "final": "https://valadao.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://valadao.house.gov/contact/offices.htm",
+    "final": "https://valadao.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://valadao.house.gov/news/email/show.aspx/",
+    "final": "https://valadao.house.gov/email/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://valadao.house.gov/news/email/default.aspx/",
+    "final": "https://valadao.house.gov/news/email/default.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://valadao.house.gov/news/email/559-584-3564/",
+    "final": "https://valadao.house.gov/news/email/559-584-3564/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://valadao.house.gov/contact/559-584-3564/",
+    "final": "https://valadao.house.gov/contact/559-584-3564/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://valadao.house.gov/news/email/show.aspx/",
+   "https://valadao.house.gov/news/email/559-584-3564/",
+   "https://valadao.house.gov/contact/559-584-3564/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://valadao.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "O000019": {
+  "id": "O000019",
+  "name": "Jay Obernolte",
+  "seat": "Representative, CA-23",
+  "pages": [
+   {
+    "url": "https://obernolte.house.gov",
+    "final": "https://obernolte.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://obernolte.house.gov/contact/",
+    "final": "https://obernolte.house.gov/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://obernolte.house.gov/mobile-office-hours/",
+    "final": "https://obernolte.house.gov/mobile-office-hours",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://obernolte.house.gov/contact/offices/",
+    "final": "https://obernolte.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://obernolte.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://obernolte.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://obernolte.house.gov/contact/offices/hesperia-district-office/",
+    "final": "https://obernolte.house.gov/contact/offices/hesperia-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://obernolte.house.gov/contact",
+    "positive": [
+     "issue"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "C001112": {
+  "id": "C001112",
+  "name": "Salud O. Carbajal",
+  "seat": "Representative, CA-24",
+  "pages": [
+   {
+    "url": "https://carbajal.house.gov",
+    "final": "https://carbajal.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://carbajal.house.gov/forms/emailsignup/",
+    "final": "https://carbajal.house.gov/forms/form/?ID=91",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://carbajal.house.gov/contact/",
+    "final": "https://carbajal.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://carbajal.house.gov/contact/officeinformation.htm",
+    "final": "https://carbajal.house.gov/contact/officeinformation.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://carbajal.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "R000599": {
+  "id": "R000599",
+  "name": "Raul Ruiz",
+  "seat": "Representative, CA-25",
+  "pages": [
+   {
+    "url": "https://ruiz.house.gov",
+    "final": "https://ruiz.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ruiz.house.gov/contact/community-projects/",
+    "final": "https://ruiz.house.gov/contact/community-projects",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ruiz.house.gov/contact/",
+    "final": "https://ruiz.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ruiz.house.gov/contact/email/",
+    "final": "https://ruiz.house.gov/address_authentication?form=/contact/email",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://ruiz.house.gov/contact/offices/",
+    "final": "https://ruiz.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ruiz.house.gov/contact/offices/palm-desert-district-office/",
+    "final": "https://ruiz.house.gov/contact/offices/palm-desert-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ruiz.house.gov/contact/offices/beaumont-district-office/",
+    "final": "https://ruiz.house.gov/contact/offices/beaumont-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ruiz.house.gov/contact/offices/el-centro-district-office/",
+    "final": "https://ruiz.house.gov/contact/offices/el-centro-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ruiz.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://ruiz.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ruiz.house.gov/es/contacto/presentaciones-y-asignaciones-de-proyectos-comunitarios/",
+    "final": "https://ruiz.house.gov/es/contacto/presentaciones-y-asignaciones-de-proyectos-comunitarios",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Hemet, CA office: 445 E. Florida Ave., 2nd Floor"
+  ],
+  "forms": [
+   {
+    "url": "https://ruiz.house.gov/address_authentication?form=/contact/email",
+    "positive": [
+     "issue"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "B001285": {
+  "id": "B001285",
+  "name": "Julia Brownley",
+  "seat": "Representative, CA-26",
+  "pages": [
+   {
+    "url": "https://juliabrownley.house.gov",
+    "final": "https://juliabrownley.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://juliabrownley.house.gov/contact/email-me/",
+    "final": "https://juliabrownley.house.gov/contact/email-me/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://juliabrownley.house.gov/contact/offices/",
+    "final": "https://juliabrownley.house.gov/contact/offices/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://juliabrownley.house.gov/share-your-healthcare-story/",
+    "final": "https://juliabrownley.house.gov/share-your-healthcare-story/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://juliabrownley.house.gov/contact/",
+    "final": "https://juliabrownley.house.gov/contact/email-me/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://juliabrownley.house.gov/contact/invite-me-to-speak/",
+    "final": "https://juliabrownley.house.gov/contact/invite-me-to-speak/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://juliabrownley.house.gov/contact/email-me/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://juliabrownley.house.gov/share-your-healthcare-story/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://juliabrownley.house.gov/contact/email-me/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://juliabrownley.house.gov/contact/invite-me-to-speak/",
+    "positive": [
+     "issue",
+     "legislation",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "W000830": {
+  "id": "W000830",
+  "name": "George Whitesides",
+  "seat": "Representative, CA-27",
+  "pages": [
+   {
+    "url": "https://whitesides.house.gov",
+    "final": "https://whitesides.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://whitesides.house.gov/contact/",
+    "final": "https://whitesides.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://whitesides.house.gov/contact/email-me/",
+    "final": "https://whitesides.house.gov/contact/email-me/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://whitesides.house.gov/contact/'+e+'/",
+    "final": "https://whitesides.house.gov/contact/'+e+'/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://whitesides.house.gov/contact/email-me/'+e+'/",
+    "final": "https://whitesides.house.gov/contact/email-me/'+e+'/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://whitesides.house.gov/contact/'+e+'/",
+   "https://whitesides.house.gov/contact/email-me/'+e+'/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://whitesides.house.gov/contact/email-me/",
+    "positive": [
+     "comment",
+     "concern",
+     "issue",
+     "legislation",
+     "opinion",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "C001080": {
+  "id": "C001080",
+  "name": "Judy Chu",
+  "seat": "Representative, CA-28",
+  "pages": [
+   {
+    "url": "https://chu.house.gov",
+    "final": "https://chu.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://chu.house.gov/contact/",
+    "final": "https://chu.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://chu.house.gov/contact/offices/",
+    "final": "https://chu.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://chu.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://chu.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://chu.house.gov/contact/offices/pasadena-district-office/",
+    "final": "https://chu.house.gov/contact/offices/pasadena-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://chu.house.gov/contact/offices/claremont-district-office/",
+    "final": "https://chu.house.gov/contact/offices/claremont-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://chu.house.gov/contact/email-me/",
+    "final": "https://chu.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://chu.house.gov/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://chu.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "R000620": {
+  "id": "R000620",
+  "name": "Luz M. Rivas",
+  "seat": "Representative, CA-29",
+  "pages": [
+   {
+    "url": "https://rivas.house.gov",
+    "final": "https://rivas.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://rivas.house.gov/contact/",
+    "final": "https://rivas.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://rivas.house.gov/contact/email-me/",
+    "final": "https://rivas.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://rivas.house.gov/contact/office-locations/",
+    "final": "https://rivas.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://rivas.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://rivas.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://rivas.house.gov/contact/offices/arleta-district-office/",
+    "final": "https://rivas.house.gov/contact/offices/arleta-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://rivas.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "F000483": {
+  "id": "F000483",
+  "name": "Laura Friedman",
+  "seat": "Representative, CA-30",
+  "pages": [
+   {
+    "url": "https://friedman.house.gov",
+    "final": "https://friedman.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://friedman.house.gov/contact/email-me/",
+    "final": "https://friedman.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://friedman.house.gov/contact/",
+    "final": "https://friedman.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://friedman.house.gov/contact/office-locations/",
+    "final": "https://friedman.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://friedman.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://friedman.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://friedman.house.gov/contact/offices/burbank-district-office/",
+    "final": "https://friedman.house.gov/contact/offices/burbank-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://friedman.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "C001123": {
+  "id": "C001123",
+  "name": "Gilbert Ray Cisneros, Jr.",
+  "seat": "Representative, CA-31",
+  "pages": [
+   {
+    "url": "https://cisneros.house.gov",
+    "final": "https://cisneros.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://cisneros.house.gov/contact/",
+    "final": "https://cisneros.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://cisneros.house.gov/contact/email-me/",
+    "final": "https://cisneros.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://cisneros.house.gov/contact/office-locations/",
+    "final": "https://cisneros.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://cisneros.house.gov/share-your-story/",
+    "final": "https://cisneros.house.gov/share-your-story",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://cisneros.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://cisneros.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://cisneros.house.gov/contact/offices/covina-district-office/",
+    "final": "https://cisneros.house.gov/contact/offices/covina-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://cisneros.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "comment",
+     "issue",
+     "legislation",
+     "share your"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "S000344": {
+  "id": "S000344",
+  "name": "Brad Sherman",
+  "seat": "Representative, CA-32",
+  "pages": [
+   {
+    "url": "https://sherman.house.gov",
+    "final": "https://sherman.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "http://sherman.house.gov/contact/opinion/",
+    "final": "https://sherman.house.gov/address_authentication?form=/contact/opinion",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://sherman.house.gov/officelocations/",
+    "final": "https://sherman.house.gov/officelocations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sherman.house.gov/contact/opinion/",
+    "final": "https://sherman.house.gov/address_authentication?form=/contact/opinion",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://sherman.house.gov/contact/offices/",
+    "final": "https://sherman.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sherman.house.gov/contact/federal-issues-questionnaire/",
+    "final": "https://sherman.house.gov/contact/federal-issues-questionnaire",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://sherman.house.gov/help/",
+    "final": "https://sherman.house.gov/help",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "http://sherman.house.gov/contact/",
+    "final": "https://sherman.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "http://sherman.house.gov/contact/federal-issues-questionnaire/",
+    "final": "https://sherman.house.gov/contact/federal-issues-questionnaire",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://sherman.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://sherman.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://sherman.house.gov/address_authentication?form=/contact/opinion",
+    "positive": [
+     "issue",
+     "legislation",
+     "opinion",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://sherman.house.gov/address_authentication?form=/contact/opinion",
+    "positive": [
+     "issue",
+     "legislation",
+     "opinion",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://sherman.house.gov/contact/federal-issues-questionnaire",
+    "positive": [
+     "comment",
+     "issue",
+     "legislation",
+     "opinion",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://sherman.house.gov/contact/federal-issues-questionnaire",
+    "positive": [
+     "comment",
+     "issue",
+     "legislation",
+     "opinion",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "A000371": {
+  "id": "A000371",
+  "name": "Pete Aguilar",
+  "seat": "Representative, CA-33",
+  "pages": [
+   {
+    "url": "https://aguilar.house.gov",
+    "final": "https://aguilar.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://aguilar.house.gov/contact/",
+    "final": "https://aguilar.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://aguilar.house.gov/email-me/",
+    "final": "https://aguilar.house.gov/email-me/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://aguilar.house.gov/email-me/",
+    "positive": [
+     "concern",
+     "issue",
+     "legislation",
+     "opinion",
+     "voice"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "G000585": {
+  "id": "G000585",
+  "name": "Jimmy Gomez",
+  "seat": "Representative, CA-34",
+  "pages": [
+   {
+    "url": "https://gomez.house.gov",
+    "final": "https://gomez.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gomez.house.gov/contact/about-us.htm",
+    "final": "https://gomez.house.gov/contact/about-us.htm",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gomez.house.gov/contact/community-events.htm",
+    "final": "https://gomez.house.gov/contact/community-events.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gomez.house.gov/news/documentquery.aspx/",
+    "final": "https://gomez.house.gov/news/documentquery.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gomez.house.gov/news/email/",
+    "final": "https://gomez.house.gov/news/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gomez.house.gov/contact/",
+    "final": "https://gomez.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://gomez.house.gov/contact/officeinformation.htm",
+    "final": "https://gomez.house.gov/contact/officeinformation.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gomez.house.gov/forms/emailsignup/",
+    "final": "https://gomez.house.gov/forms/form/?ID=4",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://gomez.house.gov/contact/about-us.htm"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Los Angeles, CA office: 350 S. Bixel St., #120"
+  ],
+  "forms": [
+   {
+    "url": "https://gomez.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "T000474": {
+  "id": "T000474",
+  "name": "Norma J. Torres",
+  "seat": "Representative, CA-35",
+  "pages": [
+   {
+    "url": "https://torres.house.gov",
+    "final": "https://torres.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://torres.house.gov/contact/",
+    "final": "https://torres.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://torres.house.gov/contact/email-me/",
+    "final": "https://torres.house.gov/contact/email-me/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://torres.house.gov/share-your-story-for-ca-35/",
+    "final": "https://torres.house.gov/share-your-story-for-ca-35/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://torres.house.gov/contact/offices/",
+    "final": "https://torres.house.gov/contact/offices/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "L000582": {
+  "id": "L000582",
+  "name": "Ted Lieu",
+  "seat": "Representative, CA-36",
+  "pages": [
+   {
+    "url": "https://lieu.house.gov",
+    "final": "https://lieu.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lieu.house.gov/contact/",
+    "final": "https://lieu.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://lieu.house.gov/contact/offices/",
+    "final": "https://lieu.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lieu.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://lieu.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lieu.house.gov/contact/offices/los-angeles-office/",
+    "final": "https://lieu.house.gov/contact/offices/los-angeles-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lieu.house.gov/contact/offices/manhattan-beach-office/",
+    "final": "https://lieu.house.gov/contact/offices/manhattan-beach-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lieu.house.gov/contact/office-locations/",
+    "final": "https://lieu.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [
+   "+13103217664"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://lieu.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation",
+     "opinion"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "K000400": {
+  "id": "K000400",
+  "name": "Sydney Kamlager-Dove",
+  "seat": "Representative, CA-37",
+  "pages": [
+   {
+    "url": "https://kamlager-dove.house.gov",
+    "final": "https://kamlager-dove.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kamlager-dove.house.gov/contact/",
+    "final": "https://kamlager-dove.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://kamlager-dove.house.gov/contact/offices/",
+    "final": "https://kamlager-dove.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kamlager-dove.house.gov/address_authentication/",
+    "final": "https://kamlager-dove.house.gov/address_authentication",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://kamlager-dove.house.gov/contact/offices/washington-dc-office-0/",
+    "final": "https://kamlager-dove.house.gov/contact/offices/washington-dc-office-0",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kamlager-dove.house.gov/contact/offices/los-angeles-district-office/",
+    "final": "https://kamlager-dove.house.gov/contact/offices/los-angeles-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kamlager-dove.house.gov/contact/office-locations/",
+    "final": "https://kamlager-dove.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://kamlager-dove.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://kamlager-dove.house.gov/address_authentication",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "S001156": {
+  "id": "S001156",
+  "name": "Linda T. S\u00e1nchez",
+  "seat": "Representative, CA-38",
+  "pages": [
+   {
+    "url": "https://lindasanchez.house.gov",
+    "final": "https://lindasanchez.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lindasanchez.house.gov/contact/",
+    "final": "https://lindasanchez.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lindasanchez.house.gov/contact/email-me/",
+    "final": "https://lindasanchez.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://lindasanchez.house.gov/contact/offices/",
+    "final": "https://lindasanchez.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lindasanchez.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://lindasanchez.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lindasanchez.house.gov/contact/offices/whittier-district-office/",
+    "final": "https://lindasanchez.house.gov/contact/offices/whittier-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lindasanchez.house.gov/contact/office-locations/",
+    "final": "https://lindasanchez.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://lindasanchez.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "T000472": {
+  "id": "T000472",
+  "name": "Mark Takano",
+  "seat": "Representative, CA-39",
+  "pages": [
+   {
+    "url": "https://takano.house.gov",
+    "final": "https://takano.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://takano.house.gov/contact/",
+    "final": "https://takano.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://takano.house.gov/contact/email-me/",
+    "final": "https://takano.house.gov/contact/email-me/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://takano.house.gov/contact/invite-me-to-speak/",
+    "final": "https://takano.house.gov/contact/invite-me-to-speak/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "K000397": {
+  "id": "K000397",
+  "name": "Young Kim",
+  "seat": "Representative, CA-40",
+  "pages": [
+   {
+    "url": "https://youngkim.house.gov",
+    "final": "https://youngkim.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://youngkim.house.gov/contact/",
+    "final": "https://youngkim.house.gov/contact/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://youngkim.house.gov/contact/",
+    "positive": [
+     "comment",
+     "concern",
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "C000059": {
+  "id": "C000059",
+  "name": "Ken Calvert",
+  "seat": "Representative, CA-41",
+  "pages": [
+   {
+    "url": "https://calvert.house.gov",
+    "final": "https://calvert.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://calvert.house.gov/contact/",
+    "final": "https://calvert.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://calvert.house.gov/contact/offices/",
+    "final": "https://calvert.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://calvert.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://calvert.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://calvert.house.gov/contact/offices/palm-desert-office/",
+    "final": "https://calvert.house.gov/contact/offices/palm-desert-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://calvert.house.gov/contact/offices/corona-office/",
+    "final": "https://calvert.house.gov/contact/offices/corona-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://calvert.house.gov/zip_authentication/",
+    "final": "https://calvert.house.gov/zip_authentication",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://calvert.house.gov/zip_authentication",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "G000598": {
+  "id": "G000598",
+  "name": "Robert Garcia",
+  "seat": "Representative, CA-42",
+  "pages": [
+   {
+    "url": "https://robertgarcia.house.gov",
+    "final": "https://robertgarcia.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://robertgarcia.house.gov/contact/",
+    "final": "https://robertgarcia.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://robertgarcia.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://robertgarcia.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://robertgarcia.house.gov/contact/offices/long-beach-district-office/",
+    "final": "https://robertgarcia.house.gov/contact/offices/long-beach-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://robertgarcia.house.gov/contact/office-locations/",
+    "final": "https://robertgarcia.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://robertgarcia.house.gov/contact/offices/",
+    "final": "https://robertgarcia.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://robertgarcia.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "meeting request"
+    ]
+   }
+  ],
+  "emails": [
+   "Crgdistrict@mail.house.gov"
+  ]
+ },
+ "W000187": {
+  "id": "W000187",
+  "name": "Maxine Waters",
+  "seat": "Representative, CA-43",
+  "pages": [
+   {
+    "url": "https://waters.house.gov",
+    "final": "https://waters.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://waters.house.gov/contact/",
+    "final": "https://waters.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://waters.house.gov/contact/offices/dc-office/",
+    "final": "https://waters.house.gov/contact/offices/dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://waters.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://waters.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://waters.house.gov/contact/offices/district-office-2/",
+    "final": "https://waters.house.gov/contact/offices/district-office-2",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://waters.house.gov/contact/offices/hawthorne-district-office/",
+    "final": "https://waters.house.gov/contact/offices/hawthorne-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://waters.house.gov/contact/message-our-office/",
+    "final": "https://waters.house.gov/address_authentication?form=/contact/message-our-office",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://waters.house.gov/contact/offices/",
+    "final": "https://waters.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://waters.house.gov/address_authentication?form=/contact/message-our-office",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ }
+}

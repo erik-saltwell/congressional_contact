@@ -1,0 +1,1159 @@
+{
+ "P000607": {
+  "id": "P000607",
+  "name": "Mark Pocan",
+  "seat": "Representative, WI-2",
+  "pages": [
+   {
+    "url": "https://pocan.house.gov",
+    "final": "https://pocan.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://pocan.house.gov/contact/",
+    "final": "https://pocan.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://pocan.house.gov/contact/contact-my-team/",
+    "final": "https://pocan.house.gov/address_authentication?form=/contact/contact-my-team",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://pocan.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://pocan.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://pocan.house.gov/contact/offices/madison-district-office/",
+    "final": "https://pocan.house.gov/contact/offices/madison-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://pocan.house.gov/contact/offices/",
+    "final": "https://pocan.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://pocan.house.gov/contact/office-locations/",
+    "final": "https://pocan.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://pocan.house.gov/address_authentication?form=/contact/contact-my-team",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "V000135": {
+  "id": "V000135",
+  "name": "Derrick Van Orden",
+  "seat": "Representative, WI-3",
+  "pages": [
+   {
+    "url": "https://vanorden.house.gov",
+    "final": "https://vanorden.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vanorden.house.gov/contact/",
+    "final": "https://vanorden.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://vanorden.house.gov/contact/town-halltelephone-town-hall-sign/",
+    "final": "https://vanorden.house.gov/contact/town-halltelephone-town-hall-sign",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vanorden.house.gov/contact/offices/",
+    "final": "https://vanorden.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vanorden.house.gov/OfficeHours/",
+    "final": "https://vanorden.house.gov/OfficeHours",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vanorden.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://vanorden.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vanorden.house.gov/contact/offices/la-crosse-district-office/",
+    "final": "https://vanorden.house.gov/contact/offices/la-crosse-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vanorden.house.gov/contact/offices/eau-claire-district-office/",
+    "final": "https://vanorden.house.gov/contact/offices/eau-claire-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vanorden.house.gov/contact/office-locations/",
+    "final": "https://vanorden.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://vanorden.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation",
+     "opinion"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "meeting request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "M001160": {
+  "id": "M001160",
+  "name": "Gwen Moore",
+  "seat": "Representative, WI-4",
+  "pages": [
+   {
+    "url": "https://gwenmoore.house.gov",
+    "final": "https://gwenmoore.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gwenmoore.house.gov/news/email/",
+    "final": "https://gwenmoore.house.gov/news/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gwenmoore.house.gov/news/documentquery.aspx/",
+    "final": "https://gwenmoore.house.gov/news/documentquery.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gwenmoore.house.gov/contact/splash.htm",
+    "final": "https://gwenmoore.house.gov/contact/splash.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gwenmoore.house.gov/contact/",
+    "final": "https://gwenmoore.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://gwenmoore.house.gov/forms/emailsignup/",
+    "final": "https://gwenmoore.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gwenmoore.house.gov/contact/officeinformation.htm",
+    "final": "https://gwenmoore.house.gov/contact/officeinformation.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gwenmoore.house.gov/contact/follow-me.htm",
+    "final": "https://gwenmoore.house.gov/contact/follow-me.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gwenmoore.house.gov/news/email/>Congressional Art Competition</a></li>    -->    <li><a href=/",
+    "final": "https://gwenmoore.house.gov/news/email/>Congressional Art Competition</a></li>    -->    <li><a href=/",
+    "status": 0,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gwenmoore.house.gov/news/email/show.aspx/",
+    "final": "https://gwenmoore.house.gov/email/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://gwenmoore.house.gov/news/email/>Congressional Art Competition</a></li>    -->    <li><a href=/",
+   "https://gwenmoore.house.gov/news/email/show.aspx/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+12024958879"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://gwenmoore.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": [
+   "Samara.Sheff@mail.house.gov"
+  ]
+ },
+ "F000471": {
+  "id": "F000471",
+  "name": "Scott Fitzgerald",
+  "seat": "Representative, WI-5",
+  "pages": [
+   {
+    "url": "https://fitzgerald.house.gov",
+    "final": "https://fitzgerald.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fitzgerald.house.gov/contact/",
+    "final": "https://fitzgerald.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://fitzgerald.house.gov/contact/offices/",
+    "final": "https://fitzgerald.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fitzgerald.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://fitzgerald.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fitzgerald.house.gov/contact/offices/oconomowoc-district-office/",
+    "final": "https://fitzgerald.house.gov/contact/offices/oconomowoc-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fitzgerald.house.gov/contact/office-locations/",
+    "final": "https://fitzgerald.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://fitzgerald.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue"
+    ],
+    "negative": [
+     "federal agency",
+     "meeting request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "G000576": {
+  "id": "G000576",
+  "name": "Glenn Grothman",
+  "seat": "Representative, WI-6",
+  "pages": [
+   {
+    "url": "https://grothman.house.gov",
+    "final": "https://grothman.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://grothman.house.gov/news/documentquery.aspx/",
+    "final": "https://grothman.house.gov/news/documentquery.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://grothman.house.gov/news/email/",
+    "final": "https://grothman.house.gov/news/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://grothman.house.gov/contact/",
+    "final": "https://grothman.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://grothman.house.gov/forms/emailsignup/",
+    "final": "https://grothman.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://grothman.house.gov/contact/officeinformation.htm",
+    "final": "https://grothman.house.gov/contact/officeinformation.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://grothman.house.gov/news/email/show.aspx/",
+    "final": "https://grothman.house.gov/email/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://grothman.house.gov/news/email/default.aspx/",
+    "final": "https://grothman.house.gov/news/email/default.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://grothman.house.gov/news/email/show.aspx/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Fond du Lac, WI office: 525 N Peters Ave, Suite 700"
+  ],
+  "forms": [
+   {
+    "url": "https://grothman.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "T000165": {
+  "id": "T000165",
+  "name": "Thomas P. Tiffany",
+  "seat": "Representative, WI-7",
+  "pages": [
+   {
+    "url": "https://tiffany.house.gov",
+    "final": "https://tiffany.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://tiffany.house.gov/contact/",
+    "final": "https://tiffany.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://tiffany.house.gov/contact/email-me/",
+    "final": "https://tiffany.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://tiffany.house.gov/contact/offices/",
+    "final": "https://tiffany.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://tiffany.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://tiffany.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://tiffany.house.gov/contact/offices/wausau-district-office/",
+    "final": "https://tiffany.house.gov/contact/offices/wausau-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://tiffany.house.gov/contact/office-locations/",
+    "final": "https://tiffany.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://tiffany.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "W000829": {
+  "id": "W000829",
+  "name": "Tony Wied",
+  "seat": "Representative, WI-8",
+  "pages": [
+   {
+    "url": "https://wied.house.gov",
+    "final": "https://wied.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://wied.house.gov/contact/email-me/",
+    "final": "https://wied.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://wied.house.gov/contact/",
+    "final": "https://wied.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://wied.house.gov/contact/office-locations/",
+    "final": "https://wied.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://wied.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://wied.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://wied.house.gov/contact/offices/de-pere-district-office/",
+    "final": "https://wied.house.gov/contact/offices/de-pere-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://wied.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "C001047": {
+  "id": "C001047",
+  "name": "Shelley Moore Capito",
+  "seat": "Senator, WV",
+  "pages": [
+   {
+    "url": "https://www.capito.senate.gov",
+    "final": "https://www.capito.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.capito.senate.gov/contact/",
+    "final": "https://www.capito.senate.gov/404?notfound=/contact/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.capito.senate.gov/contact/offices/",
+    "final": "https://www.capito.senate.gov/404?notfound=/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.capito.senate.gov/offices/",
+    "final": "https://www.capito.senate.gov/404?notfound=/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.capito.senate.gov/office-locations/",
+    "final": "https://www.capito.senate.gov/404?notfound=/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.capito.senate.gov/contact/contact-shelley",
+    "final": "https://www.capito.senate.gov/contact/contact-landing",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.capito.senate.gov",
+   "https://www.capito.senate.gov/contact/",
+   "https://www.capito.senate.gov/contact/offices/",
+   "https://www.capito.senate.gov/offices/",
+   "https://www.capito.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022246472",
+   "+13042629285",
+   "+13042922310",
+   "+13043475372"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 170 Russell Senate Office Building",
+   "Martinsburg, WV office: 300 Foxcroft Ave., Suite 202A",
+   "Morgantown, WV office: 48 Donley St., Suite 504",
+   "Charleston, WV office: 500 Virginia Street East, Suite 950"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "J000312": {
+  "id": "J000312",
+  "name": "James C. Justice",
+  "seat": "Senator, WV",
+  "pages": [
+   {
+    "url": "https://www.justice.senate.gov",
+    "final": "https://www.justice.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.justice.senate.gov/contact/",
+    "final": "https://www.justice.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.justice.senate.gov/contact/offices/",
+    "final": "https://www.justice.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.justice.senate.gov/offices/",
+    "final": "https://www.justice.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.justice.senate.gov/office-locations/",
+    "final": "https://www.justice.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.justice.senate.gov/contact/write-to-jim/",
+    "final": "https://www.justice.senate.gov/contact/write-to-jim/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.justice.senate.gov",
+   "https://www.justice.senate.gov/contact/offices/",
+   "https://www.justice.senate.gov/offices/",
+   "https://www.justice.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.justice.senate.gov/contact/write-to-jim/",
+    "positive": [
+     "issue",
+     "topic",
+     "views"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "flag request",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "M001205": {
+  "id": "M001205",
+  "name": "Carol D. Miller",
+  "seat": "Representative, WV-1",
+  "pages": [
+   {
+    "url": "https://miller.house.gov",
+    "final": "https://miller.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://miller.house.gov/contact/staff/",
+    "final": "https://miller.house.gov/contact/staff",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://miller.house.gov/contact/offices/",
+    "final": "https://miller.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://miller.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://miller.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://miller.house.gov/contact/offices/charleston-district-office/",
+    "final": "https://miller.house.gov/contact/offices/charleston-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://miller.house.gov/contact/offices/huntington-district-office/",
+    "final": "https://miller.house.gov/contact/offices/huntington-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://miller.house.gov/contact/offices/beckley-district-office/",
+    "final": "https://miller.house.gov/contact/offices/beckley-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://miller.house.gov/contact/",
+    "final": "https://miller.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://miller.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": [
+   "Addison.Porter@mail.house.gov",
+   "Darian.David@mail.house.gov",
+   "Elizabeth.Blakely@mail.house.gov",
+   "Elizabeth.Crump@mail.house.gov",
+   "Grant.Shepherd@mail.house.gov",
+   "Jonathan.Hall@mail.house.gov",
+   "Kim.McMillion@mail.house.gov",
+   "Kylie.Schoen@mail.house.gov",
+   "Maggie.Mulvaney@mail.house.gov",
+   "Maiu.Mots@mail.house.gov",
+   "Matthew.Donnellan@mail.house.gov",
+   "Nicolas.Gray@mail.house.gov",
+   "Quynn.Kennedy@mail.house.gov",
+   "Tyler.Ohrn@mail.house.gov"
+  ]
+ },
+ "M001235": {
+  "id": "M001235",
+  "name": "Riley M. Moore",
+  "seat": "Representative, WV-2",
+  "pages": [
+   {
+    "url": "https://rileymoore.house.gov",
+    "final": "https://rileymoore.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://rileymoore.house.gov/contact/",
+    "final": "https://rileymoore.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://rileymoore.house.gov/contact/email-me/",
+    "final": "https://rileymoore.house.gov/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://rileymoore.house.gov/contact/office-locations/",
+    "final": "https://rileymoore.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://rileymoore.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://rileymoore.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://rileymoore.house.gov/contact/offices/morgantown-district-office/",
+    "final": "https://rileymoore.house.gov/contact/offices/morgantown-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://rileymoore.house.gov/contact/offices/martinsburg-district-office/",
+    "final": "https://rileymoore.house.gov/contact/offices/martinsburg-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://rileymoore.house.gov/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "meeting request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "B001261": {
+  "id": "B001261",
+  "name": "John Barrasso",
+  "seat": "Senator, WY",
+  "pages": [
+   {
+    "url": "https://www.barrasso.senate.gov",
+    "final": "https://www.barrasso.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.barrasso.senate.gov/contact/",
+    "final": "https://www.barrasso.senate.gov/contact/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.barrasso.senate.gov/contact/offices/",
+    "final": "https://www.barrasso.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.barrasso.senate.gov/offices/",
+    "final": "https://www.barrasso.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.barrasso.senate.gov/office-locations/",
+    "final": "https://www.barrasso.senate.gov/contact/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.barrasso.senate.gov/public/index.cfm/contact-form",
+    "final": "https://www.barrasso.senate.gov/contact/contact-form/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.barrasso.senate.gov/contact/office-locations/",
+    "final": "https://www.barrasso.senate.gov/contact/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.barrasso.senate.gov/contact/contact-form/",
+    "final": "https://www.barrasso.senate.gov/contact/contact-form/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.barrasso.senate.gov/contact-form/",
+    "final": "https://www.barrasso.senate.gov/contact/contact-form/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.barrasso.senate.gov",
+   "https://www.barrasso.senate.gov/contact/offices/",
+   "https://www.barrasso.senate.gov/offices/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+18662359553"
+  ],
+  "publishedAddressesNotFound": [
+   "Riverton, WY office: 324 E. Washington Ave."
+  ],
+  "forms": [
+   {
+    "url": "https://www.barrasso.senate.gov/contact/",
+    "positive": [
+     "legislation",
+     "opinion",
+     "topic"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter",
+     "tour request"
+    ]
+   },
+   {
+    "url": "https://www.barrasso.senate.gov/contact/contact-form/",
+    "positive": [
+     "legislation",
+     "opinion",
+     "topic"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter",
+     "tour request"
+    ]
+   },
+   {
+    "url": "https://www.barrasso.senate.gov/contact/contact-form/",
+    "positive": [
+     "legislation",
+     "opinion",
+     "topic"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter",
+     "tour request"
+    ]
+   },
+   {
+    "url": "https://www.barrasso.senate.gov/contact/contact-form/",
+    "positive": [
+     "legislation",
+     "opinion",
+     "topic"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "L000571": {
+  "id": "L000571",
+  "name": "Cynthia M. Lummis",
+  "seat": "Senator, WY",
+  "pages": [
+   {
+    "url": "https://www.lummis.senate.gov",
+    "final": "https://www.lummis.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.lummis.senate.gov/contact/",
+    "final": "https://www.lummis.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.lummis.senate.gov/contact/offices/",
+    "final": "https://www.lummis.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.lummis.senate.gov/offices/",
+    "final": "https://www.lummis.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.lummis.senate.gov/office-locations/",
+    "final": "https://www.lummis.senate.gov/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.lummis.senate.gov/contact/contact-form/",
+    "final": "https://www.lummis.senate.gov/contact/contact-form/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.lummis.senate.gov",
+   "https://www.lummis.senate.gov/contact/offices/",
+   "https://www.lummis.senate.gov/offices/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+13074397783",
+   "+13078866050"
+  ],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 127A Russell Senate Office Building"
+  ],
+  "forms": [
+   {
+    "url": "https://www.lummis.senate.gov/contact/contact-form/",
+    "positive": [
+     "comment",
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "H001096": {
+  "id": "H001096",
+  "name": "Harriet M. Hageman",
+  "seat": "Representative, WY-0",
+  "pages": [
+   {
+    "url": "https://hageman.house.gov",
+    "final": "https://hageman.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hageman.house.gov/contact/",
+    "final": "https://hageman.house.gov/zip_authentication?form=/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://hageman.house.gov/contact/offices/",
+    "final": "https://hageman.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hageman.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://hageman.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hageman.house.gov/contact/offices/cheyenne-district-office/",
+    "final": "https://hageman.house.gov/contact/offices/cheyenne-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://hageman.house.gov/contact/offices/casper-district-office/",
+    "final": "https://hageman.house.gov/contact/offices/casper-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://hageman.house.gov/zip_authentication?form=/contact",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ }
+}

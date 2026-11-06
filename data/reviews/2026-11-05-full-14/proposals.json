@@ -1,0 +1,1391 @@
+{
+ "batch": "2026-11-05-full-14",
+ "reviewedAt": "2026-11-05",
+ "officials": {
+  "M001226": {
+   "name": "Robert Menendez",
+   "seat": "Representative, NJ-8",
+   "status": "verified",
+   "pagesChecked": [
+    "https://menendez.house.gov/",
+    "https://menendez.house.gov/write-to-rob/",
+    "https://menendez.house.gov/contact/",
+    "https://menendez.house.gov/contact/office-locations/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://menendez.house.gov/write-to-rob/",
+     "source": "https://menendez.house.gov/",
+     "evidence": "'Write to Rob' form (linked as 'Email Our Team Directly'), drawn by script, with a '-- Please Select An Issue --' list (Agriculture, Animals, Arts and Humanities, Banking and Finance, ...). Federal agency help is on a separate Get Help page."
+    }
+   ]
+  },
+  "P000621": {
+   "name": "Nellie Pou",
+   "seat": "Representative, NJ-9",
+   "status": "verified",
+   "pagesChecked": [
+    "https://pou.house.gov/",
+    "https://pou.house.gov/address_authentication?form=/contact/email-me",
+    "https://pou.house.gov/contact",
+    "https://pou.house.gov/contact/office-locations",
+    "https://pou.house.gov/contact/offices/washington-dc-office",
+    "https://pou.house.gov/contact/offices/lyndhurst-office",
+    "https://pou.house.gov/contact/offices/paterson-district-office",
+    "https://pou.house.gov/contact/offices/passaic-city-hall-office"
+   ],
+   "notes": "The Lyndhurst and Passaic City Hall offices list hours but no phone; the Lyndhurst listing gives no ZIP, so 07071 is the Lyndhurst ZIP.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://pou.house.gov/contact/email-me",
+     "source": "https://pou.house.gov/",
+     "evidence": "The site's 'Email Me' link, the member's main contact form, behind an address check (address_authentication?form=/contact/email-me), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://pou.house.gov/contact/offices/paterson-district-office",
+     "evidence": "Office list adds 'Lyndhurst Office 253 Stuyvesant Ave. Tuesdays and Thursdays 9AM -1PM.' and 'Passaic City Hall Office Passaic City Hall 330 Passaic Street Passaic, NJ 07055 Mondays and Wednesdays 9AM-1PM', which we do not publish. The site prints no ZIP for Lyndhurst, so none is published.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255751",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1007 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3009",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Paterson, NJ office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19735235152",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "100 Hamilton Plaza, Suite 1400"
+        ],
+        "city": "Paterson",
+        "region": "NJ",
+        "postalCode": "07505",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Lyndhurst, NJ office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "253 Stuyvesant Ave."
+        ],
+        "city": "Lyndhurst",
+        "region": "NJ",
+        "postalCode": "",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Passaic, NJ office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "Passaic City Hall",
+         "330 Passaic Street"
+        ],
+        "city": "Passaic",
+        "region": "NJ",
+        "postalCode": "07055",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "M001229": {
+   "name": "LaMonica McIver",
+   "seat": "Representative, NJ-10",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mciver.house.gov/",
+    "https://mciver.house.gov/contact/",
+    "https://mciver.house.gov/contact/email-me/",
+    "https://mciver.house.gov/contact/office-locations/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mciver.house.gov/contact/email-me/",
+     "source": "https://mciver.house.gov/",
+     "evidence": "The site's 'Email Me' page, the member's main contact form, drawn by script behind a ZIP check ('ZIP CODE AUTHENTICATION'), with a '-- Please Select An Issue --' list (Agriculture, Animals, Arts and Humanities, ...)."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://mciver.house.gov/contact/office-locations/",
+     "evidence": "'Newark, NJ 60 Park Place Suite 302 Newark, NJ 07102 Phone: (973) 645-3213'. We publish LeRoy F. Smith, Jr. Public Safety Building, 60 Nelson Pl, 14th Floor. The site prints no ZIP for Lyndhurst, so none is published.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253436",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "426 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3010",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Newark, NJ office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19736453213",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "60 Park Place, Suite 302"
+        ],
+        "city": "Newark",
+        "region": "NJ",
+        "postalCode": "07102",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "M001246": {
+   "name": "Analilia Mejia",
+   "seat": "Representative, NJ-11",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mejia.house.gov/",
+    "https://mejia.house.gov/contact",
+    "https://mejia.house.gov/address_authentication?form=/contact/email-me",
+    "https://mejia.house.gov/contact/office-locations",
+    "https://mejia.house.gov/contact/offices/washington-dc-office",
+    "https://mejia.house.gov/contact/offices/district-office-2"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mejia.house.gov/contact/email-me",
+     "source": "https://mejia.house.gov/",
+     "evidence": "The site's 'Email Me' link, the member's main contact form, behind an address check (address_authentication?form=/contact/email-me), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://mejia.house.gov/contact",
+     "evidence": "'District Office 6 Gates Ave Unit 3B Montclair, NJ 07042 Phone: (973) 526-5668'. We publish a Livingston office at 357 S. Livingston Avenue, Suite 201 with the same phone. The site prints no ZIP for Lyndhurst, so none is published.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255034",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1427 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3011",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Montclair, NJ office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19735265668",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "6 Gates Ave, Unit 3B"
+        ],
+        "city": "Montclair",
+        "region": "NJ",
+        "postalCode": "07042",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "W000822": {
+   "name": "Bonnie Watson Coleman",
+   "seat": "Representative, NJ-12",
+   "status": "verified",
+   "pagesChecked": [
+    "https://watsoncoleman.house.gov/",
+    "https://watsoncoleman.house.gov/contact/",
+    "https://watsoncoleman.house.gov/contact/find-assistance/",
+    "https://watsoncoleman.house.gov/contact/share-your-opinion/",
+    "https://watsoncoleman.house.gov/contact/office/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://watsoncoleman.house.gov/contact/share-your-opinion/",
+     "source": "https://watsoncoleman.house.gov/",
+     "evidence": "'Share Your Opinion' page, separate from 'Find Assistance'; the script-drawn form has a '--Select an Issue--' list (Agriculture, Animals, ...) and the choice 'No, I wanted to voice my opinion.'"
+    }
+   ]
+  },
+  "H001046": {
+   "name": "Martin Heinrich",
+   "seat": "Senator, NM",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.heinrich.senate.gov/contact/",
+    "https://www.heinrich.senate.gov/contact/write-martin/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.heinrich.senate.gov/contact/write-martin/",
+     "source": "https://www.heinrich.senate.gov/contact/write-martin/",
+     "evidence": "'Write Martin' form with an 'Issue' list of policy topics (Agriculture/Food Safety, Budget, ... Women's Issues); help and scheduling are listed separately."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.heinrich.senate.gov/contact/",
+     "evidence": "'Albuquerque 201 Third Street NW, Ste. 1360 Albuquerque, NM 87102 Phone: (505) 346-6601' (we publish 400 Gold Ave. SW) and 'Santa Fe 123 E Marcy St, Suite 103 Santa Fe NM, 87501 Phone: (505) 988-6647' (not published). The site prints no ZIP for Lyndhurst, so none is published.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022245521",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "709 Hart Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Albuquerque, NM office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15053466601",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "201 Third Street NW, Suite 1360"
+        ],
+        "city": "Albuquerque",
+        "region": "NM",
+        "postalCode": "87102",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Farmington, NM office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15053255030",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "7450 E. Main St., Suite A"
+        ],
+        "city": "Farmington",
+        "region": "NM",
+        "postalCode": "87402",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Roswell, NM office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15756227113",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "200 E. 4th St., Suite 300"
+        ],
+        "city": "Roswell",
+        "region": "NM",
+        "postalCode": "88201",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Las Cruces, NM office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15755236561",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "201 North Church St., Ste. 305"
+        ],
+        "city": "Las Cruces",
+        "region": "NM",
+        "postalCode": "88001",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Santa Fe, NM office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15059886647",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "123 E Marcy St, Suite 103"
+        ],
+        "city": "Santa Fe",
+        "region": "NM",
+        "postalCode": "87501",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "L000570": {
+   "name": "Ben Ray Luján",
+   "seat": "Senator, NM",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.lujan.senate.gov/contact/",
+    "https://www.lujan.senate.gov/contact/contact-form/"
+   ],
+   "notes": "Homepage blocked (403). The site gives the Las Vegas office as 1103 National Avenue, Room 210 (we publish Suite 210 in Hewett Hall); address kept.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.lujan.senate.gov/contact/contact-form/",
+     "source": "https://www.lujan.senate.gov/contact/contact-form/",
+     "evidence": "'Write to Ben': 'contact Senator Luján and his team with your comments and concerns regarding current legislation', with a 'Message Topic' list; casework is separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.lujan.senate.gov/contact/",
+     "evidence": "'Las Vegas 1103 National Avenue Room 210 Las Vegas, NM 87701 Phone: 505-398-9465'. We publish 505-454-3038 for this office. The site prints no ZIP for Lyndhurst, so none is published.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022246621",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "498 Russell Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Las Vegas, NM office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15053989465",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "NMHU Hewett Hall",
+         "1103 National Ave, Suite 210"
+        ],
+        "city": "Las Vegas",
+        "region": "NM",
+        "postalCode": "87701-4024",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Albuquerque, NM office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15053377023",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "500 Marquette Ave NW, Suite 1460"
+        ],
+        "city": "Albuquerque",
+        "region": "NM",
+        "postalCode": "87102",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Santa Fe, NM office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15052307040",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "120 South Federal Place, Suite 302"
+        ],
+        "city": "Santa Fe",
+        "region": "NM",
+        "postalCode": "87501",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Las Cruces, NM office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15752884644",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "201 North Church Street, 201B"
+        ],
+        "city": "Las Cruces",
+        "region": "NM",
+        "postalCode": "88001",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Portales, NM office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15752526188",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "100 South Ave A, Suite 113"
+        ],
+        "city": "Portales",
+        "region": "NM",
+        "postalCode": "88130",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "S001218": {
+   "name": "Melanie A. Stansbury",
+   "seat": "Representative, NM-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://stansbury.house.gov/",
+    "https://stansbury.house.gov/contact",
+    "https://stansbury.house.gov/contact/offices",
+    "https://stansbury.house.gov/contact/offices/washington-dc-office",
+    "https://stansbury.house.gov/contact/offices/albuquerque-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://stansbury.house.gov/contact",
+     "source": "https://stansbury.house.gov/contact",
+     "evidence": "Contact page: 'You can enter your ZIP code below to send as an email'; a multi-page form whose first page is identity fields, so its topic list could not be read. Federal agency help and tours are separate."
+    }
+   ]
+  },
+  "V000136": {
+   "name": "Gabe Vasquez",
+   "seat": "Representative, NM-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://vasquez.house.gov/",
+    "https://vasquez.house.gov/address_authentication?form=/contact",
+    "https://vasquez.house.gov/story",
+    "https://vasquez.house.gov/priorities",
+    "https://vasquez.house.gov/contact/offices",
+    "https://vasquez.house.gov/contact/offices/washington-dc-office",
+    "https://vasquez.house.gov/contact/offices/albuquerque-office",
+    "https://vasquez.house.gov/contact/offices/las-cruces-district-office",
+    "https://vasquez.house.gov/contact/offices"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://vasquez.house.gov/contact",
+     "source": "https://vasquez.house.gov/",
+     "evidence": "The site's 'Email Me' link, the member's main contact form, behind an address check (address_authentication?form=/contact), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://vasquez.house.gov/address_authentication?form=/contact",
+     "evidence": "'Albuquerque Office 7801 La Morada Pl. NW Albuquerque, NM 87120 Phone: (505) 208-4777'. We publish 201 Unser Blvd. NW, Unit 116. The site prints no ZIP for Lyndhurst, so none is published.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252365",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "322 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3102",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Albuquerque, NM office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15052084777",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "7801 La Morada Pl. NW"
+        ],
+        "city": "Albuquerque",
+        "region": "NM",
+        "postalCode": "87120",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Las Cruces, NM office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15753236390",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "115 W. Griggs Ave."
+        ],
+        "city": "Las Cruces",
+        "region": "NM",
+        "postalCode": "88001",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "L000273": {
+   "name": "Teresa Leger Fernandez",
+   "seat": "Representative, NM-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://fernandez.house.gov/",
+    "https://fernandez.house.gov/contact/",
+    "https://fernandez.house.gov/contact/office-locations.htm",
+    "https://fernandez.house.gov/contact/subscribe.htm"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://fernandez.house.gov/contact/",
+     "source": "https://fernandez.house.gov/",
+     "evidence": "The member's 'Send Me A Message' page: 'Send Me an Email — Please enter your zip code below to verify residency within my district and continue' (behind a ZIP check), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://fernandez.house.gov/contact/office-locations.htm",
+     "evidence": "'Clovis Office 418 Main Street Clovis, NM 88101 Phone: (575) 218-5770' and 'Las Vegas Office 1103 National Avenue Room 101 Las Vegas, NM 87701 Phone: (505) 428-4680'. We publish (505) 428-4680 for Clovis and (505) 570-7558 for Las Vegas. The site prints no ZIP for Lyndhurst, so none is published.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022256190",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2417 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-3103",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Gallup, NM office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15055514696",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "207 West Hill Ave., Office 301A"
+        ],
+        "city": "Gallup",
+        "region": "NM",
+        "postalCode": "87301",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Santa Fe, NM office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15054284680",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "120 S Federal Pl, Suite 323"
+        ],
+        "city": "Santa Fe",
+        "region": "NM",
+        "postalCode": "87501",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Las Vegas, NM office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15054284680",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1103 National Avenue, Suite 101"
+        ],
+        "city": "Las Vegas",
+        "region": "NM",
+        "postalCode": "87701",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Clovis, NM office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15752185770",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "418 Main Street"
+        ],
+        "city": "Clovis",
+        "region": "NM",
+        "postalCode": "88101",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "C001113": {
+   "name": "Catherine Cortez Masto",
+   "seat": "Senator, NV",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.cortezmasto.senate.gov/contact/",
+    "https://www.cortezmasto.senate.gov/contact/connect/"
+   ],
+   "notes": "Homepage blocked (403). The second number for Las Vegas (702-388-5030) and Reno (775-686-5757) carries a printer (fax) icon, so not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.cortezmasto.senate.gov/contact/connect/",
+     "source": "https://www.cortezmasto.senate.gov/contact/",
+     "evidence": "'Email Catherine' form headed 'share your opinion on legislation', with a 'Message Topic' list."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.cortezmasto.senate.gov/contact/",
+     "evidence": "Office list includes 'Rural Mobile Office Serving Nevadans in rural and Tribal communities. (775) 225-1457' (phone icon, no street address), which we do not publish. The site prints no ZIP for Lyndhurst, so none is published.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022243542",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "309 Hart Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Las Vegas, NV office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17023885020",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "333 Las Vegas Boulevard South, Suite 8016"
+        ],
+        "city": "Las Vegas",
+        "region": "NV",
+        "postalCode": "89101",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Reno, NV office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17756865750",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Courthouse and Federal Building",
+         "400 South Virginia Street, Suite 902"
+        ],
+        "city": "Reno",
+        "region": "NV",
+        "postalCode": "89501",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Rural Mobile Office, NV",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17752251457",
+         "type": "voice"
+        }
+       ],
+       "address": null
+      }
+     ]
+    }
+   ]
+  },
+  "R000608": {
+   "name": "Jacky Rosen",
+   "seat": "Senator, NV",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.rosen.senate.gov/office-locations/",
+    "https://www.rosen.senate.gov/email-jacky/"
+   ],
+   "notes": "Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.rosen.senate.gov/email-jacky/",
+     "source": "https://www.rosen.senate.gov/email-jacky/",
+     "evidence": "'Email Jacky': 'Contact Senator Jacky Rosen with your comments and concerns', with a 'Topic' list; federal agency help is separate."
+    }
+   ]
+  },
+  "T000468": {
+   "name": "Dina Titus",
+   "seat": "Representative, NV-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://titus.house.gov/",
+    "https://titus.house.gov/contact/",
+    "https://titus.house.gov/contact/subscribe.htm",
+    "https://titus.house.gov/contact/offices.htm"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://titus.house.gov/contact/",
+     "source": "https://titus.house.gov/contact/",
+     "evidence": "Contact page: 'Send Me an Email — Please enter your zip code below to verify residency within my district and continue' (behind a ZIP check), so its topic list could not be read."
+    }
+   ]
+  },
+  "A000369": {
+   "name": "Mark E. Amodei",
+   "seat": "Representative, NV-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://amodei.house.gov/",
+    "https://amodei.house.gov/address_authentication?form=/email-me",
+    "https://amodei.house.gov/offices",
+    "https://amodei.house.gov/address_authentication?form=/email-me",
+    "https://amodei.house.gov/contact/offices/washington-dc-office",
+    "https://amodei.house.gov/contact/offices/reno-district-office",
+    "https://amodei.house.gov/contact/offices/elko-contact",
+    "https://amodei.house.gov/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://amodei.house.gov/email-me",
+     "source": "https://amodei.house.gov/",
+     "evidence": "The member's main Email Me form, behind an address check (address_authentication?form=/email-me), so its topic list could not be read."
+    }
+   ]
+  },
+  "L000590": {
+   "name": "Susie Lee",
+   "seat": "Representative, NV-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://susielee.house.gov/",
+    "https://susielee.house.gov/address_authentication?form=/contact",
+    "https://susielee.house.gov/contact/offices",
+    "https://susielee.house.gov/address_authentication?form=/contact",
+    "https://susielee.house.gov/contact/offices/washington-dc-office",
+    "https://susielee.house.gov/contact/offices/las-vegas-district-office",
+    "https://susielee.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://susielee.house.gov/contact",
+     "source": "https://susielee.house.gov/",
+     "evidence": "The member's main contact form, behind an address check (address_authentication?form=/contact), so its topic list could not be read."
+    }
+   ]
+  },
+  "H001066": {
+   "name": "Steven Horsford",
+   "seat": "Representative, NV-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://horsford.house.gov/",
+    "https://horsford.house.gov/feedbackportal",
+    "https://horsford.house.gov/address_authentication?form=/contact",
+    "https://horsford.house.gov/address_authentication?form=/contact/event-request",
+    "https://horsford.house.gov/contact/offices/washington-dc-office",
+    "https://horsford.house.gov/contact/offices/north-las-vegas-district-office",
+    "https://horsford.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://horsford.house.gov/contact",
+     "source": "https://horsford.house.gov/",
+     "evidence": "The member's main contact form, behind an address check (address_authentication?form=/contact), so its topic list could not be read. The site's survey/feedback portal is a survey and not used."
+    }
+   ]
+  },
+  "G000555": {
+   "name": "Kirsten E. Gillibrand",
+   "seat": "Senator, NY",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.gillibrand.senate.gov/office-locations/",
+    "https://www.gillibrand.senate.gov/contact/email-me/"
+   ],
+   "notes": "Homepage blocked (403). Other offices match (Albany '11A Clinton Ave, Rm 821' is a formatting match).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.gillibrand.senate.gov/contact/email-me/",
+     "source": "https://www.gillibrand.senate.gov/contact/email-me/",
+     "evidence": "'Email Kirsten': 'Have any thoughts or concerns ... tell us what you care about', with an issue list (Agriculture/Nutrition, ... Foreign Relations); agency help is separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.gillibrand.senate.gov/office-locations/",
+     "evidence": "'NEW YORK CITY 885 Third Avenue, Suite 2402 New York, NY 10022 Tel. (212) 688-6262'. We publish 780 Third Ave., Suite 2601. The site prints no ZIP for Lyndhurst, so none is published.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022244451",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "478 Russell Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Albany, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15184310120",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Leo W. O’Brien Federal Office Building",
+         "11A Clinton Avenue, Room 821"
+        ],
+        "city": "Albany",
+        "region": "NY",
+        "postalCode": "12207",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Buffalo, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17168549725",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Larkin At Exchange",
+         "726 Exchange St., Suite 511"
+        ],
+        "city": "Buffalo",
+        "region": "NY",
+        "postalCode": "14210",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Lowville, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13153766118",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "PO Box 273"
+        ],
+        "city": "Lowville",
+        "region": "NY",
+        "postalCode": "13367",
+        "country": "US"
+       }
+      },
+      {
+       "label": "New York, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12126886262",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "885 Third Avenue, Suite 2402"
+        ],
+        "city": "New York",
+        "region": "NY",
+        "postalCode": "10022",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Melville, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16312492825",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "155 Pinelawn Rd., Suite 250 North"
+        ],
+        "city": "Melville",
+        "region": "NY",
+        "postalCode": "11747",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Rochester, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15852636250",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Kenneth B. Keating Federal Office Building",
+         "100 State St., Room 4195"
+        ],
+        "city": "Rochester",
+        "region": "NY",
+        "postalCode": "14614",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Syracuse, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13154480470",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "James M. Hanley Federal Building",
+         "100 S. Clinton St., Room 1470"
+        ],
+        "city": "Syracuse",
+        "region": "NY",
+        "postalCode": "13261",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Yonkers, NY office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18458754585",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "PO Box 749"
+        ],
+        "city": "Yonkers",
+        "region": "NY",
+        "postalCode": "10710-0749",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "S000148": {
+   "name": "Charles E. Schumer",
+   "seat": "Senator, NY",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.schumer.senate.gov/contact/",
+    "https://www.schumer.senate.gov/contact/message-chuck/"
+   ],
+   "notes": "Homepage blocked (403). Offices match; the Albany listing gives 'Leo O'Brien Building, Room 827' without the street (we publish 1 Clinton Ave.), kept. The New York City office also lists a TDD line (212) 486-7803, not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.schumer.senate.gov/contact/message-chuck/",
+     "source": "https://www.schumer.senate.gov/contact/",
+     "evidence": "'Leave a Comment: Send Chuck your thoughts, opinions and concerns'; the form page says 'Chuck would like to hear your thoughts, opinions and concerns on the issues'."
+    }
+   ]
+  },
+  "L000598": {
+   "name": "Nick LaLota",
+   "seat": "Representative, NY-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://lalota.house.gov/",
+    "https://lalota.house.gov/address_authentication?form=/contact",
+    "https://lalota.house.gov/contact/offices",
+    "https://lalota.house.gov/contact/offices/dc-office",
+    "https://lalota.house.gov/contact/offices/hauppauge-district-office",
+    "https://lalota.house.gov/contact/offices/rockypoint-office",
+    "https://lalota.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://lalota.house.gov/contact",
+     "source": "https://lalota.house.gov/",
+     "evidence": "The member's main contact form, behind an address check (address_authentication?form=/contact), so its topic list could not be read."
+    }
+   ]
+  },
+  "G000597": {
+   "name": "Andrew R. Garbarino",
+   "seat": "Representative, NY-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://garbarino.house.gov/",
+    "https://garbarino.house.gov/contact/sign-up",
+    "https://garbarino.house.gov/contact",
+    "https://garbarino.house.gov/contact/offices",
+    "https://garbarino.house.gov/contact/offices/washington-dc-office",
+    "https://garbarino.house.gov/contact/offices/patchogue-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://garbarino.house.gov/contact",
+     "source": "https://garbarino.house.gov/contact",
+     "evidence": "Contact page: 'You can enter your ZIP code below to send as an email'; a multi-page form whose first page is identity fields, so its topic list could not be read. Federal agency help and tours are separate."
+    }
+   ]
+  },
+  "S001201": {
+   "name": "Thomas R. Suozzi",
+   "seat": "Representative, NY-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://suozzi.house.gov/",
+    "https://suozzi.house.gov/address_authentication?form=/contact",
+    "https://suozzi.house.gov/contact/offices",
+    "https://suozzi.house.gov/contact/offices/washington-dc-office",
+    "https://suozzi.house.gov/contact/offices/glen-cove-district-office",
+    "https://suozzi.house.gov/contact/offices/douglaston-district-office",
+    "https://suozzi.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://suozzi.house.gov/contact",
+     "source": "https://suozzi.house.gov/",
+     "evidence": "The member's main contact form, behind an address check (address_authentication?form=/contact), so its topic list could not be read."
+    }
+   ]
+  },
+  "G000602": {
+   "name": "Laura Gillen",
+   "seat": "Representative, NY-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://gillen.house.gov/",
+    "https://gillen.house.gov/contact",
+    "https://gillen.house.gov/address_authentication?form=/contact/email-me",
+    "https://gillen.house.gov/contact/office-locations",
+    "https://gillen.house.gov/contact/offices/washington-dc-office",
+    "https://gillen.house.gov/contact/offices/garden-city-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://gillen.house.gov/contact/email-me",
+     "source": "https://gillen.house.gov/",
+     "evidence": "The site's 'Email Me' link, the member's main contact form, behind an address check (address_authentication?form=/contact/email-me), so its topic list could not be read."
+    }
+   ]
+  },
+  "M001137": {
+   "name": "Gregory W. Meeks",
+   "seat": "Representative, NY-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://meeks.house.gov/",
+    "https://meeks.house.gov/address_authentication?form=/contact",
+    "https://meeks.house.gov/about/welcome-message",
+    "https://meeks.house.gov/contact/offices",
+    "https://meeks.house.gov/contact/offices/washington-dc-office",
+    "https://meeks.house.gov/contact/offices/jamaica-district-office",
+    "https://meeks.house.gov/contact/offices/rockaway-peninsula-district-office",
+    "https://meeks.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://meeks.house.gov/contact",
+     "source": "https://meeks.house.gov/",
+     "evidence": "The member's main contact form, behind an address check (address_authentication?form=/contact), so its topic list could not be read."
+    }
+   ]
+  },
+  "M001188": {
+   "name": "Grace Meng",
+   "seat": "Representative, NY-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://meng.house.gov/",
+    "https://meng.house.gov/address_authentication?form=/contact",
+    "https://meng.house.gov/contact/offices",
+    "https://meng.house.gov/resources/share-your-story-share-your-story-how-will-health-insurance-premium-increases-impact-you",
+    "https://meng.house.gov/contact/offices/washington-dc-office",
+    "https://meng.house.gov/contact/offices/flushing-district-office",
+    "https://meng.house.gov/contact/offices/forest-hills-district-office",
+    "https://meng.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://meng.house.gov/contact",
+     "source": "https://meng.house.gov/",
+     "evidence": "The member's main contact form, behind an address check (address_authentication?form=/contact), so its topic list could not be read."
+    }
+   ]
+  },
+  "V000081": {
+   "name": "Nydia M. Velázquez",
+   "seat": "Representative, NY-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://velazquez.house.gov/",
+    "https://velazquez.house.gov/contact/offices",
+    "https://velazquez.house.gov/zip_authentication?form=/contact",
+    "https://velazquez.house.gov/en-espanol/contactenos"
+   ],
+   "notes": "Offices match the English offices page (2302 Rayburn, Sunnyside, Brooklyn). The Spanish 'Contáctenos' page still lists an old DC room (2466 Rayburn) and Lower East Side and South West Brooklyn offices ((212) 673-3997, (718) 222-5819) that the English offices page no longer shows; treated as stale and not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://velazquez.house.gov/contact",
+     "source": "https://velazquez.house.gov/",
+     "evidence": "The site's 'Email' link to /contact, the member's main contact form, behind a ZIP check ('ZIP Code Authentication ... Please enter your ZIP code to verify residency within the district'), so its topic list could not be read."
+    }
+   ]
+  }
+ }
+}

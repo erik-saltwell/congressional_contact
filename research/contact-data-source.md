@@ -4,6 +4,8 @@ Researched November 4, 2026. Answers the [work-item intent](../.work-items/resea
 
 ## Approved follow-up decisions
 
+**Update 2026-11-05:** HUD access now works, and 2026 Q2 uses 119th Congress districts. See the [HUD crosswalk findings](hud-crosswalk-findings.md) and the final [data schema](../design_notes/data-schema.md).
+
 The user approved the maintained static-data approach and JSON storage, followed by the ZIP-first workflow and HUD-USPS as the ZIP-mapping source. HUD access is for local data generation; the published website and JSON remain credential-free. The token is configured locally, but no authenticated HUD request or production generator has been run. See [approved data approach and proposed JSON format](data-design.md) for the decisions, schema proposal and outstanding validation. Rebuilding when Congress changes is the user's stated baseline; additional mid-Congress refreshes were recommended, and the exact cadence remains open.
 
 ## Answer

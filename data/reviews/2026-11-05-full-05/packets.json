@@ -1,0 +1,2332 @@
+{
+ "batch": "2026-11-05-full-05",
+ "createdAt": "2026-11-05",
+ "dataGeneratedAt": "2026-11-05T19:36:17Z",
+ "officials": {
+  "H001081": {
+   "seat": "Representative, CT-5",
+   "published": {
+    "name": {
+     "full": "Jahana Hayes",
+     "given": "Jahana",
+     "family": "Hayes",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "CT",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254476",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2049 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0705",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Waterbury, CT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18602238412",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "108 Bank St, 2nd Floor"
+       ],
+       "city": "Waterbury",
+       "region": "CT",
+       "postalCode": "06702-2233",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://hayes.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://hayes.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "N000147": {
+   "seat": "Delegate, DC-0",
+   "published": {
+    "name": {
+     "full": "Eleanor Holmes Norton",
+     "given": "Eleanor",
+     "family": "Norton",
+     "suffix": null
+    },
+    "role": "delegate",
+    "party": "Democrat",
+    "state": "DC",
+    "district": 0,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022258050",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2136 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-5101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Washington, DC office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12024089041",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1300 Pennsylvania Ave NW, M-1000"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20004",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://norton.house.gov"
+     },
+     {
+      "purpose": "policy-feedback",
+      "url": "https://norton.house.gov/contact/email-me"
+     }
+    ],
+    "verifiedAt": "2026-11-05"
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://norton.house.gov"
+   },
+   "currentSupplement": {
+    "links": [
+     {
+      "purpose": "policy-feedback",
+      "url": "https://norton.house.gov/contact/email-me",
+      "source": "https://norton.house.gov/",
+      "verifiedAt": "2026-11-05"
+     }
+    ],
+    "emails": [],
+    "verifiedAt": "2026-11-05"
+   }
+  },
+  "B001303": {
+   "seat": "Senator, DE",
+   "published": {
+    "name": {
+     "full": "Lisa Blunt Rochester",
+     "given": "Lisa",
+     "family": "Blunt Rochester",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "DE",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022242441",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "513 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Georgetown, DE office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13028567690",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "12 The Circle"
+       ],
+       "city": "Georgetown",
+       "region": "DE",
+       "postalCode": "19947",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Dover, DE office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13026743308",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "555 East Loockerman St., Suite 300"
+       ],
+       "city": "Dover",
+       "region": "DE",
+       "postalCode": "19901",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.bluntrochester.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://www.bluntrochester.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001088": {
+   "seat": "Senator, DE",
+   "published": {
+    "name": {
+     "full": "Christopher A. Coons",
+     "given": "Christopher",
+     "family": "Coons",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "DE",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022245042",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "218 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Wilmington, DE office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13025736345",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1105 N. Market St., Suite 100"
+       ],
+       "city": "Wilmington",
+       "region": "DE",
+       "postalCode": "19801-1233",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Dover, DE office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13027365601",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "555 E. Loockerman St., Suite 330"
+       ],
+       "city": "Dover",
+       "region": "DE",
+       "postalCode": "19901",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.coons.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.coons.senate.gov/contact",
+    "website": "https://www.coons.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001238": {
+   "seat": "Representative, DE-0",
+   "published": {
+    "name": {
+     "full": "Sarah McBride",
+     "given": "Sarah",
+     "family": "McBride",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "DE",
+    "district": 0,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254165",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1306 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0800",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Wilmington, DE office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13028302330",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1105 North Market St, Suite 400"
+       ],
+       "city": "Wilmington",
+       "region": "DE",
+       "postalCode": "19801",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mcbride.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mcbride.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001244": {
+   "seat": "Senator, FL",
+   "published": {
+    "name": {
+     "full": "Ashley Moody",
+     "given": "Ashley",
+     "family": "Moody",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "FL",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022243041",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "387 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tallahassee, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18505999100",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "402 S. Monroe St., Suite 2105"
+       ],
+       "city": "Tallahassee",
+       "region": "FL",
+       "postalCode": "32399-6526",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Palm Beach Gardens, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15617753360",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4822 Northlake Boulevard, Suite B-1"
+       ],
+       "city": "Palm Beach Gardens",
+       "region": "FL",
+       "postalCode": "33418-3920",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Jacksonville, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19043544300",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "300 North Hogan Street, Suite 8-111"
+       ],
+       "city": "Jacksonville",
+       "region": "FL",
+       "postalCode": "32202",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Miami, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13055964224",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "9130 S Dadeland Blvd., 1510"
+       ],
+       "city": "Miami",
+       "region": "FL",
+       "postalCode": "33156-7850",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Orlando, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14072542573",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "201 S Orange Av., Suite 350"
+       ],
+       "city": "Orlando",
+       "region": "FL",
+       "postalCode": "32801-3499",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fort Myers, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12393186464",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2120 Main Street, Suite 200"
+       ],
+       "city": "Fort Myers",
+       "region": "FL",
+       "postalCode": "33901",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.moody.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://www.moody.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001217": {
+   "seat": "Senator, FL",
+   "published": {
+    "name": {
+     "full": "Rick Scott",
+     "given": "Rick",
+     "family": "Scott",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "FL",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022245274",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "110 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Pensacola, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18507605151",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "221 Palafox Place, Suite 420"
+       ],
+       "city": "Pensacola",
+       "region": "FL",
+       "postalCode": "32502",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Jacksonville, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19044797227",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "400 West Bay Street, Suite 289"
+       ],
+       "city": "Jacksonville",
+       "region": "FL",
+       "postalCode": "32202",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Orlando, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14078727161",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "225 East Robinson Street, Suite 410"
+       ],
+       "city": "Orlando",
+       "region": "FL",
+       "postalCode": "32801",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tampa, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18132257040",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "801 North Florida Avenue, Suite 421"
+       ],
+       "city": "Tampa",
+       "region": "FL",
+       "postalCode": "33602",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Kissimmee, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14075867879",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1 Courthouse Square, Suite 300"
+       ],
+       "city": "Kissimmee",
+       "region": "FL",
+       "postalCode": "34741",
+       "country": "US"
+      }
+     },
+     {
+      "label": "West Palm Beach, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15615140189",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "415 Clematis Street, Suite 201"
+       ],
+       "city": "West Palm Beach",
+       "region": "FL",
+       "postalCode": "33401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Naples, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12392317890",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Building F",
+        "3299 Tamiami Trail East, Suite 106"
+       ],
+       "city": "Naples",
+       "region": "FL",
+       "postalCode": "34112",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Miami, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17865017141",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "901 Ponce de Leon Boulevard, Suite 505"
+       ],
+       "city": "Miami",
+       "region": "FL",
+       "postalCode": "33134",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tallahassee, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18509428415",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "111 N. Adams St., Suite 208"
+       ],
+       "city": "Tallahassee",
+       "region": "FL",
+       "postalCode": "32301",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.rickscott.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.rickscott.senate.gov/contact/contact",
+    "website": "https://www.rickscott.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "P000622": {
+   "seat": "Representative, FL-1",
+   "published": {
+    "name": {
+     "full": "Jimmy Patronis",
+     "given": "Jimmy",
+     "family": "Patronis",
+     "suffix": "Jr."
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "FL",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254136",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2021 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Crestview, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18506036690",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "805 E. James Lee Blvd."
+       ],
+       "city": "Crestview",
+       "region": "FL",
+       "postalCode": "32539",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Pensacola, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18504791183",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1000 College Boulevard, Building 20, Room 2030"
+       ],
+       "city": "Pensacola",
+       "region": "FL",
+       "postalCode": "32504",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://patronis.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://patronis.house.gov/contact/email-me",
+    "website": "https://patronis.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "D000628": {
+   "seat": "Representative, FL-2",
+   "published": {
+    "name": {
+     "full": "Neal P. Dunn",
+     "given": "Neal",
+     "family": "Dunn",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "FL",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255235",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "466 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0902",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Panama City, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18507850812",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "840 W. 11th St., Suite 2250"
+       ],
+       "city": "Panama City",
+       "region": "FL",
+       "postalCode": "32401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tallahassee, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18508918610",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "300 S. Adams St."
+       ],
+       "city": "Tallahassee",
+       "region": "FL",
+       "postalCode": "32301",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://dunn.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://dunn.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001039": {
+   "seat": "Representative, FL-3",
+   "published": {
+    "name": {
+     "full": "Kat Cammack",
+     "given": "Kat",
+     "family": "Cammack",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "FL",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255744",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2421 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0903",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Gainesville, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13525050838",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "5550 NW 111th Boulevard, Suite A"
+       ],
+       "city": "Gainesville",
+       "region": "FL",
+       "postalCode": "32653",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://cammack.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://cammack.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001314": {
+   "seat": "Representative, FL-4",
+   "published": {
+    "name": {
+     "full": "Aaron Bean",
+     "given": "Aaron",
+     "family": "Bean",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "FL",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022250123",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2459 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0904",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fleming Island, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19048303933",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4465-6 US Highway 17"
+       ],
+       "city": "Fleming Island",
+       "region": "FL",
+       "postalCode": "32003",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fernandina Beach, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19045579550",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "501 Centre Street, Suite 107"
+       ],
+       "city": "Fernandina Beach",
+       "region": "FL",
+       "postalCode": "32034",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Jacksonville, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19043199433",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "117 W Duval St., Suite 230"
+       ],
+       "city": "Jacksonville",
+       "region": "FL",
+       "postalCode": "32202",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://bean.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://bean.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "R000609": {
+   "seat": "Representative, FL-5",
+   "published": {
+    "name": {
+     "full": "John H. Rutherford",
+     "given": "John",
+     "family": "Rutherford",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "FL",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252501",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1711 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0905",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Jacksonville, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19048315205",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4130 Salisbury Road, Suite 2500"
+       ],
+       "city": "Jacksonville",
+       "region": "FL",
+       "postalCode": "32216",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://rutherford.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://rutherford.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "F000484": {
+   "seat": "Representative, FL-6",
+   "published": {
+    "name": {
+     "full": "Randy Fine",
+     "given": "Randy",
+     "family": "Fine",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "FL",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252706",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "244 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0906",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Palm Coast, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13863020442",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "31 Lupi Court, Suite 130"
+       ],
+       "city": "Palm Coast",
+       "region": "FL",
+       "postalCode": "32137-4761",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Deland, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13862790707",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "120 S. Florida Ave."
+       ],
+       "city": "Deland",
+       "region": "FL",
+       "postalCode": "32720-5422",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://fine.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "hhttps://fine.house.gov/address_authentication?form=/contact/email-me",
+    "website": "https://fine.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001216": {
+   "seat": "Representative, FL-7",
+   "published": {
+    "name": {
+     "full": "Cory Mills",
+     "given": "Cory",
+     "family": "Mills",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "FL",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254035",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "346 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0907",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Port Orange, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13862389711",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1000 City Center Circle"
+       ],
+       "city": "Port Orange",
+       "region": "FL",
+       "postalCode": "32129",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lake Mary, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14076387900",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1525 International Pkwy, Number 1051"
+       ],
+       "city": "Lake Mary",
+       "region": "FL",
+       "postalCode": "32746",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mills.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mills.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001099": {
+   "seat": "Representative, FL-8",
+   "published": {
+    "name": {
+     "full": "Mike Haridopolos",
+     "given": "Mike",
+     "family": "Haridopolos",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "FL",
+    "district": 8,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253671",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1039 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0908",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Melbourne, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13216321776",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Building C",
+        "2725 Judge Fran Jamieson Way"
+       ],
+       "city": "Melbourne",
+       "region": "FL",
+       "postalCode": "32940",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://haridopolos.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://haridopolos.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001200": {
+   "seat": "Representative, FL-9",
+   "published": {
+    "name": {
+     "full": "Darren Soto",
+     "given": "Darren",
+     "family": "Soto",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "FL",
+    "district": 9,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022259889",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2353 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0909",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Kissimmee, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14074521171",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "804 Bryan St."
+       ],
+       "city": "Kissimmee",
+       "region": "FL",
+       "postalCode": "34741",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Orlando, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14072043370",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "5800 South Semoran Blvd, Suite B"
+       ],
+       "city": "Orlando",
+       "region": "FL",
+       "postalCode": "32822",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://soto.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://soto.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "F000476": {
+   "seat": "Representative, FL-10",
+   "published": {
+    "name": {
+     "full": "Maxwell Frost",
+     "given": "Maxwell",
+     "family": "Frost",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "FL",
+    "district": 10,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252176",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1224 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0910",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Orlando, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13213889808",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "617 N. Magnolia Ave."
+       ],
+       "city": "Orlando",
+       "region": "FL",
+       "postalCode": "32801",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://frost.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://frost.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "W000806": {
+   "seat": "Representative, FL-11",
+   "published": {
+    "name": {
+     "full": "Daniel Webster",
+     "given": "Daniel",
+     "family": "Webster",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "FL",
+    "district": 11,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022251002",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2184 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0911",
+       "country": "US"
+      }
+     },
+     {
+      "label": "The Villages, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13523833552",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "8015 E County Rd 466, Suite B"
+       ],
+       "city": "The Villages",
+       "region": "FL",
+       "postalCode": "32162",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Clermont, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13522419220",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1200 Oakley Seaver Drive, Suite 203"
+       ],
+       "city": "Clermont",
+       "region": "FL",
+       "postalCode": "34711",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://webster.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://webster.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001257": {
+   "seat": "Representative, FL-12",
+   "published": {
+    "name": {
+     "full": "Gus M. Bilirakis",
+     "given": "Gus",
+     "family": "Bilirakis",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "FL",
+    "district": 12,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255755",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2306 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0912",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Inverness, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13526541004",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "212 W Main Street, Suite 208A"
+       ],
+       "city": "Inverness",
+       "region": "FL",
+       "postalCode": "34450",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Brooksville, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13526911231",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "15 N Main Street, Suite B"
+       ],
+       "city": "Brooksville",
+       "region": "FL",
+       "postalCode": "34601",
+       "country": "US"
+      }
+     },
+     {
+      "label": "New Port Richey, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17272322921",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "8731 Citizens Drive, Suite 135"
+       ],
+       "city": "New Port Richey",
+       "region": "FL",
+       "postalCode": "34654",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://bilirakis.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://bilirakis.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000596": {
+   "seat": "Representative, FL-13",
+   "published": {
+    "name": {
+     "full": "Anna Paulina Luna",
+     "given": "Anna",
+     "family": "Luna",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "FL",
+    "district": 13,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255961",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "226 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0913",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Seminole, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17276103980",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "9200 113th St. N., Suite 305"
+       ],
+       "city": "Seminole",
+       "region": "FL",
+       "postalCode": "33772",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://luna.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://luna.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001066": {
+   "seat": "Representative, FL-14",
+   "published": {
+    "name": {
+     "full": "Kathy Castor",
+     "given": "Kathy",
+     "family": "Castor",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "FL",
+    "district": 14,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253376",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2188 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0914",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tampa, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18138712817",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4144 N. Armenia Ave., Suite 300"
+       ],
+       "city": "Tampa",
+       "region": "FL",
+       "postalCode": "33607",
+       "country": "US"
+      }
+     },
+     {
+      "label": "St. Petersburg, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17273690201",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "136 Fourth St. N., Suite 201"
+       ],
+       "city": "St. Petersburg",
+       "region": "FL",
+       "postalCode": "33701",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://castor.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://castor.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000597": {
+   "seat": "Representative, FL-15",
+   "published": {
+    "name": {
+     "full": "Laurel M. Lee",
+     "given": "Laurel",
+     "family": "Lee",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "FL",
+    "district": 15,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255626",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2464 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0915",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tampa, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18133935077",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "17425 Bridge Hill Court, Suite 203"
+       ],
+       "city": "Tampa",
+       "region": "FL",
+       "postalCode": "33647",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://laurellee.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://laurellee.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001260": {
+   "seat": "Representative, FL-16",
+   "published": {
+    "name": {
+     "full": "Vern Buchanan",
+     "given": "Vern",
+     "family": "Buchanan",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "FL",
+    "district": 16,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255015",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2409 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0916",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Brandon, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18136571013",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "510 Vonderburg Drive, Suite 303"
+       ],
+       "city": "Brandon",
+       "region": "FL",
+       "postalCode": "33511",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bradenton, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19419516643",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "8433 Enterprise Circle, Suite 210"
+       ],
+       "city": "Bradenton",
+       "region": "FL",
+       "postalCode": "34202",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Longboat Key, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19419516643",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "5370 Gulf of Mexico Drive, Suite 210"
+       ],
+       "city": "Longboat Key",
+       "region": "FL",
+       "postalCode": "34228",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://buchanan.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://buchanan.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001214": {
+   "seat": "Representative, FL-17",
+   "published": {
+    "name": {
+     "full": "W. Gregory Steube",
+     "given": "W.",
+     "family": "Steube",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "FL",
+    "district": 17,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255792",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2457 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0917",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Punta Gorda, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19415759101",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "226 Taylor St, Suite 230"
+       ],
+       "city": "Punta Gorda",
+       "region": "FL",
+       "postalCode": "33950-4457",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Sarasota, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19414993214",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "7590 Fruitville Rd, Suite 102"
+       ],
+       "city": "Sarasota",
+       "region": "FL",
+       "postalCode": "34240",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Venice, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19414993214",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "401 West Venice Ave, Suite 157"
+       ],
+       "city": "Venice",
+       "region": "FL",
+       "postalCode": "34285",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://steube.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://steube.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "F000472": {
+   "seat": "Representative, FL-18",
+   "published": {
+    "name": {
+     "full": "Scott Franklin",
+     "given": "C.",
+     "family": "Franklin",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "FL",
+    "district": 18,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022251252",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2301 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0918",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lakeland, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18636448215",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "124 S. Florida Avenue, Suite 304"
+       ],
+       "city": "Lakeland",
+       "region": "FL",
+       "postalCode": "33801",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lake Placid, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18636448215",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1069 US 27 North, Suite 116"
+       ],
+       "city": "Lake Placid",
+       "region": "FL",
+       "postalCode": "33852",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lake Wales, FL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18636448215",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "201 West Central Avenue"
+       ],
+       "city": "Lake Wales",
+       "region": "FL",
+       "postalCode": "33853",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://franklin.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://franklin.house.gov"
+   },
+   "currentSupplement": null
+  }
+ }
+}

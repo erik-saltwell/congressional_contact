@@ -1,0 +1,2298 @@
+{
+ "batch": "2026-11-05-full-20",
+ "createdAt": "2026-11-05",
+ "dataGeneratedAt": "2026-11-05T19:36:17Z",
+ "officials": {
+  "C001115": {
+   "seat": "Representative, TX-27",
+   "published": {
+    "name": {
+     "full": "Michael Cloud",
+     "given": "Michael",
+     "family": "Cloud",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 27,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022257742",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "304 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4327",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Victoria, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13618946446",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "120 S. Main St., Suite 310"
+       ],
+       "city": "Victoria",
+       "region": "TX",
+       "postalCode": "77901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Corpus Christi, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13618842222",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Tower II",
+        "555 N. Carancahua St., Suite 980"
+       ],
+       "city": "Corpus Christi",
+       "region": "TX",
+       "postalCode": "78401",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://cloud.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://cloud.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001063": {
+   "seat": "Representative, TX-28",
+   "published": {
+    "name": {
+     "full": "Henry Cuellar",
+     "given": "Henry",
+     "family": "Cuellar",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "TX",
+    "district": 28,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022251640",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2308 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4328",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Laredo, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19567250639",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "602 E. Calton Rd., Suite 2"
+       ],
+       "city": "Laredo",
+       "region": "TX",
+       "postalCode": "78041",
+       "country": "US"
+      }
+     },
+     {
+      "label": "San Antonio, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12102712851",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1145 E. Commerce St., Suite 205"
+       ],
+       "city": "San Antonio",
+       "region": "TX",
+       "postalCode": "78205",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rio Grande City, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19564875603",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "100 N. FM 3167, Suite 208"
+       ],
+       "city": "Rio Grande City",
+       "region": "TX",
+       "postalCode": "78582",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://cuellar.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://cuellar.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000587": {
+   "seat": "Representative, TX-29",
+   "published": {
+    "name": {
+     "full": "Sylvia R. Garcia",
+     "given": "Sylvia",
+     "family": "Garcia",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "TX",
+    "district": 29,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022251688",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2419 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4329",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Houston, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18323253150",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "11811 East Fwy, Suite 430"
+       ],
+       "city": "Houston",
+       "region": "TX",
+       "postalCode": "77029-1974",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://sylviagarcia.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://sylviagarcia.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001130": {
+   "seat": "Representative, TX-30",
+   "published": {
+    "name": {
+     "full": "Jasmine Crockett",
+     "given": "Jasmine",
+     "family": "Crockett",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "TX",
+    "district": 30,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022258885",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1616 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4330",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Dallas, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12149228885",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1825 Market Center Blvd., Suite 440"
+       ],
+       "city": "Dallas",
+       "region": "TX",
+       "postalCode": "75207",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://crockett.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://crockett.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001051": {
+   "seat": "Representative, TX-31",
+   "published": {
+    "name": {
+     "full": "John R. Carter",
+     "given": "John",
+     "family": "Carter",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 31,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253864",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2208 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4331",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Belton, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12549331392",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Bell County Office",
+        "2180 North Main Street, Suite #I-10"
+       ],
+       "city": "Belton",
+       "region": "TX",
+       "postalCode": "76513",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Georgetown, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15125919061",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4411 S Ih-35, Suite 101"
+       ],
+       "city": "Georgetown",
+       "region": "TX",
+       "postalCode": "78626",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://carter.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://carter.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "J000310": {
+   "seat": "Representative, TX-32",
+   "published": {
+    "name": {
+     "full": "Julie Johnson",
+     "given": "Julie",
+     "family": "Johnson",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "TX",
+    "district": 32,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252231",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "221 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4332",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Richardson, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19729727949",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Chase Bank Building",
+        "100 N Central Expy, Suite 602"
+       ],
+       "city": "Richardson",
+       "region": "TX",
+       "postalCode": "75080",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://juliejohnson.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://juliejohnson.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "V000131": {
+   "seat": "Representative, TX-33",
+   "published": {
+    "name": {
+     "full": "Marc A. Veasey",
+     "given": "Marc",
+     "family": "Veasey",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "TX",
+    "district": 33,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022259897",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2186 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4333",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Dallas, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12147411387",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "JP Morgan Chase Building",
+        "1881 Sylvan Ave., Suite 108"
+       ],
+       "city": "Dallas",
+       "region": "TX",
+       "postalCode": "75208",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fort Worth, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18179209086",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "6707 Brentwood Stair Rd., Suite 200"
+       ],
+       "city": "Fort Worth",
+       "region": "TX",
+       "postalCode": "76112",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://veasey.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://veasey.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000581": {
+   "seat": "Representative, TX-34",
+   "published": {
+    "name": {
+     "full": "Vicente Gonzalez",
+     "given": "Vicente",
+     "family": "Gonzalez",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "TX",
+    "district": 34,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252531",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1201 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4334",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Kingsville, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19566825545",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "100 W. King Ave., Suite 106"
+       ],
+       "city": "Kingsville",
+       "region": "TX",
+       "postalCode": "78363",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Brownsville, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19566825545",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "835 E. Levee St., 6th Floor"
+       ],
+       "city": "Brownsville",
+       "region": "TX",
+       "postalCode": "78520",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Weslaco, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19566825545",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "255 S. Kansas Ave"
+       ],
+       "city": "Weslaco",
+       "region": "TX",
+       "postalCode": "78596",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://gonzalez.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://gonzalez.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001131": {
+   "seat": "Representative, TX-35",
+   "published": {
+    "name": {
+     "full": "Greg Casar",
+     "given": "Gregorio",
+     "family": "Casar",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "TX",
+    "district": 35,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255645",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "446 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4335",
+       "country": "US"
+      }
+     },
+     {
+      "label": "San Antonio, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12105807000",
+        "type": "voice"
+       }
+      ],
+      "address": null
+     },
+     {
+      "label": "Austin, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15126911200",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Austin"
+       ],
+       "city": "Austin",
+       "region": "TX",
+       "postalCode": "78702",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://casar.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://casar.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001291": {
+   "seat": "Representative, TX-36",
+   "published": {
+    "name": {
+     "full": "Brian Babin",
+     "given": "Brian",
+     "family": "Babin",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 36,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022251555",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2236 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4336",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Deer Park, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18327800966",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "203 Ivy Ave., Suite 600"
+       ],
+       "city": "Deer Park",
+       "region": "TX",
+       "postalCode": "77536",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Woodville, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14093318066",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Tyler County Courthouse",
+        "100 W. Bluff Dr."
+       ],
+       "city": "Woodville",
+       "region": "TX",
+       "postalCode": "75979",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Dayton, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18327800966",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Dayton Police Station",
+        "2004 N. Cleveland St."
+       ],
+       "city": "Dayton",
+       "region": "TX",
+       "postalCode": "77536",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lumberton, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14098838075",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "769 S. Main Street"
+       ],
+       "city": "Lumberton",
+       "region": "TX",
+       "postalCode": "77657",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://babin.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://babin.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "D000399": {
+   "seat": "Representative, TX-37",
+   "published": {
+    "name": {
+     "full": "Lloyd Doggett",
+     "given": "Lloyd",
+     "family": "Doggett",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "TX",
+    "district": 37,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254865",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2307 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0001",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Austin, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15129165921",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "300 East 8th St, 7th Floor"
+       ],
+       "city": "Austin",
+       "region": "TX",
+       "postalCode": "78701",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://doggett.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://doggett.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001095": {
+   "seat": "Representative, TX-38",
+   "published": {
+    "name": {
+     "full": "Wesley Hunt",
+     "given": "Wesley",
+     "family": "Hunt",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "TX",
+    "district": 38,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255646",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1520 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0001",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Houston, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18323570555",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "5599 San Felipe St., Suite 950"
+       ],
+       "city": "Houston",
+       "region": "TX",
+       "postalCode": "77056",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tomball, TX office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13462467355",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "990 Village Square Dr., G-900"
+       ],
+       "city": "Tomball",
+       "region": "TX",
+       "postalCode": "77375",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://hunt.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://hunt.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001114": {
+   "seat": "Senator, UT",
+   "published": {
+    "name": {
+     "full": "John R. Curtis",
+     "given": "John",
+     "family": "Curtis",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "UT",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022245251",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "502 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Salt Lake City, UT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18015244380",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "125 S. State Street, Suite 8402"
+       ],
+       "city": "Salt Lake City",
+       "region": "UT",
+       "postalCode": "84138",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.curtis.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://www.curtis.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000577": {
+   "seat": "Senator, UT",
+   "published": {
+    "name": {
+     "full": "Mike Lee",
+     "given": "Mike",
+     "family": "Lee",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "UT",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022245444",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "363 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Ogden, UT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18013929633",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "James V. Hansen Federal Building",
+        "324 25th St., Suite 1410"
+       ],
+       "city": "Ogden",
+       "region": "UT",
+       "postalCode": "84401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Salt Lake City, UT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18015245933",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Wallace F. Bennett Federal Building",
+        "125 S. State, Suite 4225"
+       ],
+       "city": "Salt Lake City",
+       "region": "UT",
+       "postalCode": "84138",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Vernal, UT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14355039335",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Vernal City Hall",
+        "374 East Main Street, Suite 261"
+       ],
+       "city": "Vernal",
+       "region": "UT",
+       "postalCode": "84078",
+       "country": "US"
+      }
+     },
+     {
+      "label": "St. George, UT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14356285514",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "111 East Tabernacle Street, Suite #324"
+       ],
+       "city": "St. George",
+       "region": "UT",
+       "postalCode": "84770",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.lee.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.lee.senate.gov/public/index.cfm/contact",
+    "website": "https://www.lee.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001213": {
+   "seat": "Representative, UT-1",
+   "published": {
+    "name": {
+     "full": "Blake D. Moore",
+     "given": "Blake",
+     "family": "Moore",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "UT",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022250453",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1131 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Ogden, UT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18016250107",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Ogden",
+        "324 25th Street"
+       ],
+       "city": "Ogden",
+       "region": "UT",
+       "postalCode": "84401",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://blakemoore.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://blakemoore.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001228": {
+   "seat": "Representative, UT-2",
+   "published": {
+    "name": {
+     "full": "Celeste Maloy",
+     "given": "Celeste",
+     "family": "Maloy",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "UT",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022259730",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "249 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4402",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bountiful, UT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18013645550",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "585 W 500 S, #230"
+       ],
+       "city": "Bountiful",
+       "region": "UT",
+       "postalCode": "84010",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Delta, UT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14356919786",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "71 S 200 W"
+       ],
+       "city": "Delta",
+       "region": "UT",
+       "postalCode": "84624",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Richfield, UT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14356919746",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "250 N Main, #B14"
+       ],
+       "city": "Richfield",
+       "region": "UT",
+       "postalCode": "84701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "St. George, UT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14357037720",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "111 East Tabernacle"
+       ],
+       "city": "St. George",
+       "region": "UT",
+       "postalCode": "84770",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://maloy.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://maloy.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "K000403": {
+   "seat": "Representative, UT-3",
+   "published": {
+    "name": {
+     "full": "Mike Kennedy",
+     "given": "Mike",
+     "family": "Kennedy",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "UT",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022257751",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1626 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4403",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Provo, UT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18016073238",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3549 N University Ave, Suite 275"
+       ],
+       "city": "Provo",
+       "region": "UT",
+       "postalCode": "84604",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mikekennedy.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mikekennedy.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "O000086": {
+   "seat": "Representative, UT-4",
+   "published": {
+    "name": {
+     "full": "Burgess Owens",
+     "given": "Burgess",
+     "family": "Owens",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "UT",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253011",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "309 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4404",
+       "country": "US"
+      }
+     },
+     {
+      "label": "West Jordan, UT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18019999801",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "9067 S. 1300 W, Suite 101"
+       ],
+       "city": "West Jordan",
+       "region": "UT",
+       "postalCode": "84088",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://owens.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://owens.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "K000384": {
+   "seat": "Senator, VA",
+   "published": {
+    "name": {
+     "full": "Tim Kaine",
+     "given": "Tim",
+     "family": "Kaine",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "VA",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022244024",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "231 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Abingdon, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12765254790",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "121 Russell Rd., Suite 2"
+       ],
+       "city": "Abingdon",
+       "region": "VA",
+       "postalCode": "24210",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Manassas, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17033613192",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "9408 Grant Avenue, Suite 202"
+       ],
+       "city": "Manassas",
+       "region": "VA",
+       "postalCode": "20110",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Richmond, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18047712221",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "919 E. Main St., Suite 970"
+       ],
+       "city": "Richmond",
+       "region": "VA",
+       "postalCode": "23219",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Roanoke, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15406825693",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "611 S. Jefferson St., Suite 5B"
+       ],
+       "city": "Roanoke",
+       "region": "VA",
+       "postalCode": "24011",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Virginia Beach, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17575181674",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "222 Central Park Ave., Suite 120"
+       ],
+       "city": "Virginia Beach",
+       "region": "VA",
+       "postalCode": "23462",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fredericksburg, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15403697667",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "816 William Street, Suite B"
+       ],
+       "city": "Fredericksburg",
+       "region": "VA",
+       "postalCode": "22401",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.kaine.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.kaine.senate.gov/contact",
+    "website": "https://www.kaine.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "W000805": {
+   "seat": "Senator, VA",
+   "published": {
+    "name": {
+     "full": "Mark R. Warner",
+     "given": "Mark",
+     "family": "Warner",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "VA",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022242023",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "703 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Abingdon, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12766288158",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "180 W. Main St., Room 235"
+       ],
+       "city": "Abingdon",
+       "region": "VA",
+       "postalCode": "24210",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Norfolk, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17574413079",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "101 W. Main St., Suite 7771"
+       ],
+       "city": "Norfolk",
+       "region": "VA",
+       "postalCode": "23510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Richmond, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18047752314",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "919 E. Main St., Suite 630"
+       ],
+       "city": "Richmond",
+       "region": "VA",
+       "postalCode": "23219",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Roanoke, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15408572676",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "120 Luck Avenue, SW, Suite 108"
+       ],
+       "city": "Roanoke",
+       "region": "VA",
+       "postalCode": "24011",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Vienna, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17034420670",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "8150 Leesburg Pike, Suite 700"
+       ],
+       "city": "Vienna",
+       "region": "VA",
+       "postalCode": "22182",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.warner.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.warner.senate.gov/public/index.cfm?p=Contact",
+    "website": "https://www.warner.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "W000804": {
+   "seat": "Representative, VA-1",
+   "published": {
+    "name": {
+     "full": "Robert J. Wittman",
+     "given": "Robert",
+     "family": "Wittman",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "VA",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254261",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2055 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4601",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Glen Allen, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18044014120",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4201 Dominion Blvd, Suite 110"
+       ],
+       "city": "Glen Allen",
+       "region": "VA",
+       "postalCode": "23060",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Yorktown, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17575276270",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "307 Main Street"
+       ],
+       "city": "Yorktown",
+       "region": "VA",
+       "postalCode": "23690",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://wittman.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://wittman.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "K000399": {
+   "seat": "Representative, VA-2",
+   "published": {
+    "name": {
+     "full": "Jennifer A. Kiggans",
+     "given": "Jennifer",
+     "family": "Kiggans",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "VA",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254215",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "152 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4602",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Onley, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17576666020",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "25020 Shore Parkway, 1B"
+       ],
+       "city": "Onley",
+       "region": "VA",
+       "postalCode": "23418",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Suffolk, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17579426050",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "130 S. Saratoga Street"
+       ],
+       "city": "Suffolk",
+       "region": "VA",
+       "postalCode": "23434",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Virginia Beach, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17573647650",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "283 Constitution Drive, Suite 900"
+       ],
+       "city": "Virginia Beach",
+       "region": "VA",
+       "postalCode": "23462",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://kiggans.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://kiggans.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S000185": {
+   "seat": "Representative, VA-3",
+   "published": {
+    "name": {
+     "full": "Robert C. \"Bobby\" Scott",
+     "given": "Bobby",
+     "family": "Scott",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "VA",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022258351",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2328 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4603",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Newport News, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17573801000",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2600 Washington Ave., Suite 1010"
+       ],
+       "city": "Newport News",
+       "region": "VA",
+       "postalCode": "23607",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://bobbyscott.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://bobbyscott.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001227": {
+   "seat": "Representative, VA-4",
+   "published": {
+    "name": {
+     "full": "Jennifer L. McClellan",
+     "given": "Jennifer",
+     "family": "McClellan",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "VA",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256365",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1628 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4604",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Richmond, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18044861840",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "11 S. 12th Street, Suite 401"
+       ],
+       "city": "Richmond",
+       "region": "VA",
+       "postalCode": "23219",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lawrenceville, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18046905809",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "100 Athletic Field Road"
+       ],
+       "city": "Lawrenceville",
+       "region": "VA",
+       "postalCode": "23868",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mcclellan.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mcclellan.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001239": {
+   "seat": "Representative, VA-5",
+   "published": {
+    "name": {
+     "full": "John J. McGuire III",
+     "given": "John",
+     "family": "McGuire",
+     "suffix": "III"
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "VA",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254711",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1013 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4605",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lynchburg, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12022254711",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "900 Church St"
+       ],
+       "city": "Lynchburg",
+       "region": "VA",
+       "postalCode": "24505",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mcguire.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mcguire.house.gov"
+   },
+   "currentSupplement": null
+  }
+ }
+}

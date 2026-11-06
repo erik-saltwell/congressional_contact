@@ -1,0 +1,1032 @@
+{
+ "batch": "2026-11-05-full-19",
+ "reviewedAt": "2026-11-05",
+ "officials": {
+  "M001224": {
+   "name": "Nathaniel Moran",
+   "seat": "Representative, TX-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://moran.house.gov/",
+    "https://moran.house.gov/news/email/",
+    "https://moran.house.gov/contact/",
+    "https://moran.house.gov/forms/emailsignup/",
+    "https://moran.house.gov/contact/offices.htm",
+    "https://moran.house.gov/news/email/default.aspx"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://moran.house.gov/contact/",
+     "source": "https://moran.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "C001120": {
+   "name": "Dan Crenshaw",
+   "seat": "Representative, TX-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://crenshaw.house.gov/",
+    "https://crenshaw.house.gov/email-me",
+    "https://crenshaw.house.gov/email-me/",
+    "https://crenshaw.house.gov/office-locations/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://crenshaw.house.gov/email-me",
+     "source": "https://crenshaw.house.gov/email-me",
+     "evidence": "'Email Me' form with an issue list for comments on legislation; casework, flags, tours and meetings are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://crenshaw.house.gov/",
+     "evidence": "'OFFICE CLOSURE ALERT: The Woodlands district office is permanently closed as of April 30, 2026. Congressman Crenshaw's team remains available to serve you through our Kingwood and Washington, D.C. offices.'",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022256565",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "248 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-4302",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Kingwood, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17138601330",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1849 Kingwood Dr., #100"
+        ],
+        "city": "Kingwood",
+        "region": "TX",
+        "postalCode": "77339",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "S001224": {
+   "name": "Keith Self",
+   "seat": "Representative, TX-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://keithself.house.gov/",
+    "https://keithself.house.gov/address_authentication?form=/contact",
+    "https://keithself.house.gov/contact/offices",
+    "https://keithself.house.gov/contact/offices/washington-dc-office",
+    "https://keithself.house.gov/contact/offices/collin-county-office",
+    "https://keithself.house.gov/contact/offices/hunt-county-office",
+    "https://keithself.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://keithself.house.gov/contact",
+     "source": "https://keithself.house.gov/address_authentication?form=/contact",
+     "evidence": "Main contact form, behind an address check (address_authentication?form=/contact), with an issue list about legislation."
+    }
+   ]
+  },
+  "F000246": {
+   "name": "Pat Fallon",
+   "seat": "Representative, TX-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://fallon.house.gov/",
+    "https://fallon.house.gov/contact/",
+    "https://fallon.house.gov/forms/emailsignup/",
+    "https://fallon.house.gov/contact/offices.htm"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://fallon.house.gov/contact/",
+     "source": "https://fallon.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://fallon.house.gov/contact/",
+     "evidence": "Office list shows only 'Washington DC Office 2416 Rayburn HOB', 'Grayson County Office 100 West Houston Street Suite 14 Sherman', 'Bowie County Office 15 James Carlow Drive New Boston' and 'Rockwall County Office 6531 Horizon Road, Suite A Rockwall'; the Frisco office (6101 Frisco Square Blvd, (202) 913-4115) we publish is not listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022256673",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2416 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-4304",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Rockwall, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19727710100",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "6531 Horizon Rd., Suite A"
+        ],
+        "city": "Rockwall",
+        "region": "TX",
+        "postalCode": "75032",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Sherman, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19038205170",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "100 West Houston St., Suite 14"
+        ],
+        "city": "Sherman",
+        "region": "TX",
+        "postalCode": "75090",
+        "country": "US"
+       }
+      },
+      {
+       "label": "New Boston, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19037167500",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "15 James Carlow Dr."
+        ],
+        "city": "New Boston",
+        "region": "TX",
+        "postalCode": "75570",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "G000589": {
+   "name": "Lance Gooden",
+   "seat": "Representative, TX-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://gooden.house.gov/",
+    "https://gooden.house.gov/contact/",
+    "https://gooden.house.gov/email-me/",
+    "https://gooden.house.gov/offices/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://gooden.house.gov/email-me/",
+     "source": "https://gooden.house.gov/email-me/",
+     "evidence": "'Email Me' form with an issue list for comments; casework and flags are separate."
+    }
+   ]
+  },
+  "E000071": {
+   "name": "Jake Ellzey",
+   "seat": "Representative, TX-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://ellzey.house.gov/",
+    "https://ellzey.house.gov/contact/",
+    "https://ellzey.house.gov/office-locations/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://ellzey.house.gov/contact/",
+     "source": "https://ellzey.house.gov/contact/",
+     "evidence": "Contact form with an issue list to voice concerns on legislation; agency help is separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://ellzey.house.gov/office-locations/",
+     "evidence": "'Office Locations Washington, DC Office 1721 Longworth House Office Building ... Waxahachie Office 2001 Bates Drive, Ste. 100'; the Corsicana office (122 N. Beaton St, (903) 602-7860) we publish is not listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252002",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1721 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-4306",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Waxahachie, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14695507150",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2001 Bates Drive, Suite 100"
+        ],
+        "city": "Waxahachie",
+        "region": "TX",
+        "postalCode": "75167",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "F000468": {
+   "name": "Lizzie Fletcher",
+   "seat": "Representative, TX-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://fletcher.house.gov/",
+    "https://fletcher.house.gov/news/email/",
+    "https://fletcher.house.gov/contact/",
+    "https://fletcher.house.gov/forms/form/?ID=35",
+    "https://fletcher.house.gov/contact/offices.htm",
+    "https://fletcher.house.gov/news/email/default.aspx"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://fletcher.house.gov/contact/",
+     "source": "https://fletcher.house.gov/contact/",
+     "evidence": "Main contact form, behind a ZIP check ('zip code below to verify residency within my district'), with an issue list about legislation."
+    }
+   ]
+  },
+  "L000603": {
+   "name": "Morgan Luttrell",
+   "seat": "Representative, TX-8",
+   "status": "verified",
+   "pagesChecked": [
+    "https://luttrell.house.gov/",
+    "https://luttrell.house.gov/address_authentication?form=/contact",
+    "https://luttrell.house.gov/contact/offices",
+    "https://luttrell.house.gov/contact/offices/washington-dc-office",
+    "https://luttrell.house.gov/contact/offices/magnolia-district-office",
+    "https://luttrell.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://luttrell.house.gov/contact",
+     "source": "https://luttrell.house.gov/address_authentication?form=/contact",
+     "evidence": "Main contact form, behind an address check (address_authentication?form=/contact), with an issue list about legislation."
+    }
+   ]
+  },
+  "G000553": {
+   "name": "Al Green",
+   "seat": "Representative, TX-9",
+   "status": "verified",
+   "pagesChecked": [
+    "https://algreen.house.gov/",
+    "https://algreen.house.gov/address_authentication?form=/contact",
+    "https://algreen.house.gov/contact/offices",
+    "https://algreen.house.gov/contact/offices/washington-dc-office",
+    "https://algreen.house.gov/contact/offices/houston-district-office",
+    "https://algreen.house.gov/contact/offices/missouri-city-office",
+    "https://algreen.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://algreen.house.gov/contact",
+     "source": "https://algreen.house.gov/address_authentication?form=/contact",
+     "evidence": "The member's main contact form, behind an address check (address_authentication?form=/contact), so its topic list could not be read."
+    }
+   ]
+  },
+  "M001157": {
+   "name": "Michael T. McCaul",
+   "seat": "Representative, TX-10",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mccaul.house.gov/",
+    "https://mccaul.house.gov/contact",
+    "https://mccaul.house.gov/address_authentication?form=/contact/email-me",
+    "https://mccaul.house.gov/contact/offices",
+    "https://mccaul.house.gov/contact/offices/washington-dc-office",
+    "https://mccaul.house.gov/contact/offices/college-station-district-office",
+    "https://mccaul.house.gov/contact/offices"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mccaul.house.gov/contact/email-me",
+     "source": "https://mccaul.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "Email form, behind an address check (address_authentication?form=/contact/email-me), with an issue list about legislation."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://mccaul.house.gov/contact",
+     "evidence": "Office list shows only 'Washington DC Office 2300 Rayburn House Office Building ... (202) 225-2401' and 'College Station District Office 175 Century Square Drive Suite 210 ... (979) 431-6480'; the Austin office (11614 FM2244, Suite 160, (512) 770-8929) we publish is not listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252401",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2300 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-4310",
+        "country": "US"
+       }
+      },
+      {
+       "label": "College Station, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19794316480",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "175 Century Square Drive, Suite 210"
+        ],
+        "city": "College Station",
+        "region": "TX",
+        "postalCode": "77840",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "P000048": {
+   "name": "August Pfluger",
+   "seat": "Representative, TX-11",
+   "status": "verified",
+   "pagesChecked": [
+    "https://pfluger.house.gov/",
+    "https://pfluger.house.gov/contact/",
+    "https://pfluger.house.gov/forms/emailsignup/",
+    "https://pfluger.house.gov/contact/offices.htm",
+    "https://pfluger.house.gov/forms/writeyourrep/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://pfluger.house.gov/forms/writeyourrep/",
+     "source": "https://pfluger.house.gov/contact/",
+     "evidence": "Linked as 'Send Me an Email': 'Write Your Representative' form with an issue list for comments; the /contact page is behind a ZIP check; agency help, flags and tours are separate."
+    }
+   ]
+  },
+  "G000601": {
+   "name": "Craig A. Goldman",
+   "seat": "Representative, TX-12",
+   "status": "verified",
+   "pagesChecked": [
+    "https://craiggoldman.house.gov/",
+    "https://craiggoldman.house.gov/contact",
+    "https://craiggoldman.house.gov/contact",
+    "https://craiggoldman.house.gov/contact/office-locations",
+    "https://craiggoldman.house.gov/contact/offices/washington-dc-office",
+    "https://craiggoldman.house.gov/contact/offices/district-office-3",
+    "https://craiggoldman.house.gov/address_authentication?form=/contact/email-me"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://craiggoldman.house.gov/contact/email-me",
+     "source": "https://craiggoldman.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "Email form, behind an address check (address_authentication?form=/contact/email-me), about legislation."
+    }
+   ]
+  },
+  "J000304": {
+   "name": "Ronny Jackson",
+   "seat": "Representative, TX-13",
+   "status": "verified",
+   "pagesChecked": [
+    "https://jackson.house.gov/",
+    "https://jackson.house.gov/contact/",
+    "https://jackson.house.gov/forms/emailsignup/",
+    "https://jackson.house.gov/contact/offices/",
+    "https://jackson.house.gov/news/documentsingle.aspx"
+   ],
+   "notes": "Offices match; (806) 375-5152 on the page is a commented-out Amarillo fax, ignored.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://jackson.house.gov/contact/",
+     "source": "https://jackson.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "W000814": {
+   "name": "Randy K. Weber, Sr.",
+   "seat": "Representative, TX-14",
+   "status": "verified",
+   "pagesChecked": [
+    "https://weber.house.gov/",
+    "https://weber.house.gov/contact/",
+    "https://weber.house.gov/forms/emailsignup/",
+    "https://weber.house.gov/contact/officeinformation.htm",
+    "https://weber.house.gov/news/email/",
+    "https://weber.house.gov/news/documentquery.aspx"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://weber.house.gov/contact/",
+     "source": "https://weber.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "D000594": {
+   "name": "Monica De La Cruz",
+   "seat": "Representative, TX-15",
+   "status": "verified",
+   "pagesChecked": [
+    "https://delacruz.house.gov/",
+    "https://delacruz.house.gov/contact/",
+    "https://delacruz.house.gov/forms/emailsignup/",
+    "https://delacruz.house.gov/contact/offices.htm",
+    "https://delacruz.house.gov/forms/form/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://delacruz.house.gov/contact/",
+     "source": "https://delacruz.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "E000299": {
+   "name": "Veronica Escobar",
+   "seat": "Representative, TX-16",
+   "status": "verified",
+   "pagesChecked": [
+    "https://escobar.house.gov/",
+    "https://escobar.house.gov/news/email/",
+    "https://escobar.house.gov/contact/",
+    "https://escobar.house.gov/forms/emailsignup/",
+    "https://escobar.house.gov/contact/offices.htm",
+    "https://escobar.house.gov/news/documentsingle.aspx",
+    "https://escobar.house.gov/news/email/default.aspx"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://escobar.house.gov/contact/",
+     "source": "https://escobar.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "S000250": {
+   "name": "Pete Sessions",
+   "seat": "Representative, TX-17",
+   "status": "verified",
+   "pagesChecked": [
+    "https://sessions.house.gov/",
+    "https://sessions.house.gov/email-us",
+    "https://sessions.house.gov/contact/office-locations",
+    "https://sessions.house.gov/contact/offices/washington-dc-office",
+    "https://sessions.house.gov/contact/offices/waco-district-office",
+    "https://sessions.house.gov/contact/offices/huntsville-district-office",
+    "https://sessions.house.gov/contact/offices/lufkin-district-office",
+    "https://sessions.house.gov/contact/offices/round-rock-district-office",
+    "https://sessions.house.gov/address_authentication?form=/send-me-an-email"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://sessions.house.gov/send-me-an-email",
+     "source": "https://sessions.house.gov/address_authentication?form=/send-me-an-email",
+     "evidence": "Email form, behind an address check (address_authentication?form=/send-me-an-email), with an issue list about legislation."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://sessions.house.gov/",
+     "evidence": "Office list: Washington DC, Waco, Huntsville, Lufkin and 'Round Rock District Office 400 W Main St Suite 106 Round Rock, TX 78664 Phone: (202) 340-9033' (we publish 310 W Main Street); the Nacogdoches office (3034 Raguet St, (936) 585-7959) is not listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022256105",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2204 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-4317",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Lufkin, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19362196450",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "300 E Shepherd Ave, Suite 210"
+        ],
+        "city": "Lufkin",
+        "region": "TX",
+        "postalCode": "75902-3252",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Waco, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12546334500",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "400 Austin Avenue, Suite 302"
+        ],
+        "city": "Waco",
+        "region": "TX",
+        "postalCode": "76701-2139",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Huntsville, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19367557770",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "901 Normal Park Dr, Suite 208"
+        ],
+        "city": "Huntsville",
+        "region": "TX",
+        "postalCode": "77320-3770",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Round Rock, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12023409033",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "400 W Main St, Suite 106"
+        ],
+        "city": "Round Rock",
+        "region": "TX",
+        "postalCode": "78664",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "M001245": {
+   "name": "Christian D. Menefee",
+   "seat": "Representative, TX-18",
+   "status": "verified",
+   "pagesChecked": [
+    "https://menefee.house.gov/",
+    "https://menefee.house.gov/contact",
+    "https://menefee.house.gov/address_authentication?form=/contact/email-me",
+    "https://menefee.house.gov/contact/office-locations",
+    "https://menefee.house.gov/contact/join-my-team",
+    "https://menefee.house.gov/contact/offices/washington-dc-office",
+    "https://menefee.house.gov/contact/offices/main-district-office",
+    "https://menefee.house.gov/contact/offices/fifth-ward-district-office"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://menefee.house.gov/contact/email-me",
+     "source": "https://menefee.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "Email form, behind an address check (address_authentication?form=/contact/email-me), with an issue list about legislation."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://menefee.house.gov/contact",
+     "evidence": "'Main District Office 1919 Smith Street Suite 1180 Houston, TX 77002 Phone: (713) 655-0050 Fifth Ward District Office 2020 Solo Street Houston, TX 77020 Phone: (713) 227-7740'; the 15651 North Freeway office ((281) 891-4899) we publish is not listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253816",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1318 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-4318",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Houston, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17136550050",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1919 Smith Street, Suite 1180"
+        ],
+        "city": "Houston",
+        "region": "TX",
+        "postalCode": "77002",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Houston, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17132277740",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2020 Solo Street"
+        ],
+        "city": "Houston",
+        "region": "TX",
+        "postalCode": "77020",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "A000375": {
+   "name": "Jodey C. Arrington",
+   "seat": "Representative, TX-19",
+   "status": "verified",
+   "pagesChecked": [
+    "https://arrington.house.gov/",
+    "https://arrington.house.gov/contact/",
+    "https://arrington.house.gov/contact/subscribe.htm",
+    "https://arrington.house.gov/contact/offices.htm",
+    "https://arrington.house.gov/news/documentsingle.aspx"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://arrington.house.gov/contact/",
+     "source": "https://arrington.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://arrington.house.gov/contact/",
+     "evidence": "'Washington, DC Office 1111 Longworth House Office Building Washington, DC 20515 Phone: (202) 225-4005 District-wide Toll Free: (888) 217-0281'; we publish no toll-free line.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254005",
+         "type": "voice"
+        },
+        {
+         "number": "+18882170281",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1111 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-4319",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Abilene, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13256759779",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "500 Chestnut St., Suite 819"
+        ],
+        "city": "Abilene",
+        "region": "TX",
+        "postalCode": "79602",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Lubbock, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18067631611",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1312 Texas Ave., Suite 219"
+        ],
+        "city": "Lubbock",
+        "region": "TX",
+        "postalCode": "79401",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "C001091": {
+   "name": "Joaquin Castro",
+   "seat": "Representative, TX-20",
+   "status": "verified",
+   "pagesChecked": [
+    "https://castro.house.gov/",
+    "https://castro.house.gov/contact",
+    "https://castro.house.gov/contact/offices"
+   ],
+   "notes": "Offices match (https://castro.house.gov/contact/offices lists San Antonio and Washington D.C.).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://castro.house.gov/contact",
+     "source": "https://castro.house.gov/contact",
+     "evidence": "'Email Me' page, 'Share your opinion on legislation': form drawn by script with an issue list (Agriculture, Budget and Economy, Education, Immigration, ...) and 'No, I wanted to voice my opinion'."
+    }
+   ]
+  },
+  "R000614": {
+   "name": "Chip Roy",
+   "seat": "Representative, TX-21",
+   "status": "verified",
+   "pagesChecked": [
+    "https://roy.house.gov/",
+    "https://roy.house.gov/contact",
+    "https://roy.house.gov/address_authentication?form=/contact/email-me",
+    "https://roy.house.gov/contact/offices",
+    "https://roy.house.gov/address_authentication?form=/contact/tele-town-hall",
+    "https://roy.house.gov/contact/offices/washington-dc-office",
+    "https://roy.house.gov/contact/offices/kerrville-district-office",
+    "https://roy.house.gov/contact/offices/san-antonio-district-office",
+    "https://roy.house.gov/contact/offices/austin-district-office",
+    "https://roy.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://roy.house.gov/contact/email-me",
+     "source": "https://roy.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "Email form, behind an address check (address_authentication?form=/contact/email-me), with an issue list about legislation."
+    }
+   ]
+  },
+  "N000026": {
+   "name": "Troy E. Nehls",
+   "seat": "Representative, TX-22",
+   "status": "verified",
+   "pagesChecked": [
+    "https://nehls.house.gov/",
+    "https://nehls.house.gov/address_authentication?form=/contact",
+    "https://nehls.house.gov/contact/offices",
+    "https://nehls.house.gov/contact/offices/washington-dc-office",
+    "https://nehls.house.gov/contact/offices/fulshear-district-office",
+    "https://nehls.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://nehls.house.gov/contact",
+     "source": "https://nehls.house.gov/address_authentication?form=/contact",
+     "evidence": "Main contact form, behind an address check (address_authentication?form=/contact), with an issue list about legislation."
+    }
+   ]
+  },
+  "V000134": {
+   "name": "Beth Van Duyne",
+   "seat": "Representative, TX-24",
+   "status": "verified",
+   "pagesChecked": [
+    "https://vanduyne.house.gov/",
+    "https://vanduyne.house.gov/contact/",
+    "https://vanduyne.house.gov/e-mail-me/",
+    "https://vanduyne.house.gov/office-locations/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://vanduyne.house.gov/e-mail-me/",
+     "source": "https://vanduyne.house.gov/e-mail-me/",
+     "evidence": "'E-mail Me' form with an issue list for comments on legislation; agency help is separate."
+    }
+   ]
+  },
+  "W000816": {
+   "name": "Roger Williams",
+   "seat": "Representative, TX-25",
+   "status": "verified",
+   "pagesChecked": [
+    "https://williams.house.gov/",
+    "https://williams.house.gov/address_authentication?form=/contact",
+    "https://williams.house.gov/address_authentication?form=/contact/email-me",
+    "https://williams.house.gov/contact/offices",
+    "https://williams.house.gov/address_authentication?form=/contact/meet-with-the-congressman",
+    "https://williams.house.gov/contact/offices/washington-dc-office",
+    "https://williams.house.gov/contact/offices/arlington-district",
+    "https://williams.house.gov/contact/offices/cleburne-district",
+    "https://williams.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://williams.house.gov/contact/email-me",
+     "source": "https://williams.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "Email form, behind an address check (address_authentication?form=/contact/email-me), with an issue list about legislation."
+    }
+   ]
+  },
+  "G000603": {
+   "name": "Brandon Gill",
+   "seat": "Representative, TX-26",
+   "status": "verified",
+   "pagesChecked": [
+    "https://gill.house.gov/",
+    "https://gill.house.gov/address_authentication?form=/contact/email-me",
+    "https://gill.house.gov/contact",
+    "https://gill.house.gov/contact/office-locations",
+    "https://gill.house.gov/contact/offices/washington-dc-office",
+    "https://gill.house.gov/contact/offices/denton-county-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://gill.house.gov/contact/email-me",
+     "source": "https://gill.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "Email form, behind an address check (address_authentication?form=/contact/email-me), with an issue list about legislation."
+    }
+   ]
+  }
+ }
+}

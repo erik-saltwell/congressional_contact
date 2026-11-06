@@ -14,6 +14,14 @@ Background: [project context](../.agent_context.md), [phone import findings](../
 >
 > "Start over" still resets the app. See the [implementation plan](../.work-items/implementation-plan/plan.md).
 
+> **Owner decision (2026-11-06): opened cards are marked.** This overrides "The page does not mark cards as saved" below.
+> - After a Save button is tapped, it changes to an outlined style until the next search or Start over.
+> - The mark records the tap only. It never claims the contact was saved, and the button keeps its "Save contact" text.
+>
+> See [existing-site-design.md](existing-site-design.md).
+
+> **Owner decision (2026-11-06): no "Start over".** Visitors search again by editing the ZIP field, and a new search replaces the previous results. This overrides the "Start over" passages below. Phase 6 needs a different way to get the starting-page link for sharing, such as a "Copy link" that always copies the starting page.
+
 ## Users and activities
 
 | User | Supported activities and priorities |

@@ -1,0 +1,2583 @@
+{
+ "batch": "2026-11-05-full-21",
+ "createdAt": "2026-11-05",
+ "dataGeneratedAt": "2026-11-05T19:36:17Z",
+ "officials": {
+  "C001118": {
+   "seat": "Representative, VA-6",
+   "published": {
+    "name": {
+     "full": "Ben Cline",
+     "given": "Ben",
+     "family": "Cline",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "VA",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255431",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2443 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4606",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Harrisonburg, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15404322391",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "70 N Mason St, Suite 110"
+       ],
+       "city": "Harrisonburg",
+       "region": "VA",
+       "postalCode": "22802-4126",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Roanoke, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15408572672",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "10 Franklin Rd SE, Suite 510"
+       ],
+       "city": "Roanoke",
+       "region": "VA",
+       "postalCode": "24011-2133",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Staunton, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15408853861",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "117 S Lewis St, Suite 215"
+       ],
+       "city": "Staunton",
+       "region": "VA",
+       "postalCode": "24401-4282",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Winchester, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15405460876",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "100 N. Loudoun St., Suite 120"
+       ],
+       "city": "Winchester",
+       "region": "VA",
+       "postalCode": "22601",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://cline.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://cline.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "V000138": {
+   "seat": "Representative, VA-7",
+   "published": {
+    "name": {
+     "full": "Eugene Simon Vindman",
+     "given": "Eugene",
+     "family": "Vindman",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "VA",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252815",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1005 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4607",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Woodbridge, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17039872180",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2241D Tacketts Mill Dr."
+       ],
+       "city": "Woodbridge",
+       "region": "VA",
+       "postalCode": "22192",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://vindman.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://vindman.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001292": {
+   "seat": "Representative, VA-8",
+   "published": {
+    "name": {
+     "full": "Donald S. Beyer, Jr.",
+     "given": "Donald",
+     "family": "Beyer",
+     "suffix": "Jr."
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "VA",
+    "district": 8,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254376",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1226 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4608",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Alexandria, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17036585403",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "700 N Fairfax St., Suite 510"
+       ],
+       "city": "Alexandria",
+       "region": "VA",
+       "postalCode": "22314",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://beyer.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://beyer.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000568": {
+   "seat": "Representative, VA-9",
+   "published": {
+    "name": {
+     "full": "H. Morgan Griffith",
+     "given": "H.",
+     "family": "Griffith",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "VA",
+    "district": 9,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253861",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2110 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4609",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Abingdon, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12765251405",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "323 W. Main St."
+       ],
+       "city": "Abingdon",
+       "region": "VA",
+       "postalCode": "24210",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Christiansburg, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15403815671",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "17 W. Main St."
+       ],
+       "city": "Christiansburg",
+       "region": "VA",
+       "postalCode": "24073",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://morgangriffith.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://morgangriffith.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001230": {
+   "seat": "Representative, VA-10",
+   "published": {
+    "name": {
+     "full": "Suhas Subramanyam",
+     "given": "Suhas",
+     "family": "Subramanyam",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "VA",
+    "district": 10,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255136",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1009 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4610",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Leesburg, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17032361300",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "210 Wirt Street SW, Unit 102"
+       ],
+       "city": "Leesburg",
+       "region": "VA",
+       "postalCode": "20175",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://subramanyam.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://subramanyam.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "W000831": {
+   "seat": "Representative, VA-11",
+   "published": {
+    "name": {
+     "full": "James R. Walkinshaw",
+     "given": "James",
+     "family": "Walkinshaw",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "VA",
+    "district": 11,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022251492",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2265 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4611",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fairfax, VA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17032563071",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "10680 Main Street District, Suite 140"
+       ],
+       "city": "Fairfax",
+       "region": "VA",
+       "postalCode": "22030",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://walkinshaw.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://walkinshaw.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "P000610": {
+   "seat": "Delegate, VI-0",
+   "published": {
+    "name": {
+     "full": "Stacey E. Plaskett",
+     "given": "Stacey",
+     "family": "Plaskett",
+     "suffix": null
+    },
+    "role": "delegate",
+    "party": "Democrat",
+    "state": "VI",
+    "district": 0,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022251790",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2059 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-5500",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Frederiksted, VI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13407785900",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "60 King St."
+       ],
+       "city": "Frederiksted",
+       "region": "VI",
+       "postalCode": "00840",
+       "country": "US"
+      }
+     },
+     {
+      "label": "St. Thomas, VI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13407744408",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Port of Sale Mall",
+        "9100 Havensight, Suite 22"
+       ],
+       "city": "St. Thomas",
+       "region": "VI",
+       "postalCode": "00802",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://plaskett.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://plaskett.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S000033": {
+   "seat": "Senator, VT",
+   "published": {
+    "name": {
+     "full": "Bernard Sanders",
+     "given": "Bernie",
+     "family": "Sanders",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Independent",
+    "state": "VT",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022245141",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "332 Dirksen Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Burlington, VT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18028620697",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1 Church St., 3rd Floor"
+       ],
+       "city": "Burlington",
+       "region": "VT",
+       "postalCode": "05401",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.sanders.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.sanders.senate.gov/contact/",
+    "website": "https://www.sanders.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "W000800": {
+   "seat": "Senator, VT",
+   "published": {
+    "name": {
+     "full": "Peter Welch",
+     "given": "Peter",
+     "family": "Welch",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "VT",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022244242",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "115 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Burlington, VT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18028632525",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "199 Main St., 4th Floor"
+       ],
+       "city": "Burlington",
+       "region": "VT",
+       "postalCode": "05401",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.welch.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.welch.senate.gov/email-peter/",
+    "website": "https://www.welch.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001318": {
+   "seat": "Representative, VT-0",
+   "published": {
+    "name": {
+     "full": "Becca Balint",
+     "given": "Becca",
+     "family": "Balint",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "VT",
+    "district": 0,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254115",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1510 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4500",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Brattleboro, VT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18026522450",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Holton Hall",
+        "130 Austine Drive, 2nd Floor"
+       ],
+       "city": "Brattleboro",
+       "region": "VT",
+       "postalCode": "05301",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Burlington, VT office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18026522450",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "159 Bank Street, Suite 204"
+       ],
+       "city": "Burlington",
+       "region": "VT",
+       "postalCode": "05401",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://balint.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://balint.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C000127": {
+   "seat": "Senator, WA",
+   "published": {
+    "name": {
+     "full": "Maria Cantwell",
+     "given": "Maria",
+     "family": "Cantwell",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "WA",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022243441",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "511 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Everett, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14253030114",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2930 Wetmore Ave., Suite 9B"
+       ],
+       "city": "Everett",
+       "region": "WA",
+       "postalCode": "98201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Richland, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15099468106",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "825 Jadwin Ave., Suite 206"
+       ],
+       "city": "Richland",
+       "region": "WA",
+       "postalCode": "99352",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Seattle, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12062206400",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "915 Second Ave., Suite 3206"
+       ],
+       "city": "Seattle",
+       "region": "WA",
+       "postalCode": "98174",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Spokane, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15093532507",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "920 W. Riverside Ave., Suite 697"
+       ],
+       "city": "Spokane",
+       "region": "WA",
+       "postalCode": "99201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tacoma, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12535722281",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "950 Pacific Ave., Suite 615"
+       ],
+       "city": "Tacoma",
+       "region": "WA",
+       "postalCode": "98402",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Vancouver, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13606967838",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1313 Officers Row"
+       ],
+       "city": "Vancouver",
+       "region": "WA",
+       "postalCode": "98661",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.cantwell.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.cantwell.senate.gov/public/index.cfm/email-maria",
+    "website": "https://www.cantwell.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001111": {
+   "seat": "Senator, WA",
+   "published": {
+    "name": {
+     "full": "Patty Murray",
+     "given": "Patty",
+     "family": "Murray",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "WA",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022242621",
+        "type": "voice"
+       },
+       {
+        "number": "+18664819186",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "154 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Everett, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14252596515",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2930 Wetmore Avenue, Ste. 9D"
+       ],
+       "city": "Everett",
+       "region": "WA",
+       "postalCode": "98201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Seattle, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12065535545",
+        "type": "voice"
+       },
+       {
+        "number": "+18664819186",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2988 Jackson Federal Building",
+        "915 2nd Avenue"
+       ],
+       "city": "Seattle",
+       "region": "WA",
+       "postalCode": "98174",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Spokane, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15096249515",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "920 W. Riverside Ave, Suite 485"
+       ],
+       "city": "Spokane",
+       "region": "WA",
+       "postalCode": "99201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tacoma, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12535723636",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1301 A Street, Suite 213"
+       ],
+       "city": "Tacoma",
+       "region": "WA",
+       "postalCode": "98402",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Vancouver, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13606967797",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "The Marshall House",
+        "1323 Officer's Row"
+       ],
+       "city": "Vancouver",
+       "region": "WA",
+       "postalCode": "98661",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Richland, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15094537462",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "825 Jadwin Avenue, Suite 160K"
+       ],
+       "city": "Richland",
+       "region": "WA",
+       "postalCode": "99352",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Olympia, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13602052878",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "711 Capitol Way South, Suite 502"
+       ],
+       "city": "Olympia",
+       "region": "WA",
+       "postalCode": "98501",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.murray.senate.gov"
+     },
+     {
+      "purpose": "policy-feedback",
+      "url": "https://www.murray.senate.gov/write-to-patty/"
+     }
+    ],
+    "verifiedAt": "2026-11-05"
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.murray.senate.gov/write-to-patty/",
+    "website": "https://www.murray.senate.gov"
+   },
+   "currentSupplement": {
+    "links": [
+     {
+      "purpose": "policy-feedback",
+      "url": "https://www.murray.senate.gov/write-to-patty/",
+      "source": "https://www.murray.senate.gov/write-to-patty/",
+      "verifiedAt": "2026-11-05"
+     }
+    ],
+    "emails": [],
+    "offices": {
+     "list": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022242621",
+         "type": "voice"
+        },
+        {
+         "number": "+18664819186",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "154 Russell Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Everett, WA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14252596515",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2930 Wetmore Avenue, Ste. 9D"
+        ],
+        "city": "Everett",
+        "region": "WA",
+        "postalCode": "98201",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Seattle, WA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12065535545",
+         "type": "voice"
+        },
+        {
+         "number": "+18664819186",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2988 Jackson Federal Building",
+         "915 2nd Avenue"
+        ],
+        "city": "Seattle",
+        "region": "WA",
+        "postalCode": "98174",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Spokane, WA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15096249515",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "920 W. Riverside Ave, Suite 485"
+        ],
+        "city": "Spokane",
+        "region": "WA",
+        "postalCode": "99201",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Tacoma, WA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12535723636",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1301 A Street, Suite 213"
+        ],
+        "city": "Tacoma",
+        "region": "WA",
+        "postalCode": "98402",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Vancouver, WA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13606967797",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "The Marshall House",
+         "1323 Officer's Row"
+        ],
+        "city": "Vancouver",
+        "region": "WA",
+        "postalCode": "98661",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Richland, WA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15094537462",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "825 Jadwin Avenue, Suite 160K"
+        ],
+        "city": "Richland",
+        "region": "WA",
+        "postalCode": "99352",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Olympia, WA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13602052878",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "711 Capitol Way South, Suite 502"
+        ],
+        "city": "Olympia",
+        "region": "WA",
+        "postalCode": "98501",
+        "country": "US"
+       }
+      }
+     ],
+     "upstreamHash": "f38324c721aa7783b20114de7eaf0714c05d43a2da0baaeb5a793ba48d9f8f02",
+     "source": "https://www.murray.senate.gov/office-locations/",
+     "verifiedAt": "2026-11-05"
+    },
+    "verifiedAt": "2026-11-05"
+   }
+  },
+  "D000617": {
+   "seat": "Representative, WA-1",
+   "published": {
+    "name": {
+     "full": "Suzan K. DelBene",
+     "given": "Suzan",
+     "family": "DelBene",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "WA",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256311",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2311 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bellevue, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14254850085",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "520 112th Ave NE, Suite 400-C"
+       ],
+       "city": "Bellevue",
+       "region": "WA",
+       "postalCode": "98004",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://delbene.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://delbene.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000560": {
+   "seat": "Representative, WA-2",
+   "published": {
+    "name": {
+     "full": "Rick Larsen",
+     "given": "Rick",
+     "family": "Larsen",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "WA",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252605",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2163 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4702",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bellingham, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13607334500",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "119 N. Commercial St., Suite 275"
+       ],
+       "city": "Bellingham",
+       "region": "WA",
+       "postalCode": "98225",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Everett, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14252523188",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Wall Street Building",
+        "2930 Wetmore Ave., Suite 9F"
+       ],
+       "city": "Everett",
+       "region": "WA",
+       "postalCode": "98201",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://larsen.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://larsen.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000600": {
+   "seat": "Representative, WA-3",
+   "published": {
+    "name": {
+     "full": "Marie Gluesenkamp Perez",
+     "given": "Marie",
+     "family": "Gluesenkamp Perez",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "WA",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253536",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1431 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4703",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Kelso, WA office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "308 S. Pacific Ave., Suite B"
+       ],
+       "city": "Kelso",
+       "region": "WA",
+       "postalCode": "98626",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Vancouver, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13606956292",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1053 Officers Row"
+       ],
+       "city": "Vancouver",
+       "region": "WA",
+       "postalCode": "98661",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://gluesenkampperez.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://gluesenkampperez.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "N000189": {
+   "seat": "Representative, WA-4",
+   "published": {
+    "name": {
+     "full": "Dan Newhouse",
+     "given": "Dan",
+     "family": "Newhouse",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "WA",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255816",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "460 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4704",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Richland, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15097137374",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3100 George Washington Way, #130"
+       ],
+       "city": "Richland",
+       "region": "WA",
+       "postalCode": "99354",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Yakima, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15094523243",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "402 E Yakima Ave, Suite 1000"
+       ],
+       "city": "Yakima",
+       "region": "WA",
+       "postalCode": "98901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Grand Coulee, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15094337760",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "PO Box 135"
+       ],
+       "city": "Grand Coulee",
+       "region": "WA",
+       "postalCode": "99133",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://newhouse.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://newhouse.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001322": {
+   "seat": "Representative, WA-5",
+   "published": {
+    "name": {
+     "full": "Michael Baumgartner",
+     "given": "Michael",
+     "family": "Baumgartner",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "WA",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252006",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "124 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4705",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Spokane, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15093532374",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "528 E. Spokane Falls Blvd, Suite 115"
+       ],
+       "city": "Spokane",
+       "region": "WA",
+       "postalCode": "99202",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://baumgartner.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://baumgartner.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "R000621": {
+   "seat": "Representative, WA-6",
+   "published": {
+    "name": {
+     "full": "Emily Randall",
+     "given": "Emily",
+     "family": "Randall",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "WA",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255916",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1531 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4706",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bremerton, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13603739725",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "345 6th St., Suite 500"
+       ],
+       "city": "Bremerton",
+       "region": "WA",
+       "postalCode": "98337",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://randall.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://randall.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "J000298": {
+   "seat": "Representative, WA-7",
+   "published": {
+    "name": {
+     "full": "Pramila Jayapal",
+     "given": "Pramila",
+     "family": "Jayapal",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "WA",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253106",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2346 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4707",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Seattle, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12066740040",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2033 6th Ave., Suite 1011"
+       ],
+       "city": "Seattle",
+       "region": "WA",
+       "postalCode": "98121",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://jayapal.house.gov"
+     },
+     {
+      "purpose": "policy-feedback",
+      "url": "https://jayapal.house.gov/contact/"
+     }
+    ],
+    "verifiedAt": "2026-11-05"
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://jayapal.house.gov"
+   },
+   "currentSupplement": {
+    "links": [
+     {
+      "purpose": "policy-feedback",
+      "url": "https://jayapal.house.gov/contact/",
+      "source": "https://jayapal.house.gov/contact/",
+      "verifiedAt": "2026-11-05"
+     }
+    ],
+    "emails": [],
+    "verifiedAt": "2026-11-05"
+   }
+  },
+  "S001216": {
+   "seat": "Representative, WA-8",
+   "published": {
+    "name": {
+     "full": "Kim Schrier",
+     "given": "Kim",
+     "family": "Schrier",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "WA",
+    "district": 8,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022257761",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1110 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4708",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Issaquah, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14256571001",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "22500 SE 64th Pl, Suite 226"
+       ],
+       "city": "Issaquah",
+       "region": "WA",
+       "postalCode": "98027-7900",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Wenatchee, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15098505340",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "301 Yakima Street, Suite 329"
+       ],
+       "city": "Wenatchee",
+       "region": "WA",
+       "postalCode": "98801",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://schrier.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://schrier.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S000510": {
+   "seat": "Representative, WA-9",
+   "published": {
+    "name": {
+     "full": "Adam Smith",
+     "given": "Adam",
+     "family": "Smith",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "WA",
+    "district": 9,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022258901",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2264 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4709",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Kent, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14257935180",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "6811 S. 204th Street, Suite 360"
+       ],
+       "city": "Kent",
+       "region": "WA",
+       "postalCode": "98032",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://adamsmith.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://adamsmith.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001159": {
+   "seat": "Representative, WA-10",
+   "published": {
+    "name": {
+     "full": "Marilyn Strickland",
+     "given": "Marilyn",
+     "family": "Strickland",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "WA",
+    "district": 10,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022259740",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1724 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4710",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lakewood, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13604598514",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "6000 Main Street SW, Suite 3B"
+       ],
+       "city": "Lakewood",
+       "region": "WA",
+       "postalCode": "98499",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lacey, WA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13604598514",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "420 College St SE, Suite 3000"
+       ],
+       "city": "Lacey",
+       "region": "WA",
+       "postalCode": "98503",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://strickland.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://strickland.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001230": {
+   "seat": "Senator, WI",
+   "published": {
+    "name": {
+     "full": "Tammy Baldwin",
+     "given": "Tammy",
+     "family": "Baldwin",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "WI",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022245653",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "141 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Eau Claire, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17158328424",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "500 South Barstow St., Suite LL2"
+       ],
+       "city": "Eau Claire",
+       "region": "WI",
+       "postalCode": "54701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Madison, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16082645338",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "30 W. Mifflin St., Suite 700"
+       ],
+       "city": "Madison",
+       "region": "WI",
+       "postalCode": "53703",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Milwaukee, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14142974451",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "633 West Wisconsin Ave, Suite 1300"
+       ],
+       "city": "Milwaukee",
+       "region": "WI",
+       "postalCode": "53203",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Green Bay, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19204982668",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2325 Verlin Road, Suite 201"
+       ],
+       "city": "Green Bay",
+       "region": "WI",
+       "postalCode": "54311",
+       "country": "US"
+      }
+     },
+     {
+      "label": "La Crosse, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16087960045",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "210 7th Street South, Suite 203"
+       ],
+       "city": "La Crosse",
+       "region": "WI",
+       "postalCode": "54601",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Ladysmith, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17158328424",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "P.O. Box 401"
+       ],
+       "city": "Ladysmith",
+       "region": "WI",
+       "postalCode": "54848",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.baldwin.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.baldwin.senate.gov/feedback",
+    "website": "https://www.baldwin.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "J000293": {
+   "seat": "Senator, WI",
+   "published": {
+    "name": {
+     "full": "Ron Johnson",
+     "given": "Ron",
+     "family": "Johnson",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "WI",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022245323",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "328 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Milwaukee, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14142767282",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "517 E. Wisconsin Ave., Suite 408"
+       ],
+       "city": "Milwaukee",
+       "region": "WI",
+       "postalCode": "53202",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Oshkosh, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19202307250",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "219 Washington Ave., Suite 100"
+       ],
+       "city": "Oshkosh",
+       "region": "WI",
+       "postalCode": "54901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Madison, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16082409629",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "5315 Wall St., Suite 110"
+       ],
+       "city": "Madison",
+       "region": "WI",
+       "postalCode": "53718",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.ronjohnson.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.ronjohnson.senate.gov/public/index.cfm/email-the-senator",
+    "website": "https://www.ronjohnson.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001213": {
+   "seat": "Representative, WI-1",
+   "published": {
+    "name": {
+     "full": "Bryan Steil",
+     "given": "Bryan",
+     "family": "Steil",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "WI",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253031",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1526 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-4901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Janesville, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16087524050",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "20 S Main St, Suite 10"
+       ],
+       "city": "Janesville",
+       "region": "WI",
+       "postalCode": "53545-3959",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Racine, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12626370510",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Racine County Courthouse",
+        "730 Wisconsin Ave, Suite 101"
+       ],
+       "city": "Racine",
+       "region": "WI",
+       "postalCode": "53403-1238",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bristol, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12626541901",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "19600 75th Street, Room 177"
+       ],
+       "city": "Bristol",
+       "region": "WI",
+       "postalCode": "53104",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Elkhorn, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12626541901",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Matheson Memorial Library, Mary Bray Room",
+        "101 N. Wisconsin Street"
+       ],
+       "city": "Elkhorn",
+       "region": "WI",
+       "postalCode": "53121",
+       "country": "US"
+      }
+     },
+     {
+      "label": "St Francis, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14142852120",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "St Francis Civic Center",
+        "3400 E Howard Avenue"
+       ],
+       "city": "St Francis",
+       "region": "WI",
+       "postalCode": "53235",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Beloit, WI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16087524050",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Beloit City Hall Conference Room",
+        "100 State St"
+       ],
+       "city": "Beloit",
+       "region": "WI",
+       "postalCode": "53511",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://steil.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://steil.house.gov"
+   },
+   "currentSupplement": null
+  }
+ }
+}

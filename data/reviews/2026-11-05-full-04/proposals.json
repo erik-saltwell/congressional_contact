@@ -1,0 +1,1001 @@
+{
+ "batch": "2026-11-05-full-04",
+ "reviewedAt": "2026-11-05",
+ "officials": {
+  "B001300": {
+   "name": "Nanette Diaz Barragán",
+   "seat": "Representative, CA-44",
+   "status": "verified",
+   "pagesChecked": [
+    "https://barragan.house.gov/",
+    "https://barragan.house.gov/contact-me/",
+    "https://barragan.house.gov/offices-call/"
+   ],
+   "notes": "Offices match: the offices page lists DC plus Long Beach, South Gate, Carson and San Pedro ('Opening Soon'), all at (310) 831-1799.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://barragan.house.gov/contact-me/",
+     "source": "https://barragan.house.gov/contact-me/",
+     "evidence": "Contact page 'Email Me' form with an issue and topic list for opinions on issues; federal agency help, flags and newsletter are separate."
+    }
+   ]
+  },
+  "T000491": {
+   "name": "Derek Tran",
+   "seat": "Representative, CA-45",
+   "status": "verified",
+   "pagesChecked": [
+    "https://tran.house.gov/",
+    "https://tran.house.gov/contact",
+    "https://tran.house.gov/address_authentication?form=/contact/email-me",
+    "https://tran.house.gov/contact/office-locations",
+    "https://tran.house.gov/mobile-office-hours",
+    "https://tran.house.gov/contact/offices/washington-dc-office"
+   ],
+   "notes": "Offices match. A scheduling mailbox is printed; not a constituent mailbox, not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://tran.house.gov/contact/email-me",
+     "source": "https://tran.house.gov/contact/email-me",
+     "evidence": "The member's main Email Me form, behind an address check (address_authentication?form=/contact/email-me), with an issue list about legislation; casework is separate."
+    }
+   ]
+  },
+  "C001110": {
+   "name": "J. Luis Correa",
+   "seat": "Representative, CA-46",
+   "status": "verified",
+   "pagesChecked": [
+    "https://correa.house.gov/",
+    "https://correa.house.gov/contact",
+    "https://correa.house.gov/contact/email-lou"
+   ],
+   "notes": "Offices match. Form read in a browser.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://correa.house.gov/contact/email-lou",
+     "source": "https://correa.house.gov/contact",
+     "evidence": "'Email Lou' form drawn by script behind a ZIP code check ('Please enter your zip code to verify residency'), with a topic list (Agriculture, Animals, Arts and Humanities, Banking and Finance...)."
+    }
+   ]
+  },
+  "M001241": {
+   "name": "Dave Min",
+   "seat": "Representative, CA-47",
+   "status": "verified",
+   "pagesChecked": [
+    "https://min.house.gov/",
+    "https://min.house.gov/contact",
+    "https://min.house.gov/contact/email-me",
+    "https://min.house.gov/contact/office-locations",
+    "https://min.house.gov/contact/join-my-team",
+    "https://min.house.gov/contact/offices/washington-dc-office",
+    "https://min.house.gov/contact/offices/costa-mesa-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://min.house.gov/contact/email-me",
+     "source": "https://min.house.gov/contact/email-me",
+     "evidence": "Email Me form with an issue list about legislation; federal agency help and newsletter are separate."
+    }
+   ]
+  },
+  "I000056": {
+   "name": "Darrell Issa",
+   "seat": "Representative, CA-48",
+   "status": "verified",
+   "pagesChecked": [
+    "https://issa.house.gov/",
+    "https://issa.house.gov/contact",
+    "https://issa.house.gov/contact/offices/washington-dc-office",
+    "https://issa.house.gov/contact/offices/escondido-district-office",
+    "https://issa.house.gov/contact/offices/temecula-district-office",
+    "https://issa.house.gov/contact/offices"
+   ],
+   "notes": "The (202) 740-0282 number is for press inquiries, not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://issa.house.gov/contact",
+     "source": "https://issa.house.gov/contact",
+     "evidence": "Contact Me form with an issue list about legislation; casework and newsletter are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://issa.house.gov/contact/offices",
+     "evidence": "Office list shows only 'Washington DC Office 2108 Rayburn', 'Escondido District Office 221 W. Crest St #110' and 'Temecula District Office 41000 Main St'; the Santee office (Bldg 6, 10601 Magnolia Ave) we publish is no longer listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255672",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2108 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0548",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Escondido, CA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17603047575",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "221 W. Crest St, #110"
+        ],
+        "city": "Escondido",
+        "region": "CA",
+        "postalCode": "92025",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Temecula, CA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17603047575",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "41000 Main St."
+        ],
+        "city": "Temecula",
+        "region": "CA",
+        "postalCode": "92590",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "L000593": {
+   "name": "Mike Levin",
+   "seat": "Representative, CA-49",
+   "status": "verified",
+   "pagesChecked": [
+    "https://levin.house.gov/",
+    "https://levin.house.gov/contact/offices",
+    "https://levin.house.gov/contact/email-me"
+   ],
+   "notes": "Form read in a browser. The 'I Want To Hear From You' page is about health care concerns only, so the general Email Me form is proposed.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://levin.house.gov/contact/email-me",
+     "source": "https://levin.house.gov/contact/email-me",
+     "evidence": "Email Me form drawn by script behind a ZIP code check ('Please enter your zip code below to verify residency'), with an issue list (Agriculture, Animals, Arts and Humanities...); federal agency help is separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://levin.house.gov/contact/offices",
+     "evidence": "'Office Locations Carlsbad 2385 Camino Vida Roble, Suite 211 Carlsbad, CA 92011 Phone: (760) 599-5000'; we publish an Oceanside office at 2204 El Camino Real, Suite 314 with the same phone, which is no longer listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253906",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2352 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0549",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Carlsbad, CA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17605995000",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2385 Camino Vida Roble, Suite 211"
+        ],
+        "city": "Carlsbad",
+        "region": "CA",
+        "postalCode": "92011",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Dana Point, CA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19492812449",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "33282 Golden Lantern, Suite 102"
+        ],
+        "city": "Dana Point",
+        "region": "CA",
+        "postalCode": "92629",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "P000608": {
+   "name": "Scott H. Peters",
+   "seat": "Representative, CA-50",
+   "status": "verified",
+   "pagesChecked": [
+    "https://scottpeters.house.gov/",
+    "https://scottpeters.house.gov/email-me",
+    "https://scottpeters.house.gov/contact/office-locations",
+    "https://scottpeters.house.gov/email-me",
+    "https://scottpeters.house.gov/contact/offices/washington-dc-office",
+    "https://scottpeters.house.gov/contact/offices/san-diego-office",
+    "https://scottpeters.house.gov/contact/offices/san-marcos-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://scottpeters.house.gov/email-me",
+     "source": "https://scottpeters.house.gov/email-me",
+     "evidence": "Email Me form with an issue list about legislation; meeting requests and newsletter are separate."
+    }
+   ]
+  },
+  "J000305": {
+   "name": "Sara Jacobs",
+   "seat": "Representative, CA-51",
+   "status": "verified",
+   "pagesChecked": [
+    "https://sarajacobs.house.gov/",
+    "https://sarajacobs.house.gov/contact",
+    "https://sarajacobs.house.gov/contact/email-me"
+   ],
+   "notes": "Offices match. Form read in a browser.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://sarajacobs.house.gov/contact/email-me",
+     "source": "https://sarajacobs.house.gov/contact/email-me",
+     "evidence": "Email Me form drawn by script behind a ZIP code check, with an issue list (Agriculture and Food, Animals, Armed Forces and National Security...); 'Please do not submit casework requests ... through this form'."
+    }
+   ]
+  },
+  "V000130": {
+   "name": "Juan Vargas",
+   "seat": "Representative, CA-52",
+   "status": "verified",
+   "pagesChecked": [
+    "https://vargas.house.gov/",
+    "https://vargas.house.gov/address_authentication?form=/contact/email-me",
+    "https://vargas.house.gov/contact",
+    "https://vargas.house.gov/address_authentication?form=/contact/legislative-comments",
+    "https://vargas.house.gov/contact/invite-me-to-your-event",
+    "https://vargas.house.gov/contact/office-locations",
+    "https://vargas.house.gov/contact/office-locations/washington-dc-office",
+    "https://vargas.house.gov/contact/office-locations/chula-vista-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://vargas.house.gov/contact/legislative-comments",
+     "source": "https://vargas.house.gov/contact",
+     "evidence": "Dedicated 'Legislative Comments' form, behind an address check (address_authentication?form=/contact/legislative-comments), with an issue list for comments on legislation; preferred over the general Email Me form."
+    }
+   ]
+  },
+  "B001267": {
+   "name": "Michael F. Bennet",
+   "seat": "Senator, CO",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.bennet.senate.gov/contact/",
+    "https://www.bennet.senate.gov/contact/write-to-michael/"
+   ],
+   "notes": "Homepage blocked (403); contact page used. The site marks the Alamosa (San Luis Valley) office 'Temporarily Closed'; kept, since it is still listed with its phone.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.bennet.senate.gov/contact/write-to-michael/",
+     "source": "https://www.bennet.senate.gov/contact/write-to-michael/",
+     "evidence": "'Write to Michael': 'Please fill out the form below to share your thoughts or concerns with Senator Bennet'; the embedded form has a topic list (Agriculture, Animal Rights, Banking...); federal agency help is a separate form."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.bennet.senate.gov/contact/",
+     "evidence": "'Washington D.C. 261 Russell Senate Building Washington, DC 20510 Toll Free: 866-455-9866 Phone: 202-224-5852'; we publish no toll-free line. Local offices match.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022245852",
+         "type": "voice"
+        },
+        {
+         "number": "+18664559866",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "261 Russell Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Colorado Springs, CO office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17193281100",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "409 N. Tejon St., Suite 107"
+        ],
+        "city": "Colorado Springs",
+        "region": "CO",
+        "postalCode": "80903",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Denver, CO office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13034557600",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Cesar E. Chavez Memorial Building",
+         "1244 Speer Blvd."
+        ],
+        "city": "Denver",
+        "region": "CO",
+        "postalCode": "80204",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Fort Collins, CO office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19702242200",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1200 S. College Ave., Suite 211"
+        ],
+        "city": "Fort Collins",
+        "region": "CO",
+        "postalCode": "80524",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Grand Junction, CO office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19702416631",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "225 N. 5th St., Suite 511"
+        ],
+        "city": "Grand Junction",
+        "region": "CO",
+        "postalCode": "81501",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Pueblo, CO office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17195427550",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "129 W. B St."
+        ],
+        "city": "Pueblo",
+        "region": "CO",
+        "postalCode": "81003",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Alamosa, CO office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17195870096",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "609 Main Street, Suite 206"
+        ],
+        "city": "Alamosa",
+        "region": "CO",
+        "postalCode": "81101",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Durango, CO office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19702591710",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Smiley Building",
+         "1309 East 3rd Avenue, Suite 101"
+        ],
+        "city": "Durango",
+        "region": "CO",
+        "postalCode": "81301",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "H000273": {
+   "name": "John W. Hickenlooper",
+   "seat": "Senator, CO",
+   "status": "partial",
+   "pagesChecked": [
+    "https://www.hickenlooper.senate.gov/contact/",
+    "https://www.hickenlooper.senate.gov/office-locations/",
+    "https://www.hickenlooper.senate.gov/email-john/",
+    "https://www.senate.gov/states/CO/intro.htm"
+   ],
+   "notes": "Homepage blocked (403). DC office (316 Hart, (202) 224-5941) confirmed on senate.gov/states/CO; Denver phone (303) 244-1628 confirmed on the office-locations page. The other local offices could not be checked: the office-locations page loads its list from /wp-json/wp/v2/locations, which returns 403 Access Denied, so the page shows no offices.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.hickenlooper.senate.gov/email-john/",
+     "source": "https://www.hickenlooper.senate.gov/email-john/",
+     "evidence": "'Email John': 'Share your opinion, story, or concerns, or ask him a question by filling out the contact form below', with a required Topic list (Agriculture, Animal Rights, Appropriations...); federal agency help is separate."
+    },
+    {
+     "action": "add-email",
+     "address": "casework@hickenlooper.senate.gov",
+     "purpose": "casework",
+     "source": "https://www.hickenlooper.senate.gov/office-locations/",
+     "evidence": "'For urgent help with a federal agency, please call the Denver office at 303-244-1628 or e-mail casework@hickenlooper.senate.gov.'"
+    }
+   ]
+  },
+  "D000197": {
+   "name": "Diana DeGette",
+   "seat": "Representative, CO-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://degette.house.gov/",
+    "https://degette.house.gov/address_authentication?form=/contact/send-me-an-email/email-me",
+    "https://degette.house.gov/address_authentication?form=/contact/send-me-an-email/email-me",
+    "https://degette.house.gov/contact/offices",
+    "https://degette.house.gov/contact/offices/washington-dc-office",
+    "https://degette.house.gov/contact/offices/denver-district-office",
+    "https://degette.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://degette.house.gov/contact/send-me-an-email/email-me",
+     "source": "https://degette.house.gov/contact/send-me-an-email/email-me",
+     "evidence": "The member's main Email Me form, behind an address check, with an issue list about legislation; federal agency, flag and tour requests are separate."
+    }
+   ]
+  },
+  "N000191": {
+   "name": "Joe Neguse",
+   "seat": "Representative, CO-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://neguse.house.gov/",
+    "https://neguse.house.gov/contact",
+    "https://neguse.house.gov/contact/offices",
+    "https://neguse.house.gov/contact/event-request",
+    "https://neguse.house.gov/shareyourstory",
+    "https://neguse.house.gov/contact/offices/washington-dc-office",
+    "https://neguse.house.gov/contact/offices/fort-collins-office",
+    "https://neguse.house.gov/contact/offices/boulder-office",
+    "https://neguse.house.gov/contact/offices/western-slope-office"
+   ],
+   "notes": "Offices match. A scheduling mailbox is printed; not a constituent mailbox, not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://neguse.house.gov/contact",
+     "source": "https://neguse.house.gov/contact",
+     "evidence": "'Send Me an Email' page embedding neguseforms.house.gov/contact behind a ZIP check ('Please enter your zip code below to verify residency'): 'Thank you for taking the time to share your thoughts and ideas about the issues facing our country'."
+    }
+   ]
+  },
+  "H001100": {
+   "name": "Jeff Hurd",
+   "seat": "Representative, CO-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://hurd.house.gov/",
+    "https://hurd.house.gov/contact",
+    "https://hurd.house.gov/address_authentication?form=/contact/email-me",
+    "https://hurd.house.gov/contact/office-locations",
+    "https://hurd.house.gov/contact/offices/washington-dc-office",
+    "https://hurd.house.gov/contact/offices/grand-junction-office",
+    "https://hurd.house.gov/contact/offices/pueblo-office",
+    "https://hurd.house.gov/contact/offices/durango-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://hurd.house.gov/contact/email-me",
+     "source": "https://hurd.house.gov/contact/email-me",
+     "evidence": "The member's main Email Me form, behind an address check, with an issue list about legislation."
+    }
+   ]
+  },
+  "B000825": {
+   "name": "Lauren Boebert",
+   "seat": "Representative, CO-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://boebert.house.gov/",
+    "https://boebert.house.gov/issues/mobile-office-hours",
+    "https://boebertforms.house.gov/contact/",
+    "https://boebert.house.gov/contact/offices",
+    "https://boebert.house.gov/contact/offices/washington-dc-office",
+    "https://boebert.house.gov/contact/offices/eaton-district-office",
+    "https://boebert.house.gov/contact/offices/lone-tree-district-office",
+    "https://boebertforms.house.gov/forms/emailsignup/"
+   ],
+   "notes": "Press and scheduling mailboxes printed; not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://boebertforms.house.gov/contact/",
+     "source": "https://boebert.house.gov/contact",
+     "evidence": "'Contact Me' links to boebertforms.house.gov/contact, the member's main contact form behind a ZIP check ('Please enter your zip code below to verify residency'), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://boebert.house.gov/contact/offices",
+     "evidence": "'Lone Tree District Office 9360 Station Street Suite 300 Lone Tree, CO 80124 Phone: (720) 639-9165'; we publish a Castle Rock office at 900 Castleton Rd., Suite 112 with the same phone, which is no longer listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254761",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1713 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0604",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Lone Tree, CO office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17206399165",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "9360 Station Street, Suite 300"
+        ],
+        "city": "Lone Tree",
+        "region": "CO",
+        "postalCode": "80124",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Eaton, CO office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19707022136",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "271 South Elm Ave., Suite 1A"
+        ],
+        "city": "Eaton",
+        "region": "CO",
+        "postalCode": "80615",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "C001137": {
+   "name": "Jeff Crank",
+   "seat": "Representative, CO-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://crank.house.gov/",
+    "https://crank.house.gov/contact/email-me",
+    "https://crank.house.gov/contact",
+    "https://crank.house.gov/contact/event-request",
+    "https://crank.house.gov/contact/office-locations",
+    "https://crank.house.gov/contact/offices/washington-dc-office",
+    "https://crank.house.gov/contact/offices/colorado-springs-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://crank.house.gov/contact/email-me",
+     "source": "https://crank.house.gov/contact/email-me",
+     "evidence": "Email Me form with an issue list about legislation; federal agency help, newsletter and tours are separate."
+    }
+   ]
+  },
+  "C001121": {
+   "name": "Jason Crow",
+   "seat": "Representative, CO-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://crow.house.gov/",
+    "https://crow.house.gov/contact",
+    "https://crow.house.gov/contact/email-me",
+    "https://crow.house.gov/contact/offices",
+    "https://crow.house.gov/contact/offices/washington-dc-office",
+    "https://crow.house.gov/contact/offices/aurora-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://crow.house.gov/contact/email-me",
+     "source": "https://crow.house.gov/contact/email-me",
+     "evidence": "Email Me page embedding crowforms.house.gov/contact behind a ZIP check: 'verify residency within my district and then let me know any thoughts, ideas or concerns you might have'."
+    }
+   ]
+  },
+  "P000620": {
+   "name": "Brittany Pettersen",
+   "seat": "Representative, CO-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://pettersen.house.gov/",
+    "https://pettersen.house.gov/news/email/",
+    "https://pettersen.house.gov/contact/",
+    "https://pettersen.house.gov/forms/emailsignup/",
+    "https://pettersen.house.gov/contact/offices.htm",
+    "https://pettersen.house.gov/news/email/default.aspx"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://pettersen.house.gov/contact/",
+     "source": "https://pettersen.house.gov/contact/",
+     "evidence": "'Send Me An Email', the member's main contact form, behind a ZIP check ('enter your zip code below to verify residency'), so its topic list could not be read."
+    }
+   ]
+  },
+  "E000300": {
+   "name": "Gabe Evans",
+   "seat": "Representative, CO-8",
+   "status": "verified",
+   "pagesChecked": [
+    "https://gabeevans.house.gov/",
+    "https://gabeevans.house.gov/contact",
+    "https://gabeevans.house.gov/address_authentication?form=/contact/email-me",
+    "https://gabeevans.house.gov/contact/offices/washington-dc-office",
+    "https://gabeevans.house.gov/contact/offices/greeley-district-office",
+    "https://gabeevans.house.gov/contact/offices/northglenn-district-office",
+    "https://gabeevans.house.gov/contact/office-locations"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://gabeevans.house.gov/contact/email-me",
+     "source": "https://gabeevans.house.gov/contact/email-me",
+     "evidence": "The member's main Email Me form, behind an address check, with an issue list about legislation and opinions."
+    }
+   ]
+  },
+  "B001277": {
+   "name": "Richard Blumenthal",
+   "seat": "Senator, CT",
+   "status": "partial",
+   "pagesChecked": [
+    "https://www.blumenthal.senate.gov/contact/",
+    "https://www.blumenthal.senate.gov/contact/write-to-senator-blumenthal/",
+    "https://www.blumenthal.senate.gov/contact/get-assistance/"
+   ],
+   "notes": "Homepage blocked (403). Offices match on the contact page. The form's topic list could not be read: the script that draws it calls /cfc_extensions/data/forms.cfc, which returns 403, so the form never rendered (retried with a longer wait).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.blumenthal.senate.gov/contact/write-to-senator-blumenthal/",
+     "source": "https://www.blumenthal.senate.gov/contact/write-to-senator-blumenthal/",
+     "evidence": "'Write to Senator Blumenthal': 'Every message is read, and your opinions are carefully considered. Please select the most applicable message topic below.' The form itself is drawn by script."
+    }
+   ]
+  },
+  "M001169": {
+   "name": "Christopher Murphy",
+   "seat": "Senator, CT",
+   "status": "partial",
+   "pagesChecked": [
+    "https://www.murphy.senate.gov/contact/"
+   ],
+   "notes": "Homepage blocked (403). Offices match on the contact page. The form's topic list could not be read: it is drawn by script and did not render in a browser (the Senate form endpoint returns 403 to this machine).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.murphy.senate.gov/contact/",
+     "source": "https://www.murphy.senate.gov/contact/",
+     "evidence": "'Contact Chris': 'If you would like to share your feedback with me on an issue, please select the topic you are writing about and fill out the form below'; federal agency help is a separate page. The form itself is drawn by script."
+    }
+   ]
+  },
+  "L000557": {
+   "name": "John B. Larson",
+   "seat": "Representative, CT-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://larson.house.gov/",
+    "https://larson.house.gov/address_authentication?form=/contact",
+    "https://larson.house.gov/contact/offices",
+    "https://larson.house.gov/en-espanol/contactenos",
+    "https://larson.house.gov/contact/offices/washington-dc-office",
+    "https://larson.house.gov/contact/offices/east-hartford-office",
+    "https://larson.house.gov/contact/offices"
+   ],
+   "notes": "Offices match; the extra numbers on the site are fax lines.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://larson.house.gov/contact",
+     "source": "https://larson.house.gov/contact",
+     "evidence": "The member's main contact form, behind an address check (address_authentication?form=/contact), with an issue list about legislation; casework is separate."
+    }
+   ]
+  },
+  "C001069": {
+   "name": "Joe Courtney",
+   "seat": "Representative, CT-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://courtney.house.gov/",
+    "https://courtney.house.gov/address_authentication?form=/contact",
+    "https://courtney.house.gov/contact/offices",
+    "https://courtney.house.gov/contact/offices/washington-dc-office",
+    "https://courtney.house.gov/contact/offices/norwich-district-office",
+    "https://courtney.house.gov/contact/offices/enfield-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://courtney.house.gov/contact",
+     "source": "https://courtney.house.gov/contact",
+     "evidence": "The member's main contact form, behind an address check (address_authentication?form=/contact), with an issue list about legislation."
+    }
+   ]
+  },
+  "D000216": {
+   "name": "Rosa L. DeLauro",
+   "seat": "Representative, CT-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://delauro.house.gov/",
+    "https://delauro.house.gov/contact",
+    "https://delauro.house.gov/zip_authentication?form=/contact/email",
+    "https://delauro.house.gov/contact/offices",
+    "https://delauro.house.gov/contact/invite-rosa-to-an-event",
+    "https://delauro.house.gov/contact/offices/washington-dc-office",
+    "https://delauro.house.gov/contact/offices/new-haven-office"
+   ],
+   "notes": "Offices match. Scheduling and event-request mailboxes printed; not constituent mailboxes, not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://delauro.house.gov/contact/email",
+     "source": "https://delauro.house.gov/contact/email",
+     "evidence": "The member's main email form, behind a ZIP check (zip_authentication?form=/contact/email), so its topic list could not be read."
+    }
+   ]
+  },
+  "H001047": {
+   "name": "James A. Himes",
+   "seat": "Representative, CT-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://himes.house.gov/",
+    "https://himes.house.gov/contact/",
+    "https://himes.house.gov/contact/email-me/",
+    "https://himes.house.gov/contact/office-locations/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://himes.house.gov/contact/email-me/",
+     "source": "https://himes.house.gov/contact/email-me/",
+     "evidence": "Email Me form with a topic list for comments, concerns and opinions; federal agency help, flags and newsletter are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://himes.house.gov/contact/office-locations/",
+     "evidence": "'Bridgeport, CT 350 Fairfield Ave. Suite 603 Bridgeport, CT 06604 Phone: (203) 333-6600 or (866) 453-0028'; we publish no toll-free line and repeat 'Suite 603' as an extra address line.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255541",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2137 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0704",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Stamford, CT office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12033539400",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "888 Washington Blvd., 10th Floor"
+        ],
+        "city": "Stamford",
+        "region": "CT",
+        "postalCode": "06901",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Bridgeport, CT office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12033336600",
+         "type": "voice"
+        },
+        {
+         "number": "+18664530028",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "350 Fairfield Ave., Suite 603"
+        ],
+        "city": "Bridgeport",
+        "region": "CT",
+        "postalCode": "06604",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

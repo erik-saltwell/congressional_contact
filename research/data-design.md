@@ -1,5 +1,7 @@
 # Approved data approach and proposed JSON format
 
+> **Superseded in part (2026-11-05).** The final schema is now [design_notes/data-schema.md](../design_notes/data-schema.md). HUD access has been verified; see the [HUD crosswalk findings](hud-crosswalk-findings.md). The JSON below is the original proposal and is kept for history. The approved direction above still stands.
+
 Recorded November 4, 2026, following the [contact-data research](contact-data-source.md) and [ZIP-mapping research](zip-district-mapping.md).
 
 ## Approved direction
@@ -93,13 +95,13 @@ The user registered for HUD's **USPS ZIP CODE CROSSWALK** dataset and supplied a
 
 Only local data-generation tools should load this variable and use it in HUD's documented `Authorization: Bearer` header. No token value belongs in research documents, URLs, logs, browser bundles or published JSON. The generator has not been written; a `.env` file by itself does not load the token into a process.
 
-Credential storage and file permissions were verified. **No authenticated HUD request has been made, and the token has not been validated against the API.** No current HUD mapping has been downloaded or compared with the research examples. Source selection is approved; coverage and district vintage remain unverified.
+Credential storage and file permissions were verified. **Update 2026-11-05:** the token works against the API. National files for six quarters were downloaded and compared with the research examples, and 2026 Q2 was identified as 119th Congress geography; see the [HUD crosswalk findings](hud-crosswalk-findings.md).
 
 ## Refresh policy and remaining work
 
 The user's stated baseline is to rebuild when Congress changes. Membership changes, office moves, contact-link changes and postal updates can occur within a Congress, so additional refreshes were recommended. A fixed schedule, maximum acceptable age and automation have not been approved or implemented.
 
-Next, when data acquisition or implementation is requested:
+Next, when data acquisition or implementation is requested. Steps 1–3 are done in phase 1: see the [findings](hud-crosswalk-findings.md) and the [schema](../design_notes/data-schema.md). Step 4 is phases 2 and 4 of the [implementation plan](../.work-items/implementation-plan/plan.md).
 
 1. Make an authenticated HUD type-5 request using the local token, choosing an explicit quarter. Verify the serving Congress represented by that quarter rather than assuming the newest geography is appropriate.
 2. Inspect the returned state/district codes and coverage. Compare at least `10003`, `98103` and the cross-state `42223` with the earlier evidence and official House lookup. Preserve all candidates rather than selecting a dominant district by address share.

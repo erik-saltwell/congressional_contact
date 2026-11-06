@@ -1,0 +1,2433 @@
+{
+ "batch": "2026-11-05-full-10",
+ "createdAt": "2026-11-05",
+ "dataGeneratedAt": "2026-11-05T19:36:17Z",
+ "officials": {
+  "P000617": {
+   "seat": "Representative, MA-7",
+   "published": {
+    "name": {
+     "full": "Ayanna Pressley",
+     "given": "Ayanna",
+     "family": "Pressley",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MA",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255111",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "402 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2107",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Boston, MA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16178500040",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "50 Redfield Street, Suite 302"
+       ],
+       "city": "Boston",
+       "region": "MA",
+       "postalCode": "02122",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://pressley.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://pressley.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000562": {
+   "seat": "Representative, MA-8",
+   "published": {
+    "name": {
+     "full": "Stephen F. Lynch",
+     "given": "Stephen",
+     "family": "Lynch",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MA",
+    "district": 8,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022258273",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2109 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2108",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Brockton, MA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15085865555",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "37 Belmont Street, 2nd Floor, Suite 3"
+       ],
+       "city": "Brockton",
+       "region": "MA",
+       "postalCode": "02301",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Quincy, MA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16176576305",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1245 Hancock St., Suite 41"
+       ],
+       "city": "Quincy",
+       "region": "MA",
+       "postalCode": "02169",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Boston, MA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16174282000",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "One Harbor Street, Suite 101"
+       ],
+       "city": "Boston",
+       "region": "MA",
+       "postalCode": "02210",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://lynch.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://lynch.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "K000375": {
+   "seat": "Representative, MA-9",
+   "published": {
+    "name": {
+     "full": "William R. Keating",
+     "given": "William",
+     "family": "Keating",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MA",
+    "district": 9,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253111",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2372 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2109",
+       "country": "US"
+      }
+     },
+     {
+      "label": "New Bedford, MA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15089996462",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "128 Union Street, Suite 103"
+       ],
+       "city": "New Bedford",
+       "region": "MA",
+       "postalCode": "02740",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Plymouth, MA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15087469000",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "50 Resnik Road, Suite 103"
+       ],
+       "city": "Plymouth",
+       "region": "MA",
+       "postalCode": "02360",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Hyannis, MA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15087716868",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "251 Stevens Street, E"
+       ],
+       "city": "Hyannis",
+       "region": "MA",
+       "postalCode": "02601",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://keating.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://keating.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "A000382": {
+   "seat": "Senator, MD",
+   "published": {
+    "name": {
+     "full": "Angela D. Alsobrooks",
+     "given": "Angela",
+     "family": "Alsobrooks",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "MD",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022244524",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "374 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bowie, MD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13018600414",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "10201 Martin Luther King Jr Hwy, Suite 210"
+       ],
+       "city": "Bowie",
+       "region": "MD",
+       "postalCode": "20720",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.alsobrooks.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://alsobrooks.senate.gov/",
+    "website": "https://www.alsobrooks.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "V000128": {
+   "seat": "Senator, MD",
+   "published": {
+    "name": {
+     "full": "Chris Van Hollen",
+     "given": "Chris",
+     "family": "Van Hollen",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "MD",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022244654",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "730 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rockville, MD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13015451500",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "111 Rockville Pike, Suite 960"
+       ],
+       "city": "Rockville",
+       "region": "MD",
+       "postalCode": "20850",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Hagerstown, MD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13017972826",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "32 West Washington Street, Suite 203"
+       ],
+       "city": "Hagerstown",
+       "region": "MD",
+       "postalCode": "21740",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Baltimore, MD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16672124610",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1040 Park Ave., Suite 120"
+       ],
+       "city": "Baltimore",
+       "region": "MD",
+       "postalCode": "21201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Annapolis, MD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14102631325",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "60 West Street, Suite 107"
+       ],
+       "city": "Annapolis",
+       "region": "MD",
+       "postalCode": "21401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cambridge, MD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14102212074",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "204 Cedar Street, Suite 200C"
+       ],
+       "city": "Cambridge",
+       "region": "MD",
+       "postalCode": "21613",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Largo, MD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13013226560",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1101 Mercantile Ln, Suite 210"
+       ],
+       "city": "Largo",
+       "region": "MD",
+       "postalCode": "20774-5360",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.vanhollen.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.vanhollen.senate.gov/contact/email",
+    "website": "https://www.vanhollen.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001052": {
+   "seat": "Representative, MD-1",
+   "published": {
+    "name": {
+     "full": "Andy Harris",
+     "given": "Andy",
+     "family": "Harris",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MD",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255311",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1536 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2001",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bel Air, MD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14105885670",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "15 E. Churchville Rd., Suite 102B"
+       ],
+       "city": "Bel Air",
+       "region": "MD",
+       "postalCode": "21014",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Salisbury, MD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14439448624",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "100 E. Main St., Suite 702"
+       ],
+       "city": "Salisbury",
+       "region": "MD",
+       "postalCode": "21801",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cambridge, MD office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "306 High Street"
+       ],
+       "city": "Cambridge",
+       "region": "MD",
+       "postalCode": "21613",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://harris.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://harris.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "O000176": {
+   "seat": "Representative, MD-2",
+   "published": {
+    "name": {
+     "full": "Johnny Olszewski, Jr.",
+     "given": "Johnny",
+     "family": "Olszewski",
+     "suffix": "Jr."
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MD",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253061",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1339 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2002",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Towson, MD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14104275725",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "110 West Rd, Suite 420"
+       ],
+       "city": "Towson",
+       "region": "MD",
+       "postalCode": "21204",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://olszewski.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://olszewski.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "E000301": {
+   "seat": "Representative, MD-3",
+   "published": {
+    "name": {
+     "full": "Sarah Elfreth",
+     "given": "Sarah",
+     "family": "Elfreth",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MD",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254016",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1213 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2003",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Columbia, MD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14108328890",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "10440 Little Patuxent Pkwy, Suite 550"
+       ],
+       "city": "Columbia",
+       "region": "MD",
+       "postalCode": "21044",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://elfreth.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://elfreth.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "I000058": {
+   "seat": "Representative, MD-4",
+   "published": {
+    "name": {
+     "full": "Glenn Ivey",
+     "given": "Glenn",
+     "family": "Ivey",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MD",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022258699",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1610 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2004",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Landover, MD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12409066262",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4301 Garden City Dr., Suite 405"
+       ],
+       "city": "Landover",
+       "region": "MD",
+       "postalCode": "20785",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://ivey.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://ivey.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H000874": {
+   "seat": "Representative, MD-5",
+   "published": {
+    "name": {
+     "full": "Steny H. Hoyer",
+     "given": "Steny",
+     "family": "Hoyer",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MD",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254131",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1705 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2005",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Greenbelt, MD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13014740119",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "U.S. District Courthouse",
+        "6500 Cherrywood Ln., Suite 310"
+       ],
+       "city": "Greenbelt",
+       "region": "MD",
+       "postalCode": "20770",
+       "country": "US"
+      }
+     },
+     {
+      "label": "White Plains, MD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13018431577",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4475 Regency Pl., Suite 203"
+       ],
+       "city": "White Plains",
+       "region": "MD",
+       "postalCode": "20695",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://hoyer.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://hoyer.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001232": {
+   "seat": "Representative, MD-6",
+   "published": {
+    "name": {
+     "full": "April McClain Delaney",
+     "given": "April",
+     "family": "McClain Delaney",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MD",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252721",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1130 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2006",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Frederick, MD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13019260300",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "30 W. Patrick St., Suite 505"
+       ],
+       "city": "Frederick",
+       "region": "MD",
+       "postalCode": "21701",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mcclaindelaney.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mcclaindelaney.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M000687": {
+   "seat": "Representative, MD-7",
+   "published": {
+    "name": {
+     "full": "Kweisi Mfume",
+     "given": "Kweisi",
+     "family": "Mfume",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MD",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254741",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2263 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2007",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Baltimore, MD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14106859199",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1010 Park Avenue, Suite 105"
+       ],
+       "city": "Baltimore",
+       "region": "MD",
+       "postalCode": "21201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Catonsville, MD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14108182120",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "754 Frederick Road"
+       ],
+       "city": "Catonsville",
+       "region": "MD",
+       "postalCode": "21228",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mfume.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mfume.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "R000606": {
+   "seat": "Representative, MD-8",
+   "published": {
+    "name": {
+     "full": "Jamie Raskin",
+     "given": "Jamie",
+     "family": "Raskin",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MD",
+    "district": 8,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255341",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2242 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2008",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rockville, MD office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13013541000",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "51 Monroe St., Suite 503"
+       ],
+       "city": "Rockville",
+       "region": "MD",
+       "postalCode": "20850",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://raskin.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://raskin.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001035": {
+   "seat": "Senator, ME",
+   "published": {
+    "name": {
+     "full": "Susan M. Collins",
+     "given": "Susan",
+     "family": "Collins",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "ME",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022242523",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "413 Dirksen Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Augusta, ME office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12076228414",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "68 Sewall St., Room 507"
+       ],
+       "city": "Augusta",
+       "region": "ME",
+       "postalCode": "04330",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bangor, ME office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12079450417",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "202 Harlow St., Room 20100"
+       ],
+       "city": "Bangor",
+       "region": "ME",
+       "postalCode": "04401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Biddeford, ME office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12072831101",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "160 Main St."
+       ],
+       "city": "Biddeford",
+       "region": "ME",
+       "postalCode": "04005",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Caribou, ME office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12074937873",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "25 Sweden St., Suite A"
+       ],
+       "city": "Caribou",
+       "region": "ME",
+       "postalCode": "04736",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lewiston, ME office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12077846969",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "55 Lisbon St."
+       ],
+       "city": "Lewiston",
+       "region": "ME",
+       "postalCode": "04240",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Portland, ME office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12076185560",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "One Canal Plaza, Suite 802"
+       ],
+       "city": "Portland",
+       "region": "ME",
+       "postalCode": "04101",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.collins.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.collins.senate.gov/contact",
+    "website": "https://www.collins.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "K000383": {
+   "seat": "Senator, ME",
+   "published": {
+    "name": {
+     "full": "Angus S. King, Jr.",
+     "given": "Angus",
+     "family": "King",
+     "suffix": "Jr."
+    },
+    "role": "senator",
+    "party": "Independent",
+    "state": "ME",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022245344",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "133 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bangor, ME office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12079458000",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "202 Harlow St., Suite 20350"
+       ],
+       "city": "Bangor",
+       "region": "ME",
+       "postalCode": "04401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Biddeford, ME office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12073525216",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "227 Main Street"
+       ],
+       "city": "Biddeford",
+       "region": "ME",
+       "postalCode": "04005",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Portland, ME office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12072451565",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1 Pleasant Street, Suite 4W"
+       ],
+       "city": "Portland",
+       "region": "ME",
+       "postalCode": "04101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Augusta, ME office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12076228292",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "E.S. Muskie Federal Building",
+        "40 Western Ave, Room 412"
+       ],
+       "city": "Augusta",
+       "region": "ME",
+       "postalCode": "04330",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Presque Isle, ME office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12077645124",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "167 Academy St., Suite A"
+       ],
+       "city": "Presque Isle",
+       "region": "ME",
+       "postalCode": "04769",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.king.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.king.senate.gov/contact",
+    "website": "https://www.king.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "P000597": {
+   "seat": "Representative, ME-1",
+   "published": {
+    "name": {
+     "full": "Chellie Pingree",
+     "given": "Chellie",
+     "family": "Pingree",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "ME",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256116",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2354 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Portland, ME office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12077745019",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2 Portland Fish Pier, Suite 304"
+       ],
+       "city": "Portland",
+       "region": "ME",
+       "postalCode": "04101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Waterville, ME office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12078735713",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1 Silver St."
+       ],
+       "city": "Waterville",
+       "region": "ME",
+       "postalCode": "04901",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://pingree.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://pingree.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000592": {
+   "seat": "Representative, ME-2",
+   "published": {
+    "name": {
+     "full": "Jared F. Golden",
+     "given": "Jared",
+     "family": "Golden",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "ME",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256306",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1107 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1902",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bangor, ME office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12072497400",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "6 State St, Suite 101"
+       ],
+       "city": "Bangor",
+       "region": "ME",
+       "postalCode": "04401-5112",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Caribou, ME office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12074926009",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "7 Hatch Dr, Suite 230"
+       ],
+       "city": "Caribou",
+       "region": "ME",
+       "postalCode": "04736-2159",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lewiston, ME office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12072416767",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "179 Lisbon St"
+       ],
+       "city": "Lewiston",
+       "region": "ME",
+       "postalCode": "04240-7248",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://golden.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://golden.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "P000595": {
+   "seat": "Senator, MI",
+   "published": {
+    "name": {
+     "full": "Gary C. Peters",
+     "given": "Gary",
+     "family": "Peters",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "MI",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022246221",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "724 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Detroit, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13132266020",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Patrick V. McNamara Federal Building",
+        "477 Michigan Ave., Suite 1837"
+       ],
+       "city": "Detroit",
+       "region": "MI",
+       "postalCode": "48226",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Grand Rapids, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16162339150",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Gerald R. Ford Federal Building",
+        "110 Michigan St. NW, Suite 720"
+       ],
+       "city": "Grand Rapids",
+       "region": "MI",
+       "postalCode": "49503",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lansing, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15173771508",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "124 W. Allegan St., Suite 1400"
+       ],
+       "city": "Lansing",
+       "region": "MI",
+       "postalCode": "48933",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Marquette, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19062264554",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "857 W. Washington St., Suite 308"
+       ],
+       "city": "Marquette",
+       "region": "MI",
+       "postalCode": "49855",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Pontiac, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12486088040",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "51111 Woodward Avenue, Suite 725"
+       ],
+       "city": "Pontiac",
+       "region": "MI",
+       "postalCode": "48342",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Flint, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19897540112",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "416 N Saginaw Street, Suite 222"
+       ],
+       "city": "Flint",
+       "region": "MI",
+       "postalCode": "48502",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Traverse City, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12319477773",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "109 E. Front Street, 215B"
+       ],
+       "city": "Traverse City",
+       "region": "MI",
+       "postalCode": "49684",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.peters.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.peters.senate.gov/contact/email-gary",
+    "website": "https://www.peters.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001208": {
+   "seat": "Senator, MI",
+   "published": {
+    "name": {
+     "full": "Elissa Slotkin",
+     "given": "Elissa",
+     "family": "Slotkin",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "MI",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022244822",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "291 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lansing, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15179930510",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "315 W. Allegan St., Suite 207"
+       ],
+       "city": "Lansing",
+       "region": "MI",
+       "postalCode": "48933",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Flint, MI office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "432 North Saginaw St., Suite 301"
+       ],
+       "city": "Flint",
+       "region": "MI",
+       "postalCode": "48502",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Detroit, MI office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "719 Griswold Street, Suite 700"
+       ],
+       "city": "Detroit",
+       "region": "MI",
+       "postalCode": "48226",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Traverse City, MI office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "3335 South Airport Road West, Suite 6B"
+       ],
+       "city": "Traverse City",
+       "region": "MI",
+       "postalCode": "49684",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.slotkin.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://www.slotkin.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001301": {
+   "seat": "Representative, MI-1",
+   "published": {
+    "name": {
+     "full": "Jack Bergman",
+     "given": "Jack",
+     "family": "Bergman",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MI",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254735",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "566 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Traverse City, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12319447633",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1396 Douglas Drive, Suite 22B"
+       ],
+       "city": "Traverse City",
+       "region": "MI",
+       "postalCode": "49696",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Gwinn, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19062732227",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "125 G Avenue, B"
+       ],
+       "city": "Gwinn",
+       "region": "MI",
+       "postalCode": "49841",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://bergman.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://bergman.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001194": {
+   "seat": "Representative, MI-2",
+   "published": {
+    "name": {
+     "full": "John R. Moolenaar",
+     "given": "John",
+     "family": "Moolenaar",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MI",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253561",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "246 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2202",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Clare, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19898026040",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "431 North McEwan Street"
+       ],
+       "city": "Clare",
+       "region": "MI",
+       "postalCode": "48617",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Caledonia, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16165287100",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "8980 North Rodgers Court, Suite H"
+       ],
+       "city": "Caledonia",
+       "region": "MI",
+       "postalCode": "49316",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://moolenaar.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://moolenaar.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001221": {
+   "seat": "Representative, MI-3",
+   "published": {
+    "name": {
+     "full": "Hillary J. Scholten",
+     "given": "Hillary",
+     "family": "Scholten",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MI",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253831",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1317 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2203",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Grand Rapids, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16164518383",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "110 Michigan Street NW"
+       ],
+       "city": "Grand Rapids",
+       "region": "MI",
+       "postalCode": "49503",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://scholten.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://scholten.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001058": {
+   "seat": "Representative, MI-4",
+   "published": {
+    "name": {
+     "full": "Bill Huizenga",
+     "given": "Bill",
+     "family": "Huizenga",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MI",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254401",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2232 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2204",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Portage, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12695698595",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "5228 Lovers Lane, Suite 108"
+       ],
+       "city": "Portage",
+       "region": "MI",
+       "postalCode": "49002",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Holland, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16162516741",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "170 College Ave, Suite 160"
+       ],
+       "city": "Holland",
+       "region": "MI",
+       "postalCode": "49423",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://huizenga.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://huizenga.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "W000798": {
+   "seat": "Representative, MI-5",
+   "published": {
+    "name": {
+     "full": "Tim Walberg",
+     "given": "Tim",
+     "family": "Walberg",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "MI",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256276",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2266 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2205",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Jackson, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15177809075",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "401 W. Michigan Ave."
+       ],
+       "city": "Jackson",
+       "region": "MI",
+       "postalCode": "49201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Niles, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12694793115",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "92 E. Main St."
+       ],
+       "city": "Niles",
+       "region": "MI",
+       "postalCode": "49120",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://walberg.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://walberg.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "D000624": {
+   "seat": "Representative, MI-6",
+   "published": {
+    "name": {
+     "full": "Debbie Dingell",
+     "given": "Debbie",
+     "family": "Dingell",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "MI",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254071",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "102 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-2206",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Ann Arbor, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17344811100",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2006 Hogback Road, Suite 7"
+       ],
+       "city": "Ann Arbor",
+       "region": "MI",
+       "postalCode": "48105",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Woodhaven, MI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13132782936",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Woodhaven City Hall",
+        "21869 West Road"
+       ],
+       "city": "Woodhaven",
+       "region": "MI",
+       "postalCode": "48183",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://debbiedingell.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://debbiedingell.house.gov"
+   },
+   "currentSupplement": null
+  }
+ }
+}

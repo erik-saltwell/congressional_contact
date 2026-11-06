@@ -1,0 +1,966 @@
+{
+ "batch": "2026-11-05-full-07",
+ "reviewedAt": "2026-11-05",
+ "officials": {
+  "M001219": {
+   "name": "James C. Moylan",
+   "seat": "Delegate, GU-0",
+   "status": "verified",
+   "pagesChecked": [
+    "https://moylan.house.gov/",
+    "https://moylan.house.gov/contact/offices",
+    "https://moylan.house.gov/contact/email-me"
+   ],
+   "notes": "Offices match; the site's 'Mobile Office, Various Locations' reuses the Hagatna number and is not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://moylan.house.gov/contact/email-me",
+     "source": "https://moylan.house.gov/contact/email-me",
+     "evidence": "'Email Me' (behind a ZIP check); the homepage says 'Contact me regarding issues that are important to you.' The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "H001042": {
+   "name": "Mazie K. Hirono",
+   "seat": "Senator, HI",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.hirono.senate.gov/contact/",
+    "https://www.hirono.senate.gov/contact/email-me-about-an-issue/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.hirono.senate.gov/contact/email-me-about-an-issue/",
+     "source": "https://www.hirono.senate.gov/contact/email-me-about-an-issue/",
+     "evidence": "'Email me about an issue': 'Please use this space to send me your comments and concerns about the issues facing Hawaii and our nation'; federal agency help is separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.hirono.senate.gov/contact/",
+     "evidence": "'State Office 300 Ala Moana Blvd. Room 3-106 Honolulu, HI 96850 Phone: (808) 522-8970 Toll Free: (844) 478-3478'. We publish only (808) 522-8970.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022246361",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "109 Hart Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Honolulu, HI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18085228970",
+         "type": "voice"
+        },
+        {
+         "number": "+18444783478",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Prince Kuhio Federal Building",
+         "300 Ala Moana Blvd., Rm. 3-106"
+        ],
+        "city": "Honolulu",
+        "region": "HI",
+        "postalCode": "96850",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "S001194": {
+   "name": "Brian Schatz",
+   "seat": "Senator, HI",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.schatz.senate.gov/contact/",
+    "https://www.schatz.senate.gov/contact/share-your-thoughts/"
+   ],
+   "notes": "Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.schatz.senate.gov/contact/share-your-thoughts/",
+     "source": "https://www.schatz.senate.gov/contact/share-your-thoughts/",
+     "evidence": "'Share Your Thoughts' form; its issue menu includes 'Share your opinion or comments on bills or other issues' (agency help, meetings and flags are separate options)."
+    }
+   ]
+  },
+  "C001055": {
+   "name": "Ed Case",
+   "seat": "Representative, HI-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://case.house.gov/",
+    "https://case.house.gov/contact/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://case.house.gov/contact/",
+     "source": "https://case.house.gov/contact/",
+     "evidence": "'To contact me on a legislative issue, please enter your zip code below to verify that you are from Hawai'i.' The form sits behind this ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "T000487": {
+   "name": "Jill N. Tokuda",
+   "seat": "Representative, HI-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://tokuda.house.gov/",
+    "https://tokuda.house.gov/contact/email-me"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://tokuda.house.gov/contact/email-me",
+     "source": "https://tokuda.house.gov/contact/email-me",
+     "evidence": "'To contact our office with a comment, concern, or legislative opinion, please enter your [ZIP]'. The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "E000295": {
+   "name": "Joni Ernst",
+   "seat": "Senator, IA",
+   "status": "partial",
+   "pagesChecked": [
+    "https://www.ernst.senate.gov/contact/",
+    "https://www.ernst.senate.gov/contact/email-joni"
+   ],
+   "notes": "Partial: the Email Joni form is drawn by script and did not render, so its issue list could not be checked. Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.ernst.senate.gov/contact/email-joni",
+     "source": "https://www.ernst.senate.gov/contact/email-joni",
+     "evidence": "'Email Joni': 'Please use the following form to contact me with your comments and concerns.' Casework is separate. The form is drawn by script and did not render (curl or browser), so no issue list was seen."
+    }
+   ]
+  },
+  "G000386": {
+   "name": "Chuck Grassley",
+   "seat": "Senator, IA",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.grassley.senate.gov/contact/",
+    "https://www.grassley.senate.gov/contact/questions-and-comments"
+   ],
+   "notes": "Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.grassley.senate.gov/contact/questions-and-comments",
+     "source": "https://www.grassley.senate.gov/contact/questions-and-comments",
+     "evidence": "'Send questions or comments ... Complete the following form to share your views.' Agency help and meetings are separate."
+    }
+   ]
+  },
+  "M001215": {
+   "name": "Mariannette Miller-Meeks",
+   "seat": "Representative, IA-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://millermeeks.house.gov/",
+    "https://millermeeks.house.gov/address_authentication?form=/contact"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://millermeeks.house.gov/contact",
+     "source": "https://millermeeks.house.gov/contact/",
+     "evidence": "Linked as 'Email Me' and 'Questions and Comments'. The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "H001091": {
+   "name": "Ashley Hinson",
+   "seat": "Representative, IA-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://hinson.house.gov/",
+    "https://hinson.house.gov/zip_authentication?form=/contact"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://hinson.house.gov/contact",
+     "source": "https://hinson.house.gov/contact",
+     "evidence": "Linked as 'Email'. The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "N000193": {
+   "name": "Zachary Nunn",
+   "seat": "Representative, IA-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://nunn.house.gov/",
+    "https://nunn.house.gov/contact/email-zach/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://nunn.house.gov/contact/email-zach/",
+     "source": "https://nunn.house.gov/contact/email-zach/",
+     "evidence": "'Email Zach' form with a topic list (Agriculture, Banking and Finance, Budget and Economy, Defense and Military, ...); agency help is separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://nunn.house.gov/",
+     "evidence": "'Ottumwa Office 223 East Main Street Suite 1 Ottumwa, IA 52501 Phone: (641) 220-9641'. We publish no suite.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255476",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1410 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1503",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Des Moines, IA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15154008180",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "400 Locust Street, Suite 250"
+        ],
+        "city": "Des Moines",
+        "region": "IA",
+        "postalCode": "50309",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Creston, IA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16412209093",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "208 W Taylor Street"
+        ],
+        "city": "Creston",
+        "region": "IA",
+        "postalCode": "50801",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Ottumwa, IA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16412209641",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "223 East Main Street, Suite 1"
+        ],
+        "city": "Ottumwa",
+        "region": "IA",
+        "postalCode": "52501",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "F000446": {
+   "name": "Randy Feenstra",
+   "seat": "Representative, IA-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://feenstra.house.gov/",
+    "https://feenstra.house.gov/contact"
+   ],
+   "notes": "The page prints scheduling.IA04@mail.house.gov for scheduling requests; not a constituent mailbox.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://feenstra.house.gov/contact",
+     "source": "https://feenstra.house.gov/contact",
+     "evidence": "'You can enter your ZIP code below to send as an email'; agency help and tours are separate. The form is behind this ZIP step, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://feenstra.house.gov/",
+     "evidence": "'Fort Dodge District Office 820 Central Avenue Fort Dodge, IA 50501 Phone: (515) 302-7060'. We publish 723 Central Avenue.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254426",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2434 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1504",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Fort Dodge, IA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15153027060",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "820 Central Avenue"
+        ],
+        "city": "Fort Dodge",
+        "region": "IA",
+        "postalCode": "50501",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Sioux City, IA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17122244692",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "320 6th Street, Room 112"
+        ],
+        "city": "Sioux City",
+        "region": "IA",
+        "postalCode": "51101",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Council Bluffs, IA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17122565653",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "149 West Broadway"
+        ],
+        "city": "Council Bluffs",
+        "region": "IA",
+        "postalCode": "51503",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "C000880": {
+   "name": "Mike Crapo",
+   "seat": "Senator, ID",
+   "status": "partial",
+   "pagesChecked": [
+    "https://www.crapo.senate.gov/contact/office-locations/",
+    "https://www.crapo.senate.gov/contact/email-me/"
+   ],
+   "notes": "Partial: the Email Me form is drawn by script and did not render, so its issue list could not be checked. Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.crapo.senate.gov/contact/email-me/",
+     "source": "https://www.crapo.senate.gov/contact/email-me/",
+     "evidence": "'Email Me' is the senator's main message form ('For meeting requests, tour requests or flag orders please use the appropriate form'). The form is drawn by script and did not render (curl or browser), so no issue list was seen."
+    }
+   ]
+  },
+  "R000584": {
+   "name": "James E. Risch",
+   "seat": "Senator, ID",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.risch.senate.gov/contact/",
+    "https://www.risch.senate.gov/contact/share-your-opinion/"
+   ],
+   "notes": "Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.risch.senate.gov/contact/share-your-opinion/",
+     "source": "https://www.risch.senate.gov/contact/share-your-opinion/",
+     "evidence": "Dedicated 'Share Your Opinion' form, listed apart from meetings, greetings and federal agency help."
+    }
+   ]
+  },
+  "F000469": {
+   "name": "Russ Fulcher",
+   "seat": "Representative, ID-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://fulcher.house.gov/",
+    "https://fulcher.house.gov/contact/email-me/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://fulcher.house.gov/contact/email-me/",
+     "source": "https://fulcher.house.gov/contact/email-me/",
+     "evidence": "'Email Me' message form with a topic list (Animals, Arts and Humanities, Banking and Finance, Budget and Economy, ...); casework subjects are listed separately."
+    }
+   ]
+  },
+  "S001148": {
+   "name": "Michael K. Simpson",
+   "seat": "Representative, ID-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://simpson.house.gov/",
+    "https://simpson.house.gov/contact/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://simpson.house.gov/contact/",
+     "source": "https://simpson.house.gov/contact/",
+     "evidence": "'Send Me an Email - Please enter your zip code below to verify residency within my district and continue'. The form sits behind this ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "D000563": {
+   "name": "Richard J. Durbin",
+   "seat": "Senator, IL",
+   "status": "partial",
+   "pagesChecked": [
+    "https://www.durbin.senate.gov/contact/",
+    "https://www.durbin.senate.gov/contact/email",
+    "https://www.durbin.senate.gov/office-locations/"
+   ],
+   "notes": "Partial: homepage blocked (403), and the office-locations page renders no office list (curl and browser), so offices could not be checked. The form page also renders empty.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.durbin.senate.gov/contact/email",
+     "source": "https://www.durbin.senate.gov/contact/",
+     "evidence": "The contact page says 'Please use the contact form to share your comments and concerns with me' and links 'Contact Dick Durbin' to /contact/email. The form itself did not render (curl or browser), so its topic list could not be read."
+    }
+   ]
+  },
+  "D000622": {
+   "name": "Tammy Duckworth",
+   "seat": "Senator, IL",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.duckworth.senate.gov/help/email-tammy"
+   ],
+   "notes": "/contact/ returns 410; offices are on the Email Tammy page. Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.duckworth.senate.gov/help/email-tammy",
+     "source": "https://www.duckworth.senate.gov/help/email-tammy",
+     "evidence": "'Email Tammy' page: 'What would you like to do? Share your opinion on legislation' (assistance is a separate choice)."
+    }
+   ]
+  },
+  "J000309": {
+   "name": "Jonathan L. Jackson",
+   "seat": "Representative, IL-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://jonathanjackson.house.gov/",
+    "https://jonathanjacksonforms.house.gov/contact/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://jonathanjacksonforms.house.gov/contact/",
+     "source": "https://jonathanjackson.house.gov/contact/",
+     "evidence": "/contact/ ('Email Me') redirects to this form, behind a ZIP check ('Your Zip Zip Code: * +4'), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://jonathanjackson.house.gov/",
+     "evidence": "'Chicago District Office 6356 S Cottage Grove Ave, Suite B Chicago, IL 60637 Phone: (773) 779-2400'. We publish 435 E. 35th Street, 60616.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254372",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1632 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1301",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Chicago, IL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17737792400",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "6356 S Cottage Grove Ave, Suite B"
+        ],
+        "city": "Chicago",
+        "region": "IL",
+        "postalCode": "60637",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "K000385": {
+   "name": "Robin L. Kelly",
+   "seat": "Representative, IL-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://robinkelly.house.gov/",
+    "https://robinkelly.house.gov/contact/offices",
+    "https://robinkelly.house.gov/address_authentication?form=/contact"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://robinkelly.house.gov/contact",
+     "source": "https://robinkelly.house.gov/contact",
+     "evidence": "Linked as 'Email Me'. The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://robinkelly.house.gov/contact/offices",
+     "evidence": "The offices page lists only Washington DC, Danville and 'Matteson District Office 600 Town Center Road Suite 505 Matteson, IL 60443 Phone: (708) 679-0078, (773) 321-2001'. Our Chicago office (1642 E. 56th Street, (773) 321-2001) is not listed; its number is now a Matteson line.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022250773",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2329 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1302",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Matteson, IL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17086790078",
+         "type": "voice"
+        },
+        {
+         "number": "+17733212001",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "600 Town Center Road, Suite 505"
+        ],
+        "city": "Matteson",
+        "region": "IL",
+        "postalCode": "60443",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Danville, IL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12175164556",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "425 N. Gilbert Street, Suite 5"
+        ],
+        "city": "Danville",
+        "region": "IL",
+        "postalCode": "61832",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "R000617": {
+   "name": "Delia C. Ramirez",
+   "seat": "Representative, IL-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://ramirez.house.gov/",
+    "https://ramirez.house.gov/contact/offices",
+    "https://ramirez.house.gov/address_authentication?form=/contact/email-me"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://ramirez.house.gov/contact/email-me",
+     "source": "https://ramirez.house.gov/contact/email-me",
+     "evidence": "Linked as 'Email Me'; the header says 'Legislative comments, call: (202) 225-5701'. The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://ramirez.house.gov/contact/offices",
+     "evidence": "The offices page also lists 'Chicago Satellite Office 3140 W Montrose Ave, Chicago, Illinois 60618 ... Open the 1st and 3rd Tuesday of every month' and 'Chicago Satellite Office 2511 W Division Street Chicago, Illinois 60622 ... Open the 1st and 3rd Wednesday of every month', with no phone. We publish neither.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255701",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1523 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1303",
+        "country": "US"
+       }
+      },
+      {
+       "label": "West Chicago, IL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16305209494",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "946 N Neltnor Blvd, Suite 104"
+        ],
+        "city": "West Chicago",
+        "region": "IL",
+        "postalCode": "60185",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Chicago, IL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17737998219",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "5624 W. Diversey Ave"
+        ],
+        "city": "Chicago",
+        "region": "IL",
+        "postalCode": "60639",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Chicago, IL satellite office (Montrose Ave)",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "3140 W Montrose Ave"
+        ],
+        "city": "Chicago",
+        "region": "IL",
+        "postalCode": "60618",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Chicago, IL satellite office (Division St)",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "2511 W Division Street"
+        ],
+        "city": "Chicago",
+        "region": "IL",
+        "postalCode": "60622",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "G000586": {
+   "name": "Jesús G. \"Chuy\" García",
+   "seat": "Representative, IL-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://chuygarcia.house.gov/",
+    "https://chuygarcia.house.gov/contact/email-me",
+    "https://chuygarciaforms.house.gov/contact/?skin=blank"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://chuygarcia.house.gov/contact/email-me",
+     "source": "https://chuygarcia.house.gov/contact/email-me",
+     "evidence": "The 'Email Me' page loads chuygarciaforms.house.gov/contact/, which reads 'Send Me an Email - Please enter your zip code below to verify residency within my district and continue'. Behind this ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "Q000023": {
+   "name": "Mike Quigley",
+   "seat": "Representative, IL-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://quigley.house.gov/",
+    "https://quigley.house.gov/contact"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://quigleyforms.house.gov/forms/writeyourrep/",
+     "source": "https://quigley.house.gov/contact",
+     "evidence": "'If you would like to send a message to Congressman Quigley, please CLICK HERE to write to him' links to this write-your-rep form, behind a ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "C001117": {
+   "name": "Sean Casten",
+   "seat": "Representative, IL-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://casten.house.gov/",
+    "https://casten.house.gov/contact/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://casten.house.gov/contact/email-me",
+     "source": "https://casten.house.gov/contact/email-me",
+     "evidence": "'Email Sean' form: 'ZIP CODE AUTHENTICATION ... Please enter your zip code to verify residency and go to the next step', then a message form that asks whether it is casework. No topic list is shown; it is the member's main message form."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://casten.house.gov/",
+     "evidence": "'Office Locations Lombard 200 W 22nd St Suite 229 Lombard, IL 60148 Phone: (630) 520-9450 Open by appointment only'. We publish this number at a Glen Ellyn office (800 Roosevelt Road), which the site no longer lists.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254561",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2440 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-1306",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Oak Forest, IL office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "Building C",
+         "15350 Oak Park Ave, 2nd Floor"
+        ],
+        "city": "Oak Forest",
+        "region": "IL",
+        "postalCode": "60452",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Lombard, IL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16305209450",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "200 W 22nd St, Suite 229"
+        ],
+        "city": "Lombard",
+        "region": "IL",
+        "postalCode": "60148",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "D000096": {
+   "name": "Danny K. Davis",
+   "seat": "Representative, IL-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://davis.house.gov/",
+    "https://davis.house.gov/contact"
+   ],
+   "notes": "Offices match. The contact page prints a press mailbox for media inquiries; not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://davisforms.house.gov/contact/",
+     "source": "https://davis.house.gov/contact",
+     "evidence": "'Send an e-mail to Congressman Davis: Click here to send an e-mail Message to Congressman Danny K. Davis (7th District residents only)'; behind a residency check, so its topic list could not be read."
+    }
+   ]
+  },
+  "K000391": {
+   "name": "Raja Krishnamoorthi",
+   "seat": "Representative, IL-8",
+   "status": "verified",
+   "pagesChecked": [
+    "https://krishnamoorthi.house.gov/",
+    "https://krishnamoorthi.house.gov/contact/email"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://krishnamoorthi.house.gov/contact/email",
+     "source": "https://krishnamoorthi.house.gov/contact/email",
+     "evidence": "'You can enter your zip code below to send as an email'; the form loads in an iframe behind this ZIP step, so its topic list could not be read."
+    }
+   ]
+  }
+ }
+}

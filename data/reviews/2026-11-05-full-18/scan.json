@@ -1,0 +1,1966 @@
+{
+ "G000608": {
+  "id": "G000608",
+  "name": "Darline Graham",
+  "seat": "Senator, SC",
+  "pages": [
+   {
+    "url": "https://www.dgraham.senate.gov",
+    "final": "https://www.dgraham.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.dgraham.senate.gov/contact/",
+    "final": "https://www.dgraham.senate.gov/contact/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.dgraham.senate.gov/contact/offices/",
+    "final": "https://www.dgraham.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.dgraham.senate.gov/offices/",
+    "final": "https://www.dgraham.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.dgraham.senate.gov/office-locations/",
+    "final": "https://www.dgraham.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.dgraham.senate.gov",
+   "https://www.dgraham.senate.gov/contact/",
+   "https://www.dgraham.senate.gov/contact/offices/",
+   "https://www.dgraham.senate.gov/offices/",
+   "https://www.dgraham.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [
+   "+12022245972"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 211 Russell Senate Office Building"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "S001184": {
+  "id": "S001184",
+  "name": "Tim Scott",
+  "seat": "Senator, SC",
+  "pages": [
+   {
+    "url": "https://www.scott.senate.gov",
+    "final": "https://www.scott.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.scott.senate.gov/contact/",
+    "final": "https://www.scott.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.scott.senate.gov/contact/offices/",
+    "final": "https://www.scott.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.scott.senate.gov/offices/",
+    "final": "https://www.scott.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.scott.senate.gov/office-locations/",
+    "final": "https://www.scott.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.scott.senate.gov/contact/email-me",
+    "final": "https://www.scott.senate.gov/contact/email-me/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.scott.senate.gov",
+   "https://www.scott.senate.gov/contact/offices/",
+   "https://www.scott.senate.gov/offices/",
+   "https://www.scott.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.scott.senate.gov/contact/email-me/",
+    "positive": [
+     "comment",
+     "issue",
+     "legislation",
+     "opinion",
+     "topic"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "flag request",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "M000194": {
+  "id": "M000194",
+  "name": "Nancy Mace",
+  "seat": "Representative, SC-1",
+  "pages": [
+   {
+    "url": "https://mace.house.gov",
+    "final": "https://mace.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mace.house.gov/contact/",
+    "final": "https://mace.house.gov/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://mace.house.gov/how-are-we-doing/",
+    "final": "https://mace.house.gov/how-are-we-doing",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mace.house.gov/contact/offices/",
+    "final": "https://mace.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mace.house.gov/contact/sunday-sunsets/",
+    "final": "https://mace.house.gov/contact/sunday-sunsets",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://mace.house.gov/contact/district-dogs/",
+    "final": "https://mace.house.gov/contact/district-dogs",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://mace.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://mace.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mace.house.gov/contact/offices/beaufort-office/",
+    "final": "https://mace.house.gov/contact/offices/beaufort-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mace.house.gov/contact/offices/daniel-island-office/",
+    "final": "https://mace.house.gov/contact/offices/daniel-island-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://mace.house.gov/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://mace.house.gov/contact/sunday-sunsets",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://mace.house.gov/contact/district-dogs",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "W000795": {
+  "id": "W000795",
+  "name": "Joe Wilson",
+  "seat": "Representative, SC-2",
+  "pages": [
+   {
+    "url": "https://joewilson.house.gov",
+    "final": "https://joewilson.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://joewilson.house.gov/contact/",
+    "final": "https://joewilson.house.gov/zip_authentication?form=/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://joewilson.house.gov/contact/offices/",
+    "final": "https://joewilson.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://joewilson.house.gov/contact/invite-me-to-speak/",
+    "final": "https://joewilson.house.gov/contact/invite-me-to-speak",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://joewilson.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://joewilson.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://joewilson.house.gov/contact/offices/aikenbarnwell-office/",
+    "final": "https://joewilson.house.gov/contact/offices/aikenbarnwell-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://joewilson.house.gov/contact/offices/midlands-office/",
+    "final": "https://joewilson.house.gov/contact/offices/midlands-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://joewilson.house.gov/zip_authentication?form=/contact",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://joewilson.house.gov/contact/invite-me-to-speak",
+    "positive": [
+     "issue",
+     "legislation",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "B001325": {
+  "id": "B001325",
+  "name": "Sheri Biggs",
+  "seat": "Representative, SC-3",
+  "pages": [
+   {
+    "url": "https://sheribiggs.house.gov",
+    "final": "https://sheribiggs.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sheribiggs.house.gov/contact/email-me/",
+    "final": "https://sheribiggs.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://sheribiggs.house.gov/contact/",
+    "final": "https://sheribiggs.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sheribiggs.house.gov/contact/office-locations/",
+    "final": "https://sheribiggs.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sheribiggs.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://sheribiggs.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://sheribiggs.house.gov/contact/offices/anderson-district-office/",
+    "final": "https://sheribiggs.house.gov/contact/offices/anderson-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://sheribiggs.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "T000480": {
+  "id": "T000480",
+  "name": "William R. Timmons IV",
+  "seat": "Representative, SC-4",
+  "pages": [
+   {
+    "url": "https://timmons.house.gov",
+    "final": "https://timmons.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://timmons.house.gov/contact/",
+    "final": "https://timmons.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://timmons.house.gov/forms/emailsignup/",
+    "final": "https://timmons.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://timmons.house.gov/contact/offices.htm",
+    "final": "https://timmons.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "http://timmons.house.gov/contact/offices.htm",
+    "final": "https://timmons.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "http://timmons.house.gov/contact/",
+    "final": "https://timmons.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://timmons.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://timmons.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "N000190": {
+  "id": "N000190",
+  "name": "Ralph Norman",
+  "seat": "Representative, SC-5",
+  "pages": [
+   {
+    "url": "https://norman.house.gov",
+    "final": "https://norman.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://norman.house.gov/forms/emailsignup/",
+    "final": "https://norman.house.gov/forms/form/?ID=9",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://norman.house.gov/contact/",
+    "final": "https://norman.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://norman.house.gov/contact/office-locations.htm",
+    "final": "https://norman.house.gov/contact/office-locations.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://norman.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "C000537": {
+  "id": "C000537",
+  "name": "James E. Clyburn",
+  "seat": "Representative, SC-6",
+  "pages": [
+   {
+    "url": "https://clyburn.house.gov",
+    "final": "https://clyburn.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://clyburn.house.gov/get-in-touch/",
+    "final": "https://clyburn.house.gov/get-in-touch/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://clyburn.house.gov/share-your-story/",
+    "final": "https://clyburn.house.gov/share-your-story/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "F000478": {
+  "id": "F000478",
+  "name": "Russell Fry",
+  "seat": "Representative, SC-7",
+  "pages": [
+   {
+    "url": "https://fry.house.gov",
+    "final": "https://fry.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fry.house.gov/contact/",
+    "final": "https://fry.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://fry.house.gov/forms/emailsignup/",
+    "final": "https://fry.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fry.house.gov/contact/offices.htm",
+    "final": "https://fry.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Florence, SC office: 1831 West Evans Street, Suite 300"
+  ],
+  "forms": [
+   {
+    "url": "https://fry.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "R000605": {
+  "id": "R000605",
+  "name": "Mike Rounds",
+  "seat": "Senator, SD",
+  "pages": [
+   {
+    "url": "https://www.rounds.senate.gov",
+    "final": "https://www.rounds.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.rounds.senate.gov/contact/",
+    "final": "https://www.rounds.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.rounds.senate.gov/contact/offices/",
+    "final": "https://www.rounds.senate.gov/404?notfound=/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.rounds.senate.gov/offices/",
+    "final": "https://www.rounds.senate.gov/404?notfound=/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.rounds.senate.gov/office-locations/",
+    "final": "https://www.rounds.senate.gov/404?notfound=/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.rounds.senate.gov/contact/email-mike",
+    "final": "https://www.rounds.senate.gov/contact/email-mike",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.rounds.senate.gov/contact/rounds-up/",
+    "final": "https://www.rounds.senate.gov/contact/rounds-up/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.rounds.senate.gov/contact/office-locations/",
+    "final": "https://www.rounds.senate.gov/contact/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.rounds.senate.gov",
+   "https://www.rounds.senate.gov/contact/offices/",
+   "https://www.rounds.senate.gov/offices/",
+   "https://www.rounds.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+18448755268"
+  ],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 716 Hart Senate Office Building"
+  ],
+  "forms": [
+   {
+    "url": "https://www.rounds.senate.gov/contact/email-mike",
+    "positive": [
+     "comment",
+     "issue",
+     "legislation",
+     "opinion",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "T000250": {
+  "id": "T000250",
+  "name": "John Thune",
+  "seat": "Senator, SD",
+  "pages": [
+   {
+    "url": "https://www.thune.senate.gov",
+    "final": "https://www.thune.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.thune.senate.gov/contact/",
+    "final": "https://www.thune.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.thune.senate.gov/contact/offices/",
+    "final": "https://www.thune.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.thune.senate.gov/offices/",
+    "final": "https://www.thune.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.thune.senate.gov/office-locations/",
+    "final": "https://www.thune.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.thune.senate.gov/public/index.cfm/contact",
+    "final": "https://www.thune.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.thune.senate.gov/contact/email-senator-thune/",
+    "final": "https://www.thune.senate.gov/contact/email-senator-thune/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.thune.senate.gov/contact/sign-up-for-updates/",
+    "final": "https://www.thune.senate.gov/contact/sign-up-for-updates/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.thune.senate.gov/news/opinion-editorials/",
+    "final": "https://www.thune.senate.gov/news/opinion-editorials/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.thune.senate.gov",
+   "https://www.thune.senate.gov/contact/offices/",
+   "https://www.thune.senate.gov/offices/",
+   "https://www.thune.senate.gov/office-locations/",
+   "https://www.thune.senate.gov/news/opinion-editorials/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+18668503855"
+  ],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 511 Dirksen Senate Office Building"
+  ],
+  "forms": [
+   {
+    "url": "https://www.thune.senate.gov/contact/email-senator-thune/",
+    "positive": [
+     "comment",
+     "concern",
+     "issue",
+     "legislation",
+     "opinion",
+     "topic"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request"
+    ]
+   },
+   {
+    "url": "https://www.thune.senate.gov/contact/sign-up-for-updates/",
+    "positive": [
+     "issue",
+     "legislation",
+     "opinion"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "J000301": {
+  "id": "J000301",
+  "name": "Dusty Johnson",
+  "seat": "Representative, SD-0",
+  "pages": [
+   {
+    "url": "https://dustyjohnson.house.gov",
+    "final": "https://dustyjohnson.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://dustyjohnson.house.gov/contact/",
+    "final": "https://dustyjohnson.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://dustyjohnson.house.gov/contact/email-me/",
+    "final": "https://dustyjohnson.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://dustyjohnson.house.gov/contact/offices/",
+    "final": "https://dustyjohnson.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://dustyjohnson.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://dustyjohnson.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://dustyjohnson.house.gov/contact/offices/aberdeen-district-office/",
+    "final": "https://dustyjohnson.house.gov/contact/offices/aberdeen-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://dustyjohnson.house.gov/contact/offices/rapid-city-district-office/",
+    "final": "https://dustyjohnson.house.gov/contact/offices/rapid-city-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://dustyjohnson.house.gov/contact/offices/sioux-falls-district-office/",
+    "final": "https://dustyjohnson.house.gov/contact/offices/sioux-falls-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://dustyjohnson.house.gov/address_authentication/",
+    "final": "https://dustyjohnson.house.gov/address_authentication",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://dustyjohnson.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://dustyjohnson.house.gov/address_authentication",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "B001243": {
+  "id": "B001243",
+  "name": "Marsha Blackburn",
+  "seat": "Senator, TN",
+  "pages": [
+   {
+    "url": "https://www.blackburn.senate.gov",
+    "final": "https://www.blackburn.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.blackburn.senate.gov/contact/",
+    "final": "https://www.blackburn.senate.gov/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.blackburn.senate.gov/contact/offices/",
+    "final": "https://www.blackburn.senate.gov/contact/offices",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.blackburn.senate.gov/offices/",
+    "final": "https://www.blackburn.senate.gov/offices",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.blackburn.senate.gov/office-locations/",
+    "final": "https://www.blackburn.senate.gov/office-locations",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.blackburn.senate.gov/email-me",
+    "final": "https://www.blackburn.senate.gov/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.blackburn.senate.gov/call-me/",
+    "final": "https://www.blackburn.senate.gov/call-me",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.blackburn.senate.gov",
+   "https://www.blackburn.senate.gov/contact/offices/",
+   "https://www.blackburn.senate.gov/offices/",
+   "https://www.blackburn.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.blackburn.senate.gov/email-me",
+    "positive": [
+     "comment",
+     "concern",
+     "issue"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "tour request"
+    ]
+   },
+   {
+    "url": "https://www.blackburn.senate.gov/email-me",
+    "positive": [
+     "comment",
+     "concern",
+     "issue"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "H000601": {
+  "id": "H000601",
+  "name": "Bill Hagerty",
+  "seat": "Senator, TN",
+  "pages": [
+   {
+    "url": "https://www.hagerty.senate.gov",
+    "final": "https://www.hagerty.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.hagerty.senate.gov/contact/",
+    "final": "https://www.hagerty.senate.gov/contact-bill/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.hagerty.senate.gov/contact/offices/",
+    "final": "https://www.hagerty.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.hagerty.senate.gov/offices/",
+    "final": "https://www.hagerty.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.hagerty.senate.gov/office-locations/",
+    "final": "https://www.hagerty.senate.gov/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.hagerty.senate.gov/email-me/",
+    "final": "https://www.hagerty.senate.gov/email-me/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.hagerty.senate.gov/comments/feed/",
+    "final": "https://www.hagerty.senate.gov/comments/feed/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.hagerty.senate.gov",
+   "https://www.hagerty.senate.gov/contact/offices/",
+   "https://www.hagerty.senate.gov/offices/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Washington, DC: 251 Russell Senate Office Building"
+  ],
+  "forms": [
+   {
+    "url": "https://www.hagerty.senate.gov/email-me/",
+    "positive": [
+     "comment",
+     "issue",
+     "legislation",
+     "opinion"
+    ],
+    "negative": [
+     "casework",
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "H001086": {
+  "id": "H001086",
+  "name": "Diana Harshbarger",
+  "seat": "Representative, TN-1",
+  "pages": [
+   {
+    "url": "https://harshbarger.house.gov",
+    "final": "https://harshbarger.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://harshbarger.house.gov/contact/",
+    "final": "https://harshbarger.house.gov/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://harshbarger.house.gov/contact/offices/",
+    "final": "https://harshbarger.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://harshbarger.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://harshbarger.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://harshbarger.house.gov/contact/offices/morristown-district-office/",
+    "final": "https://harshbarger.house.gov/contact/offices/morristown-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://harshbarger.house.gov/contact/offices/kingsport-district-office/",
+    "final": "https://harshbarger.house.gov/contact/offices/kingsport-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://harshbarger.house.gov/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "B001309": {
+  "id": "B001309",
+  "name": "Tim Burchett",
+  "seat": "Representative, TN-2",
+  "pages": [
+   {
+    "url": "https://burchett.house.gov",
+    "final": "https://burchett.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://burchett.house.gov/contact/",
+    "final": "https://burchett.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://burchett.house.gov/contact/email-me/",
+    "final": "https://burchett.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://burchett.house.gov/contact/offices/",
+    "final": "https://burchett.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://burchett.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://burchett.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://burchett.house.gov/contact/offices/knoxville-district-office/",
+    "final": "https://burchett.house.gov/contact/offices/knoxville-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://burchett.house.gov/contact/offices/maryville-district-office-appointment-only/",
+    "final": "https://burchett.house.gov/contact/offices/maryville-district-office-appointment-only",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://burchett.house.gov/contact/office-locations/",
+    "final": "https://burchett.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [
+   "+18659845464"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://burchett.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation",
+     "opinion"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "F000459": {
+  "id": "F000459",
+  "name": "Charles J. \"Chuck\" Fleischmann",
+  "seat": "Representative, TN-3",
+  "pages": [
+   {
+    "url": "https://fleischmann.house.gov",
+    "final": "https://fleischmann.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fleischmann.house.gov/contact/",
+    "final": "https://fleischmann.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fleischmann.house.gov/contact/email/",
+    "final": "https://fleischmann.house.gov/address_authentication?form=/contact/email",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://fleischmann.house.gov/contact/offices/chattanooga-tn/",
+    "final": "https://fleischmann.house.gov/contact/offices/chattanooga-tn",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fleischmann.house.gov/contact/offices/washington-dc/",
+    "final": "https://fleischmann.house.gov/contact/offices/washington-dc",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fleischmann.house.gov/contact/offices/",
+    "final": "https://fleischmann.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fleischmann.house.gov/contact/office-locations/",
+    "final": "https://fleischmann.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [
+   "+14237454671",
+   "+18655761976"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Athens, TN office: 6 E. Madison Ave.",
+   "Oak Ridge, TN office: 200 Administration Rd., Suite 100"
+  ],
+  "forms": [
+   {
+    "url": "https://fleischmann.house.gov/address_authentication?form=/contact/email",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "D000616": {
+  "id": "D000616",
+  "name": "Scott DesJarlais",
+  "seat": "Representative, TN-4",
+  "pages": [
+   {
+    "url": "https://desjarlais.house.gov",
+    "final": "https://desjarlais.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://desjarlais.house.gov/contact/",
+    "final": "https://desjarlais.house.gov/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://desjarlais.house.gov/email-me/",
+    "final": "https://desjarlais.house.gov/email-me/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://desjarlais.house.gov/office-locations/",
+    "final": "https://desjarlais.house.gov/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://desjarlais.house.gov/email-me",
+    "positive": [
+     "issue",
+     "legislation",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://desjarlais.house.gov/email-me/",
+    "positive": [
+     "issue",
+     "legislation",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "O000175": {
+  "id": "O000175",
+  "name": "Andrew Ogles",
+  "seat": "Representative, TN-5",
+  "pages": [
+   {
+    "url": "https://ogles.house.gov",
+    "final": "https://ogles.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ogles.house.gov/contact/",
+    "final": "https://ogles.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://ogles.house.gov/contact/offices/",
+    "final": "https://ogles.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ogles.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://ogles.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ogles.house.gov/contact/offices/columbia-district-office/",
+    "final": "https://ogles.house.gov/contact/offices/columbia-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ogles.house.gov/contact/office-locations/",
+    "final": "https://ogles.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://ogles.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "R000612": {
+  "id": "R000612",
+  "name": "John W. Rose",
+  "seat": "Representative, TN-6",
+  "pages": [
+   {
+    "url": "https://johnrose.house.gov",
+    "final": "https://johnrose.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://johnrose.house.gov/contact/",
+    "final": "https://johnrose.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://johnrose.house.gov/contact/offices/",
+    "final": "https://johnrose.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://johnrose.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://johnrose.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://johnrose.house.gov/contact/offices/cookeville-district-office/",
+    "final": "https://johnrose.house.gov/contact/offices/cookeville-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://johnrose.house.gov/contact/offices/gallatin-district-office/",
+    "final": "https://johnrose.house.gov/contact/offices/gallatin-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://johnrose.house.gov/contact/office-locations/",
+    "final": "https://johnrose.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://johnrose.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "V000139": {
+  "id": "V000139",
+  "name": "Matt Van Epps",
+  "seat": "Representative, TN-7",
+  "pages": [
+   {
+    "url": "https://vanepps.house.gov",
+    "final": "https://vanepps.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vanepps.house.gov/contact/",
+    "final": "https://vanepps.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vanepps.house.gov/contact/email-me/",
+    "final": "https://vanepps.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://vanepps.house.gov/contact/office-locations/",
+    "final": "https://vanepps.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vanepps.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://vanepps.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vanepps.house.gov/contact/offices/clarksville-district-office/",
+    "final": "https://vanepps.house.gov/contact/offices/clarksville-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vanepps.house.gov/contact/offices/franklin-district-office/",
+    "final": "https://vanepps.house.gov/contact/offices/franklin-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [
+   "+16299994950"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Nashville, TN office: 801 Broadway, Suite C 507"
+  ],
+  "forms": [
+   {
+    "url": "https://vanepps.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "K000392": {
+  "id": "K000392",
+  "name": "David Kustoff",
+  "seat": "Representative, TN-8",
+  "pages": [
+   {
+    "url": "https://kustoff.house.gov",
+    "final": "https://kustoff.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kustoff.house.gov/contact/",
+    "final": "https://kustoff.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://kustoff.house.gov/contact/email/",
+    "final": "https://kustoff.house.gov/address_authentication?form=/contact/email",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://kustoff.house.gov/contact/offices/",
+    "final": "https://kustoff.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kustoff.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://kustoff.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kustoff.house.gov/contact/offices/memphis-district-office/",
+    "final": "https://kustoff.house.gov/contact/offices/memphis-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kustoff.house.gov/contact/offices/jackson-district-office/",
+    "final": "https://kustoff.house.gov/contact/offices/jackson-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kustoff.house.gov/contact/offices/martin-district-office/",
+    "final": "https://kustoff.house.gov/contact/offices/martin-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kustoff.house.gov/contact/office-locations/",
+    "final": "https://kustoff.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://kustoff.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://kustoff.house.gov/address_authentication?form=/contact/email",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "C001068": {
+  "id": "C001068",
+  "name": "Steve Cohen",
+  "seat": "Representative, TN-9",
+  "pages": [
+   {
+    "url": "https://cohen.house.gov",
+    "final": "https://cohen.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://cohen.house.gov/contact/",
+    "final": "https://cohen.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://cohen.house.gov/contact/offices/",
+    "final": "https://cohen.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://cohen.house.gov/contact/email/",
+    "final": "https://cohen.house.gov/address_authentication?form=/contact/email",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://cohen.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://cohen.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://cohen.house.gov/contact/offices/memphis-office/",
+    "final": "https://cohen.house.gov/contact/offices/memphis-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://cohen.house.gov/address_authentication?form=/contact/email",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "meeting request",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "C001056": {
+  "id": "C001056",
+  "name": "John Cornyn",
+  "seat": "Senator, TX",
+  "pages": [
+   {
+    "url": "https://www.cornyn.senate.gov",
+    "final": "https://www.cornyn.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cornyn.senate.gov/contact/",
+    "final": "https://www.cornyn.senate.gov/contact-john-cornyn/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cornyn.senate.gov/contact/offices/",
+    "final": "https://www.cornyn.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cornyn.senate.gov/offices/",
+    "final": "https://www.cornyn.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cornyn.senate.gov/office-locations/",
+    "final": "https://www.cornyn.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cornyn.senate.gov/contact-john-cornyn/",
+    "final": "https://www.cornyn.senate.gov/contact-john-cornyn/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cornyn.senate.gov/es-mx/pngase-en-contacto-con-john-cornyn/",
+    "final": "https://www.cornyn.senate.gov/es-mx/pngase-en-contacto-con-john-cornyn/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cornyn.senate.gov/share-opinion/",
+    "final": "https://www.cornyn.senate.gov/share-opinion/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.cornyn.senate.gov/contact-john-cornyn/{{{data.link}}}/",
+    "final": "https://www.cornyn.senate.gov/contact-john-cornyn/{{{data.link}}}/",
+    "status": 0,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.cornyn.senate.gov",
+   "https://www.cornyn.senate.gov/contact/offices/",
+   "https://www.cornyn.senate.gov/offices/",
+   "https://www.cornyn.senate.gov/office-locations/",
+   "https://www.cornyn.senate.gov/contact-john-cornyn/{{{data.link}}}/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.cornyn.senate.gov/share-opinion/",
+    "positive": [
+     "issue",
+     "opinion",
+     "share your",
+     "topic"
+    ],
+    "negative": [
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "C001098": {
+  "id": "C001098",
+  "name": "Ted Cruz",
+  "seat": "Senator, TX",
+  "pages": [
+   {
+    "url": "https://www.cruz.senate.gov",
+    "final": "https://www.cruz.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cruz.senate.gov/contact/",
+    "final": "https://www.cruz.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cruz.senate.gov/contact/offices/",
+    "final": "https://www.cruz.senate.gov/404?notfound=/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cruz.senate.gov/offices/",
+    "final": "https://www.cruz.senate.gov/404?notfound=/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cruz.senate.gov/office-locations/",
+    "final": "https://www.cruz.senate.gov/404?notfound=/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cruz.senate.gov/?p=form&id=16",
+    "final": "https://www.cruz.senate.gov/?p=form&id=16",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cruz.senate.gov/contact/write-ted/",
+    "final": "https://www.cruz.senate.gov/contact/write-ted/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.cruz.senate.gov/contact/office-locations/",
+    "final": "https://www.cruz.senate.gov/contact/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.cruz.senate.gov",
+   "https://www.cruz.senate.gov/contact/offices/",
+   "https://www.cruz.senate.gov/offices/",
+   "https://www.cruz.senate.gov/office-locations/",
+   "https://www.cruz.senate.gov/?p=form&id=16"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.cruz.senate.gov/contact/write-ted/",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": [
+   "central_texas@cruz.senate.gov",
+   "east_texas@cruz.senate.gov",
+   "north_texas@cruz.senate.gov",
+   "south_texas@cruz.senate.gov",
+   "southcentral_texas@cruz.senate.gov",
+   "southeast_texas@cruz.senate.gov",
+   "west_texas@cruz.senate.gov"
+  ]
+ }
+}

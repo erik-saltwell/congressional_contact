@@ -1,0 +1,2261 @@
+{
+ "batch": "2026-11-05-full-15",
+ "createdAt": "2026-11-05",
+ "dataGeneratedAt": "2026-11-05T19:36:17Z",
+ "officials": {
+  "J000294": {
+   "seat": "Representative, NY-8",
+   "published": {
+    "name": {
+     "full": "Hakeem S. Jeffries",
+     "given": "Hakeem",
+     "family": "Jeffries",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NY",
+    "district": 8,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255936",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2267 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3208",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Brooklyn, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17183730033",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "445 Neptune Ave, 1st Floor, Community Room 2C"
+       ],
+       "city": "Brooklyn",
+       "region": "NY",
+       "postalCode": "11224",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Brooklyn, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17182372211",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "55 Hanson Pl., Suite 603"
+       ],
+       "city": "Brooklyn",
+       "region": "NY",
+       "postalCode": "11217",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://jeffries.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://jeffries.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001067": {
+   "seat": "Representative, NY-9",
+   "published": {
+    "name": {
+     "full": "Yvette D. Clarke",
+     "given": "Yvette",
+     "family": "Clarke",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NY",
+    "district": 9,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256231",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2058 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3209",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Brooklyn, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17182871142",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "222 Lenox Rd., Suites 1 & 2"
+       ],
+       "city": "Brooklyn",
+       "region": "NY",
+       "postalCode": "11226",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://clarke.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://clarke.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000599": {
+   "seat": "Representative, NY-10",
+   "published": {
+    "name": {
+     "full": "Daniel S. Goldman",
+     "given": "Dan",
+     "family": "Goldman",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NY",
+    "district": 10,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022257944",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "245 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3210",
+       "country": "US"
+      }
+     },
+     {
+      "label": "New York, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12128227878",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Ted Weiss Federal Building",
+        "290 Broadway, Suite 291"
+       ],
+       "city": "New York",
+       "region": "NY",
+       "postalCode": "10007",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Brooklyn, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17183127575",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Industry City",
+        "254 36 Street, B-329"
+       ],
+       "city": "Brooklyn",
+       "region": "NY",
+       "postalCode": "11232",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://goldman.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://goldman.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M000317": {
+   "seat": "Representative, NY-11",
+   "published": {
+    "name": {
+     "full": "Nicole Malliotakis",
+     "given": "Nicole",
+     "family": "Malliotakis",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NY",
+    "district": 11,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253371",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1124 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3211",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Staten Island, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17185682870",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1698 Victory Blvd, Suite 2L"
+       ],
+       "city": "Staten Island",
+       "region": "NY",
+       "postalCode": "10314",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Brooklyn, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17183061620",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "7716 Third Avenue"
+       ],
+       "city": "Brooklyn",
+       "region": "NY",
+       "postalCode": "11209",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://malliotakis.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://malliotakis.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "N000002": {
+   "seat": "Representative, NY-12",
+   "published": {
+    "name": {
+     "full": "Jerrold Nadler",
+     "given": "Jerrold",
+     "family": "Nadler",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NY",
+    "district": 12,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255635",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2132 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3212",
+       "country": "US"
+      }
+     },
+     {
+      "label": "New York, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12123677350",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "201 Varick St., Suite 669"
+       ],
+       "city": "New York",
+       "region": "NY",
+       "postalCode": "10014",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://nadler.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://nadler.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "E000297": {
+   "seat": "Representative, NY-13",
+   "published": {
+    "name": {
+     "full": "Adriano Espaillat",
+     "given": "Adriano",
+     "family": "Espaillat",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NY",
+    "district": 13,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254365",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2332 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3213",
+       "country": "US"
+      }
+     },
+     {
+      "label": "New York, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12126633900",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Harlem State Office Building",
+        "163 West 125th Street, #508"
+       ],
+       "city": "New York",
+       "region": "NY",
+       "postalCode": "10027",
+       "country": "US"
+      }
+     },
+     {
+      "label": "New York, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12124975959",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "720 West 181st Street, Suite 2"
+       ],
+       "city": "New York",
+       "region": "NY",
+       "postalCode": "10033",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bronx, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16467403632",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3107 Kingsbridge Avenue"
+       ],
+       "city": "Bronx",
+       "region": "NY",
+       "postalCode": "10463",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://espaillat.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://espaillat.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "O000172": {
+   "seat": "Representative, NY-14",
+   "published": {
+    "name": {
+     "full": "Alexandria Ocasio-Cortez",
+     "given": "Alexandria",
+     "family": "Ocasio-Cortez",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NY",
+    "district": 14,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253965",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "250 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3214",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bronx, NY office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "1231 Lafayette Ave, Suite L-610"
+       ],
+       "city": "Bronx",
+       "region": "NY",
+       "postalCode": "10474",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Queens, NY office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "30-83 31st Street"
+       ],
+       "city": "Queens",
+       "region": "NY",
+       "postalCode": "11102",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://ocasio-cortez.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://ocasio-cortez.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "T000486": {
+   "seat": "Representative, NY-15",
+   "published": {
+    "name": {
+     "full": "Ritchie Torres",
+     "given": "Ritchie",
+     "family": "Torres",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NY",
+    "district": 15,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254361",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1414 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3215",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bronx, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17185039610",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "540 E Fordham Rd., Suite 2A"
+       ],
+       "city": "Bronx",
+       "region": "NY",
+       "postalCode": "10458",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://ritchietorres.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://ritchietorres.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000606": {
+   "seat": "Representative, NY-16",
+   "published": {
+    "name": {
+     "full": "George Latimer",
+     "given": "George",
+     "family": "Latimer",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NY",
+    "district": 16,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252464",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1507 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3216",
+       "country": "US"
+      }
+     },
+     {
+      "label": "White Plains, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19143235550",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "222 Mamaroneck Ave, Suite 312"
+       ],
+       "city": "White Plains",
+       "region": "NY",
+       "postalCode": "10605",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bronx, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17185307888",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "177 Dreiser Loop, Room 3"
+       ],
+       "city": "Bronx",
+       "region": "NY",
+       "postalCode": "10475",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://latimer.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://latimer.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000599": {
+   "seat": "Representative, NY-17",
+   "published": {
+    "name": {
+     "full": "Michael Lawler",
+     "given": "Michael",
+     "family": "Lawler",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NY",
+    "district": 17,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256506",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "324 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3217",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Mahopac, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18457437130",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "60 McAlpin Ave"
+       ],
+       "city": "Mahopac",
+       "region": "NY",
+       "postalCode": "10541",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Pearl River, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18452012060",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "One Blue Hill Plaza, Third Floor"
+       ],
+       "city": "Pearl River",
+       "region": "NY",
+       "postalCode": "10965",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://lawler.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://lawler.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "R000579": {
+   "seat": "Representative, NY-18",
+   "published": {
+    "name": {
+     "full": "Patrick Ryan",
+     "given": "Patrick",
+     "family": "Ryan",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NY",
+    "district": 18,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255614",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1708 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3218",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Kingston, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18454432930",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "307 Wall Street, #6"
+       ],
+       "city": "Kingston",
+       "region": "NY",
+       "postalCode": "12401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Newburgh, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18454432930",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "605 Broadway"
+       ],
+       "city": "Newburgh",
+       "region": "NY",
+       "postalCode": "12550",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Poughkeepsie, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18454432930",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "12 Raymond Avenue, Suite 105"
+       ],
+       "city": "Poughkeepsie",
+       "region": "NY",
+       "postalCode": "12603",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://patryan.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://patryan.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "R000622": {
+   "seat": "Representative, NY-19",
+   "published": {
+    "name": {
+     "full": "Josh Riley",
+     "given": "Josh",
+     "family": "Riley",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NY",
+    "district": 19,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255441",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "128 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3219",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Binghamton, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16072420200",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "49 Court St, Suite 210"
+       ],
+       "city": "Binghamton",
+       "region": "NY",
+       "postalCode": "13901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Leeds, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15186252100",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "49 Gilfeather Park Rd, Unit 1"
+       ],
+       "city": "Leeds",
+       "region": "NY",
+       "postalCode": "12451",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://riley.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://riley.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "T000469": {
+   "seat": "Representative, NY-20",
+   "published": {
+    "name": {
+     "full": "Paul Tonko",
+     "given": "Paul",
+     "family": "Tonko",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NY",
+    "district": 20,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255076",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2269 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3220",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Albany, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15184650700",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "19 Dove Street, Suite 302"
+       ],
+       "city": "Albany",
+       "region": "NY",
+       "postalCode": "12210",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Saratoga Springs, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15183744547",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "433 Broadway, Suite 201"
+       ],
+       "city": "Saratoga Springs",
+       "region": "NY",
+       "postalCode": "12866",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://tonko.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://tonko.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001196": {
+   "seat": "Representative, NY-21",
+   "published": {
+    "name": {
+     "full": "Elise M. Stefanik",
+     "given": "Elise",
+     "family": "Stefanik",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NY",
+    "district": 21,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254611",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2211 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3221",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Herkimer, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13152198005",
+        "type": "voice"
+       }
+      ],
+      "address": null
+     },
+     {
+      "label": "Plattsburgh, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15185612324",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "137 Margaret Street, Suite 100"
+       ],
+       "city": "Plattsburgh",
+       "region": "NY",
+       "postalCode": "12901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Ogdensburg, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13155412670",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "330 Ford Street, Suite B8"
+       ],
+       "city": "Ogdensburg",
+       "region": "NY",
+       "postalCode": "13669",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://stefanik.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://stefanik.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001231": {
+   "seat": "Representative, NY-22",
+   "published": {
+    "name": {
+     "full": "John W. Mannion",
+     "given": "John",
+     "family": "Mannion",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NY",
+    "district": 22,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253701",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1516 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3222",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Syracuse, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13152334333",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "440 South Warren St, Suite 706"
+       ],
+       "city": "Syracuse",
+       "region": "NY",
+       "postalCode": "13202",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mannion.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mannion.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000600": {
+   "seat": "Representative, NY-23",
+   "published": {
+    "name": {
+     "full": "Nicholas A. Langworthy",
+     "given": "Nicholas",
+     "family": "Langworthy",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NY",
+    "district": 23,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253161",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "422 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3223",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Williamsville, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17165476844",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "8201 Main Street, Suite 13"
+       ],
+       "city": "Williamsville",
+       "region": "NY",
+       "postalCode": "14221",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Jamestown, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17164888111",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "The Fenton Building",
+        "2-6 East Second Street, Room 208"
+       ],
+       "city": "Jamestown",
+       "region": "NY",
+       "postalCode": "14701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Olean, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15855435033",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1 Bluebird Square"
+       ],
+       "city": "Olean",
+       "region": "NY",
+       "postalCode": "14760",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Corning, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16073773130",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "89 W. Market Street"
+       ],
+       "city": "Corning",
+       "region": "NY",
+       "postalCode": "14830",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://langworthy.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://langworthy.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "T000478": {
+   "seat": "Representative, NY-24",
+   "published": {
+    "name": {
+     "full": "Claudia Tenney",
+     "given": "Claudia",
+     "family": "Tenney",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "NY",
+    "district": 24,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253665",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2230 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3224",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Oswego, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13152367088",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "46 E Bridge Street, Suite 102"
+       ],
+       "city": "Oswego",
+       "region": "NY",
+       "postalCode": "13126",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Watertown, NY office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "317 Washington Street, Suite 418"
+       ],
+       "city": "Watertown",
+       "region": "NY",
+       "postalCode": "13601",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lockport, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17165145130",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "169 Niagara Street"
+       ],
+       "city": "Lockport",
+       "region": "NY",
+       "postalCode": "14094",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Canandaigua, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15858692060",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2375 Rochester Rd., Suite 250"
+       ],
+       "city": "Canandaigua",
+       "region": "NY",
+       "postalCode": "14424",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://tenney.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://tenney.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001206": {
+   "seat": "Representative, NY-25",
+   "published": {
+    "name": {
+     "full": "Joseph D. Morelle",
+     "given": "Joseph",
+     "family": "Morelle",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NY",
+    "district": 25,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253615",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "570 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3225",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rochester, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15852324850",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "255 East Ave., Suite 150"
+       ],
+       "city": "Rochester",
+       "region": "NY",
+       "postalCode": "14604",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://morelle.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://morelle.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "K000402": {
+   "seat": "Representative, NY-26",
+   "published": {
+    "name": {
+     "full": "Timothy M. Kennedy",
+     "given": "Timothy",
+     "family": "Kennedy",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "NY",
+    "district": 26,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253306",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "423 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3226",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Buffalo, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17168523501",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "726 Exchange Street, Suite 601"
+       ],
+       "city": "Buffalo",
+       "region": "NY",
+       "postalCode": "14210",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Niagara Falls, NY office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17162821274",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "800 Main Street, Suite 3C"
+       ],
+       "city": "Niagara Falls",
+       "region": "NY",
+       "postalCode": "14301",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://kennedy.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://kennedy.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001104": {
+   "seat": "Senator, OH",
+   "published": {
+    "name": {
+     "full": "Jon Husted",
+     "given": "Jon",
+     "family": "Husted",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "OH",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022243353",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "304 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Toledo, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15673043777",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "420 Madison Avenue, Suite 1210"
+       ],
+       "city": "Toledo",
+       "region": "OH",
+       "postalCode": "43604",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Columbus, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16143694925",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "John W. Bricker Federal Building, 200 North High Street, Suite 600"
+       ],
+       "city": "Columbus",
+       "region": "OH",
+       "postalCode": "43215",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Middletown, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15133181100",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "300 North Main Street, Suite 200"
+       ],
+       "city": "Middletown",
+       "region": "OH",
+       "postalCode": "45042",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cleveland, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12165397877",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1240 East 9th Street, 3061"
+       ],
+       "city": "Cleveland",
+       "region": "OH",
+       "postalCode": "44199",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.husted.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://www.husted.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001242": {
+   "seat": "Senator, OH",
+   "published": {
+    "name": {
+     "full": "Bernie Moreno",
+     "given": "Bernie",
+     "family": "Moreno",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "OH",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022242315",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "284 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Columbus, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16144692083",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Bricker Federal Building",
+        "200 North High St, Room 618"
+       ],
+       "city": "Columbus",
+       "region": "OH",
+       "postalCode": "43215",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cleveland, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12165227272",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Carl B. Stokes U.S. Courthouse",
+        "801 W Superior Ave, Suite 1400"
+       ],
+       "city": "Cleveland",
+       "region": "OH",
+       "postalCode": "44113",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cincinnati, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15136841021",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "John W. Peck Federal Building",
+        "550 Main St, Suite 10-273"
+       ],
+       "city": "Cincinnati",
+       "region": "OH",
+       "postalCode": "45202",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.moreno.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://www.moreno.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "L000601": {
+   "seat": "Representative, OH-1",
+   "published": {
+    "name": {
+     "full": "Greg Landsman",
+     "given": "Greg",
+     "family": "Landsman",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "OH",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252216",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2244 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lebanon, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15134096188",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "11 S Broadway St, Ste 301"
+       ],
+       "city": "Lebanon",
+       "region": "OH",
+       "postalCode": "45036",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cincinnati, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15138107988",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "961 E McMillan St, Ste C-1"
+       ],
+       "city": "Cincinnati",
+       "region": "OH",
+       "postalCode": "45206",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://landsman.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://landsman.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "T000490": {
+   "seat": "Representative, OH-2",
+   "published": {
+    "name": {
+     "full": "David J. Taylor",
+     "given": "David",
+     "family": "Taylor",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "OH",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253164",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "325 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3502",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cincinnati, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15134747777",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4350 Aicholtz Rd, Suite 110"
+       ],
+       "city": "Cincinnati",
+       "region": "OH",
+       "postalCode": "45245",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Peebles, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15136051380",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "170 North Main St"
+       ],
+       "city": "Peebles",
+       "region": "OH",
+       "postalCode": "45660",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Chillicothe, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17406727040",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "475 Western Ave B"
+       ],
+       "city": "Chillicothe",
+       "region": "OH",
+       "postalCode": "45601",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://taylor.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://taylor.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001281": {
+   "seat": "Representative, OH-3",
+   "published": {
+    "name": {
+     "full": "Joyce Beatty",
+     "given": "Joyce",
+     "family": "Beatty",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "OH",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254324",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2079 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3503",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Columbus, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16142200003",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "471 E. Broad St., Suite 1100"
+       ],
+       "city": "Columbus",
+       "region": "OH",
+       "postalCode": "43215",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://beatty.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://beatty.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "J000289": {
+   "seat": "Representative, OH-4",
+   "published": {
+    "name": {
+     "full": "Jim Jordan",
+     "given": "Jim",
+     "family": "Jordan",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "OH",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252676",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2056 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-3504",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lima, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14199996455",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3121 W. Elm Plz."
+       ],
+       "city": "Lima",
+       "region": "OH",
+       "postalCode": "45805",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Mansfield, OH office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14199828045",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "28 Park Avenue West, 100A"
+       ],
+       "city": "Mansfield",
+       "region": "OH",
+       "postalCode": "44902",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://jordan.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://jordan.house.gov"
+   },
+   "currentSupplement": null
+  }
+ }
+}

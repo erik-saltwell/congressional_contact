@@ -1,0 +1,1447 @@
+{
+ "batch": "2026-11-05-full-05",
+ "reviewedAt": "2026-11-05",
+ "officials": {
+  "H001081": {
+   "name": "Jahana Hayes",
+   "seat": "Representative, CT-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://hayes.house.gov/",
+    "https://hayes.house.gov/contact/",
+    "https://hayes.house.gov/email-me/",
+    "https://hayes.house.gov/offices/",
+    "https://hayes.house.gov/blog-posts/",
+    "https://hayes.house.gov/events/",
+    "https://hayes.house.gov/index.cfm/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://hayes.house.gov/email-me/",
+     "source": "https://hayes.house.gov/email-me/",
+     "evidence": "Email Me form with an issue list for comments on legislation; casework, federal agency help and newsletter are separate."
+    }
+   ]
+  },
+  "N000147": {
+   "name": "Eleanor Holmes Norton",
+   "seat": "Delegate, DC-0",
+   "status": "verified",
+   "pagesChecked": [
+    "https://norton.house.gov/",
+    "https://norton.house.gov/address_authentication?form=/contact/email-me",
+    "https://norton.house.gov/contact/offices",
+    "https://norton.house.gov/contact/offices/washington-dc-office",
+    "https://norton.house.gov/contact/offices/washington-district-office",
+    "https://norton.house.gov/contact/offices"
+   ],
+   "notes": "Re-confirmed the dry-run correction: form unchanged and offices match data/congress.json.",
+   "proposals": []
+  },
+  "B001303": {
+   "name": "Lisa Blunt Rochester",
+   "seat": "Senator, DE",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.bluntrochester.senate.gov/contact/",
+    "https://www.bluntrochester.senate.gov/contact/write-to-lbr/",
+    "https://www.bluntrochester.senate.gov/get-help/share-your-story/",
+    "https://www.bluntrochester.senate.gov/get-help/",
+    "https://www.bluntrochester.senate.gov/get-help/for-delawareans/visiting-dc/"
+   ],
+   "notes": "Homepage blocked (403). The (202) 707-0919 number is the Library of Congress visitor office, not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.bluntrochester.senate.gov/contact/write-to-lbr/",
+     "source": "https://www.bluntrochester.senate.gov/contact/write-to-lbr/",
+     "evidence": "'Write to LBR' form with a topic list for opinions on issues and legislation; federal agency help, flags, tours and 'share your story' are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.bluntrochester.senate.gov/contact/",
+     "evidence": "'Office Locations Wilmington 500 Delaware Avenue Suite 912 Wilmington, DE 19801 (302) 573-6291'; we publish no Wilmington office. Dover, Georgetown and DC match.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022242441",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "513 Hart Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Georgetown, DE office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13028567690",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "12 The Circle"
+        ],
+        "city": "Georgetown",
+        "region": "DE",
+        "postalCode": "19947",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Dover, DE office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13026743308",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "555 East Loockerman St., Suite 300"
+        ],
+        "city": "Dover",
+        "region": "DE",
+        "postalCode": "19901",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Wilmington, DE office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13025736291",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "500 Delaware Avenue, Suite 912"
+        ],
+        "city": "Wilmington",
+        "region": "DE",
+        "postalCode": "19801",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "C001088": {
+   "name": "Christopher A. Coons",
+   "seat": "Senator, DE",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.coons.senate.gov/contact/",
+    "https://www.coons.senate.gov/contact/share-your-opinion/",
+    "https://www.coons.senate.gov/contact/website-feedback/",
+    "https://www.coons.senate.gov/contact/staff-directory/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.coons.senate.gov/contact/share-your-opinion/",
+     "source": "https://www.coons.senate.gov/contact/share-your-opinion/",
+     "evidence": "Dedicated 'Share Your Opinion' form for comments and concerns on legislation and issues, with a topic list; federal agency help, flags and meetings are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.coons.senate.gov/contact/",
+     "evidence": "'DOVER 555 E. Loockerman Street Suite 330 Dover, DE 19901 Phone: (302) 736-5601 ... Toll Free: (877) 668-3368'; we publish no toll-free line.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022245042",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "218 Russell Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Wilmington, DE office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13025736345",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1105 N. Market St., Suite 100"
+        ],
+        "city": "Wilmington",
+        "region": "DE",
+        "postalCode": "19801-1233",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Dover, DE office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13027365601",
+         "type": "voice"
+        },
+        {
+         "number": "+18776683368",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "555 E. Loockerman St., Suite 330"
+        ],
+        "city": "Dover",
+        "region": "DE",
+        "postalCode": "19901",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "M001238": {
+   "name": "Sarah McBride",
+   "seat": "Representative, DE-0",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mcbride.house.gov/",
+    "https://mcbride.house.gov/address_authentication?form=/contact/email-me",
+    "https://mcbride.house.gov/contact",
+    "https://mcbride.house.gov/contact/office-locations",
+    "https://mcbride.house.gov/contact/offices/washington-dc-office",
+    "https://mcbride.house.gov/contact/offices/georgetown-de-office",
+    "https://mcbride.house.gov/contact/offices/wilmington-de-office"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mcbride.house.gov/contact/email-me",
+     "source": "https://mcbride.house.gov/contact/email-me",
+     "evidence": "The member's main Email Me form, behind an address check, with an issue list about legislation."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://mcbride.house.gov/",
+     "evidence": "Office list: 'Georgetown, DE Office By Appointment Only Phone: (302) 752-9140 Wilmington, DE Office By Appointment Only Phone: (302) 830-2330', with no street addresses. We publish 1105 North Market St, Suite 400 for Wilmington and no Georgetown office.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254165",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1306 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0800",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Wilmington, DE office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13028302330",
+         "type": "voice"
+        }
+       ],
+       "address": null
+      },
+      {
+       "label": "Georgetown, DE office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13027529140",
+         "type": "voice"
+        }
+       ],
+       "address": null
+      }
+     ]
+    }
+   ]
+  },
+  "M001244": {
+   "name": "Ashley Moody",
+   "seat": "Senator, FL",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.moody.senate.gov/contact-us/",
+    "https://www.moody.senate.gov/contact-us/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.moody.senate.gov/contact-us/",
+     "source": "https://www.moody.senate.gov/contact-us/",
+     "evidence": "'Send a Message' form with a required Topic list (Appropriations/Budget, Agriculture, Animals...) for sharing opinions on issues."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.moody.senate.gov/contact-us/",
+     "evidence": "Office list adds 'Tampa 801 N. Florida Ave. Suite 1108 Tampa, FL 33602 (813) 947-6288' and 'Pensacola 1 North Palafox Street, Suite 159, Pensacola, FL 32502 850-433-2603', which we do not publish, and gives Miami as '9130 S Dadeland Blvd. Suite 1510' (we publish '9130 S Dadeland Blvd., 1510').",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022243041",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "387 Russell Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Tallahassee, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18505999100",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "402 S. Monroe St., Suite 2105"
+        ],
+        "city": "Tallahassee",
+        "region": "FL",
+        "postalCode": "32399-6526",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Palm Beach Gardens, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15617753360",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "4822 Northlake Boulevard, Suite B-1"
+        ],
+        "city": "Palm Beach Gardens",
+        "region": "FL",
+        "postalCode": "33418-3920",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Jacksonville, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19043544300",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "300 North Hogan Street, Suite 8-111"
+        ],
+        "city": "Jacksonville",
+        "region": "FL",
+        "postalCode": "32202",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Miami, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13055964224",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "9130 S Dadeland Blvd., Suite 1510"
+        ],
+        "city": "Miami",
+        "region": "FL",
+        "postalCode": "33156-7850",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Orlando, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14072542573",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "201 S Orange Av., Suite 350"
+        ],
+        "city": "Orlando",
+        "region": "FL",
+        "postalCode": "32801-3499",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Fort Myers, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12393186464",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2120 Main Street, Suite 200"
+        ],
+        "city": "Fort Myers",
+        "region": "FL",
+        "postalCode": "33901",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Tampa, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18139476288",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "801 N. Florida Ave., Suite 1108"
+        ],
+        "city": "Tampa",
+        "region": "FL",
+        "postalCode": "33602",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Pensacola, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18504332603",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1 North Palafox Street, Suite 159"
+        ],
+        "city": "Pensacola",
+        "region": "FL",
+        "postalCode": "32502",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "S001217": {
+   "name": "Rick Scott",
+   "seat": "Senator, FL",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.rickscott.senate.gov/contact/contact",
+    "https://www.rickscott.senate.gov/contact/share-your-opinion",
+    "https://www.rickscott.senate.gov/contact/office-locations"
+   ],
+   "notes": "Homepage blocked (403). Offices match the office-locations page (DC and 9 local offices).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.rickscott.senate.gov/contact/share-your-opinion",
+     "source": "https://www.rickscott.senate.gov/contact/contact",
+     "evidence": "'Share Your Opinion': 'Please use the following form to contact me with your comments and concerns regarding a legislative issue'; federal agency help is separate."
+    }
+   ]
+  },
+  "P000622": {
+   "name": "Jimmy Patronis",
+   "seat": "Representative, FL-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://patronis.house.gov/",
+    "https://patronis.house.gov/address_authentication?form=/contact/email-me",
+    "https://patronis.house.gov/contact",
+    "https://patronis.house.gov/contact/office-locations",
+    "https://patronis.house.gov/contact/offices/washington-dc-office",
+    "https://patronis.house.gov/contact/offices/santa-rosa-county-office",
+    "https://patronis.house.gov/contact/offices/pensacola-district-office",
+    "https://patronis.house.gov/contact/offices/crestview-district-office"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://patronis.house.gov/contact/email-me",
+     "source": "https://patronis.house.gov/contact/email-me",
+     "evidence": "The member's main Email Me form, behind an address check, with an issue list about legislation."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://patronis.house.gov/",
+     "evidence": "'Santa Rosa County Office 6495 Caroline Street, Suite G Milton, FL 32570 Phone: (850) 462-6070' (not published) and 'Pensacola District Office 1000 College Boulevard Building 20, Room 2030 Pensacola, FL 32504 Phone: (850) 462-6070' (we publish (850) 479-1183). Crestview matches.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254136",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2021 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0901",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Crestview, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18506036690",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "805 E. James Lee Blvd."
+        ],
+        "city": "Crestview",
+        "region": "FL",
+        "postalCode": "32539",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Pensacola, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18504626070",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1000 College Boulevard, Building 20, Room 2030"
+        ],
+        "city": "Pensacola",
+        "region": "FL",
+        "postalCode": "32504",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Milton, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18504626070",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "6495 Caroline Street, Suite G"
+        ],
+        "city": "Milton",
+        "region": "FL",
+        "postalCode": "32570",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "D000628": {
+   "name": "Neal P. Dunn",
+   "seat": "Representative, FL-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://dunn.house.gov/",
+    "https://dunn.house.gov/contact/contactform.htm",
+    "https://dunn.house.gov/contact/offices.htm",
+    "https://dunn.house.gov/contact/contactform.htm",
+    "https://dunn.house.gov/contact/subscribe.htm",
+    "https://dunn.house.gov/contact/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://dunn.house.gov/contact/contactform.htm",
+     "source": "https://dunn.house.gov/contact/contactform.htm",
+     "evidence": "Contact form ('Email' in the menu) with a required Issue list (Agriculture, Budget, Defense and Military...); federal agency help and newsletter are separate."
+    }
+   ]
+  },
+  "C001039": {
+   "name": "Kat Cammack",
+   "seat": "Representative, FL-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://cammack.house.gov/",
+    "https://cammack.house.gov/contact",
+    "https://cammack.house.gov/zip_authentication?form=/contact/email-me",
+    "https://cammack.house.gov/contact/offices",
+    "https://cammack.house.gov/contact/telephone-town-hall-sign",
+    "https://cammack.house.gov/survey",
+    "https://cammack.house.gov/contact/offices/washington-dc-office",
+    "https://cammack.house.gov/contact/offices/ocala-office",
+    "https://cammack.house.gov/contact/offices/gainesville-district-office"
+   ],
+   "notes": "Press mailbox printed; not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://cammack.house.gov/contact/email-me",
+     "source": "https://cammack.house.gov/contact/email-me",
+     "evidence": "The member's main Email Me form, behind a ZIP check (zip_authentication?form=/contact/email-me), so its topic list could not be read. The survey page is not a feedback form."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://cammack.house.gov/",
+     "evidence": "'Ocala Office Marion Co. Board of County Commissioners Complex 2630 SE 3rd Street Ocala, FL 34471 Phone: (352) 421-9052'; we publish no Ocala office.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255744",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2421 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0903",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Gainesville, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13525050838",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "5550 NW 111th Boulevard, Suite A"
+        ],
+        "city": "Gainesville",
+        "region": "FL",
+        "postalCode": "32653",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Ocala, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13524219052",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Marion Co. Board of County Commissioners Complex",
+         "2630 SE 3rd Street"
+        ],
+        "city": "Ocala",
+        "region": "FL",
+        "postalCode": "34471",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "B001314": {
+   "name": "Aaron Bean",
+   "seat": "Representative, FL-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://bean.house.gov/",
+    "https://bean.house.gov/address_authentication?form=/contact",
+    "https://bean.house.gov/contact/tth-signup",
+    "https://bean.house.gov/contact/offices",
+    "https://bean.house.gov/contact/offices/washington-dc-office",
+    "https://bean.house.gov/contact/offices/clay-county-district-office",
+    "https://bean.house.gov/contact/offices/duval-county-district-office",
+    "https://bean.house.gov/contact/offices/nassau-county-district-office",
+    "https://bean.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://bean.house.gov/contact",
+     "source": "https://bean.house.gov/contact",
+     "evidence": "The member's main contact form, behind an address check (address_authentication?form=/contact), with an issue list about legislation."
+    }
+   ]
+  },
+  "R000609": {
+   "name": "John H. Rutherford",
+   "seat": "Representative, FL-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://rutherford.house.gov/",
+    "https://rutherford.house.gov/address_authentication?form=/EmailUS",
+    "https://rutherford.house.gov/contact/offices",
+    "https://rutherford.house.gov/address_authentication?form=/EmailUS",
+    "https://rutherford.house.gov/contact/offices/washington-dc-office",
+    "https://rutherford.house.gov/contact/offices/jacksonville-district-office",
+    "https://rutherford.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://rutherford.house.gov/EmailUS",
+     "source": "https://rutherford.house.gov/EmailUS",
+     "evidence": "The member's main email form, behind an address check (address_authentication?form=/EmailUS), with an issue list about legislation."
+    }
+   ]
+  },
+  "F000484": {
+   "name": "Randy Fine",
+   "seat": "Representative, FL-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://fine.house.gov/",
+    "https://fine.house.gov/contact/",
+    "https://fine.house.gov/forms/emailsignup/",
+    "https://fine.house.gov/contact/offices.htm"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://fine.house.gov/contact/",
+     "source": "https://fine.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://fine.house.gov/contact/offices.htm",
+     "evidence": "Office list: Marion County (5350 SE 110th St Belleview, FL 34420), Volusia County (120 South Florida Ave Deland), Putnam County (2509 Crill Ave Suite 200 Palatka, FL 32177), Lake County (51 E Norton Ave Eustis, FL 32726), St. Johns County (400 E Harris Street Hastings, FL 32145) and Flagler County (2400 Commerce Parkway Bunnell, FL 32110), each 'T: (386) 279-0707'. The Palm Coast office (31 Lupi Court, (386) 302-0442) we publish is not listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252706",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "244 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0906",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Deland, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13862790707",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "120 S. Florida Ave."
+        ],
+        "city": "Deland",
+        "region": "FL",
+        "postalCode": "32720-5422",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Belleview, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13862790707",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "5350 SE 110th St"
+        ],
+        "city": "Belleview",
+        "region": "FL",
+        "postalCode": "34420",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Palatka, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13862790707",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2509 Crill Ave, Suite 200"
+        ],
+        "city": "Palatka",
+        "region": "FL",
+        "postalCode": "32177",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Eustis, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13862790707",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "51 E Norton Ave"
+        ],
+        "city": "Eustis",
+        "region": "FL",
+        "postalCode": "32726",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Hastings, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13862790707",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "400 E Harris Street"
+        ],
+        "city": "Hastings",
+        "region": "FL",
+        "postalCode": "32145",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Bunnell, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13862790707",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2400 Commerce Parkway"
+        ],
+        "city": "Bunnell",
+        "region": "FL",
+        "postalCode": "32110",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "M001216": {
+   "name": "Cory Mills",
+   "seat": "Representative, FL-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mills.house.gov/",
+    "https://mills.house.gov/address_authentication?form=/contact",
+    "https://mills.house.gov/contact/offices",
+    "https://mills.house.gov/contact/offices/washington-dc-office",
+    "https://mills.house.gov/contact/offices"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mills.house.gov/contact",
+     "source": "https://mills.house.gov/contact",
+     "evidence": "The member's main contact form, behind an address check (address_authentication?form=/contact), with an issue list about legislation; casework is separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://mills.house.gov/contact/offices",
+     "evidence": "'Lake Mary Office (407) 638-7900 Port Orange Office (386) 238-9711', with no street addresses. We publish 1525 International Pkwy, Number 1051 and 1000 City Center Circle.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254035",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "346 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0907",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Port Orange, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13862389711",
+         "type": "voice"
+        }
+       ],
+       "address": null
+      },
+      {
+       "label": "Lake Mary, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14076387900",
+         "type": "voice"
+        }
+       ],
+       "address": null
+      }
+     ]
+    }
+   ]
+  },
+  "H001099": {
+   "name": "Mike Haridopolos",
+   "seat": "Representative, FL-8",
+   "status": "verified",
+   "pagesChecked": [
+    "https://haridopolos.house.gov/",
+    "https://haridopolos.house.gov/address_authentication?form=/contact/email-me",
+    "https://haridopolos.house.gov/contact/office-locations",
+    "https://haridopolos.house.gov/contact",
+    "https://haridopolos.house.gov/contact/offices/washington-dc-office",
+    "https://haridopolos.house.gov/contact/offices/melbourne-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://haridopolos.house.gov/contact/email-me",
+     "source": "https://haridopolos.house.gov/contact/email-me",
+     "evidence": "The member's main Email Me form, behind an address check, with an issue list about legislation."
+    }
+   ]
+  },
+  "S001200": {
+   "name": "Darren Soto",
+   "seat": "Representative, FL-9",
+   "status": "verified",
+   "pagesChecked": [
+    "https://soto.house.gov/",
+    "https://soto.house.gov/address_authentication?form=/contact",
+    "https://soto.house.gov/contact/offices",
+    "https://soto.house.gov/contact/share-your-story",
+    "https://soto.house.gov/contact/constituent-stories",
+    "https://soto.house.gov/contact/offices/washington-dc-office",
+    "https://soto.house.gov/contact/offices/kissimmee",
+    "https://soto.house.gov/contact/offices/orlando-0",
+    "https://soto.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://soto.house.gov/contact",
+     "source": "https://soto.house.gov/contact",
+     "evidence": "The member's main contact form, behind an address check (address_authentication?form=/contact), with an issue list."
+    }
+   ]
+  },
+  "F000476": {
+   "name": "Maxwell Frost",
+   "seat": "Representative, FL-10",
+   "status": "verified",
+   "pagesChecked": [
+    "https://frost.house.gov/",
+    "https://frostforms.house.gov/contact/"
+   ],
+   "notes": "Offices match (Orlando and DC on the homepage).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://frostforms.house.gov/contact/",
+     "source": "https://frost.house.gov/",
+     "evidence": "Linked as 'Write to Maxwell'; the member's main contact form, behind a ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "W000806": {
+   "name": "Daniel Webster",
+   "seat": "Representative, FL-11",
+   "status": "verified",
+   "pagesChecked": [
+    "https://webster.house.gov/",
+    "https://webster.house.gov/email-me",
+    "https://webster.house.gov/email-me/",
+    "https://webster.house.gov/office-information/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://webster.house.gov/email-me",
+     "source": "https://webster.house.gov/email-me",
+     "evidence": "Email Me form with an issue list about legislation; federal agency help, newsletter and tours are separate."
+    }
+   ]
+  },
+  "B001257": {
+   "name": "Gus M. Bilirakis",
+   "seat": "Representative, FL-12",
+   "status": "verified",
+   "pagesChecked": [
+    "https://bilirakis.house.gov/",
+    "https://bilirakis.house.gov/contact",
+    "https://bilirakis.house.gov/zip_authentication?form=/contact/email",
+    "https://bilirakis.house.gov/contact/offices/washington-dc-office",
+    "https://bilirakis.house.gov/contact/offices/brooksville-district-office",
+    "https://bilirakis.house.gov/contact/offices/inverness-district-office",
+    "https://bilirakis.house.gov/contact/offices/new-port-richey-district-office"
+   ],
+   "notes": "Offices match (the /contact/offices/ index returned 403, but the homepage and each office page list them).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://bilirakis.house.gov/contact/email",
+     "source": "https://bilirakis.house.gov/contact/email",
+     "evidence": "The member's main email form, behind a ZIP check (zip_authentication?form=/contact/email), so its topic list could not be read."
+    }
+   ]
+  },
+  "L000596": {
+   "name": "Anna Paulina Luna",
+   "seat": "Representative, FL-13",
+   "status": "verified",
+   "pagesChecked": [
+    "https://luna.house.gov/",
+    "https://luna.house.gov/contact",
+    "https://lunaforms.house.gov/contact/"
+   ],
+   "notes": "Offices match. Form found in a browser. The mailboxes on the homepage are press contacts and a state agency; not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://luna.house.gov/contact",
+     "source": "https://luna.house.gov/contact",
+     "evidence": "Contact page (drawn by script) embedding lunaforms.house.gov/contact, the member's main contact form behind a ZIP check, so its topic list could not be read."
+    }
+   ]
+  },
+  "C001066": {
+   "name": "Kathy Castor",
+   "seat": "Representative, FL-14",
+   "status": "verified",
+   "pagesChecked": [
+    "https://castor.house.gov/",
+    "https://castor.house.gov/news/documentquery.aspx",
+    "https://castor.house.gov/news/email/",
+    "https://castor.house.gov/contact/",
+    "https://castor.house.gov/forms/emailsignup/",
+    "https://castor.house.gov/contact/offices.htm",
+    "https://castor.house.gov/news/documentsingle.aspx",
+    "https://castor.house.gov/news/email/default.aspx"
+   ],
+   "notes": "Scheduling mailbox printed; not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://castor.house.gov/contact/contactform.htm",
+     "source": "https://castor.house.gov/contact/",
+     "evidence": "'To email Rep. Castor, please click here' leads to a contact form with a required Issue list (Adoption, Agriculture, Animals, Appropriations...); federal agency help, tours and flags are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://castor.house.gov/contact/offices.htm",
+     "evidence": "'Tampa 2130 W Main St. Suite 107 Tampa, FL 33607 Phone: (813) 871-2817'; we publish 4144 N. Armenia Ave., Suite 300.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253376",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2188 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0914",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Tampa, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18138712817",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2130 W Main St., Suite 107"
+        ],
+        "city": "Tampa",
+        "region": "FL",
+        "postalCode": "33607",
+        "country": "US"
+       }
+      },
+      {
+       "label": "St. Petersburg, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17273690201",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "136 Fourth St. N., Suite 201"
+        ],
+        "city": "St. Petersburg",
+        "region": "FL",
+        "postalCode": "33701",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "L000597": {
+   "name": "Laurel M. Lee",
+   "seat": "Representative, FL-15",
+   "status": "verified",
+   "pagesChecked": [
+    "https://laurellee.house.gov/",
+    "https://laurelleeforms.house.gov/contact/",
+    "https://laurellee.house.gov/contact/offices",
+    "https://laurellee.house.gov/contact/offices/washington-dc-office",
+    "https://laurellee.house.gov/contact/offices/tampa-district-office",
+    "https://laurelleeforms.house.gov/forms/emailsignup/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://laurelleeforms.house.gov/contact/",
+     "source": "https://laurelleeforms.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://laurellee.house.gov/contact/offices/tampa-district-office",
+     "evidence": "'Tampa District Office 14025 Riveredge Dr Suite 105 Tampa, FL 33637 Phone: (813) 393-5077'; we publish 17425 Bridge Hill Court, Suite 203, 33647.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255626",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2464 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0915",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Tampa, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18133935077",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "14025 Riveredge Dr, Suite 105"
+        ],
+        "city": "Tampa",
+        "region": "FL",
+        "postalCode": "33637",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "B001260": {
+   "name": "Vern Buchanan",
+   "seat": "Representative, FL-16",
+   "status": "verified",
+   "pagesChecked": [
+    "https://buchanan.house.gov/",
+    "https://buchanan.house.gov/contact/",
+    "https://buchanan.house.gov/contact/email-me/",
+    "https://buchanan.house.gov/2026/09/24/buchanan-marks-final-100-days-in-office-pledges-to-keep-fighting-for-florida/"
+   ],
+   "notes": "Offices match (Bradenton and Longboat Key share (941) 951-6643; Brandon matches).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://buchanan.house.gov/contact/email-me/",
+     "source": "https://buchanan.house.gov/contact/email-me/",
+     "evidence": "Email Me form with an issue list for comments and opinions on legislation; casework and newsletter are separate."
+    }
+   ]
+  },
+  "S001214": {
+   "name": "W. Gregory Steube",
+   "seat": "Representative, FL-17",
+   "status": "verified",
+   "pagesChecked": [
+    "https://steube.house.gov/",
+    "https://steube.house.gov/contact/",
+    "https://steube.house.gov/mobile-office-hours/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://steube.house.gov/contact/",
+     "source": "https://steube.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP check ('verify residency and continue'), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://steube.house.gov/",
+     "evidence": "Office list: 'Sarasota Office 7590 Fruitville Rd Suite 102 ... Phone: (941) 499-3214 (by appt only) Punta Gorda Office 226 Taylor St. #230 Punta Gorda, FL 33950 Phone: (941) 499-3214'. We publish (941) 575-9101 for Punta Gorda and a Venice office (401 West Venice Ave) that is not listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255792",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2457 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0917",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Punta Gorda, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19414993214",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "226 Taylor St, Suite 230"
+        ],
+        "city": "Punta Gorda",
+        "region": "FL",
+        "postalCode": "33950-4457",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Sarasota, FL office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19414993214",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "7590 Fruitville Rd, Suite 102"
+        ],
+        "city": "Sarasota",
+        "region": "FL",
+        "postalCode": "34240",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "F000472": {
+   "name": "Scott Franklin",
+   "seat": "Representative, FL-18",
+   "status": "verified",
+   "pagesChecked": [
+    "https://franklin.house.gov/",
+    "https://franklin.house.gov/contact/",
+    "https://franklin.house.gov/contact/subscribe.htm",
+    "https://franklin.house.gov/contact/offices.htm"
+   ],
+   "notes": "Offices match; the extra numbers on the site are fax lines.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://franklin.house.gov/contact/",
+     "source": "https://franklin.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP check, so its topic list could not be read."
+    }
+   ]
+  }
+ }
+}

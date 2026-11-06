@@ -1,0 +1,1882 @@
+{
+ "J000294": {
+  "id": "J000294",
+  "name": "Hakeem S. Jeffries",
+  "seat": "Representative, NY-8",
+  "pages": [
+   {
+    "url": "https://jeffries.house.gov",
+    "final": "https://jeffries.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://jeffries.house.gov/contact/",
+    "final": "https://jeffries.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://jeffries.house.gov/contact/email-me/",
+    "final": "https://jeffries.house.gov/contact/email-me/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://jeffries.house.gov/contact/invite-me-to-speak/",
+    "final": "https://jeffries.house.gov/contact/invite-me-to-speak/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://jeffries.house.gov/contact/offices/",
+    "final": "https://jeffries.house.gov/contact/offices/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://jeffries.house.gov/putting-people-over-politics/share-your-story/",
+    "final": "https://jeffries.house.gov/putting-people-over-politics/share-your-story/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+18003540365"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://jeffries.house.gov/contact/invite-me-to-speak/",
+    "positive": [
+     "issue",
+     "legislation",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "C001067": {
+  "id": "C001067",
+  "name": "Yvette D. Clarke",
+  "seat": "Representative, NY-9",
+  "pages": [
+   {
+    "url": "https://clarke.house.gov",
+    "final": "https://clarke.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://clarke.house.gov/contact/",
+    "final": "https://clarke.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://clarke.house.gov/contact/email/",
+    "final": "https://clarke.house.gov/contact/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://clarke.house.gov/contact/find-your-representative/",
+    "final": "https://www.house.gov/representatives/find-your-representative",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://clarke.house.gov/contact/offices/",
+    "final": "https://clarke.house.gov/contact/offices/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+12022243121",
+   "+12022251904"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://clarke.house.gov/contact/email/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "G000599": {
+  "id": "G000599",
+  "name": "Daniel S. Goldman",
+  "seat": "Representative, NY-10",
+  "pages": [
+   {
+    "url": "https://goldman.house.gov",
+    "final": "https://goldman.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://goldman.house.gov/contact/",
+    "final": "https://goldman.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://goldman.house.gov/contact/offices/",
+    "final": "https://goldman.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://goldman.house.gov/contact/share-your-story/",
+    "final": "https://goldman.house.gov/contact/share-your-story",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://goldman.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://goldman.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://goldman.house.gov/contact/offices/manhattan-district-office/",
+    "final": "https://goldman.house.gov/contact/offices/manhattan-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://goldman.house.gov/contact/offices/brooklyn-district-office/",
+    "final": "https://goldman.house.gov/contact/offices/brooklyn-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://goldman.house.gov/contact/office-locations/",
+    "final": "https://goldman.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://goldman.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "M000317": {
+  "id": "M000317",
+  "name": "Nicole Malliotakis",
+  "seat": "Representative, NY-11",
+  "pages": [
+   {
+    "url": "https://malliotakis.house.gov",
+    "final": "https://malliotakis.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://malliotakis.house.gov/contact/",
+    "final": "https://malliotakis.house.gov/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://malliotakis.house.gov/contact/offices/",
+    "final": "https://malliotakis.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://malliotakis.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://malliotakis.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://malliotakis.house.gov/contact/offices/staten-island-district-office/",
+    "final": "https://malliotakis.house.gov/contact/offices/staten-island-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://malliotakis.house.gov/contact/offices/brooklyn-district-office/",
+    "final": "https://malliotakis.house.gov/contact/offices/brooklyn-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://malliotakis.house.gov/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "N000002": {
+  "id": "N000002",
+  "name": "Jerrold Nadler",
+  "seat": "Representative, NY-12",
+  "pages": [
+   {
+    "url": "https://nadler.house.gov",
+    "final": "https://nadler.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://nadler.house.gov/contact/",
+    "final": "https://nadler.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://nadler.house.gov/forms/emailsignup/",
+    "final": "https://nadler.house.gov/forms/form/default.aspx?ID=545",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://nadler.house.gov/contact/washington-dc.htm",
+    "final": "https://nadler.house.gov/contact/washington-dc.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://nadler.house.gov/contact/manhattan-office.htm",
+    "final": "https://nadler.house.gov/contact/manhattan-office.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://nadler.house.gov/contact/brooklyn-office.htm",
+    "final": "https://nadler.house.gov/contact/brooklyn-office.htm",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://nadler.house.gov/contact/brooklyn-office.htm"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+17183733198"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://nadler.house.gov/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://nadler.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "E000297": {
+  "id": "E000297",
+  "name": "Adriano Espaillat",
+  "seat": "Representative, NY-13",
+  "pages": [
+   {
+    "url": "https://espaillat.house.gov",
+    "final": "https://espaillat.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://espaillat.house.gov/contact-me/",
+    "final": "https://espaillat.house.gov/address_authentication?form=/email",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://espaillat.house.gov/contact/offices/",
+    "final": "https://espaillat.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://espaillat.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://espaillat.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://espaillat.house.gov/contact/offices/bronx-district-office/",
+    "final": "https://espaillat.house.gov/contact/offices/bronx-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://espaillat.house.gov/contact/offices/new-york-district-office/",
+    "final": "https://espaillat.house.gov/contact/offices/new-york-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://espaillat.house.gov/contact/offices/new-york-district-office-0/",
+    "final": "https://espaillat.house.gov/contact/offices/new-york-district-office-0",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://espaillat.house.gov/contact/office-locations/",
+    "final": "https://espaillat.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://espaillat.house.gov/contact/",
+    "final": "https://espaillat.house.gov/address_authentication?form=/email",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Bronx, NY office: 3107 Kingsbridge Avenue"
+  ],
+  "forms": [
+   {
+    "url": "https://espaillat.house.gov/address_authentication?form=/email",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://espaillat.house.gov/address_authentication?form=/email",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "O000172": {
+  "id": "O000172",
+  "name": "Alexandria Ocasio-Cortez",
+  "seat": "Representative, NY-14",
+  "pages": [
+   {
+    "url": "https://ocasio-cortez.house.gov",
+    "final": "https://ocasio-cortez.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ocasio-cortez.house.gov/contact/",
+    "final": "https://ocasio-cortez.house.gov/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://ocasio-cortez.house.gov/contact/offices/",
+    "final": "https://ocasio-cortez.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ocasio-cortez.house.gov/contact/call-us-0/",
+    "final": "https://ocasio-cortez.house.gov/contact/call-us-0",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ocasio-cortez.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://ocasio-cortez.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ocasio-cortez.house.gov/contact/offices/astoria-office/",
+    "final": "https://ocasio-cortez.house.gov/contact/offices/astoria-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ocasio-cortez.house.gov/contact/offices/hunts-point-office/",
+    "final": "https://ocasio-cortez.house.gov/contact/offices/hunts-point-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+17186625970"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://ocasio-cortez.house.gov/contact",
+    "positive": [
+     "issue"
+    ],
+    "negative": [
+     "casework",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "T000486": {
+  "id": "T000486",
+  "name": "Ritchie Torres",
+  "seat": "Representative, NY-15",
+  "pages": [
+   {
+    "url": "https://ritchietorres.house.gov",
+    "final": "https://ritchietorres.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://ritchietorres.house.gov/contact/",
+    "final": "https://ritchietorres.house.gov/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://ritchietorres.house.gov/contact",
+    "positive": [
+     "concern",
+     "issue",
+     "legislation",
+     "opinion",
+     "share your",
+     "topic"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "L000606": {
+  "id": "L000606",
+  "name": "George Latimer",
+  "seat": "Representative, NY-16",
+  "pages": [
+   {
+    "url": "https://latimer.house.gov",
+    "final": "https://latimer.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://latimer.house.gov/contact/",
+    "final": "https://latimer.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://latimer.house.gov/contact/email-me/",
+    "final": "https://latimer.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://latimer.house.gov/contact/office-contact-information/",
+    "final": "https://latimer.house.gov/contact/office-contact-information",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://latimer.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://latimer.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://latimer.house.gov/contact/office-locations/",
+    "final": "https://latimer.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "White Plains, NY office: 222 Mamaroneck Ave, Suite 312",
+   "Bronx, NY office: 177 Dreiser Loop, Room 3"
+  ],
+  "forms": [
+   {
+    "url": "https://latimer.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "L000599": {
+  "id": "L000599",
+  "name": "Michael Lawler",
+  "seat": "Representative, NY-17",
+  "pages": [
+   {
+    "url": "https://lawler.house.gov",
+    "final": "https://lawler.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lawler.house.gov/about/welcome.htm",
+    "final": "https://lawler.house.gov/about/welcome.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lawler.house.gov/contact/",
+    "final": "https://lawler.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://lawler.house.gov/forms/emailsignup/",
+    "final": "https://lawler.house.gov/forms/form/?ID=8",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lawler.house.gov/contact/offices.htm",
+    "final": "https://lawler.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lawler.house.gov/news/documentsingle.aspx/",
+    "final": "https://lawler.house.gov/news/documentsingle.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://lawler.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "R000579": {
+  "id": "R000579",
+  "name": "Patrick Ryan",
+  "seat": "Representative, NY-18",
+  "pages": [
+   {
+    "url": "https://patryan.house.gov",
+    "final": "https://patryan.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://patryan.house.gov/contact/",
+    "final": "https://patryan.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://patryan.house.gov/contact/email-me/",
+    "final": "https://patryan.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://patryan.house.gov/contact/offices/",
+    "final": "https://patryan.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://patryan.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://patryan.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://patryan.house.gov/contact/offices/poughkeepsie-district-office/",
+    "final": "https://patryan.house.gov/contact/offices/poughkeepsie-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://patryan.house.gov/contact/offices/newburgh-district-office/",
+    "final": "https://patryan.house.gov/contact/offices/newburgh-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://patryan.house.gov/contact/offices/kingston-district-office/",
+    "final": "https://patryan.house.gov/contact/offices/kingston-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://patryan.house.gov/contact/office-locations/",
+    "final": "https://patryan.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+18452756390",
+   "+18454432980"
+  ],
+  "publishedAddressesNotFound": [
+   "Kingston, NY office: 307 Wall Street, #6",
+   "Newburgh, NY office: 605 Broadway",
+   "Poughkeepsie, NY office: 12 Raymond Avenue, Suite 105"
+  ],
+  "forms": [
+   {
+    "url": "https://patryan.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "R000622": {
+  "id": "R000622",
+  "name": "Josh Riley",
+  "seat": "Representative, NY-19",
+  "pages": [
+   {
+    "url": "https://riley.house.gov",
+    "final": "https://riley.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://riley.house.gov/contact/",
+    "final": "https://riley.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://riley.house.gov/contact/email-josh/",
+    "final": "https://riley.house.gov/contact/email-josh/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://riley.house.gov/contact/events/",
+    "final": "https://riley.house.gov/contact/events/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://riley.house.gov/contact/'+e+'/",
+    "final": "https://riley.house.gov/contact/'+e+'/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://riley.house.gov/contact/email-josh/'+e+'/",
+    "final": "https://riley.house.gov/contact/email-josh/'+e+'/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://riley.house.gov/contact/'+e+'/",
+   "https://riley.house.gov/contact/email-josh/'+e+'/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+16072420201"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://riley.house.gov/contact/email-josh/",
+    "positive": [
+     "comment",
+     "concern",
+     "issue",
+     "legislation",
+     "opinion",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "T000469": {
+  "id": "T000469",
+  "name": "Paul Tonko",
+  "seat": "Representative, NY-20",
+  "pages": [
+   {
+    "url": "https://tonko.house.gov",
+    "final": "https://tonko.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://tonko.house.gov/news/email/",
+    "final": "https://tonko.house.gov/news/email/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://tonko.house.gov/contact/",
+    "final": "https://tonko.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://tonko.house.gov/news/email/show.aspx/",
+    "final": "https://tonko.house.gov/email/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://tonko.house.gov/news/email/default.aspx/",
+    "final": "https://tonko.house.gov/news/email/default.aspx",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   }
+  ],
+  "blocked": [
+   "https://tonko.house.gov/news/email/show.aspx/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://tonko.house.gov/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://tonko.house.gov/news/email/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://tonko.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   },
+   {
+    "url": "https://tonko.house.gov/news/email/default.aspx",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "S001196": {
+  "id": "S001196",
+  "name": "Elise M. Stefanik",
+  "seat": "Representative, NY-21",
+  "pages": [
+   {
+    "url": "https://stefanik.house.gov",
+    "final": "https://stefanik.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://stefanik.house.gov/contact/",
+    "final": "https://stefanik.house.gov/contact/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://stefanik.house.gov/offices/",
+    "final": "https://stefanik.house.gov/offices/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://stefanik.house.gov/email-me/",
+    "final": "https://stefanik.house.gov/email-me/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://stefanik.house.gov/index.cfm/",
+    "final": "https://stefanik.house.gov/index.cfm/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://stefanik.house.gov/2021/4/washington-dc-office/",
+    "final": "https://stefanik.house.gov/2021/4/washington-dc-office/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [
+   "+13152198005",
+   "+15185612324"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+15182424707"
+  ],
+  "publishedAddressesNotFound": [
+   "Plattsburgh, NY office: 137 Margaret Street, Suite 100"
+  ],
+  "forms": [
+   {
+    "url": "https://stefanik.house.gov/contact/",
+    "positive": [
+     "comment",
+     "issue",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://stefanik.house.gov/email-me/",
+    "positive": [
+     "comment",
+     "issue",
+     "voice"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "M001231": {
+  "id": "M001231",
+  "name": "John W. Mannion",
+  "seat": "Representative, NY-22",
+  "pages": [
+   {
+    "url": "https://mannion.house.gov",
+    "final": "https://mannion.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mannion.house.gov/contact/",
+    "final": "https://mannion.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mannion.house.gov/contact/email-me/",
+    "final": "https://mannion.house.gov/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://mannion.house.gov/contact/office-locations/",
+    "final": "https://mannion.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mannion.house.gov/contact/coffee-your-congressman/",
+    "final": "https://mannion.house.gov/contact/coffee-your-congressman",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mannion.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://mannion.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mannion.house.gov/contact/offices/syracuse-district-office/",
+    "final": "https://mannion.house.gov/contact/offices/syracuse-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mannion.house.gov/contact/offices/utica-district-office/",
+    "final": "https://mannion.house.gov/contact/offices/utica-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+13157320713"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://mannion.house.gov/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "meeting request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "L000600": {
+  "id": "L000600",
+  "name": "Nicholas A. Langworthy",
+  "seat": "Representative, NY-23",
+  "pages": [
+   {
+    "url": "https://langworthy.house.gov",
+    "final": "https://langworthy.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://langworthy.house.gov/contact/",
+    "final": "https://langworthy.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://langworthy.house.gov/contact/offices/",
+    "final": "https://langworthy.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://langworthy.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://langworthy.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://langworthy.house.gov/contact/offices/jamestown-district-office/",
+    "final": "https://langworthy.house.gov/contact/offices/jamestown-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://langworthy.house.gov/contact/offices/olean-district-office/",
+    "final": "https://langworthy.house.gov/contact/offices/olean-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://langworthy.house.gov/contact/offices/elmira-district-office/",
+    "final": "https://langworthy.house.gov/contact/offices/elmira-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://langworthy.house.gov/contact/offices/clarence-district-office/",
+    "final": "https://langworthy.house.gov/contact/offices/clarence-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://langworthy.house.gov/contact/office-locations/",
+    "final": "https://langworthy.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Corning, NY office: 89 W. Market Street"
+  ],
+  "forms": [
+   {
+    "url": "https://langworthy.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "T000478": {
+  "id": "T000478",
+  "name": "Claudia Tenney",
+  "seat": "Representative, NY-24",
+  "pages": [
+   {
+    "url": "https://tenney.house.gov",
+    "final": "https://tenney.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://tenney.house.gov/contact/",
+    "final": "https://tenney.house.gov/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://tenney.house.gov/contact/offices/",
+    "final": "https://tenney.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://tenney.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://tenney.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://tenney.house.gov/contact/offices/watertown-satellite-office/",
+    "final": "https://tenney.house.gov/contact/offices/watertown-satellite-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://tenney.house.gov/contact/offices/lockport-district-office/",
+    "final": "https://tenney.house.gov/contact/offices/lockport-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://tenney.house.gov/contact/offices/canandaigua-district-office/",
+    "final": "https://tenney.house.gov/contact/offices/canandaigua-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://tenney.house.gov/contact/offices/oswego-district-office/",
+    "final": "https://tenney.house.gov/contact/offices/oswego-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://tenney.house.gov/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "meeting request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "M001206": {
+  "id": "M001206",
+  "name": "Joseph D. Morelle",
+  "seat": "Representative, NY-25",
+  "pages": [
+   {
+    "url": "https://morelle.house.gov",
+    "final": "https://morelle.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://morelle.house.gov/contact/",
+    "final": "https://morelle.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://morelle.house.gov/contact/visiting-washington-dc/",
+    "final": "https://morelle.house.gov/contact/visiting-washington-dc",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://morelle.house.gov/contact/offices/",
+    "final": "https://morelle.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://morelle.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://morelle.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://morelle.house.gov/contact/offices/rochester-district-office/",
+    "final": "https://morelle.house.gov/contact/offices/rochester-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://morelle.house.gov/contact-congressman-morelle/visiting-washington-dc/",
+    "final": "https://morelle.house.gov/contact/visiting-washington-dc",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "K000402": {
+  "id": "K000402",
+  "name": "Timothy M. Kennedy",
+  "seat": "Representative, NY-26",
+  "pages": [
+   {
+    "url": "https://kennedy.house.gov",
+    "final": "https://kennedy.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kennedy.house.gov/contact/",
+    "final": "https://kennedy.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://kennedy.house.gov/forms/emailsignup/",
+    "final": "https://kennedy.house.gov/forms/emailsignup/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://kennedy.house.gov/contact/offices.htm",
+    "final": "https://kennedy.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+17162822479",
+   "+17168523929"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://kennedy.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "H001104": {
+  "id": "H001104",
+  "name": "Jon Husted",
+  "seat": "Senator, OH",
+  "pages": [
+   {
+    "url": "https://www.husted.senate.gov",
+    "final": "https://www.husted.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.husted.senate.gov/contact/",
+    "final": "https://www.husted.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.husted.senate.gov/contact/offices/",
+    "final": "https://www.husted.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.husted.senate.gov/offices/",
+    "final": "https://www.husted.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.husted.senate.gov/office-locations/",
+    "final": "https://www.husted.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.husted.senate.gov/contact/contact-jon/",
+    "final": "https://www.husted.senate.gov/contact/contact-jon/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.husted.senate.gov",
+   "https://www.husted.senate.gov/contact/offices/",
+   "https://www.husted.senate.gov/offices/",
+   "https://www.husted.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.husted.senate.gov/contact/contact-jon/",
+    "positive": [
+     "issue",
+     "legislation",
+     "topic",
+     "views"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "flag request",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "M001242": {
+  "id": "M001242",
+  "name": "Bernie Moreno",
+  "seat": "Senator, OH",
+  "pages": [
+   {
+    "url": "https://www.moreno.senate.gov",
+    "final": "https://www.moreno.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.moreno.senate.gov/contact/",
+    "final": "https://www.moreno.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.moreno.senate.gov/contact/offices/",
+    "final": "https://www.moreno.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.moreno.senate.gov/offices/",
+    "final": "https://www.moreno.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.moreno.senate.gov/office-locations/",
+    "final": "https://www.moreno.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.moreno.senate.gov/contact/share-your-opinion/",
+    "final": "https://www.moreno.senate.gov/contact/share-your-opinion/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.moreno.senate.gov",
+   "https://www.moreno.senate.gov/contact/offices/",
+   "https://www.moreno.senate.gov/offices/",
+   "https://www.moreno.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Cleveland, OH office: Carl B. Stokes U.S. Courthouse, 801 W Superior Ave, Suite 1400"
+  ],
+  "forms": [
+   {
+    "url": "https://www.moreno.senate.gov/contact/share-your-opinion/",
+    "positive": [
+     "issue",
+     "legislation",
+     "opinion",
+     "share your",
+     "topic",
+     "views"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "flag request",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "L000601": {
+  "id": "L000601",
+  "name": "Greg Landsman",
+  "seat": "Representative, OH-1",
+  "pages": [
+   {
+    "url": "https://landsman.house.gov",
+    "final": "https://landsman.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://landsman.house.gov/contact/",
+    "final": "https://landsman.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://landsman.house.gov/contact/share-your-opinion/",
+    "final": "https://landsman.house.gov/address_authentication?form=/contact/share-your-opinion",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://landsman.house.gov/contact/office-locations/",
+    "final": "https://landsman.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://landsman.house.gov/about/events/springboro-mobile-office-hours-0/",
+    "final": "https://landsman.house.gov/about/events/springboro-mobile-office-hours-0",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://landsman.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://landsman.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://landsman.house.gov/contact/offices/lebanon-district-office/",
+    "final": "https://landsman.house.gov/contact/offices/lebanon-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://landsman.house.gov/contact/offices/cincinnati-district-office/",
+    "final": "https://landsman.house.gov/contact/offices/cincinnati-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://landsman.house.gov/address_authentication?form=/contact/share-your-opinion",
+    "positive": [
+     "issue",
+     "legislation",
+     "opinion",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "T000490": {
+  "id": "T000490",
+  "name": "David J. Taylor",
+  "seat": "Representative, OH-2",
+  "pages": [
+   {
+    "url": "https://taylor.house.gov",
+    "final": "https://taylor.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://taylor.house.gov/contact/",
+    "final": "https://taylor.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://taylor.house.gov/contact/email-me/",
+    "final": "https://taylor.house.gov/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://taylor.house.gov/contact/office-locations/",
+    "final": "https://taylor.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://taylor.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://taylor.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://taylor.house.gov/contact/offices/union-township-district-office/",
+    "final": "https://taylor.house.gov/contact/offices/union-township-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://taylor.house.gov/contact/offices/peebles-district-office/",
+    "final": "https://taylor.house.gov/contact/offices/peebles-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://taylor.house.gov/contact/offices/chillicothe-district-office/",
+    "final": "https://taylor.house.gov/contact/offices/chillicothe-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://taylor.house.gov/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "meeting request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "B001281": {
+  "id": "B001281",
+  "name": "Joyce Beatty",
+  "seat": "Representative, OH-3",
+  "pages": [
+   {
+    "url": "https://beatty.house.gov",
+    "final": "https://beatty.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://beatty.house.gov/contact/",
+    "final": "https://beatty.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://beatty.house.gov/contact/offices/",
+    "final": "https://beatty.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://beatty.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://beatty.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://beatty.house.gov/contact/offices/columbus-district-office/",
+    "final": "https://beatty.house.gov/contact/offices/columbus-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://beatty.house.gov/contact",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "J000289": {
+  "id": "J000289",
+  "name": "Jim Jordan",
+  "seat": "Representative, OH-4",
+  "pages": [
+   {
+    "url": "https://jordan.house.gov",
+    "final": "https://jordan.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://jordan.house.gov/contact/",
+    "final": "https://jordan.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://jordan.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://jordan.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://jordan.house.gov/contact/offices/mansfield-district-office/",
+    "final": "https://jordan.house.gov/contact/offices/mansfield-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://jordan.house.gov/contact/offices/lima-district-office/",
+    "final": "https://jordan.house.gov/contact/offices/lima-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://jordan.house.gov/contact/office-locations/",
+    "final": "https://jordan.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://jordan.house.gov/contact/offices/",
+    "final": "https://jordan.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://jordan.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "meeting request"
+    ]
+   }
+  ],
+  "emails": []
+ }
+}

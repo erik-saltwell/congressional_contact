@@ -1,0 +1,2699 @@
+{
+ "batch": "2026-11-05-full-01",
+ "createdAt": "2026-11-05",
+ "dataGeneratedAt": "2026-11-05T19:36:17Z",
+ "officials": {
+  "M001153": {
+   "seat": "Senator, AK",
+   "published": {
+    "name": {
+     "full": "Lisa Murkowski",
+     "given": "Lisa",
+     "family": "Murkowski",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "AK",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022246665",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "522 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Anchorage, AK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19072713735",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "510 L St., Suite 600"
+       ],
+       "city": "Anchorage",
+       "region": "AK",
+       "postalCode": "99501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Juneau, AK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19075867277",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "800 Glacier Ave., Suite 101"
+       ],
+       "city": "Juneau",
+       "region": "AK",
+       "postalCode": "99801",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Ketchikan, AK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19072256880",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1900 First Ave., Suite 225"
+       ],
+       "city": "Ketchikan",
+       "region": "AK",
+       "postalCode": "99901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Soldotna, AK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19072624220",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "44539 Sterling Hwy., Suite 203"
+       ],
+       "city": "Soldotna",
+       "region": "AK",
+       "postalCode": "99669",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Wasilla, AK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19073767665",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "851 E. Westpoint Dr., Suite 307"
+       ],
+       "city": "Wasilla",
+       "region": "AK",
+       "postalCode": "99654",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fairbanks, AK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19074560233",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Fairbanks Federal Building",
+        "101 12th Avenue, Suite 172"
+       ],
+       "city": "Fairbanks",
+       "region": "AK",
+       "postalCode": "99701",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.murkowski.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.murkowski.senate.gov/public/index.cfm/contact",
+    "website": "https://www.murkowski.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001198": {
+   "seat": "Senator, AK",
+   "published": {
+    "name": {
+     "full": "Dan Sullivan",
+     "given": "Dan",
+     "family": "Sullivan",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "AK",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022243004",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "706 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Anchorage, AK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19072715915",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "510 L St., Suite 750"
+       ],
+       "city": "Anchorage",
+       "region": "AK",
+       "postalCode": "99501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fairbanks, AK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19074560261",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Federal Building",
+        "101 12th Ave., Suite 328"
+       ],
+       "city": "Fairbanks",
+       "region": "AK",
+       "postalCode": "99701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Juneau, AK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19072053767",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "800 Glacier Ave., Suite 101"
+       ],
+       "city": "Juneau",
+       "region": "AK",
+       "postalCode": "99801",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Ketchikan, AK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19072256880",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1900 First Ave., Suite 225"
+       ],
+       "city": "Ketchikan",
+       "region": "AK",
+       "postalCode": "99901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Soldotna, AK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19072624040",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "44539 Sterling Highway, Suite 204"
+       ],
+       "city": "Soldotna",
+       "region": "AK",
+       "postalCode": "99669",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Wasilla, AK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19073579956",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "851 E. Westpoint Dr., Suite 309"
+       ],
+       "city": "Wasilla",
+       "region": "AK",
+       "postalCode": "99654",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.sullivan.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.sullivan.senate.gov/contact/email",
+    "website": "https://www.sullivan.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001323": {
+   "seat": "Representative, AK-0",
+   "published": {
+    "name": {
+     "full": "Nicholas J. Begich III",
+     "given": "Nicholas",
+     "family": "Begich",
+     "suffix": "III"
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "AK",
+    "district": 0,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255765",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "153 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0200",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Anchorage, AK office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19079216575",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1016 W Sixth Ave, Suite 406"
+       ],
+       "city": "Anchorage",
+       "region": "AK",
+       "postalCode": "99501",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://begich.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://begich.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001319": {
+   "seat": "Senator, AL",
+   "published": {
+    "name": {
+     "full": "Katie Boyd Britt",
+     "given": "Katie",
+     "family": "Britt",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "AL",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022245744",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "416 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Birmingham, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12057311384",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "321 Federal Building",
+        "1800 5th Avenue North"
+       ],
+       "city": "Birmingham",
+       "region": "AL",
+       "postalCode": "35203",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tuscaloosa, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16592512880",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2005 University Boulevard, Suite 2100"
+       ],
+       "city": "Tuscaloosa",
+       "region": "AL",
+       "postalCode": "35401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Huntsville, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12564293450",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "660 Gallatin St SW, Suite 1400"
+       ],
+       "city": "Huntsville",
+       "region": "AL",
+       "postalCode": "35801",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Montgomery, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13347771150",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "United States Federal Courthouse",
+        "One Church Street, Suite F-401"
+       ],
+       "city": "Montgomery",
+       "region": "AL",
+       "postalCode": "36104",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Anniston, AL office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "1100 Gurnee Avenue, Suite 306"
+       ],
+       "city": "Anniston",
+       "region": "AL",
+       "postalCode": "36206",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Dothan, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13345004097",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Dothan Courthouse and Federal Building",
+        "100 W. Troy St, Suite 101"
+       ],
+       "city": "Dothan",
+       "region": "AL",
+       "postalCode": "36303",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Mobile, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12516629990",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "113 Saint Joseph Street, Room 365"
+       ],
+       "city": "Mobile",
+       "region": "AL",
+       "postalCode": "36602",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.britt.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.britt.senate.gov/contact/",
+    "website": "https://www.britt.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "T000278": {
+   "seat": "Senator, AL",
+   "published": {
+    "name": {
+     "full": "Tommy Tuberville",
+     "given": "Tommy",
+     "family": "Tuberville",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "AL",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022244124",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "455 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Mobile, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12513087233",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3BB&T Centre",
+        "41 West I-65, Service Rd. N., Suite 2300-A"
+       ],
+       "city": "Mobile",
+       "region": "AL",
+       "postalCode": "36608",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Huntsville, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12566927500",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2101 Clinton Ave. W., Suite 300"
+       ],
+       "city": "Huntsville",
+       "region": "AL",
+       "postalCode": "35805",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Birmingham, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12057607307",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3000 Riverchase Galleria, Suite 915"
+       ],
+       "city": "Birmingham",
+       "region": "AL",
+       "postalCode": "35244",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Montgomery, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13345237424",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Frank M Johnson Jr. Annex",
+        "One Church St., Suite 500-B"
+       ],
+       "city": "Montgomery",
+       "region": "AL",
+       "postalCode": "36104",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Dothan, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13345477441",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "100 West Troy St."
+       ],
+       "city": "Dothan",
+       "region": "AL",
+       "postalCode": "36303",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.tuberville.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.tuberville.senate.gov/contact/contact-form/",
+    "website": "https://www.tuberville.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001212": {
+   "seat": "Representative, AL-1",
+   "published": {
+    "name": {
+     "full": "Barry Moore",
+     "given": "Barry",
+     "family": "Moore",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "AL",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252901",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1511 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Dothan, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13345476630",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "217 Graceland Drive, Suite 5"
+       ],
+       "city": "Dothan",
+       "region": "AL",
+       "postalCode": "36305",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Andalusia, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13344281129",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "505 E 3 Notch St, Suite 322"
+       ],
+       "city": "Andalusia",
+       "region": "AL",
+       "postalCode": "36420",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Mobile, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12512646710",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "5253 Hwy 90 W, Suite I"
+       ],
+       "city": "Mobile",
+       "region": "AL",
+       "postalCode": "36619",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Bay Minette, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12514945151",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "116 Courthouse Sq"
+       ],
+       "city": "Bay Minette",
+       "region": "AL",
+       "postalCode": "36507",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Foley, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12514376310",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "407 E. Laurel Ave"
+       ],
+       "city": "Foley",
+       "region": "AL",
+       "postalCode": "36535",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://barrymoore.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://barrymoore.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "F000481": {
+   "seat": "Representative, AL-2",
+   "published": {
+    "name": {
+     "full": "Shomari Figures",
+     "given": "Shomari",
+     "family": "Figures",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "AL",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254931",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "225 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0102",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Montgomery, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13347775700",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "150 Dexter Ave"
+       ],
+       "city": "Montgomery",
+       "region": "AL",
+       "postalCode": "36104",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Mobile, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12512836280",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "351 N. Broad St"
+       ],
+       "city": "Mobile",
+       "region": "AL",
+       "postalCode": "36603",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://figures.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://figures.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "R000575": {
+   "seat": "Representative, AL-3",
+   "published": {
+    "name": {
+     "full": "Mike Rogers",
+     "given": "Mike",
+     "family": "Rogers",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "AL",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253261",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2469 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0103",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Opelika, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13347456221",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "G.W. Andrews Federal Building",
+        "701 Avenue A, Suite 300"
+       ],
+       "city": "Opelika",
+       "region": "AL",
+       "postalCode": "36801",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Oxford, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12562365655",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "149 East Hamric Drive, Suite D"
+       ],
+       "city": "Oxford",
+       "region": "AL",
+       "postalCode": "36203",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://mikerogers.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://mikerogers.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "A000055": {
+   "seat": "Representative, AL-4",
+   "published": {
+    "name": {
+     "full": "Robert B. Aderholt",
+     "given": "Robert",
+     "family": "Aderholt",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "AL",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254876",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "272 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0104",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cullman, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12567346043",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "205 4th Ave. NE, Suite 104"
+       ],
+       "city": "Cullman",
+       "region": "AL",
+       "postalCode": "35055",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Jasper, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12052212310",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Carl Elliott Building",
+        "1710 Alabama Ave., 247"
+       ],
+       "city": "Jasper",
+       "region": "AL",
+       "postalCode": "35501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tuscumbia, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12563813450",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1011 George Wallace Blvd., Suite 146"
+       ],
+       "city": "Tuscumbia",
+       "region": "AL",
+       "postalCode": "35674",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://aderholt.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://aderholt.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001220": {
+   "seat": "Representative, AL-5",
+   "published": {
+    "name": {
+     "full": "Dale W. Strong",
+     "given": "Dale",
+     "family": "Strong",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "AL",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254801",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "449 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0105",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Decatur, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12563559400",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Morgan County Courthouse",
+        "302 Lee Street NE"
+       ],
+       "city": "Decatur",
+       "region": "AL",
+       "postalCode": "35601",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Huntsville, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12565510190",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2101 Clinton Avenue W, Suite 302"
+       ],
+       "city": "Huntsville",
+       "region": "AL",
+       "postalCode": "35805",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://strong.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://strong.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "P000609": {
+   "seat": "Representative, AL-6",
+   "published": {
+    "name": {
+     "full": "Gary J. Palmer",
+     "given": "Gary",
+     "family": "Palmer",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "AL",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254921",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "170 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0106",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Birmingham, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12059681290",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3535 Grandview Pkwy., Suite 525"
+       ],
+       "city": "Birmingham",
+       "region": "AL",
+       "postalCode": "35243",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://palmer.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://palmer.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001185": {
+   "seat": "Representative, AL-7",
+   "published": {
+    "name": {
+     "full": "Terri A. Sewell",
+     "given": "Terri",
+     "family": "Sewell",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "AL",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252665",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1035 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0107",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Selma, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13348774414",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Federal Building",
+        "908 Alabama Ave., Suite 112"
+       ],
+       "city": "Selma",
+       "region": "AL",
+       "postalCode": "36701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Birmingham, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12052541960",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Two 20th Street North, Suite 1130"
+       ],
+       "city": "Birmingham",
+       "region": "AL",
+       "postalCode": "35203",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Montgomery, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13342621919",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Courthouse",
+        "101 S. Lawrence St., Annex 3"
+       ],
+       "city": "Montgomery",
+       "region": "AL",
+       "postalCode": "36104",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tuscaloosa, AL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12057525380",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2501 7th St., Suite 300"
+       ],
+       "city": "Tuscaloosa",
+       "region": "AL",
+       "postalCode": "35401",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://sewell.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://sewell.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "B001236": {
+   "seat": "Senator, AR",
+   "published": {
+    "name": {
+     "full": "John Boozman",
+     "given": "John",
+     "family": "Boozman",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "AR",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022244843",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "555 Dirksen Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "El Dorado, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18708634641",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "106 W. Main St., Suite 104"
+       ],
+       "city": "El Dorado",
+       "region": "AR",
+       "postalCode": "71730",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fort Smith, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14795730189",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1120 Garrison Ave., Suite 2B"
+       ],
+       "city": "Fort Smith",
+       "region": "AR",
+       "postalCode": "72901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Jonesboro, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18702686925",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "300 S. Church St., Suite 400"
+       ],
+       "city": "Jonesboro",
+       "region": "AR",
+       "postalCode": "72401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Little Rock, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15013727153",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1401 W. Capitol Ave., Suite 155"
+       ],
+       "city": "Little Rock",
+       "region": "AR",
+       "postalCode": "72201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lowell, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14797250400",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "213 W. Monroe, Suite N"
+       ],
+       "city": "Lowell",
+       "region": "AR",
+       "postalCode": "72745",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Mountain Home, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18704240129",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1001 Hwy 62 East, Suite 11"
+       ],
+       "city": "Mountain Home",
+       "region": "AR",
+       "postalCode": "72653",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Stuttgart, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18706726941",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "620 E. 22nd St., Suite 204"
+       ],
+       "city": "Stuttgart",
+       "region": "AR",
+       "postalCode": "72160",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.boozman.senate.gov/public"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.boozman.senate.gov/public/index.cfm/contact",
+    "website": "https://www.boozman.senate.gov/public"
+   },
+   "currentSupplement": null
+  },
+  "C001095": {
+   "seat": "Senator, AR",
+   "published": {
+    "name": {
+     "full": "Tom Cotton",
+     "given": "Tom",
+     "family": "Cotton",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "AR",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022242353",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "326 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "El Dorado, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18708648582",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "106 W. Main St., Suite 410"
+       ],
+       "city": "El Dorado",
+       "region": "AR",
+       "postalCode": "71730",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Jonesboro, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18709336223",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "300 S. Church, Suite 338"
+       ],
+       "city": "Jonesboro",
+       "region": "AR",
+       "postalCode": "72401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Little Rock, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15012239081",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1401 W. Capitol Ave., Suite 235"
+       ],
+       "city": "Little Rock",
+       "region": "AR",
+       "postalCode": "72201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rogers, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14797510879",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3333 S. Pinnacle Hills Pkwy, Suite 425"
+       ],
+       "city": "Rogers",
+       "region": "AR",
+       "postalCode": "72758",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.cotton.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.cotton.senate.gov/contact/contact-tom",
+    "website": "https://www.cotton.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001087": {
+   "seat": "Representative, AR-1",
+   "published": {
+    "name": {
+     "full": "Eric A. \"Rick\" Crawford",
+     "given": "Rick",
+     "family": "Crawford",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "AR",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254076",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2422 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cabot, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15018433043",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "112 S. 1st"
+       ],
+       "city": "Cabot",
+       "region": "AR",
+       "postalCode": "72023",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Dumas, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18703775571",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "101 E Waterman St"
+       ],
+       "city": "Dumas",
+       "region": "AR",
+       "postalCode": "71639-2226",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Jonesboro, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18702030540",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2400 Highland Dr., Suite 300"
+       ],
+       "city": "Jonesboro",
+       "region": "AR",
+       "postalCode": "72401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Mountain Home, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18704242075",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1001 Highway 62 E, Suite 9"
+       ],
+       "city": "Mountain Home",
+       "region": "AR",
+       "postalCode": "72653",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://crawford.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://crawford.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001072": {
+   "seat": "Representative, AR-2",
+   "published": {
+    "name": {
+     "full": "J. French Hill",
+     "given": "J.",
+     "family": "Hill",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "AR",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252506",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1533 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0402",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Little Rock, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15013245941",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1501 N. University Ave., Suite 630"
+       ],
+       "city": "Little Rock",
+       "region": "AR",
+       "postalCode": "72207",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Conway, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15019025733",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "900 Oak Street"
+       ],
+       "city": "Conway",
+       "region": "AR",
+       "postalCode": "72032",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://hill.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://hill.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "W000809": {
+   "seat": "Representative, AR-3",
+   "published": {
+    "name": {
+     "full": "Steve Womack",
+     "given": "Steve",
+     "family": "Womack",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "AR",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254301",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2412 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0403",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fort Smith, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14794241146",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "6101 Phoenix Ave, Suite 4"
+       ],
+       "city": "Fort Smith",
+       "region": "AR",
+       "postalCode": "72903-5083",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rogers, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14794640446",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3333 Pinnacle Hills Parkway, Suite 120"
+       ],
+       "city": "Rogers",
+       "region": "AR",
+       "postalCode": "72758",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://womack.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://womack.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "W000821": {
+   "seat": "Representative, AR-4",
+   "published": {
+    "name": {
+     "full": "Bruce Westerman",
+     "given": "Bruce",
+     "family": "Westerman",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "AR",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253772",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "202 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0404",
+       "country": "US"
+      }
+     },
+     {
+      "label": "El Dorado, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15016099796",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "101 N. Washington Ave., Suite 406"
+       ],
+       "city": "El Dorado",
+       "region": "AR",
+       "postalCode": "71730",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Hot Springs, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15016099796",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "101 Reserve St., Suite 200"
+       ],
+       "city": "Hot Springs",
+       "region": "AR",
+       "postalCode": "71901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Pine Bluff, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15016099796",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "211 W 3rd Ave., Suite 245"
+       ],
+       "city": "Pine Bluff",
+       "region": "AR",
+       "postalCode": "71611",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Russellville, AR office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15016099796",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "500 W. Main St., Suite 110"
+       ],
+       "city": "Russellville",
+       "region": "AR",
+       "postalCode": "72801",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://westerman.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://westerman.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "R000600": {
+   "seat": "Delegate, AS-0",
+   "published": {
+    "name": {
+     "full": "Aumua Amata Coleman Radewagen",
+     "given": "Aumua Amata",
+     "family": "Radewagen",
+     "suffix": null
+    },
+    "role": "delegate",
+    "party": "Republican",
+    "state": "AS",
+    "district": 0,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022258577",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2001 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-5200",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Pagopago, AS office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16846333601",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1 Fagatogo Square, Box 5859"
+       ],
+       "city": "Pagopago",
+       "region": "AS",
+       "postalCode": "96799",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://radewagen.house.gov"
+     },
+     {
+      "purpose": "policy-feedback",
+      "url": "https://radewagen.house.gov/contact"
+     }
+    ],
+    "verifiedAt": "2026-11-05"
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://radewagen.house.gov"
+   },
+   "currentSupplement": {
+    "links": [
+     {
+      "purpose": "policy-feedback",
+      "url": "https://radewagen.house.gov/contact",
+      "source": "https://radewagen.house.gov/contact",
+      "verifiedAt": "2026-11-05"
+     }
+    ],
+    "emails": [],
+    "verifiedAt": "2026-11-05"
+   }
+  },
+  "G000574": {
+   "seat": "Senator, AZ",
+   "published": {
+    "name": {
+     "full": "Ruben Gallego",
+     "given": "Ruben",
+     "family": "Gallego",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "AZ",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022244521",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "302 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Phoenix, AZ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14806973600",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3333 E. Camelback Rd, Suite 200"
+       ],
+       "city": "Phoenix",
+       "region": "AZ",
+       "postalCode": "85018",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tucson, AZ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15207770400",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "20 East Ochoa Street"
+       ],
+       "city": "Tucson",
+       "region": "AZ",
+       "postalCode": "85701",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.gallego.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://www.gallego.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "K000377": {
+   "seat": "Senator, AZ",
+   "published": {
+    "name": {
+     "full": "Mark Kelly",
+     "given": "Mark",
+     "family": "Kelly",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "AZ",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022242235",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "516 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Phoenix, AZ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16026717901",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Camelback Plaza",
+        "2201 E. Camelback Rd, Suite 115"
+       ],
+       "city": "Phoenix",
+       "region": "AZ",
+       "postalCode": "85016",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Tucson, AZ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15204755177",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "100 North Stone Avenue, Suite 600"
+       ],
+       "city": "Tucson",
+       "region": "AZ",
+       "postalCode": "85701",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.kelly.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.kelly.senate.gov/contact/contact-form/",
+    "website": "https://www.kelly.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001183": {
+   "seat": "Representative, AZ-1",
+   "published": {
+    "name": {
+     "full": "David Schweikert",
+     "given": "David",
+     "family": "Schweikert",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "AZ",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252190",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "166 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0301",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Scottsdale, AZ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+14809462411",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "14500 N Northsight Blvd, Suite 221"
+       ],
+       "city": "Scottsdale",
+       "region": "AZ",
+       "postalCode": "85260-3658",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://schweikert.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://schweikert.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001132": {
+   "seat": "Representative, AZ-2",
+   "published": {
+    "name": {
+     "full": "Elijah Crane",
+     "given": "Eli",
+     "family": "Crane",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "AZ",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253361",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "307 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0302",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Prescott, AZ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+19282865338",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "122 N. Cortez St., Suite 211"
+       ],
+       "city": "Prescott",
+       "region": "AZ",
+       "postalCode": "86301",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://crane.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://crane.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "A000381": {
+   "seat": "Representative, AZ-3",
+   "published": {
+    "name": {
+     "full": "Yassamin Ansari",
+     "given": "Yassamin",
+     "family": "Ansari",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "AZ",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254065",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1432 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0303",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Phoenix, AZ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16029562285",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "3770 N 7th St, 100b"
+       ],
+       "city": "Phoenix",
+       "region": "AZ",
+       "postalCode": "85014",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://ansari.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://ansari.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001211": {
+   "seat": "Representative, AZ-4",
+   "published": {
+    "name": {
+     "full": "Greg Stanton",
+     "given": "Greg",
+     "family": "Stanton",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "AZ",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022259888",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "207 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-0304",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Mesa, AZ office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16029562463",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1220 S Alma School Rd, Ste 209"
+       ],
+       "city": "Mesa",
+       "region": "AZ",
+       "postalCode": "85210",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://stanton.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://stanton.house.gov"
+   },
+   "currentSupplement": null
+  }
+ }
+}

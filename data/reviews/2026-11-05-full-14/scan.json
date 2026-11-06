@@ -1,0 +1,1894 @@
+{
+ "M001226": {
+  "id": "M001226",
+  "name": "Robert Menendez",
+  "seat": "Representative, NJ-8",
+  "pages": [
+   {
+    "url": "https://menendez.house.gov",
+    "final": "https://menendez.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://menendez.house.gov/write-to-rob/",
+    "final": "https://menendez.house.gov/write-to-rob/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://menendez.house.gov/contact/",
+    "final": "https://menendez.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://menendez.house.gov/../contact/office-locations/",
+    "final": "https://menendez.house.gov/contact/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "P000621": {
+  "id": "P000621",
+  "name": "Nellie Pou",
+  "seat": "Representative, NJ-9",
+  "pages": [
+   {
+    "url": "https://pou.house.gov",
+    "final": "https://pou.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://pou.house.gov/contact/email-me/",
+    "final": "https://pou.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://pou.house.gov/contact/",
+    "final": "https://pou.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://pou.house.gov/contact/office-locations/",
+    "final": "https://pou.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://pou.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://pou.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://pou.house.gov/contact/offices/lyndhurst-office/",
+    "final": "https://pou.house.gov/contact/offices/lyndhurst-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://pou.house.gov/contact/offices/paterson-district-office/",
+    "final": "https://pou.house.gov/contact/offices/paterson-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://pou.house.gov/contact/offices/passaic-city-hall-office/",
+    "final": "https://pou.house.gov/contact/offices/passaic-city-hall-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://pou.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "M001229": {
+  "id": "M001229",
+  "name": "LaMonica McIver",
+  "seat": "Representative, NJ-10",
+  "pages": [
+   {
+    "url": "https://mciver.house.gov",
+    "final": "https://mciver.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mciver.house.gov/contact/",
+    "final": "https://mciver.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mciver.house.gov/contact/email-me/",
+    "final": "https://mciver.house.gov/contact/email-me/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mciver.house.gov/contact/office-locations/",
+    "final": "https://mciver.house.gov/contact/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Newark, NJ office: LeRoy F. Smith, Jr. Public Safety Building, 60 Nelson Pl, 14th Floor"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "M001246": {
+  "id": "M001246",
+  "name": "Analilia Mejia",
+  "seat": "Representative, NJ-11",
+  "pages": [
+   {
+    "url": "https://mejia.house.gov",
+    "final": "https://mejia.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mejia.house.gov/contact/",
+    "final": "https://mejia.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mejia.house.gov/contact/email-me/",
+    "final": "https://mejia.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://mejia.house.gov/contact/office-locations/",
+    "final": "https://mejia.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mejia.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://mejia.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://mejia.house.gov/contact/offices/district-office-2/",
+    "final": "https://mejia.house.gov/contact/offices/district-office-2",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Livingston, NJ office: 357 S. Livingston Avenue, Suite 201"
+  ],
+  "forms": [
+   {
+    "url": "https://mejia.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "W000822": {
+  "id": "W000822",
+  "name": "Bonnie Watson Coleman",
+  "seat": "Representative, NJ-12",
+  "pages": [
+   {
+    "url": "https://watsoncoleman.house.gov",
+    "final": "https://watsoncoleman.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://watsoncoleman.house.gov/contact/",
+    "final": "https://watsoncoleman.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://watsoncoleman.house.gov/contact/find-assistance/",
+    "final": "https://watsoncoleman.house.gov/contact/find-assistance/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://watsoncoleman.house.gov/contact/share-your-opinion/",
+    "final": "https://watsoncoleman.house.gov/contact/share-your-opinion/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://watsoncoleman.house.gov/contact/office/",
+    "final": "https://watsoncoleman.house.gov/contact/office/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [],
+  "emails": []
+ },
+ "H001046": {
+  "id": "H001046",
+  "name": "Martin Heinrich",
+  "seat": "Senator, NM",
+  "pages": [
+   {
+    "url": "https://www.heinrich.senate.gov",
+    "final": "https://www.heinrich.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.heinrich.senate.gov/contact/",
+    "final": "https://www.heinrich.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.heinrich.senate.gov/contact/offices/",
+    "final": "https://www.heinrich.senate.gov/404?notfound=/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.heinrich.senate.gov/offices/",
+    "final": "https://www.heinrich.senate.gov/404?notfound=/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.heinrich.senate.gov/office-locations/",
+    "final": "https://www.heinrich.senate.gov/404?notfound=office-locations",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.heinrich.senate.gov/helping-you/mobile-office-hours/",
+    "final": "https://www.heinrich.senate.gov/helping-you/mobile-office-hours/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.heinrich.senate.gov/contact/write-martin/",
+    "final": "https://www.heinrich.senate.gov/contact/write-martin/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.heinrich.senate.gov",
+   "https://www.heinrich.senate.gov/contact/offices/",
+   "https://www.heinrich.senate.gov/offices/",
+   "https://www.heinrich.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+15059886647"
+  ],
+  "publishedAddressesNotFound": [
+   "Albuquerque, NM office: 400 Gold Ave. SW, Suite 1080"
+  ],
+  "forms": [
+   {
+    "url": "https://www.heinrich.senate.gov/contact/write-martin/",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "L000570": {
+  "id": "L000570",
+  "name": "Ben Ray Luj\u00e1n",
+  "seat": "Senator, NM",
+  "pages": [
+   {
+    "url": "https://www.lujan.senate.gov",
+    "final": "https://www.lujan.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.lujan.senate.gov/contact/",
+    "final": "https://www.lujan.senate.gov/contact/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.lujan.senate.gov/contact/offices/",
+    "final": "https://www.lujan.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.lujan.senate.gov/offices/",
+    "final": "https://www.lujan.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.lujan.senate.gov/office-locations/",
+    "final": "https://www.lujan.senate.gov/?elementor_library=office-locations",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.lujan.senate.gov/contact/contact-form/",
+    "final": "https://www.lujan.senate.gov/contact/contact-form/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.lujan.senate.gov/contact/{{{data.link}}}/",
+    "final": "https://www.lujan.senate.gov/contact/{{{data.link}}}/",
+    "status": 0,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.lujan.senate.gov",
+   "https://www.lujan.senate.gov/contact/offices/",
+   "https://www.lujan.senate.gov/offices/",
+   "https://www.lujan.senate.gov/office-locations/",
+   "https://www.lujan.senate.gov/contact/{{{data.link}}}/"
+  ],
+  "publishedPhonesNotFound": [
+   "+15054543038"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+15053989465"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.lujan.senate.gov/contact/",
+    "positive": [
+     "issue"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://www.lujan.senate.gov/contact/contact-form/",
+    "positive": [
+     "comment",
+     "concern",
+     "issue",
+     "legislation",
+     "topic"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "S001218": {
+  "id": "S001218",
+  "name": "Melanie A. Stansbury",
+  "seat": "Representative, NM-1",
+  "pages": [
+   {
+    "url": "https://stansbury.house.gov",
+    "final": "https://stansbury.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://stansbury.house.gov/contact/",
+    "final": "https://stansbury.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://stansbury.house.gov/contact/offices/",
+    "final": "https://stansbury.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://stansbury.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://stansbury.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://stansbury.house.gov/contact/offices/albuquerque-office/",
+    "final": "https://stansbury.house.gov/contact/offices/albuquerque-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://stansbury.house.gov/contact",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "V000136": {
+  "id": "V000136",
+  "name": "Gabe Vasquez",
+  "seat": "Representative, NM-2",
+  "pages": [
+   {
+    "url": "https://vasquez.house.gov",
+    "final": "https://vasquez.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vasquez.house.gov/contact/",
+    "final": "https://vasquez.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://vasquez.house.gov/story/",
+    "final": "https://vasquez.house.gov/story",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vasquez.house.gov/priorities/",
+    "final": "https://vasquez.house.gov/priorities",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vasquez.house.gov/contact/offices/",
+    "final": "https://vasquez.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vasquez.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://vasquez.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vasquez.house.gov/contact/offices/albuquerque-office/",
+    "final": "https://vasquez.house.gov/contact/offices/albuquerque-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vasquez.house.gov/contact/offices/las-cruces-district-office/",
+    "final": "https://vasquez.house.gov/contact/offices/las-cruces-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://vasquez.house.gov/contact/office-locations/",
+    "final": "https://vasquez.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Albuquerque, NM office: 201 Unser Blvd. NW, Unit 116"
+  ],
+  "forms": [
+   {
+    "url": "https://vasquez.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "legislation",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "L000273": {
+  "id": "L000273",
+  "name": "Teresa Leger Fernandez",
+  "seat": "Representative, NM-3",
+  "pages": [
+   {
+    "url": "https://fernandez.house.gov",
+    "final": "https://fernandez.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fernandez.house.gov/contact/",
+    "final": "https://fernandez.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://fernandez.house.gov/contact/office-locations.htm",
+    "final": "https://fernandez.house.gov/contact/office-locations.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://fernandez.house.gov/forms/emailsignup/",
+    "final": "https://fernandez.house.gov/contact/subscribe.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [
+   "+15055707558"
+  ],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+15752185770"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://fernandez.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "C001113": {
+  "id": "C001113",
+  "name": "Catherine Cortez Masto",
+  "seat": "Senator, NV",
+  "pages": [
+   {
+    "url": "https://www.cortezmasto.senate.gov",
+    "final": "https://www.cortezmasto.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cortezmasto.senate.gov/contact/",
+    "final": "https://www.cortezmasto.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cortezmasto.senate.gov/contact/offices/",
+    "final": "https://www.cortezmasto.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cortezmasto.senate.gov/offices/",
+    "final": "https://www.cortezmasto.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cortezmasto.senate.gov/office-locations/",
+    "final": "https://www.cortezmasto.senate.gov/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cortezmasto.senate.gov/contact/connect/",
+    "final": "https://www.cortezmasto.senate.gov/contact/connect/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://www.cortezmasto.senate.gov/es/contacto/",
+    "final": "https://www.cortezmasto.senate.gov/es/contacto/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cortezmasto.senate.gov/contact/itemDataObject.url/",
+    "final": "https://www.cortezmasto.senate.gov/contact/itemDataObject.url/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.cortezmasto.senate.gov/contact/{{{data.link}}}/",
+    "final": "https://www.cortezmasto.senate.gov/contact/{{{data.link}}}/",
+    "status": 0,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.cortezmasto.senate.gov",
+   "https://www.cortezmasto.senate.gov/contact/offices/",
+   "https://www.cortezmasto.senate.gov/offices/",
+   "https://www.cortezmasto.senate.gov/office-locations/",
+   "https://www.cortezmasto.senate.gov/contact/itemDataObject.url/",
+   "https://www.cortezmasto.senate.gov/contact/{{{data.link}}}/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+17023885030",
+   "+17752251457",
+   "+17756865757"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.cortezmasto.senate.gov/contact/connect/",
+    "positive": [
+     "legislation",
+     "opinion",
+     "share your",
+     "topic"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter",
+     "privacy release",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "R000608": {
+  "id": "R000608",
+  "name": "Jacky Rosen",
+  "seat": "Senator, NV",
+  "pages": [
+   {
+    "url": "https://www.rosen.senate.gov",
+    "final": "https://www.rosen.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.rosen.senate.gov/contact/",
+    "final": "https://www.rosen.senate.gov/contact/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.rosen.senate.gov/contact/offices/",
+    "final": "https://www.rosen.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.rosen.senate.gov/offices/",
+    "final": "https://www.rosen.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.rosen.senate.gov/office-locations/",
+    "final": "https://www.rosen.senate.gov/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.rosen.senate.gov/contact_jacky",
+    "final": "https://www.rosen.senate.gov/email-jacky/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.rosen.senate.gov",
+   "https://www.rosen.senate.gov/contact/",
+   "https://www.rosen.senate.gov/contact/offices/",
+   "https://www.rosen.senate.gov/offices/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://www.rosen.senate.gov/email-jacky/",
+    "positive": [
+     "comment",
+     "concern",
+     "issue",
+     "legislation",
+     "topic"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "T000468": {
+  "id": "T000468",
+  "name": "Dina Titus",
+  "seat": "Representative, NV-1",
+  "pages": [
+   {
+    "url": "https://titus.house.gov",
+    "final": "https://titus.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://titus.house.gov/contact/",
+    "final": "https://titus.house.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://titus.house.gov/forms/emailsignup/",
+    "final": "https://titus.house.gov/contact/subscribe.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://titus.house.gov/contact/offices.htm",
+    "final": "https://titus.house.gov/contact/offices.htm",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://titus.house.gov/contact/",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "A000369": {
+  "id": "A000369",
+  "name": "Mark E. Amodei",
+  "seat": "Representative, NV-2",
+  "pages": [
+   {
+    "url": "https://amodei.house.gov",
+    "final": "https://amodei.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://amodei.house.gov/email-me/",
+    "final": "https://amodei.house.gov/address_authentication?form=/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://amodei.house.gov/offices/",
+    "final": "https://amodei.house.gov/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://amodei.house.gov/contact/",
+    "final": "https://amodei.house.gov/address_authentication?form=/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://amodei.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://amodei.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://amodei.house.gov/contact/offices/reno-district-office/",
+    "final": "https://amodei.house.gov/contact/offices/reno-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://amodei.house.gov/contact/offices/elko-contact/",
+    "final": "https://amodei.house.gov/contact/offices/elko-contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://amodei.house.gov/contact/office-locations/",
+    "final": "https://amodei.house.gov/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://amodei.house.gov/address_authentication?form=/email-me",
+    "positive": [
+     "issue"
+    ],
+    "negative": [
+     "newsletter",
+     "privacy release"
+    ]
+   },
+   {
+    "url": "https://amodei.house.gov/address_authentication?form=/email-me",
+    "positive": [
+     "issue"
+    ],
+    "negative": [
+     "newsletter",
+     "privacy release"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "L000590": {
+  "id": "L000590",
+  "name": "Susie Lee",
+  "seat": "Representative, NV-3",
+  "pages": [
+   {
+    "url": "https://susielee.house.gov",
+    "final": "https://susielee.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://susielee.house.gov/contact/",
+    "final": "https://susielee.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://susielee.house.gov/contact/offices/",
+    "final": "https://susielee.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "http://susielee.house.gov/contact/",
+    "final": "https://susielee.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://susielee.house.gov/node/3995/",
+    "final": "https://susielee.house.gov/node/3995/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://susielee.house.gov/node/3993/",
+    "final": "https://susielee.house.gov/node/3993/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://susielee.house.gov/node/3991/",
+    "final": "https://susielee.house.gov/node/3991/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://susielee.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://susielee.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://susielee.house.gov/contact/offices/las-vegas-district-office/",
+    "final": "https://susielee.house.gov/contact/offices/las-vegas-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://susielee.house.gov/contact/office-locations/",
+    "final": "https://susielee.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://susielee.house.gov/node/3995/",
+   "https://susielee.house.gov/node/3993/",
+   "https://susielee.house.gov/node/3991/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://susielee.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://susielee.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "H001066": {
+  "id": "H001066",
+  "name": "Steven Horsford",
+  "seat": "Representative, NV-4",
+  "pages": [
+   {
+    "url": "https://horsford.house.gov",
+    "final": "https://horsford.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://horsford.house.gov/survey/",
+    "final": "https://horsford.house.gov/feedbackportal",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://horsford.house.gov/contact/",
+    "final": "https://horsford.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://horsford.house.gov/contact/event-request/",
+    "final": "https://horsford.house.gov/address_authentication?form=/contact/event-request",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://horsford.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://horsford.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://horsford.house.gov/contact/offices/north-las-vegas-district-office/",
+    "final": "https://horsford.house.gov/contact/offices/north-las-vegas-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://horsford.house.gov/contact/office-locations/",
+    "final": "https://horsford.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://horsford.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "newsletter"
+    ]
+   },
+   {
+    "url": "https://horsford.house.gov/address_authentication?form=/contact/event-request",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "casework",
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "G000555": {
+  "id": "G000555",
+  "name": "Kirsten E. Gillibrand",
+  "seat": "Senator, NY",
+  "pages": [
+   {
+    "url": "https://www.gillibrand.senate.gov",
+    "final": "https://www.gillibrand.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.gillibrand.senate.gov/contact/",
+    "final": "https://www.gillibrand.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.gillibrand.senate.gov/contact/offices/",
+    "final": "https://www.gillibrand.senate.gov/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.gillibrand.senate.gov/offices/",
+    "final": "https://www.gillibrand.senate.gov/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.gillibrand.senate.gov/office-locations/",
+    "final": "https://www.gillibrand.senate.gov/office-locations/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.gillibrand.senate.gov/contact/email-me",
+    "final": "https://www.gillibrand.senate.gov/contact/email-me/",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.gillibrand.senate.gov",
+   "https://www.gillibrand.senate.gov/contact/offices/",
+   "https://www.gillibrand.senate.gov/offices/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [
+   "Albany, NY office: Leo W. O\u2019Brien Federal Office Building, 11A Clinton Avenue, Room 821",
+   "New York, NY office: 780 Third Ave., Suite 2601"
+  ],
+  "forms": [
+   {
+    "url": "https://www.gillibrand.senate.gov/contact/email-me/",
+    "positive": [
+     "concern",
+     "issue",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "flag request",
+     "newsletter",
+     "tour request"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "S000148": {
+  "id": "S000148",
+  "name": "Charles E. Schumer",
+  "seat": "Senator, NY",
+  "pages": [
+   {
+    "url": "https://www.schumer.senate.gov",
+    "final": "https://www.schumer.senate.gov/",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.schumer.senate.gov/contact/",
+    "final": "https://www.schumer.senate.gov/contact/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.schumer.senate.gov/contact/offices/",
+    "final": "https://www.schumer.senate.gov/404?notfound=/contact/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.schumer.senate.gov/offices/",
+    "final": "https://www.schumer.senate.gov/404?notfound=/offices/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.schumer.senate.gov/office-locations/",
+    "final": "https://www.schumer.senate.gov/404?notfound=/office-locations/",
+    "status": 404,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.schumer.senate.gov/contact/email-chuck",
+    "final": "https://www.schumer.senate.gov/contact/message-chuck",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://www.schumer.senate.gov/contact/message-chuck/",
+    "final": "https://www.schumer.senate.gov/contact/message-chuck/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://www.schumer.senate.gov",
+   "https://www.schumer.senate.gov/contact/offices/",
+   "https://www.schumer.senate.gov/offices/",
+   "https://www.schumer.senate.gov/office-locations/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+12124867803"
+  ],
+  "publishedAddressesNotFound": [
+   "Albany, NY office: Leo O'Brien Building, 1 Clinton Ave., Room 827"
+  ],
+  "forms": [],
+  "emails": []
+ },
+ "L000598": {
+  "id": "L000598",
+  "name": "Nick LaLota",
+  "seat": "Representative, NY-1",
+  "pages": [
+   {
+    "url": "https://lalota.house.gov",
+    "final": "https://lalota.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lalota.house.gov/contact/",
+    "final": "https://lalota.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": true
+   },
+   {
+    "url": "https://lalota.house.gov/contact/offices/",
+    "final": "https://lalota.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lalota.house.gov/contact/offices/dc-office/",
+    "final": "https://lalota.house.gov/contact/offices/dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lalota.house.gov/contact/offices/hauppauge-district-office/",
+    "final": "https://lalota.house.gov/contact/offices/hauppauge-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lalota.house.gov/contact/offices/rockypoint-office/",
+    "final": "https://lalota.house.gov/contact/offices/rockypoint-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://lalota.house.gov/contact/office-locations/",
+    "final": "https://lalota.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://lalota.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "(behind a ZIP or address check)"
+    ],
+    "negative": []
+   }
+  ],
+  "emails": []
+ },
+ "G000597": {
+  "id": "G000597",
+  "name": "Andrew R. Garbarino",
+  "seat": "Representative, NY-2",
+  "pages": [
+   {
+    "url": "https://garbarino.house.gov",
+    "final": "https://garbarino.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://garbarino.house.gov/contact/sign-up/",
+    "final": "https://garbarino.house.gov/contact/sign-up",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://garbarino.house.gov/contact/",
+    "final": "https://garbarino.house.gov/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://garbarino.house.gov/contact/offices/",
+    "final": "https://garbarino.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://garbarino.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://garbarino.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://garbarino.house.gov/contact/offices/patchogue-district-office/",
+    "final": "https://garbarino.house.gov/contact/offices/patchogue-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://garbarino.house.gov/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "S001201": {
+  "id": "S001201",
+  "name": "Thomas R. Suozzi",
+  "seat": "Representative, NY-3",
+  "pages": [
+   {
+    "url": "https://suozzi.house.gov",
+    "final": "https://suozzi.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://suozzi.house.gov/contact/",
+    "final": "https://suozzi.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://suozzi.house.gov/contact/offices/",
+    "final": "https://suozzi.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://suozzi.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://suozzi.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://suozzi.house.gov/contact/offices/glen-cove-district-office/",
+    "final": "https://suozzi.house.gov/contact/offices/glen-cove-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://suozzi.house.gov/contact/offices/douglaston-district-office/",
+    "final": "https://suozzi.house.gov/contact/offices/douglaston-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://suozzi.house.gov/contact/office-locations/",
+    "final": "https://suozzi.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://suozzi.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "G000602": {
+  "id": "G000602",
+  "name": "Laura Gillen",
+  "seat": "Representative, NY-4",
+  "pages": [
+   {
+    "url": "https://gillen.house.gov",
+    "final": "https://gillen.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gillen.house.gov/contact/",
+    "final": "https://gillen.house.gov/contact",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gillen.house.gov/contact/email-me/",
+    "final": "https://gillen.house.gov/address_authentication?form=/contact/email-me",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://gillen.house.gov/contact/office-locations/",
+    "final": "https://gillen.house.gov/contact/office-locations",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gillen.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://gillen.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://gillen.house.gov/contact/offices/garden-city-district-office/",
+    "final": "https://gillen.house.gov/contact/offices/garden-city-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://gillen.house.gov/address_authentication?form=/contact/email-me",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "M001137": {
+  "id": "M001137",
+  "name": "Gregory W. Meeks",
+  "seat": "Representative, NY-5",
+  "pages": [
+   {
+    "url": "https://meeks.house.gov",
+    "final": "https://meeks.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://meeks.house.gov/contact/",
+    "final": "https://meeks.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://meeks.house.gov/about/welcome-message/",
+    "final": "https://meeks.house.gov/about/welcome-message",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://meeks.house.gov/contact/offices/",
+    "final": "https://meeks.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://meeks.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://meeks.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://meeks.house.gov/contact/offices/jamaica-district-office/",
+    "final": "https://meeks.house.gov/contact/offices/jamaica-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://meeks.house.gov/contact/offices/rockaway-peninsula-district-office/",
+    "final": "https://meeks.house.gov/contact/offices/rockaway-peninsula-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://meeks.house.gov/contact/office-locations/",
+    "final": "https://meeks.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://meeks.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "M001188": {
+  "id": "M001188",
+  "name": "Grace Meng",
+  "seat": "Representative, NY-6",
+  "pages": [
+   {
+    "url": "https://meng.house.gov",
+    "final": "https://meng.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://meng.house.gov/contact/",
+    "final": "https://meng.house.gov/address_authentication?form=/contact",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://meng.house.gov/contact/offices/",
+    "final": "https://meng.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://meng.house.gov/resources/share-your-story-share-your-story-how-will-health-insurance-premium-increases-impact-you/",
+    "final": "https://meng.house.gov/resources/share-your-story-share-your-story-how-will-health-insurance-premium-increases-impact-you",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://meng.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://meng.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://meng.house.gov/contact/offices/flushing-district-office/",
+    "final": "https://meng.house.gov/contact/offices/flushing-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://meng.house.gov/contact/offices/forest-hills-district-office/",
+    "final": "https://meng.house.gov/contact/offices/forest-hills-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://meng.house.gov/contact/office-locations/",
+    "final": "https://meng.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://meng.house.gov/address_authentication?form=/contact",
+    "positive": [
+     "issue",
+     "legislation",
+     "share your"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ },
+ "V000081": {
+  "id": "V000081",
+  "name": "Nydia M. Vel\u00e1zquez",
+  "seat": "Representative, NY-7",
+  "pages": [
+   {
+    "url": "https://velazquez.house.gov",
+    "final": "https://velazquez.house.gov/",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://velazquez.house.gov/about/welcome-message/",
+    "final": "https://velazquez.house.gov/about/welcome-message",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://velazquez.house.gov/contact/",
+    "final": "https://velazquez.house.gov/contact-old",
+    "status": 403,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://velazquez.house.gov/contact/offices/",
+    "final": "https://velazquez.house.gov/contact/offices",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://velazquez.house.gov/en-espanol/contactenos/",
+    "final": "https://velazquez.house.gov/en-espanol/contactenos",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://velazquez.house.gov/en-espanol/forma-de-contacto-de-correo-electronico/",
+    "final": "https://velazquez.house.gov/address_authentication?form=/en-espanol/forma-de-contacto-de-correo-electronico",
+    "status": 200,
+    "hasForm": true,
+    "gated": false
+   },
+   {
+    "url": "https://velazquez.house.gov/contact/offices/washington-dc-office/",
+    "final": "https://velazquez.house.gov/contact/offices/washington-dc-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://velazquez.house.gov/contact/offices/sunnyside-district-office/",
+    "final": "https://velazquez.house.gov/contact/offices/sunnyside-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   },
+   {
+    "url": "https://velazquez.house.gov/contact/offices/brooklyn-district-office/",
+    "final": "https://velazquez.house.gov/contact/offices/brooklyn-district-office",
+    "status": 200,
+    "hasForm": false,
+    "gated": false
+   }
+  ],
+  "blocked": [
+   "https://velazquez.house.gov/contact/"
+  ],
+  "publishedPhonesNotFound": [],
+  "publishedPhonesShownAsFax": [],
+  "sitePhonesNotPublished": [
+   "+12126733997",
+   "+17182225819"
+  ],
+  "publishedAddressesNotFound": [],
+  "forms": [
+   {
+    "url": "https://velazquez.house.gov/address_authentication?form=/en-espanol/forma-de-contacto-de-correo-electronico",
+    "positive": [
+     "issue",
+     "legislation"
+    ],
+    "negative": [
+     "federal agency",
+     "newsletter"
+    ]
+   }
+  ],
+  "emails": []
+ }
+}

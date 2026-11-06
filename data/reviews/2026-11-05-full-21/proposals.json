@@ -1,0 +1,1126 @@
+{
+ "batch": "2026-11-05-full-21",
+ "reviewedAt": "2026-11-05",
+ "officials": {
+  "C001118": {
+   "name": "Ben Cline",
+   "seat": "Representative, VA-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://cline.house.gov/",
+    "https://cline.house.gov/contact/",
+    "https://cline.house.gov/contact/offices.htm",
+    "https://cline.house.gov/calendar/",
+    "https://cline.house.gov/contact/subscribe.htm"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://cline.house.gov/contact/",
+     "source": "https://cline.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "V000138": {
+   "name": "Eugene Simon Vindman",
+   "seat": "Representative, VA-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://vindman.house.gov/",
+    "https://vindman.house.gov/contact/meet-with-me/",
+    "https://vindman.house.gov/2026/10/27/huge-milestone-vindmans-office-returns-10-million-in-backlogged-dollars-to-constituents/",
+    "https://vindman.house.gov/2026/10/16/vindman-releases-statement-after-suspicious-package-sent-to-district-office/",
+    "https://vindman.house.gov/address-authentication-form-contact-email-me/",
+    "https://vindman.house.gov/contact/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://vindman.house.gov/address-authentication-form-contact-email-me/",
+     "source": "https://vindman.house.gov/",
+     "evidence": "Linked as 'Contact My Office': the member's main email form, behind an address check ('Please enter your address to verify residency within the district'), so its topic list could not be read; casework and meetings are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://vindman.house.gov/",
+     "evidence": "'Fredericksburg Office 1701 Fall Hill Ave, Unit 104 Fredericksburg, VA, 22401 Phone: (540) 321-6130'; we publish no Fredericksburg office. Woodbridge ('2241D Tacketts Mill Dr. Woodbridge, VA 22192 Phone: (703) 987-2180') matches.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252815",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1005 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-4607",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Woodbridge, VA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17039872180",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2241D Tacketts Mill Dr."
+        ],
+        "city": "Woodbridge",
+        "region": "VA",
+        "postalCode": "22192",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Fredericksburg, VA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15403216130",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1701 Fall Hill Ave, Unit 104"
+        ],
+        "city": "Fredericksburg",
+        "region": "VA",
+        "postalCode": "22401",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "B001292": {
+   "name": "Donald S. Beyer, Jr.",
+   "seat": "Representative, VA-8",
+   "status": "verified",
+   "pagesChecked": [
+    "https://beyer.house.gov/",
+    "https://beyer.house.gov/news/documentquery.aspx",
+    "https://beyer.house.gov/contact/",
+    "https://beyer.house.gov/forms/form/?ID=3",
+    "https://beyer.house.gov/contact/officeinformation.htm",
+    "https://beyer.house.gov/news/documentsingle.aspx"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://beyer.house.gov/contact/",
+     "source": "https://beyer.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "G000568": {
+   "name": "H. Morgan Griffith",
+   "seat": "Representative, VA-9",
+   "status": "verified",
+   "pagesChecked": [
+    "https://morgangriffith.house.gov/",
+    "https://morgangriffith.house.gov/contact/contactform.htm",
+    "https://morgangriffith.house.gov/contact/abingdonoffice.htm",
+    "https://morgangriffith.house.gov/contact/christiansburgoffice.htm",
+    "https://morgangriffith.house.gov/contact/washingtonoffice.htm",
+    "https://morgangriffith.house.gov/contact/contactform.htm",
+    "https://morgangriffith.house.gov/news/documentsingle.aspx",
+    "https://morgangriffith.house.gov/forms/emailsignup/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://morgangriffith.house.gov/contact/contactform.htm",
+     "source": "https://morgangriffith.house.gov/contact/contactform.htm",
+     "evidence": "Contact form with an issue list about legislation; agency help, flags and tours are separate."
+    }
+   ]
+  },
+  "S001230": {
+   "name": "Suhas Subramanyam",
+   "seat": "Representative, VA-10",
+   "status": "verified",
+   "pagesChecked": [
+    "https://subramanyam.house.gov/",
+    "https://subramanyam.house.gov/contact",
+    "https://subramanyam.house.gov/address_authentication?form=/contact/email-me",
+    "https://subramanyam.house.gov/contact/office-locations",
+    "https://subramanyam.house.gov/contact/data-center-comment-portal",
+    "https://subramanyam.house.gov/contact/offices/washington-dc-office",
+    "https://subramanyam.house.gov/contact/offices/leesburg-district-office"
+   ],
+   "notes": "Offices match. Suhas.Press@mail.house.gov is a press address, not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://subramanyam.house.gov/contact/email-me",
+     "source": "https://subramanyam.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "Email form, behind an address check (address_authentication?form=/contact/email-me), for comments on legislation; agency help and meetings are separate."
+    }
+   ]
+  },
+  "W000831": {
+   "name": "James R. Walkinshaw",
+   "seat": "Representative, VA-11",
+   "status": "verified",
+   "pagesChecked": [
+    "https://walkinshaw.house.gov/",
+    "https://walkinshaw.house.gov/news/email/",
+    "https://walkinshaw.house.gov/contact/",
+    "https://walkinshaw.house.gov/forms/emailsignup/",
+    "https://walkinshaw.house.gov/contact/offices.htm",
+    "https://walkinshaw.house.gov/news/email/default.aspx"
+   ],
+   "notes": "Offices match; (202) 555-4444 and (202) 556-4443 are commented-out placeholder fax lines, ignored.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://walkinshaw.house.gov/contact/",
+     "source": "https://walkinshaw.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "P000610": {
+   "name": "Stacey E. Plaskett",
+   "seat": "Delegate, VI-0",
+   "status": "verified",
+   "pagesChecked": [
+    "https://plaskett.house.gov/",
+    "https://plaskett.house.gov/contact/infrastructure-map.htm",
+    "https://plaskett.house.gov/news/email/",
+    "https://plaskett.house.gov/contact/",
+    "https://plaskett.house.gov/forms/writeyourrep/",
+    "https://plaskett.house.gov/contact/officeinformation.htm",
+    "https://plaskett.house.gov/forms/emailsignup/",
+    "https://plaskett.house.gov/news/email/default.aspx"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://plaskett.house.gov/forms/writeyourrep/",
+     "source": "https://plaskett.house.gov/forms/writeyourrep/",
+     "evidence": "'Write Your Rep' form with 'Select the issue your email relates to' list (Advocacy, Agriculture and Food, ...); agency help is separate."
+    }
+   ]
+  },
+  "S000033": {
+   "name": "Bernard Sanders",
+   "seat": "Senator, VT",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.sanders.senate.gov/contact/",
+    "https://www.sanders.senate.gov/contact/contact-form/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.sanders.senate.gov/contact/contact-form/",
+     "source": "https://www.sanders.senate.gov/contact/",
+     "evidence": "Contact form with an 'Issue *' list (Agriculture, Appropriations, Budget, ...); flags and tours are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.sanders.senate.gov/contact/",
+     "evidence": "'Burlington 1 Church St. 3rd Floor, Burlington, VT 05401 Toll-free: 800-339-9834 Phone: 802-862-0697'; we publish no toll-free line.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022245141",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "332 Dirksen Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Burlington, VT office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18028620697",
+         "type": "voice"
+        },
+        {
+         "number": "+18003399834",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1 Church St., 3rd Floor"
+        ],
+        "city": "Burlington",
+        "region": "VT",
+        "postalCode": "05401",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "W000800": {
+   "name": "Peter Welch",
+   "seat": "Senator, VT",
+   "status": "partial",
+   "pagesChecked": [
+    "https://www.welch.senate.gov/email-peter/",
+    "https://www.senate.gov/general/contact_information/senators_cfm.xml"
+   ],
+   "notes": "Homepage blocked (403) and the site has no office page (contact and office paths return 404). Phones confirmed on https://www.welch.senate.gov/email-peter/ ('call Peter's Burlington office at 802-863-2525 and his Washington office at 202-224-4242') and the DC address on https://www.senate.gov/general/contact_information/senators_cfm.xml ('115 Russell Senate Office Building'). The Burlington street address (199 Main St., 4th Floor) could not be checked.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.welch.senate.gov/email-peter/",
+     "source": "https://www.welch.senate.gov/email-peter/",
+     "evidence": "'Email Peter' form with a topic list to share opinions; agency help is separate."
+    }
+   ]
+  },
+  "B001318": {
+   "name": "Becca Balint",
+   "seat": "Representative, VT-0",
+   "status": "verified",
+   "pagesChecked": [
+    "https://balint.house.gov/",
+    "https://balint.house.gov/contact/",
+    "https://balint.house.gov/forms/emailsignup/",
+    "https://balint.house.gov/contact/offices.htm"
+   ],
+   "notes": "BalintPress@mail.house.gov is a press address, not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://balint.house.gov/contact/",
+     "source": "https://balint.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://balint.house.gov/contact/",
+     "evidence": "'Burlington District Office 159 Bank Street Suite 204 Burlington, VT 05401 Phone: (802) 652-2450 Toll-Free: (888) 293-9874 ... Brattleboro District Office By Appointment Only Phone: (802) 652-2450', with no Brattleboro street address; we publish Holton Hall, 130 Austine Drive and no toll-free line.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254115",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1510 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-4500",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Brattleboro, VT office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18026522450",
+         "type": "voice"
+        }
+       ],
+       "address": null
+      },
+      {
+       "label": "Burlington, VT office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18026522450",
+         "type": "voice"
+        },
+        {
+         "number": "+18882939874",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "159 Bank Street, Suite 204"
+        ],
+        "city": "Burlington",
+        "region": "VT",
+        "postalCode": "05401",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "C000127": {
+   "name": "Maria Cantwell",
+   "seat": "Senator, WA",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.cantwell.senate.gov/contact/",
+    "https://www.cantwell.senate.gov/contact/email",
+    "https://www.cantwell.senate.gov/contact/email/",
+    "https://www.cantwell.senate.gov/contact/help/",
+    "https://www.cantwell.senate.gov/contact/locations/"
+   ],
+   "notes": "Homepage blocked (403). Offices match (https://www.cantwell.senate.gov/contact/locations/). scheduling@cantwell.senate.gov is a scheduling address and the google.com address is not the office's; neither added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.cantwell.senate.gov/contact/email/form",
+     "source": "https://www.cantwell.senate.gov/contact/email",
+     "evidence": "'Share Your Thoughts': 'You can e-mail Senator Cantwell about legislative issues from this page', linking 'Click Here To Share Your Thoughts' to the E-Mail Maria form (drawn by script; its fields did not render). Help requests and scheduling are separate."
+    }
+   ]
+  },
+  "M001111": {
+   "name": "Patty Murray",
+   "seat": "Senator, WA",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.murray.senate.gov/office-locations/",
+    "https://www.murray.senate.gov/write-to-patty/"
+   ],
+   "notes": "Re-confirmed after the dry run: the Write to Patty form and the office list match data/congress.json. Homepage blocked (403).",
+   "proposals": []
+  },
+  "D000617": {
+   "name": "Suzan K. DelBene",
+   "seat": "Representative, WA-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://delbene.house.gov/",
+    "https://delbene.house.gov/forms/emailsignup/",
+    "https://delbene.house.gov/news/email/",
+    "https://delbene.house.gov/contact/",
+    "https://delbene.house.gov/contact/shareyourstory.htm",
+    "https://delbene.house.gov/contact/offices.htm",
+    "https://delbene.house.gov/en-espanol/contacto/",
+    "https://delbene.house.gov/news/email/default.aspx"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://delbene.house.gov/contact/",
+     "source": "https://delbene.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP or address check, so its topic list could not be read; the share-your-story form is separate."
+    }
+   ]
+  },
+  "L000560": {
+   "name": "Rick Larsen",
+   "seat": "Representative, WA-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://larsen.house.gov/",
+    "https://larsen.house.gov/contact/",
+    "https://larsen.house.gov/contact/opinions.htm",
+    "https://larsen.house.gov/contact/offices.htm"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://larsen.house.gov/contact/opinions.htm",
+     "source": "https://larsen.house.gov/contact/opinions.htm",
+     "evidence": "Dedicated opinion form, behind a ZIP check ('zip code below to share your opinion on an issue'); agency help and meetings are separate."
+    }
+   ]
+  },
+  "G000600": {
+   "name": "Marie Gluesenkamp Perez",
+   "seat": "Representative, WA-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://gluesenkampperez.house.gov/",
+    "https://gluesenkampperez.house.gov/contact"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://gluesenkampperez.house.gov/contact",
+     "source": "https://gluesenkampperez.house.gov/contact",
+     "evidence": "Contact form with an issue and topic list to share views; casework is separate."
+    }
+   ]
+  },
+  "N000189": {
+   "name": "Dan Newhouse",
+   "seat": "Representative, WA-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://newhouse.house.gov/",
+    "https://newhouse.house.gov/address_authentication?form=/contact",
+    "https://newhouse.house.gov/contact/offices",
+    "https://newhouse.house.gov/contact/fy27-appropriations-request",
+    "https://newhouse.house.gov/mobile-office-hours",
+    "https://newhouse.house.gov/contact/offices/washington-dc-office",
+    "https://newhouse.house.gov/contact/offices/yakima-district-office",
+    "https://newhouse.house.gov/contact/offices/tri-cities-office",
+    "https://newhouse.house.gov/contact/offices/north-district-office",
+    "https://newhouse.house.gov/contact/offices"
+   ],
+   "notes": "(202) 713-7750 and (202) 738-7716 are press contacts, ignored.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://newhouse.house.gov/contact",
+     "source": "https://newhouse.house.gov/address_authentication?form=/contact",
+     "evidence": "Main contact form, behind an address check (address_authentication?form=/contact), with an issue list; casework is separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://newhouse.house.gov/contact/offices",
+     "evidence": "'North District Office PO Box 135 Grand Coulee, WA 99133' with no phone; we publish (509) 433-7760.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255816",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "460 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-4704",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Richland, WA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15097137374",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "3100 George Washington Way, #130"
+        ],
+        "city": "Richland",
+        "region": "WA",
+        "postalCode": "99354",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Yakima, WA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15094523243",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "402 E Yakima Ave, Suite 1000"
+        ],
+        "city": "Yakima",
+        "region": "WA",
+        "postalCode": "98901",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Grand Coulee, WA office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "PO Box 135"
+        ],
+        "city": "Grand Coulee",
+        "region": "WA",
+        "postalCode": "99133",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "B001322": {
+   "name": "Michael Baumgartner",
+   "seat": "Representative, WA-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://baumgartner.house.gov/",
+    "https://baumgartner.house.gov/contact/",
+    "https://baumgartner.house.gov/contact/email-me/",
+    "https://baumgartner.house.gov/contact/office-locations/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://baumgartner.house.gov/contact/email-me/",
+     "source": "https://baumgartner.house.gov/contact/email-me/",
+     "evidence": "'Email Me' form with an issue list to voice opinions and concerns on legislation; agency help is separate."
+    }
+   ]
+  },
+  "R000621": {
+   "name": "Emily Randall",
+   "seat": "Representative, WA-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://randall.house.gov/",
+    "https://randall.house.gov/address_authentication?form=/contact/email-me",
+    "https://randall.house.gov/contact",
+    "https://randall.house.gov/contact/office-locations",
+    "https://randall.house.gov/contact/offices/washington-dc-office",
+    "https://randall.house.gov/contact/offices/tacoma-district-office",
+    "https://randall.house.gov/contact/offices/bremerton-district-office"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://randall.house.gov/contact/email-me",
+     "source": "https://randall.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "Email form, behind an address check (address_authentication?form=/contact/email-me), about legislation."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://randall.house.gov/",
+     "evidence": "'Tacoma District Office 1102 A Street Suite 326 Tacoma, WA 98402 Phone: (253) 272-3515'; we publish no Tacoma office.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255916",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1531 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-4706",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Bremerton, WA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13603739725",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "345 6th St., Suite 500"
+        ],
+        "city": "Bremerton",
+        "region": "WA",
+        "postalCode": "98337",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Tacoma, WA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12532723515",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1102 A Street, Suite 326"
+        ],
+        "city": "Tacoma",
+        "region": "WA",
+        "postalCode": "98402",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "J000298": {
+   "name": "Pramila Jayapal",
+   "seat": "Representative, WA-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://jayapal.house.gov/",
+    "https://jayapal.house.gov/contact/",
+    "https://jayapal.house.gov/contact/email/",
+    "https://jayapal.house.gov/contact/offices/",
+    "https://jayapal.house.gov/share-your-story-with-congresswoman-jayapal/",
+    "https://jayapal.house.gov/2026/10/29/jayapal-raskin-demand-answers-on-officers-in-cbp-ice-involved-shootings/"
+   ],
+   "notes": "Re-confirmed after the dry run: the contact form and offices match data/congress.json. The dry run missed the casework mailbox printed in the site header.",
+   "proposals": [
+    {
+     "action": "add-email",
+     "address": "Jayapal.Casework@mail.house.gov",
+     "purpose": "casework",
+     "source": "https://jayapal.house.gov/contact/",
+     "evidence": "Site header on every page: 'For help with a federal agency, email Jayapal.Casework@mail.house.gov or call 206-674-0040'."
+    }
+   ]
+  },
+  "S001216": {
+   "name": "Kim Schrier",
+   "seat": "Representative, WA-8",
+   "status": "verified",
+   "pagesChecked": [
+    "https://schrier.house.gov/",
+    "https://schrier.house.gov/contact",
+    "https://schrier.house.gov/contact/offices",
+    "https://schrier.house.gov/share-your-medicaid-story",
+    "https://schrier.house.gov/contact/offices/washington-dc-office",
+    "https://schrier.house.gov/contact/offices/wenatchee-district-office",
+    "https://schrier.house.gov/contact/offices/issaquah-district-office",
+    "https://schrier.house.gov/address_authentication?form=/contact/email-me"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://schrier.house.gov/contact/email-me",
+     "source": "https://schrier.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "Email form, behind an address check (address_authentication?form=/contact/email-me), with an issue list; casework is separate."
+    }
+   ]
+  },
+  "S000510": {
+   "name": "Adam Smith",
+   "seat": "Representative, WA-9",
+   "status": "verified",
+   "pagesChecked": [
+    "https://adamsmith.house.gov/",
+    "https://adamsmith.house.gov/contact",
+    "https://adamsmith.house.gov/contact/email-me",
+    "https://adamsmith.house.gov/share-your-story",
+    "https://adamsmith.house.gov/contact/offices/washington-dc-office",
+    "https://adamsmith.house.gov/contact/offices/kent-district-office",
+    "https://adamsmith.house.gov/contact/offices"
+   ],
+   "notes": "Offices match. cameron.clark@ and stuart.asplund@mail.house.gov are staff addresses for scheduling and event inquiries, not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://adamsmith.house.gov/contact/email-me",
+     "source": "https://adamsmith.house.gov/contact",
+     "evidence": "Email form about legislation; agency help and privacy releases are separate."
+    }
+   ]
+  },
+  "S001159": {
+   "name": "Marilyn Strickland",
+   "seat": "Representative, WA-10",
+   "status": "verified",
+   "pagesChecked": [
+    "https://strickland.house.gov/",
+    "https://strickland.house.gov/contact/",
+    "https://strickland.house.gov/offices/",
+    "https://strickland.house.gov/offices/washington-dc-office/",
+    "https://strickland.house.gov/offices/lacey-district-office/",
+    "https://strickland.house.gov/offices/lakewood-district-office/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://strickland.house.gov/contact/",
+     "source": "https://strickland.house.gov/contact/",
+     "evidence": "Contact form with an issue list to voice opinions; casework is separate."
+    }
+   ]
+  },
+  "B001230": {
+   "name": "Tammy Baldwin",
+   "seat": "Senator, WI",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.baldwin.senate.gov/contact/",
+    "https://www.baldwin.senate.gov/contact",
+    "https://www.baldwin.senate.gov/contact/contact-tammy/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.baldwin.senate.gov/contact/contact-tammy/",
+     "source": "https://www.baldwin.senate.gov/contact/",
+     "evidence": "'Contact Tammy': 'Submitting your comments on this web form is the best way to ensure your views and feedback get to me'; the form is drawn by script and its fields did not render. Meetings and agency help are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.baldwin.senate.gov/contact/",
+     "evidence": "Office list: 'Madison 222 W. Washington Ave, Suite 705 Madison, WI 53703 (608) 264-5338', 'Ladysmith P.O. Box 401 Ladysmith, WI 54848' (no phone), Milwaukee, La Crosse, 'Green Bay PO Box 10592 Green Bay, WI 54307' (no phone), Washington, D.C. We publish Madison at 30 W. Mifflin St., Green Bay at 2325 Verlin Road with (920) 498-2668, Ladysmith with (715) 832-8424, and an Eau Claire office that is not listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022245653",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "141 Hart Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Madison, WI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16082645338",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "222 W. Washington Ave, Suite 705"
+        ],
+        "city": "Madison",
+        "region": "WI",
+        "postalCode": "53703",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Milwaukee, WI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14142974451",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "633 West Wisconsin Ave, Suite 1300"
+        ],
+        "city": "Milwaukee",
+        "region": "WI",
+        "postalCode": "53203",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Green Bay, WI office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "PO Box 10592"
+        ],
+        "city": "Green Bay",
+        "region": "WI",
+        "postalCode": "54307",
+        "country": "US"
+       }
+      },
+      {
+       "label": "La Crosse, WI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16087960045",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "210 7th Street South, Suite 203"
+        ],
+        "city": "La Crosse",
+        "region": "WI",
+        "postalCode": "54601",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Ladysmith, WI office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "P.O. Box 401"
+        ],
+        "city": "Ladysmith",
+        "region": "WI",
+        "postalCode": "54848",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "J000293": {
+   "name": "Ron Johnson",
+   "seat": "Senator, WI",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.ronjohnson.senate.gov/contact/",
+    "https://www.ronjohnson.senate.gov/contact/office-locations/",
+    "https://www.ronjohnson.senate.gov/contact/email-the-senator/",
+    "https://www.ronjohnson.senate.gov/contact/email-the-senator/",
+    "https://www.ronjohnson.senate.gov/contact/office-locations/",
+    "https://www.ronjohnson.senate.gov/contact/mobile-office/",
+    "https://www.ronjohnson.senate.gov/contact/telephone-town-hall-signup/"
+   ],
+   "notes": "Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.ronjohnson.senate.gov/contact/email-the-senator/",
+     "source": "https://www.ronjohnson.senate.gov/contact/email-the-senator/",
+     "evidence": "'Email the Senator' form with a topic list to share opinions on legislation; agency help and flags are separate."
+    }
+   ]
+  },
+  "S001213": {
+   "name": "Bryan Steil",
+   "seat": "Representative, WI-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://steil.house.gov/",
+    "https://steil.house.gov/contact",
+    "https://steil.house.gov/address_authentication?form=/contact/email-me",
+    "https://steil.house.gov/contact/offices",
+    "https://steil.house.gov/contact/offices/washington-dc-office"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://steil.house.gov/contact/email-me",
+     "source": "https://steil.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "Email form, behind an address check (address_authentication?form=/contact/email-me), with an issue list about legislation."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://steil.house.gov/contact/offices",
+     "evidence": "'Walworth County Walworth County HHS, Delavan Lake Conference Room 1910 County Rd NN Elkhorn, WI 53121 Thursdays from 9:00 Am - 11:00 am', with no phone; we publish Matheson Memorial Library, 101 N. Wisconsin Street with (262) 654-1901.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253031",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1526 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-4901",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Janesville, WI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16087524050",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "20 S Main St, Suite 10"
+        ],
+        "city": "Janesville",
+        "region": "WI",
+        "postalCode": "53545-3959",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Racine, WI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12626370510",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Racine County Courthouse",
+         "730 Wisconsin Ave, Suite 101"
+        ],
+        "city": "Racine",
+        "region": "WI",
+        "postalCode": "53403-1238",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Bristol, WI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12626541901",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "19600 75th Street, Room 177"
+        ],
+        "city": "Bristol",
+        "region": "WI",
+        "postalCode": "53104",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Elkhorn, WI office",
+       "kind": "local",
+       "phones": [],
+       "address": {
+        "lines": [
+         "Walworth County HHS, Delavan Lake Conference Room",
+         "1910 County Rd NN"
+        ],
+        "city": "Elkhorn",
+        "region": "WI",
+        "postalCode": "53121",
+        "country": "US"
+       }
+      },
+      {
+       "label": "St Francis, WI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14142852120",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "St Francis Civic Center",
+         "3400 E Howard Avenue"
+        ],
+        "city": "St Francis",
+        "region": "WI",
+        "postalCode": "53235",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Beloit, WI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16087524050",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Beloit City Hall Conference Room",
+         "100 State St"
+        ],
+        "city": "Beloit",
+        "region": "WI",
+        "postalCode": "53511",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

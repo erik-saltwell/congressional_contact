@@ -1,0 +1,2511 @@
+{
+ "batch": "2026-11-05-full-07",
+ "createdAt": "2026-11-05",
+ "dataGeneratedAt": "2026-11-05T19:36:17Z",
+ "officials": {
+  "M001219": {
+   "seat": "Delegate, GU-0",
+   "published": {
+    "name": {
+     "full": "James C. Moylan",
+     "given": "James (Jim)",
+     "family": "Moylan",
+     "suffix": null
+    },
+    "role": "delegate",
+    "party": "Republican",
+    "state": "GU",
+    "district": 0,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022251188",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "228 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-5301",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Hagatna, GU office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16719226673",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "330 Hernan Cortez Avenue, Suite 300"
+       ],
+       "city": "Hagatna",
+       "region": "GU",
+       "postalCode": "96910",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://moylan.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://moylan.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001042": {
+   "seat": "Senator, HI",
+   "published": {
+    "name": {
+     "full": "Mazie K. Hirono",
+     "given": "Mazie",
+     "family": "Hirono",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "HI",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022246361",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "109 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Honolulu, HI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18085228970",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Prince Kuhio Federal Building",
+        "300 Ala Moana Blvd., Rm. 3-106"
+       ],
+       "city": "Honolulu",
+       "region": "HI",
+       "postalCode": "96850",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.hirono.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.hirono.senate.gov/contact",
+    "website": "https://www.hirono.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001194": {
+   "seat": "Senator, HI",
+   "published": {
+    "name": {
+     "full": "Brian Schatz",
+     "given": "Brian",
+     "family": "Schatz",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "HI",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022243934",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "722 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Honolulu, HI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18085232061",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "300 Ala Moana Blvd., Room 7-212"
+       ],
+       "city": "Honolulu",
+       "region": "HI",
+       "postalCode": "96850",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.schatz.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.schatz.senate.gov/contact",
+    "website": "https://www.schatz.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001055": {
+   "seat": "Representative, HI-1",
+   "published": {
+    "name": {
+     "full": "Ed Case",
+     "given": "Ed",
+     "family": "Case",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "HI",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252726",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2210 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Honolulu, HI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18086506688",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Honolulu Office",
+        "1003 Bishop Street, Suite 1110"
+       ],
+       "city": "Honolulu",
+       "region": "HI",
+       "postalCode": "96813",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://case.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://case.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "T000487": {
+   "seat": "Representative, HI-2",
+   "published": {
+    "name": {
+     "full": "Jill N. Tokuda",
+     "given": "Jill",
+     "family": "Tokuda",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "HI",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254906",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1027 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1102",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Honolulu, HI office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18087466220",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "ASB Tower",
+        "1001 Bishop St., Suite 1503"
+       ],
+       "city": "Honolulu",
+       "region": "HI",
+       "postalCode": "96813",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://tokuda.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://tokuda.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "E000295": {
+   "seat": "Senator, IA",
+   "published": {
+    "name": {
+     "full": "Joni Ernst",
+     "given": "Joni",
+     "family": "Ernst",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "IA",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022243254",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "260 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cedar Rapids, IA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13193654504",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "111 Seventh Ave. SE, Suite 480"
+       ],
+       "city": "Cedar Rapids",
+       "region": "IA",
+       "postalCode": "52401",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Davenport, IA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15633220677",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "201 W. Second St., Suite 806"
+       ],
+       "city": "Davenport",
+       "region": "IA",
+       "postalCode": "52801",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Des Moines, IA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15152844574",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "733 Federal Building",
+        "210 Walnut Street, Suite 733"
+       ],
+       "city": "Des Moines",
+       "region": "IA",
+       "postalCode": "50309",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Sioux City, IA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17122521550",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Federal Building",
+        "320 Sixth Street, Suite 194"
+       ],
+       "city": "Sioux City",
+       "region": "IA",
+       "postalCode": "51101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Council Bluffs, IA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17123521167",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2146 27 th Avenue, Suite 500"
+       ],
+       "city": "Council Bluffs",
+       "region": "IA",
+       "postalCode": "51501",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.ernst.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.ernst.senate.gov/public/index.cfm/contact",
+    "website": "https://www.ernst.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000386": {
+   "seat": "Senator, IA",
+   "published": {
+    "name": {
+     "full": "Chuck Grassley",
+     "given": "Chuck",
+     "family": "Grassley",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "IA",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022243744",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "135 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Davenport, IA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15633224331",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "201 W. 2nd St., Suite 720"
+       ],
+       "city": "Davenport",
+       "region": "IA",
+       "postalCode": "52801",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Des Moines, IA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15152881145",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Federal Building",
+        "210 Walnut St., 721"
+       ],
+       "city": "Des Moines",
+       "region": "IA",
+       "postalCode": "50309",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Sioux City, IA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17122331860",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Federal Building",
+        "320 6th St., 120"
+       ],
+       "city": "Sioux City",
+       "region": "IA",
+       "postalCode": "51101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Waterloo, IA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13192326657",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Waterloo Building",
+        "531 Commercial St., 210"
+       ],
+       "city": "Waterloo",
+       "region": "IA",
+       "postalCode": "50701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Council Bluffs, IA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17123227103",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2146 27th Avenue, Suite 550"
+       ],
+       "city": "Council Bluffs",
+       "region": "IA",
+       "postalCode": "51501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cedar Rapids, IA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13193636832",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "111 7th Avenue SE, Box 13, Suite 6800"
+       ],
+       "city": "Cedar Rapids",
+       "region": "IA",
+       "postalCode": "52401",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.grassley.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.grassley.senate.gov/contact",
+    "website": "https://www.grassley.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "M001215": {
+   "seat": "Representative, IA-1",
+   "published": {
+    "name": {
+     "full": "Mariannette Miller-Meeks",
+     "given": "Mariannette",
+     "family": "Miller-Meeks",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "IA",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256576",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "504 Cannon House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Indianola, IA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15158086040",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "126 N Howard Street"
+       ],
+       "city": "Indianola",
+       "region": "IA",
+       "postalCode": "50125",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Davenport, IA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15632320930",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "201 W Second Street, Suite 705"
+       ],
+       "city": "Davenport",
+       "region": "IA",
+       "postalCode": "52801",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://millermeeks.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://millermeeks.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "H001091": {
+   "seat": "Representative, IA-2",
+   "published": {
+    "name": {
+     "full": "Ashley Hinson",
+     "given": "Ashley",
+     "family": "Hinson",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "IA",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022252911",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2458 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1502",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Waterloo, IA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13192666925",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "531 Commercial St., Suite 302"
+       ],
+       "city": "Waterloo",
+       "region": "IA",
+       "postalCode": "50701",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Dubuque, IA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15635577789",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1050 Main St."
+       ],
+       "city": "Dubuque",
+       "region": "IA",
+       "postalCode": "52001",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Cedar Rapids, IA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13193642288",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "111 7th Avenue SE, Suite 580"
+       ],
+       "city": "Cedar Rapids",
+       "region": "IA",
+       "postalCode": "52401",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://hinson.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://hinson.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "N000193": {
+   "seat": "Representative, IA-3",
+   "published": {
+    "name": {
+     "full": "Zachary Nunn",
+     "given": "Zachary (Zach)",
+     "family": "Nunn",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "IA",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255476",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1410 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1503",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Des Moines, IA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15154008180",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "400 Locust Street, Suite 250"
+       ],
+       "city": "Des Moines",
+       "region": "IA",
+       "postalCode": "50309",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Creston, IA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16412209093",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "208 W Taylor Street"
+       ],
+       "city": "Creston",
+       "region": "IA",
+       "postalCode": "50801",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Ottumwa, IA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16412209641",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "223 East Main Street"
+       ],
+       "city": "Ottumwa",
+       "region": "IA",
+       "postalCode": "52501",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://nunn.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://nunn.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "F000446": {
+   "seat": "Representative, IA-4",
+   "published": {
+    "name": {
+     "full": "Randy Feenstra",
+     "given": "Randy",
+     "family": "Feenstra",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "IA",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254426",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2434 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1504",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Fort Dodge, IA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+15153027060",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "723 Central Avenue"
+       ],
+       "city": "Fort Dodge",
+       "region": "IA",
+       "postalCode": "50501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Sioux City, IA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17122244692",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "320 6th Street, Room 112"
+       ],
+       "city": "Sioux City",
+       "region": "IA",
+       "postalCode": "51101",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Council Bluffs, IA office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17122565653",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "149 West Broadway"
+       ],
+       "city": "Council Bluffs",
+       "region": "IA",
+       "postalCode": "51503",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://feenstra.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://feenstra.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C000880": {
+   "seat": "Senator, ID",
+   "published": {
+    "name": {
+     "full": "Mike Crapo",
+     "given": "Mike",
+     "family": "Crapo",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "ID",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022246142",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "239 Dirksen Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Boise, ID office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12083341776",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "251 E. Front St., Suite 205"
+       ],
+       "city": "Boise",
+       "region": "ID",
+       "postalCode": "83702",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Idaho Falls, ID office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12085229779",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "410 Memorial Dr., Suite 204"
+       ],
+       "city": "Idaho Falls",
+       "region": "ID",
+       "postalCode": "83402",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lewiston, ID office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12087431492",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "313 'D' St., Suite 105"
+       ],
+       "city": "Lewiston",
+       "region": "ID",
+       "postalCode": "83501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Pocatello, ID office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12082366775",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "275 S. 5th Ave., Suite 138"
+       ],
+       "city": "Pocatello",
+       "region": "ID",
+       "postalCode": "83201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Twin Falls, ID office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12087342515",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "202 Falls Ave., Suite 2"
+       ],
+       "city": "Twin Falls",
+       "region": "ID",
+       "postalCode": "83301",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Coeur d'Alene, ID office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12086645490",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "610 Hubbard Ave, Suite 209"
+       ],
+       "city": "Coeur d'Alene",
+       "region": "ID",
+       "postalCode": "83814",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.crapo.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.crapo.senate.gov/contact",
+    "website": "https://www.crapo.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "R000584": {
+   "seat": "Senator, ID",
+   "published": {
+    "name": {
+     "full": "James E. Risch",
+     "given": "James",
+     "family": "Risch",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Republican",
+    "state": "ID",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022242752",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "483 Russell Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Boise, ID office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12083427985",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "350 N. 9th St., Suite 302"
+       ],
+       "city": "Boise",
+       "region": "ID",
+       "postalCode": "83702",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Coeur d'Alene, ID office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12086676130",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Harbor Plaza",
+        "610 Hubbard, Suite 213"
+       ],
+       "city": "Coeur d'Alene",
+       "region": "ID",
+       "postalCode": "83814",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Idaho Falls, ID office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12085235541",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "901 Pier View Dr., Suite 202A"
+       ],
+       "city": "Idaho Falls",
+       "region": "ID",
+       "postalCode": "83402",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lewiston, ID office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12087430792",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "313 D St., Suite 106"
+       ],
+       "city": "Lewiston",
+       "region": "ID",
+       "postalCode": "83501",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Twin Falls, ID office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12087346780",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1411 Falls Avenue East, Suite 201"
+       ],
+       "city": "Twin Falls",
+       "region": "ID",
+       "postalCode": "83301",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Pocatello, ID office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12082366817",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "275 South 5th Avenue, Suite 144"
+       ],
+       "city": "Pocatello",
+       "region": "ID",
+       "postalCode": "83201",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.risch.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.risch.senate.gov/public/index.cfm?p=Email",
+    "website": "https://www.risch.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "F000469": {
+   "seat": "Representative, ID-1",
+   "published": {
+    "name": {
+     "full": "Russ Fulcher",
+     "given": "Russ",
+     "family": "Fulcher",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "ID",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022256611",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1514 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Lewiston, ID office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12087431388",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "313 D St, Suite 107"
+       ],
+       "city": "Lewiston",
+       "region": "ID",
+       "postalCode": "83501-1894",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Meridian, ID office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12088883188",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "33 E Broadway Ave, Suite 251"
+       ],
+       "city": "Meridian",
+       "region": "ID",
+       "postalCode": "83642-2619",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Coeur d'Alene, ID office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12086670127",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1250 West Ironwood Drive, Suite 200"
+       ],
+       "city": "Coeur d'Alene",
+       "region": "ID",
+       "postalCode": "83814",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://fulcher.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://fulcher.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "S001148": {
+   "seat": "Representative, ID-2",
+   "published": {
+    "name": {
+     "full": "Michael K. Simpson",
+     "given": "Mike",
+     "family": "Simpson",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Republican",
+    "state": "ID",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255531",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2084 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1202",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Boise, ID office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12083341953",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "802 W. Bannock, Suite 600"
+       ],
+       "city": "Boise",
+       "region": "ID",
+       "postalCode": "83702",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Twin Falls, ID office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12087347219",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "630 Addison Avenue West, Suite 1700"
+       ],
+       "city": "Twin Falls",
+       "region": "ID",
+       "postalCode": "83301",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Idaho Falls, ID office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12085236701",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1075 S Utah Avenue West, Suite 240"
+       ],
+       "city": "Idaho Falls",
+       "region": "ID",
+       "postalCode": "83402",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://simpson.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://simpson.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "D000563": {
+   "seat": "Senator, IL",
+   "published": {
+    "name": {
+     "full": "Richard J. Durbin",
+     "given": "Richard",
+     "family": "Durbin",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "IL",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022242152",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "711 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Carbondale, IL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16183511122",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "250 W. Cherry St., Suite 115-D"
+       ],
+       "city": "Carbondale",
+       "region": "IL",
+       "postalCode": "62901",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Chicago, IL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13123534952",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "230 S. Dearborn St., Suite 3892"
+       ],
+       "city": "Chicago",
+       "region": "IL",
+       "postalCode": "60604",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rock Island, IL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13097865173",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1504 Third Ave., Suite 227"
+       ],
+       "city": "Rock Island",
+       "region": "IL",
+       "postalCode": "61201",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Springfield, IL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12174924062",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "525 S. 8th St."
+       ],
+       "city": "Springfield",
+       "region": "IL",
+       "postalCode": "62703",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.durbin.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.durbin.senate.gov/contact/",
+    "website": "https://www.durbin.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "D000622": {
+   "seat": "Senator, IL",
+   "published": {
+    "name": {
+     "full": "Tammy Duckworth",
+     "given": "Tammy",
+     "family": "Duckworth",
+     "suffix": null
+    },
+    "role": "senator",
+    "party": "Democrat",
+    "state": "IL",
+    "district": null,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022242854",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "524 Hart Senate Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20510",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Belleville, IL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16187227070",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "23 Public Sq, Suite 460"
+       ],
+       "city": "Belleville",
+       "region": "IL",
+       "postalCode": "62220-1650",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Carbondale, IL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16186777000",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "441 E Willow St"
+       ],
+       "city": "Carbondale",
+       "region": "IL",
+       "postalCode": "62901-1659",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Chicago, IL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13128863506",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "230 South Dearborn Street, Suite 3900"
+       ],
+       "city": "Chicago",
+       "region": "IL",
+       "postalCode": "60604",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Rock Island, IL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+13096067060",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1823 2nd Ave, Suite 2"
+       ],
+       "city": "Rock Island",
+       "region": "IL",
+       "postalCode": "61201-8002",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Springfield, IL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12175286124",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "8 South Old State Capitol Plaza"
+       ],
+       "city": "Springfield",
+       "region": "IL",
+       "postalCode": "62701",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://www.duckworth.senate.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": "https://www.duckworth.senate.gov/content/contact-senator",
+    "website": "https://www.duckworth.senate.gov"
+   },
+   "currentSupplement": null
+  },
+  "J000309": {
+   "seat": "Representative, IL-1",
+   "published": {
+    "name": {
+     "full": "Jonathan L. Jackson",
+     "given": "Jonathan",
+     "family": "Jackson",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "IL",
+    "district": 1,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254372",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1632 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1301",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Chicago, IL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17737792400",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "435 E. 35th Street"
+       ],
+       "city": "Chicago",
+       "region": "IL",
+       "postalCode": "60616",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://jonathanjackson.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://jonathanjackson.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "K000385": {
+   "seat": "Representative, IL-2",
+   "published": {
+    "name": {
+     "full": "Robin L. Kelly",
+     "given": "Robin",
+     "family": "Kelly",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "IL",
+    "district": 2,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022250773",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2329 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1302",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Matteson, IL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17086790078",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "600 Town Center Road, Suite 505"
+       ],
+       "city": "Matteson",
+       "region": "IL",
+       "postalCode": "60443",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Chicago, IL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17733212001",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1642 E. 56th Street, Suite 110"
+       ],
+       "city": "Chicago",
+       "region": "IL",
+       "postalCode": "60637",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Danville, IL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+12175164556",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "425 N. Gilbert Street, Suite 5"
+       ],
+       "city": "Danville",
+       "region": "IL",
+       "postalCode": "61832",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://robinkelly.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://robinkelly.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "R000617": {
+   "seat": "Representative, IL-3",
+   "published": {
+    "name": {
+     "full": "Delia C. Ramirez",
+     "given": "Delia",
+     "family": "Ramirez",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "IL",
+    "district": 3,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255701",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1523 Longworth House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1303",
+       "country": "US"
+      }
+     },
+     {
+      "label": "West Chicago, IL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16305209494",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "946 N Neltnor Blvd, Suite 104"
+       ],
+       "city": "West Chicago",
+       "region": "IL",
+       "postalCode": "60185",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Chicago, IL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17737998219",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "5624 W. Diversey Ave"
+       ],
+       "city": "Chicago",
+       "region": "IL",
+       "postalCode": "60639",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://ramirez.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://ramirez.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "G000586": {
+   "seat": "Representative, IL-4",
+   "published": {
+    "name": {
+     "full": "Jesús G. \"Chuy\" García",
+     "given": "Chuy",
+     "family": "García",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "IL",
+    "district": 4,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022258203",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2334 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1304",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Melrose Park, IL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17733420774",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "125 N 19th Ave, Suite A"
+       ],
+       "city": "Melrose Park",
+       "region": "IL",
+       "postalCode": "60160",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Chicago, IL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17734750833",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "4376 S Archer Ave"
+       ],
+       "city": "Chicago",
+       "region": "IL",
+       "postalCode": "60632",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://chuygarcia.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://chuygarcia.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "Q000023": {
+   "seat": "Representative, IL-5",
+   "published": {
+    "name": {
+     "full": "Mike Quigley",
+     "given": "Mike",
+     "family": "Quigley",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "IL",
+    "district": 5,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254061",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2083 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1305",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Chicago, IL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17732675926",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1925 N. Clybourn Ave."
+       ],
+       "city": "Chicago",
+       "region": "IL",
+       "postalCode": "60614",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://quigley.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://quigley.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "C001117": {
+   "seat": "Representative, IL-6",
+   "published": {
+    "name": {
+     "full": "Sean Casten",
+     "given": "Sean",
+     "family": "Casten",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "IL",
+    "district": 6,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022254561",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2440 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1306",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Glen Ellyn, IL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+16305209450",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "Building C",
+        "800 Roosevelt Road, Suite 204"
+       ],
+       "city": "Glen Ellyn",
+       "region": "IL",
+       "postalCode": "60137",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Oak Forest, IL office",
+      "kind": "local",
+      "phones": [],
+      "address": {
+       "lines": [
+        "Building C",
+        "15350 Oak Park Ave, 2nd Floor"
+       ],
+       "city": "Oak Forest",
+       "region": "IL",
+       "postalCode": "60452",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://casten.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://casten.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "D000096": {
+   "seat": "Representative, IL-7",
+   "published": {
+    "name": {
+     "full": "Danny K. Davis",
+     "given": "Danny",
+     "family": "Davis",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "IL",
+    "district": 7,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022255006",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2159 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1307",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Chicago, IL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+17735337520",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2815 W. Fifth Avenue"
+       ],
+       "city": "Chicago",
+       "region": "IL",
+       "postalCode": "60612",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://davis.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://davis.house.gov"
+   },
+   "currentSupplement": null
+  },
+  "K000391": {
+   "seat": "Representative, IL-8",
+   "published": {
+    "name": {
+     "full": "Raja Krishnamoorthi",
+     "given": "Raja",
+     "family": "Krishnamoorthi",
+     "suffix": null
+    },
+    "role": "representative",
+    "party": "Democrat",
+    "state": "IL",
+    "district": 8,
+    "offices": [
+     {
+      "label": "Washington, DC",
+      "kind": "dc",
+      "phones": [
+       {
+        "number": "+12022253711",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "2367 Rayburn House Office Building"
+       ],
+       "city": "Washington",
+       "region": "DC",
+       "postalCode": "20515-1308",
+       "country": "US"
+      }
+     },
+     {
+      "label": "Schaumburg, IL office",
+      "kind": "local",
+      "phones": [
+       {
+        "number": "+18474131959",
+        "type": "voice"
+       }
+      ],
+      "address": {
+       "lines": [
+        "1701 E. Woodfield Rd., Suite 704"
+       ],
+       "city": "Schaumburg",
+       "region": "IL",
+       "postalCode": "60173",
+       "country": "US"
+      }
+     }
+    ],
+    "emails": [],
+    "links": [
+     {
+      "purpose": "website",
+      "url": "https://krishnamoorthi.house.gov"
+     }
+    ],
+    "verifiedAt": null
+   },
+   "upstreamCandidates": {
+    "contactForm": null,
+    "website": "https://krishnamoorthi.house.gov"
+   },
+   "currentSupplement": null
+  }
+ }
+}

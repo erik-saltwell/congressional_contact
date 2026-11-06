@@ -1,0 +1,1235 @@
+{
+ "batch": "2026-11-05-full-20",
+ "reviewedAt": "2026-11-05",
+ "officials": {
+  "C001115": {
+   "name": "Michael Cloud",
+   "seat": "Representative, TX-27",
+   "status": "verified",
+   "pagesChecked": [
+    "https://cloud.house.gov/",
+    "https://cloud.house.gov/contact"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://cloud.house.gov/contact",
+     "source": "https://cloud.house.gov/contact",
+     "evidence": "Contact form with a topic list for messages to the Congressman; newsletter signup is separate."
+    }
+   ]
+  },
+  "C001063": {
+   "name": "Henry Cuellar",
+   "seat": "Representative, TX-28",
+   "status": "verified",
+   "pagesChecked": [
+    "https://cuellar.house.gov/",
+    "https://cuellar.house.gov/contact/district-map.htm",
+    "https://cuellar.house.gov/news/email/",
+    "https://cuellar.house.gov/contact/",
+    "https://cuellar.house.gov/contact/sendmeanemail.htm",
+    "https://cuellar.house.gov/forms/emailsignup/",
+    "https://cuellar.house.gov/news/email/default.aspx"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://cuellar.house.gov/contact/sendmeanemail.htm",
+     "source": "https://cuellar.house.gov/contact/sendmeanemail.htm",
+     "evidence": "'Send Me an Email' form, behind a ZIP check ('zip code'), so its topic list could not be read; flag and tour requests are separate."
+    }
+   ]
+  },
+  "G000587": {
+   "name": "Sylvia R. Garcia",
+   "seat": "Representative, TX-29",
+   "status": "verified",
+   "pagesChecked": [
+    "https://sylviagarcia.house.gov/",
+    "https://sylviagarcia.house.gov/address_authentication?form=/contact/email-me",
+    "https://sylviagarcia.house.gov/address_authentication?form=/contact/email-me",
+    "https://sylviagarcia.house.gov/contact/share-your-story",
+    "https://sylviagarcia.house.gov/contact/offices",
+    "https://sylviagarcia.house.gov/contact/offices/washington-dc-office",
+    "https://sylviagarcia.house.gov/contact/offices/houston-district-office",
+    "https://sylviagarcia.house.gov/contact/offices"
+   ],
+   "notes": "Offices match ('Rayburn House Office Building, 2419' and '11811 East Freeway, Suite 430' are formatting differences); /contact/ was blocked, the homepage office list was used.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://sylviagarcia.house.gov/contact/email-me",
+     "source": "https://sylviagarcia.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "Email form, behind an address check (address_authentication?form=/contact/email-me), with an issue list about legislation."
+    }
+   ]
+  },
+  "C001130": {
+   "name": "Jasmine Crockett",
+   "seat": "Representative, TX-30",
+   "status": "verified",
+   "pagesChecked": [
+    "https://crockett.house.gov/",
+    "https://crockett.house.gov/contact",
+    "https://crockett.house.gov/contact/offices",
+    "https://crockett.house.gov/contact/offices/washington-dc-office",
+    "https://crockett.house.gov/contact/offices/dallas-tx-office",
+    "https://crockett.house.gov/address_authentication?form=/contact/email"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://crockett.house.gov/contact/email",
+     "source": "https://crockett.house.gov/address_authentication?form=/contact/email",
+     "evidence": "Email form, behind an address check (address_authentication?form=/contact/email), with an issue list about legislation."
+    }
+   ]
+  },
+  "C001051": {
+   "name": "John R. Carter",
+   "seat": "Representative, TX-31",
+   "status": "verified",
+   "pagesChecked": [
+    "https://carter.house.gov/",
+    "https://carter.house.gov/contact/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://carter.house.gov/contact/",
+     "source": "https://carter.house.gov/contact/",
+     "evidence": "The member's main contact form, behind a ZIP or address check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://carter.house.gov/",
+     "evidence": "'Williamson County Office 4407 S Ih-35 Suite 101 Georgetown, TX 78626 (512) 591-9061'; we publish 4411 S Ih-35.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253864",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2208 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-4331",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Belton, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12549331392",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Bell County Office",
+         "2180 North Main Street, Suite #I-10"
+        ],
+        "city": "Belton",
+        "region": "TX",
+        "postalCode": "76513",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Georgetown, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15125919061",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "4407 S IH-35, Suite 101"
+        ],
+        "city": "Georgetown",
+        "region": "TX",
+        "postalCode": "78626",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "J000310": {
+   "name": "Julie Johnson",
+   "seat": "Representative, TX-32",
+   "status": "verified",
+   "pagesChecked": [
+    "https://juliejohnson.house.gov/",
+    "https://juliejohnson.house.gov/address_authentication?form=/contact/email-me",
+    "https://juliejohnson.house.gov/contact",
+    "https://juliejohnson.house.gov/contact/office-locations",
+    "https://juliejohnson.house.gov/contact/offices/washington-dc-office",
+    "https://juliejohnson.house.gov/contact/offices/district-office-3"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://juliejohnson.house.gov/contact/email-me",
+     "source": "https://juliejohnson.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "Email form, behind an address check (address_authentication?form=/contact/email-me), with an issue list about legislation."
+    }
+   ]
+  },
+  "V000131": {
+   "name": "Marc A. Veasey",
+   "seat": "Representative, TX-33",
+   "status": "verified",
+   "pagesChecked": [
+    "https://veasey.house.gov/",
+    "https://veasey.house.gov/about-marc/outreach-and-initiatives",
+    "https://veasey.house.gov/contact",
+    "https://veasey.house.gov/contact/offices",
+    "https://veasey.house.gov/address_authentication?form=/contact/email-me",
+    "https://veasey.house.gov/address_authentication?form=/contact/email-me",
+    "https://veasey.house.gov/contact/offices/washington-dc-office",
+    "https://veasey.house.gov/contact/offices/dallas-district-office",
+    "https://veasey.house.gov/contact/offices/fort-worth-district-office",
+    "https://veasey.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://veasey.house.gov/contact/email-me",
+     "source": "https://veasey.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "Email form, behind an address check (address_authentication?form=/contact/email-me), with an issue list about legislation."
+    }
+   ]
+  },
+  "G000581": {
+   "name": "Vicente Gonzalez",
+   "seat": "Representative, TX-34",
+   "status": "verified",
+   "pagesChecked": [
+    "https://gonzalez.house.gov/",
+    "https://gonzalez.house.gov/address_authentication?form=/contact",
+    "https://gonzalez.house.gov/address_authentication?form=/contact/email",
+    "https://gonzalez.house.gov/contact/have-you-had-bad-experience-booking-hotel-through-third-party-sites",
+    "https://gonzalez.house.gov/contact/offices",
+    "https://gonzalez.house.gov/contact/offices/washington-dc-office",
+    "https://gonzalez.house.gov/contact/offices/brownsville-district-office",
+    "https://gonzalez.house.gov/contact/offices/kingsville-district-office",
+    "https://gonzalez.house.gov/contact/offices/weslaco-district-office"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://gonzalez.house.gov/contact/email",
+     "source": "https://gonzalez.house.gov/address_authentication?form=/contact/email",
+     "evidence": "'Email' form, behind an address check (address_authentication?form=/contact/email), with an issue list."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://gonzalez.house.gov/contact/offices/brownsville-district-office",
+     "evidence": "Brownsville District Office: 'Phone : (956) 682-5545 ... Toll Free Line: 888-217-0261'; we publish no toll-free line.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022252531",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1201 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-4334",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Kingsville, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19566825545",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "100 W. King Ave., Suite 106"
+        ],
+        "city": "Kingsville",
+        "region": "TX",
+        "postalCode": "78363",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Brownsville, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19566825545",
+         "type": "voice"
+        },
+        {
+         "number": "+18882170261",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "835 E. Levee St., 6th Floor"
+        ],
+        "city": "Brownsville",
+        "region": "TX",
+        "postalCode": "78520",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Weslaco, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19566825545",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "255 S. Kansas Ave"
+        ],
+        "city": "Weslaco",
+        "region": "TX",
+        "postalCode": "78596",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "C001131": {
+   "name": "Greg Casar",
+   "seat": "Representative, TX-35",
+   "status": "verified",
+   "pagesChecked": [
+    "https://casar.house.gov/",
+    "https://casar.house.gov/address_authentication?form=/contact",
+    "https://casar.house.gov/contact/offices",
+    "https://casar.house.gov/contact/event-request",
+    "https://casar.house.gov/contact/offices/washington-dc-office",
+    "https://casar.house.gov/contact/offices/austin-office",
+    "https://casar.house.gov/contact/offices/san-antonio-office",
+    "https://casar.house.gov/contact/offices"
+   ],
+   "notes": "Offices match. Casar.Press@mail.house.gov is a press address, not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://casar.house.gov/contact",
+     "source": "https://casar.house.gov/address_authentication?form=/contact",
+     "evidence": "Main contact form, behind an address check (address_authentication?form=/contact), with an issue list about legislation; agency help and meetings are separate."
+    }
+   ]
+  },
+  "B001291": {
+   "name": "Brian Babin",
+   "seat": "Representative, TX-36",
+   "status": "verified",
+   "pagesChecked": [
+    "https://babin.house.gov/",
+    "https://babin.house.gov/news/email/",
+    "https://babin.house.gov/news/documentquery.aspx",
+    "https://babin.house.gov/contact/",
+    "https://babin.house.gov/contact/officeinformation.htm",
+    "https://babin.house.gov/forms/form/?ID=33",
+    "https://babin.house.gov/news/email/default.aspx"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://babin.house.gov/contact/",
+     "source": "https://babin.house.gov/contact/",
+     "evidence": "'Send Brian an Email': the member's main contact form, behind a ZIP check ('zip code below to continue'), so its topic list could not be read."
+    }
+   ]
+  },
+  "D000399": {
+   "name": "Lloyd Doggett",
+   "seat": "Representative, TX-37",
+   "status": "verified",
+   "pagesChecked": [
+    "https://doggett.house.gov/",
+    "https://doggett.house.gov/contact/offices",
+    "https://doggett.house.gov/zip_authentication?form=/contact",
+    "https://clerk.house.gov/members/D000399"
+   ],
+   "notes": "Offices match. The site lists only the Austin office; the DC office (2307 Rayburn, (202) 225-4865) was confirmed on https://clerk.house.gov/members/D000399.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://doggett.house.gov/contact",
+     "source": "https://doggett.house.gov/zip_authentication?form=/contact",
+     "evidence": "'Write to Congressman Lloyd Doggett': the member's main contact form, behind a ZIP check (zip_authentication?form=/contact), so its topic list could not be read."
+    }
+   ]
+  },
+  "H001095": {
+   "name": "Wesley Hunt",
+   "seat": "Representative, TX-38",
+   "status": "verified",
+   "pagesChecked": [
+    "https://hunt.house.gov/",
+    "https://hunt.house.gov/address_authentication?form=/contact",
+    "https://hunt.house.gov/contact/offices",
+    "https://hunt.house.gov/contact/offices/washington-dc-office",
+    "https://hunt.house.gov/contact/offices/tomball-district-office",
+    "https://hunt.house.gov/contact/offices"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://hunt.house.gov/contact",
+     "source": "https://hunt.house.gov/address_authentication?form=/contact",
+     "evidence": "The member's main contact form, behind an address check (address_authentication?form=/contact), so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://hunt.house.gov/",
+     "evidence": "Office list shows only 'Washington DC Office 1520 Longworth ... (202) 225-5646' and 'Tomball District Office 990 Village Square Dr Suite G-900 ... (346) 246-7355'; the Houston office (5599 San Felipe St., Suite 950, (832) 357-0555) we publish is not listed.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022255646",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1520 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-0001",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Tomball, TX office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13462467355",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "990 Village Square Dr., G-900"
+        ],
+        "city": "Tomball",
+        "region": "TX",
+        "postalCode": "77375",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "C001114": {
+   "name": "John R. Curtis",
+   "seat": "Senator, UT",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.curtis.senate.gov/contact/",
+    "https://www.curtis.senate.gov/contact/event-requests/",
+    "https://www.curtis.senate.gov/contact/share-your-opinion/",
+    "https://www.curtis.senate.gov/contact/events/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.curtis.senate.gov/contact/share-your-opinion/",
+     "source": "https://www.curtis.senate.gov/contact/",
+     "evidence": "'Share Your Opinion' form with a topic list for views on legislation; meetings, events and casework are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.curtis.senate.gov/contact/",
+     "evidence": "'Our Offices ... PROVO 3601 N. University Ave Suite 250 Provo, UT 84604 (801) 841-2665'; we publish no Provo office.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022245251",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "502 Hart Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Salt Lake City, UT office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18015244380",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "125 S. State Street, Suite 8402"
+        ],
+        "city": "Salt Lake City",
+        "region": "UT",
+        "postalCode": "84138",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Provo, UT office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18018412665",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "3601 N. University Ave, Suite 250"
+        ],
+        "city": "Provo",
+        "region": "UT",
+        "postalCode": "84604",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "L000577": {
+   "name": "Mike Lee",
+   "seat": "Senator, UT",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.lee.senate.gov/contact",
+    "https://www.lee.senate.gov/contact"
+   ],
+   "notes": "Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.lee.senate.gov/contact",
+     "source": "https://www.lee.senate.gov/contact",
+     "evidence": "Contact page: 'Share your opinion here:' form with an issue list; agency help, tours and meetings are separate."
+    }
+   ]
+  },
+  "M001213": {
+   "name": "Blake D. Moore",
+   "seat": "Representative, UT-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://blakemoore.house.gov/",
+    "https://blakemoore.house.gov/contact/",
+    "https://blakemoore.house.gov/contact/email-blake/",
+    "https://blakemoore.house.gov/contact/offices/",
+    "https://blakemoore.house.gov/office-job-openings/"
+   ],
+   "notes": "Offices match. lisa.roskelley@mail.house.gov is a job-openings contact, not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://blakemoore.house.gov/contact/email-blake",
+     "source": "https://blakemoore.house.gov/contact/email-blake",
+     "evidence": "'Email Blake' form, behind a ZIP check ('Please enter your zip code to verify residency'), drawn by script with an issue list (Defense and National Security, Economy, Budget, and Taxes, Immigration and Border Security, ...)."
+    }
+   ]
+  },
+  "M001228": {
+   "name": "Celeste Maloy",
+   "seat": "Representative, UT-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://maloy.house.gov/",
+    "https://maloy.house.gov/contact/",
+    "https://maloy.house.gov/forms/emailsignup/",
+    "https://maloy.house.gov/contact/offices.htm",
+    "https://maloy.house.gov/contact/email-me.htm"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://maloy.house.gov/contact/email-me.htm",
+     "source": "https://maloy.house.gov/contact/email-me.htm",
+     "evidence": "'Send Me an Email' form, behind a ZIP check ('Please enter your zip code below to verify residency'), so its topic list could not be read."
+    }
+   ]
+  },
+  "K000403": {
+   "name": "Mike Kennedy",
+   "seat": "Representative, UT-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mikekennedy.house.gov/",
+    "https://mikekennedy.house.gov/contact",
+    "https://mikekennedy.house.gov/address_authentication?form=/contact/email-me",
+    "https://mikekennedy.house.gov/contact/office-locations",
+    "https://mikekennedy.house.gov/contact/offices/washington-dc-office",
+    "https://mikekennedy.house.gov/contact/offices/district-office-3"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mikekennedy.house.gov/contact/email-me",
+     "source": "https://mikekennedy.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "Email form, behind an address check (address_authentication?form=/contact/email-me), with an issue list about legislation."
+    }
+   ]
+  },
+  "O000086": {
+   "name": "Burgess Owens",
+   "seat": "Representative, UT-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://owens.house.gov/",
+    "https://owens.house.gov/contact"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://owens.house.gov/contact",
+     "source": "https://owens.house.gov/contact",
+     "evidence": "Contact form with an issue and topic list; agency help is separate."
+    }
+   ]
+  },
+  "K000384": {
+   "name": "Tim Kaine",
+   "seat": "Senator, VA",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.kaine.senate.gov/contact/",
+    "https://www.kaine.senate.gov/contact/share-your-opinion/",
+    "https://www.kaine.senate.gov/contact/office-locations/",
+    "https://www.kaine.senate.gov/contact/invite/",
+    "https://www.kaine.senate.gov/contact/language-assistance/",
+    "https://www.kaine.senate.gov/es/contacte-tim/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.kaine.senate.gov/contact/share-your-opinion",
+     "source": "https://www.kaine.senate.gov/contact/",
+     "evidence": "Dedicated 'Share Your Opinion' page, linked from Contact Tim; the form is drawn by script (amend-form-container) and did not render, so its topic list could not be read. Casework and scheduling are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.kaine.senate.gov/contact/office-locations/",
+     "evidence": "'Abingdon Phone: (276) 525-4790' with no street address; we publish 121 Russell Rd., Suite 2.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022244024",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "231 Russell Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Abingdon, VA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12765254790",
+         "type": "voice"
+        }
+       ],
+       "address": null
+      },
+      {
+       "label": "Manassas, VA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17033613192",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "9408 Grant Avenue, Suite 202"
+        ],
+        "city": "Manassas",
+        "region": "VA",
+        "postalCode": "20110",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Richmond, VA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18047712221",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "919 E. Main St., Suite 970"
+        ],
+        "city": "Richmond",
+        "region": "VA",
+        "postalCode": "23219",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Roanoke, VA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15406825693",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "611 S. Jefferson St., Suite 5B"
+        ],
+        "city": "Roanoke",
+        "region": "VA",
+        "postalCode": "24011",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Virginia Beach, VA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17575181674",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "222 Central Park Ave., Suite 120"
+        ],
+        "city": "Virginia Beach",
+        "region": "VA",
+        "postalCode": "23462",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Fredericksburg, VA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15403697667",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "816 William Street, Suite B"
+        ],
+        "city": "Fredericksburg",
+        "region": "VA",
+        "postalCode": "22401",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "W000805": {
+   "name": "Mark R. Warner",
+   "seat": "Senator, VA",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.warner.senate.gov/contact/",
+    "https://www.warner.senate.gov/Contact/",
+    "https://www.warner.senate.gov/contact/write-to-mark/",
+    "https://www.warner.senate.gov/contact/write-to-mark/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.warner.senate.gov/contact/write-to-mark/",
+     "source": "https://www.warner.senate.gov/contact/write-to-mark/",
+     "evidence": "'Write to Mark' form for comments and concerns; casework, flags and meetings are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.warner.senate.gov/contact/",
+     "evidence": "'Washington, D.C. 703 Hart Senate Office Building Washington, DC 20510 1 (877) 676-2759 (VA residents only) (202) 224-2023'; we publish no toll-free line.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022242023",
+         "type": "voice"
+        },
+        {
+         "number": "+18776762759",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "703 Hart Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Abingdon, VA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12766288158",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "180 W. Main St., Room 235"
+        ],
+        "city": "Abingdon",
+        "region": "VA",
+        "postalCode": "24210",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Norfolk, VA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17574413079",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "101 W. Main St., Suite 7771"
+        ],
+        "city": "Norfolk",
+        "region": "VA",
+        "postalCode": "23510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Richmond, VA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18047752314",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "919 E. Main St., Suite 630"
+        ],
+        "city": "Richmond",
+        "region": "VA",
+        "postalCode": "23219",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Roanoke, VA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15408572676",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "120 Luck Avenue, SW, Suite 108"
+        ],
+        "city": "Roanoke",
+        "region": "VA",
+        "postalCode": "24011",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Vienna, VA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17034420670",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "8150 Leesburg Pike, Suite 700"
+        ],
+        "city": "Vienna",
+        "region": "VA",
+        "postalCode": "22182",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "W000804": {
+   "name": "Robert J. Wittman",
+   "seat": "Representative, VA-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://wittman.house.gov/",
+    "https://wittman.house.gov/newsroom/opinion-pieces-by-rob",
+    "https://wittman.house.gov/contact-rob",
+    "https://wittman.house.gov/contact-rob/office-locations",
+    "https://wittman.house.gov/contact-rob/mobile-office-hours",
+    "https://wittman.house.gov/newsroom/opinion-pieces-by-rob/moving-the-army-at-the-speed-of-relevance",
+    "https://wittman.house.gov/contact/offices/washington-dc-office",
+    "https://wittman.house.gov/contact/offices/glen-allen-district-office",
+    "https://wittman.house.gov/contact/offices/yorktown-district-office",
+    "https://wittman.house.gov/newsroom/opinion-pieces-by-rob/virginia-s-seat-at-the-table-matters-more-than-ever"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://wittmanforms.house.gov/forms/writeyourrep/",
+     "source": "https://wittman.house.gov/contact",
+     "evidence": "'Write Your Rep' form ('I value all feedback from residents of my district') with 'Select the issue your email relates to' list and 'No, I just want you to know my thoughts'."
+    }
+   ]
+  },
+  "K000399": {
+   "name": "Jennifer A. Kiggans",
+   "seat": "Representative, VA-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://kiggans.house.gov/",
+    "https://kiggans.house.gov/contact-me/"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://kiggans.house.gov/contact-me/",
+     "source": "https://kiggans.house.gov/contact-me/",
+     "evidence": "'Contact Me' form with an issue and topic list to voice opinions; agency help is separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://kiggans.house.gov/",
+     "evidence": "'Onley Office 25020 Shore Parkway Suite 1B Onley, VA 23418 (757) 364-7650 Suffolk Office 130 S. Saratoga Street Suffolk, VA 23434 (757) 364-7650'; we publish (757) 666-6020 and (757) 942-6050.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254215",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "152 Cannon House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-4602",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Onley, VA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17573647650",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "25020 Shore Parkway, 1B"
+        ],
+        "city": "Onley",
+        "region": "VA",
+        "postalCode": "23418",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Suffolk, VA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17573647650",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "130 S. Saratoga Street"
+        ],
+        "city": "Suffolk",
+        "region": "VA",
+        "postalCode": "23434",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Virginia Beach, VA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+17573647650",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "283 Constitution Drive, Suite 900"
+        ],
+        "city": "Virginia Beach",
+        "region": "VA",
+        "postalCode": "23462",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "S000185": {
+   "name": "Robert C. \"Bobby\" Scott",
+   "seat": "Representative, VA-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://bobbyscott.house.gov/",
+    "https://bobbyscott.house.gov/address_authentication?form=/contact",
+    "https://bobbyscott.house.gov/contact/offices",
+    "https://bobbyscott.house.gov/contact/offices/washington-dc-office",
+    "https://bobbyscott.house.gov/contact/offices/hampton-roads-district-office",
+    "https://bobbyscott.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://bobbyscott.house.gov/contact",
+     "source": "https://bobbyscott.house.gov/address_authentication?form=/contact",
+     "evidence": "Main contact form, behind an address check (address_authentication?form=/contact), with an issue list about legislation."
+    }
+   ]
+  },
+  "M001227": {
+   "name": "Jennifer L. McClellan",
+   "seat": "Representative, VA-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mcclellan.house.gov/",
+    "https://mcclellan.house.gov/contact/",
+    "https://mcclellan.house.gov/contact/email-me/",
+    "https://mcclellan.house.gov/contact/contact-offices/",
+    "https://mcclellan.house.gov/2026/09/17/mcclellan-statement-on-house-passage-of-ratepayer-protection-act-and-other-bills-to-ensure-data-centers-pay-their-fair-share/"
+   ],
+   "notes": "Offices match; /contact/offices/ was blocked, the office list on the other pages was used.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mcclellan.house.gov/contact/email-me/",
+     "source": "https://mcclellan.house.gov/contact/email-me/",
+     "evidence": "'Email Me' form to share opinions and concerns on legislation, with an issue list; casework is separate."
+    }
+   ]
+  },
+  "M001239": {
+   "name": "John J. McGuire III",
+   "seat": "Representative, VA-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mcguire.house.gov/",
+    "https://mcguire.house.gov/contact",
+    "https://mcguire.house.gov/address_authentication?form=/contact/email-me",
+    "https://mcguire.house.gov/contact/office-locations",
+    "https://mcguire.house.gov/contact/offices/washington-dc-office",
+    "https://mcguire.house.gov/contact/offices/goochland-district-office-appointment-only",
+    "https://mcguire.house.gov/contact/offices/lynchburg-district-office"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mcguire.house.gov/contact/email-me",
+     "source": "https://mcguire.house.gov/address_authentication?form=/contact/email-me",
+     "evidence": "Email form, behind an address check (address_authentication?form=/contact/email-me), with an issue list about legislation."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://mcguire.house.gov/",
+     "evidence": "'Goochland District Office (By Appointment Only) 58 Broad Street Suite C Manakin-Sabot, VA 23103 Phone: (804) 708-6025 Lynchburg District Office 20564 Timberlake Rd. Lynchburg, VA 24502 Phone: (434) 791-2596'; we publish Lynchburg at 900 Church St with (202) 225-4711 and no Goochland office.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022254711",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1013 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-4605",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Lynchburg, VA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14347912596",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "20564 Timberlake Rd."
+        ],
+        "city": "Lynchburg",
+        "region": "VA",
+        "postalCode": "24502",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Manakin-Sabot, VA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18047086025",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "58 Broad Street, Suite C"
+        ],
+        "city": "Manakin-Sabot",
+        "region": "VA",
+        "postalCode": "23103",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

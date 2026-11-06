@@ -1,0 +1,1234 @@
+{
+ "batch": "2026-11-05-full-10",
+ "reviewedAt": "2026-11-05",
+ "officials": {
+  "P000617": {
+   "name": "Ayanna Pressley",
+   "seat": "Representative, MA-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://pressley.house.gov/",
+    "https://pressley.house.gov/contact-us/"
+   ],
+   "notes": "Offices match the homepage office list.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://pressley.house.gov/contact-us/",
+     "source": "https://pressley.house.gov/contact-us/",
+     "evidence": "'Contact Us' form with an 'Issue of Concern' list; 'Please note the form is NOT for casework.'"
+    }
+   ]
+  },
+  "L000562": {
+   "name": "Stephen F. Lynch",
+   "seat": "Representative, MA-8",
+   "status": "verified",
+   "pagesChecked": [
+    "https://lynch.house.gov/",
+    "https://lynch.house.gov/email-me",
+    "https://lynch.house.gov/email-me/"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://lynch.house.gov/email-me",
+     "source": "https://lynch.house.gov/email-me",
+     "evidence": "'Email Me': 'I value all feedback and opinions from my constituents... please enter your zip code below to share your thoughts with me'; behind a ZIP check. Agency help and meetings are separate."
+    }
+   ]
+  },
+  "K000375": {
+   "name": "William R. Keating",
+   "seat": "Representative, MA-9",
+   "status": "verified",
+   "pagesChecked": [
+    "https://keating.house.gov/",
+    "https://keating.house.gov/contact/offices/washington-dc-office",
+    "https://keating.house.gov/contact/offices/plymouth-district-office",
+    "https://keating.house.gov/contact/offices/hyannis-district-office",
+    "https://keating.house.gov/contact/offices/new-bedford-district-office"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://keating.house.gov/contact",
+     "source": "https://keating.house.gov/",
+     "evidence": "The member's main Contact link, which redirects to /zip_authentication?form=/contact; behind a ZIP check, so its topic list could not be read."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://keating.house.gov/contact/offices/plymouth-district-office",
+     "evidence": "'Plymouth District Office 5 Natalie Way Suite B Plymouth, MA 02360 Phone: (508) 746-9000'. We publish 50 Resnik Road, Suite 103.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253111",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2372 Rayburn House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-2109",
+        "country": "US"
+       }
+      },
+      {
+       "label": "New Bedford, MA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15089996462",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "128 Union Street, Suite 103"
+        ],
+        "city": "New Bedford",
+        "region": "MA",
+        "postalCode": "02740",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Plymouth, MA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15087469000",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "5 Natalie Way, Suite B"
+        ],
+        "city": "Plymouth",
+        "region": "MA",
+        "postalCode": "02360",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Hyannis, MA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15087716868",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "251 Stevens Street, E"
+        ],
+        "city": "Hyannis",
+        "region": "MA",
+        "postalCode": "02601",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "A000382": {
+   "name": "Angela D. Alsobrooks",
+   "seat": "Senator, MD",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.alsobrooks.senate.gov/contact/",
+    "https://www.alsobrooks.senate.gov/contact/get-in-touch/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.alsobrooks.senate.gov/contact/get-in-touch/",
+     "source": "https://www.alsobrooks.senate.gov/contact/",
+     "evidence": "'Get In Touch': 'This web form is the best way to ensure your views and feedback get to the Senator', with a Topic list; agency help, tours and flags are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.alsobrooks.senate.gov/contact/",
+     "evidence": "Office Locations: 'Largo 1101 Mercantile Lane Suite 220 Largo, MD 20774 301-860-0414', 'Easton 114 S Washington St Suite 202 Easton, MD 21601 410-546-4250', 'Baltimore 100 South Charles Street Suite 1710 Baltimore, MD 21201 410-962-4436', 'Rockville 451 Hungerford Dr Suite 230 Rockville, MD 20850 240-599-7390', 'Frederick 50 Citizen Way Suite 202 Frederick, MD 21701 240-575-3949'. No Bowie office is listed; we publish the Largo phone at 10201 Martin Luther King Jr Hwy, Bowie.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022244524",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "374 Russell Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Largo, MD office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13018600414",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1101 Mercantile Lane, Suite 220"
+        ],
+        "city": "Largo",
+        "region": "MD",
+        "postalCode": "20774",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Easton, MD office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14105464250",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "114 S Washington St, Suite 202"
+        ],
+        "city": "Easton",
+        "region": "MD",
+        "postalCode": "21601",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Baltimore, MD office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14109624436",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "100 South Charles Street, Suite 1710"
+        ],
+        "city": "Baltimore",
+        "region": "MD",
+        "postalCode": "21201",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Rockville, MD office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12405997390",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "451 Hungerford Dr, Suite 230"
+        ],
+        "city": "Rockville",
+        "region": "MD",
+        "postalCode": "20850",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Frederick, MD office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12405753949",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "50 Citizen Way, Suite 202"
+        ],
+        "city": "Frederick",
+        "region": "MD",
+        "postalCode": "21701",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "V000128": {
+   "name": "Chris Van Hollen",
+   "seat": "Senator, MD",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.vanhollen.senate.gov/contact/",
+    "https://www.vanhollen.senate.gov/contact/email",
+    "https://www.vanhollen.senate.gov/share-how-president-trumps-executive-orders-are-impacting-you-or-your-family/"
+   ],
+   "notes": "Homepage blocked (403). Offices match the contact page's office list.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.vanhollen.senate.gov/contact/email",
+     "source": "https://www.vanhollen.senate.gov/contact/email",
+     "evidence": "'Email Senator Van Hollen' page: a 'Share your Opinion' button opens a form drawn by script, so its topic list could not be read; 'Find Assistance' goes to constituent services."
+    }
+   ]
+  },
+  "H001052": {
+   "name": "Andy Harris",
+   "seat": "Representative, MD-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://harris.house.gov/",
+    "https://harris.house.gov/address_authentication?form=/contact",
+    "https://harris.house.gov/contact/offices",
+    "https://harris.house.gov/contact/offices/washington-dc-office",
+    "https://harris.house.gov/contact/offices/cambridge-district-office",
+    "https://harris.house.gov/contact/offices/bel-air-district-office",
+    "https://harris.house.gov/contact/offices/salisbury-district-office"
+   ],
+   "notes": "Offices match; the Cambridge office lists no phone ('Hours by Appointment Only').",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://harris.house.gov/contact",
+     "source": "https://harris.house.gov/",
+     "evidence": "Menu link 'Email Andy Your Comments' to /contact, behind an address check ('Please enter your address to verify residency within the district'); agency help is separate."
+    }
+   ]
+  },
+  "O000176": {
+   "name": "Johnny Olszewski, Jr.",
+   "seat": "Representative, MD-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://olszewski.house.gov/",
+    "https://olszewski.house.gov/contact",
+    "https://olszewski.house.gov/address_authentication?form=/contact/email-me",
+    "https://olszewski.house.gov/contact/office-locations",
+    "https://olszewski.house.gov/shareyourstory",
+    "https://olszewski.house.gov/contact/offices/washington-dc-office",
+    "https://olszewski.house.gov/contact/offices/district-office"
+   ],
+   "notes": "",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://olszewski.house.gov/contact/email-me",
+     "source": "https://olszewski.house.gov/contact/email-me",
+     "evidence": "'Email Me' form behind an address check, so its topic list could not be read; 'Share Your Story' and agency help are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://olszewski.house.gov/contact/office-locations",
+     "evidence": "'District Office 110 West Road Suite 420, Building B Towson, MD 21204 Phone: (410) 427-5725'. We publish 110 West Rd, Suite 420 without the building.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022253061",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1339 Longworth House Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20515-2002",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Towson, MD office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14104275725",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "110 West Road, Suite 420, Building B"
+        ],
+        "city": "Towson",
+        "region": "MD",
+        "postalCode": "21204",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "E000301": {
+   "name": "Sarah Elfreth",
+   "seat": "Representative, MD-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://elfreth.house.gov/",
+    "https://elfreth.house.gov/contact",
+    "https://elfreth.house.gov/address_authentication?form=/contact/email-me",
+    "https://elfreth.house.gov/contact/office-locations",
+    "https://elfreth.house.gov/contact/offices/washington-dc-office",
+    "https://elfreth.house.gov/contact/offices/district-office-3"
+   ],
+   "notes": "Offices match (the extra number the scan found is map coordinates).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://elfreth.house.gov/contact/email-me",
+     "source": "https://elfreth.house.gov/contact/email-me",
+     "evidence": "'Email Me' form behind an address check, with an issue list about legislation; casework is separate."
+    }
+   ]
+  },
+  "I000058": {
+   "name": "Glenn Ivey",
+   "seat": "Representative, MD-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://ivey.house.gov/",
+    "https://ivey.house.gov/address_authentication?form=/contact",
+    "https://ivey.house.gov/contact/offices",
+    "https://ivey.house.gov/contact/offices/washington-dc-office",
+    "https://ivey.house.gov/contact/offices/landover-district-office",
+    "https://ivey.house.gov/contact/offices"
+   ],
+   "notes": "Offices match. The two mailboxes on the homepage are press contacts, not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://ivey.house.gov/contact",
+     "source": "https://ivey.house.gov/contact",
+     "evidence": "The member's main contact form, behind an address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "H000874": {
+   "name": "Steny H. Hoyer",
+   "seat": "Representative, MD-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://hoyer.house.gov/",
+    "https://hoyer.house.gov/help/federal",
+    "https://hoyer.house.gov/help/contact-stenys-office",
+    "https://hoyer.house.gov/contact/offices/washington-dc-office",
+    "https://hoyer.house.gov/contact/offices/greenbelt-district-office",
+    "https://hoyer.house.gov/contact/offices/white-plains-district-office",
+    "https://hoyer.house.gov/address_authentication?form=/help/contact"
+   ],
+   "notes": "Offices match. The site says the office stopped taking new cases on October 1, 2026, ahead of his retirement at the end of the 119th Congress.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://hoyer.house.gov/help/contact",
+     "source": "https://hoyer.house.gov/help/contact-stenys-office",
+     "evidence": "'I want to submit my opinion or ask questions about federal policies or bills before Congress. We invite you to email Steny directly through our online contact form.' The form is behind an address check."
+    }
+   ]
+  },
+  "M001232": {
+   "name": "April McClain Delaney",
+   "seat": "Representative, MD-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mcclaindelaney.house.gov/",
+    "https://mcclaindelaney.house.gov/contact",
+    "https://mcclaindelaney.house.gov/address_authentication?form=/contact/email-me",
+    "https://mcclaindelaney.house.gov/contact/office-locations",
+    "https://mcclaindelaney.house.gov/contact/offices/washington-dc-office",
+    "https://mcclaindelaney.house.gov/contact/offices/frederick-district-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mcclaindelaney.house.gov/contact/email-me",
+     "source": "https://mcclaindelaney.house.gov/contact/email-me",
+     "evidence": "'Email Me' form behind an address check, with an issue list about legislation."
+    }
+   ]
+  },
+  "M000687": {
+   "name": "Kweisi Mfume",
+   "seat": "Representative, MD-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://mfume.house.gov/",
+    "https://mfume.house.gov/contact/offices",
+    "https://mfume.house.gov/address_authentication?form=/contact/email-me",
+    "https://mfume.house.gov/contact",
+    "https://mfume.house.gov/contact/offices/washington-dc-office",
+    "https://mfume.house.gov/contact/offices/baltimore-district-office",
+    "https://mfume.house.gov/contact/offices/baltimore-county-office"
+   ],
+   "notes": "Offices match (Catonsville is listed as the Baltimore County Office).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://mfume.house.gov/contact/email-me",
+     "source": "https://mfume.house.gov/contact/email-me",
+     "evidence": "The member's main 'Email Me' form, behind an address check, so its topic list could not be read."
+    }
+   ]
+  },
+  "R000606": {
+   "name": "Jamie Raskin",
+   "seat": "Representative, MD-8",
+   "status": "verified",
+   "pagesChecked": [
+    "https://raskin.house.gov/",
+    "https://raskin.house.gov/email-jamie/"
+   ],
+   "notes": "Offices match; the homepage gives the Rockville office as '51 Monroe St' without a suite.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://raskin.house.gov/email-jamie/",
+     "source": "https://raskin.house.gov/email-jamie/",
+     "evidence": "'If you would like to write Congressman Raskin about a federal legislative issue, complete the form below to send an email.'"
+    }
+   ]
+  },
+  "C001035": {
+   "name": "Susan M. Collins",
+   "seat": "Senator, ME",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.collins.senate.gov/contact/",
+    "https://www.collins.senate.gov/contact/email-senator-collins/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.collins.senate.gov/contact/email-senator-collins/",
+     "source": "https://www.collins.senate.gov/contact/",
+     "evidence": "'Email Senator Collins' form drawn by script, so its topic list could not be read; 'Request Assistance' and 'Scheduling Request' are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.collins.senate.gov/contact/",
+     "evidence": "Office Locations: 'Lewiston 184 Main Street, Suite 401 Lewiston, ME 04240 (207) 784-6969' (we publish 55 Lisbon St.) and 'Portland 200 Middle Street, Suite 801 Portland, ME 04101 (207) 618-5560' (we publish One Canal Plaza, Suite 802).",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022242523",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "413 Dirksen Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Augusta, ME office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12076228414",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "68 Sewall St., Room 507"
+        ],
+        "city": "Augusta",
+        "region": "ME",
+        "postalCode": "04330",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Bangor, ME office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12079450417",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "202 Harlow St., Room 20100"
+        ],
+        "city": "Bangor",
+        "region": "ME",
+        "postalCode": "04401",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Biddeford, ME office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12072831101",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "160 Main St."
+        ],
+        "city": "Biddeford",
+        "region": "ME",
+        "postalCode": "04005",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Caribou, ME office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12074937873",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "25 Sweden St., Suite A"
+        ],
+        "city": "Caribou",
+        "region": "ME",
+        "postalCode": "04736",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Lewiston, ME office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12077846969",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "184 Main Street, Suite 401"
+        ],
+        "city": "Lewiston",
+        "region": "ME",
+        "postalCode": "04240",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Portland, ME office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12076185560",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "200 Middle Street, Suite 801"
+        ],
+        "city": "Portland",
+        "region": "ME",
+        "postalCode": "04101",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "K000383": {
+   "name": "Angus S. King, Jr.",
+   "seat": "Senator, ME",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.king.senate.gov/contact/",
+    "https://www.king.senate.gov/contact-home/",
+    "https://www.king.senate.gov/contact/office-locations/"
+   ],
+   "notes": "Homepage blocked (403). Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.king.senate.gov/contact",
+     "source": "https://www.king.senate.gov/contact",
+     "evidence": "'Write to Angus: To contact me with a legislative question, concern or comment, please fill in the information below.' The form is drawn by script; constituent assistance is separate."
+    }
+   ]
+  },
+  "P000597": {
+   "name": "Chellie Pingree",
+   "seat": "Representative, ME-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://pingree.house.gov/",
+    "https://pingree.house.gov/contact/",
+    "https://pingree.house.gov/forms/form/",
+    "https://pingree.house.gov/contact/default.aspx",
+    "https://pingree.house.gov/contact/contactform.htm",
+    "https://pingree.house.gov/contact/subscribe.htm",
+    "https://pingree.house.gov/contact/stay-connected.htm"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://pingree.house.gov/contact/contactform.htm",
+     "source": "https://pingree.house.gov/contact/contactform.htm",
+     "evidence": "Email form with an Issue list and 'No, I wanted to voice my opinion'; casework is separate."
+    }
+   ]
+  },
+  "G000592": {
+   "name": "Jared F. Golden",
+   "seat": "Representative, ME-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://golden.house.gov/",
+    "https://golden.house.gov/address_authentication?form=/contact",
+    "https://golden.house.gov/contact/offices",
+    "https://golden.house.gov/contact/offices/washington-dc-office",
+    "https://golden.house.gov/contact/offices/caribou-office",
+    "https://golden.house.gov/contact/offices/lewiston-office",
+    "https://golden.house.gov/contact/offices/bangor-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://golden.house.gov/contact",
+     "source": "https://golden.house.gov/contact",
+     "evidence": "The member's main contact form, behind an address check, with an issue list; casework is separate."
+    }
+   ]
+  },
+  "P000595": {
+   "name": "Gary C. Peters",
+   "seat": "Senator, MI",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.peters.senate.gov/contact/",
+    "https://www.peters.senate.gov/contact/email-gary"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.peters.senate.gov/contact/email-gary",
+     "source": "https://www.peters.senate.gov/contact/",
+     "evidence": "Menu 'Share Your Thoughts' leads to this 'Share your thoughts' form; agency help, tours and meetings are separate."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.peters.senate.gov/contact/",
+     "evidence": "'Detroit Patrick V. McNamara Federal Building 477 Michigan Avenue Suite 1837 Detroit, MI 48226 Phone: (313) 226-6020 Toll Free: (844) 506-7420'. We publish no toll-free line. Other offices match.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022246221",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "724 Hart Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Detroit, MI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13132266020",
+         "type": "voice"
+        },
+        {
+         "number": "+18445067420",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Patrick V. McNamara Federal Building",
+         "477 Michigan Ave., Suite 1837"
+        ],
+        "city": "Detroit",
+        "region": "MI",
+        "postalCode": "48226",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Grand Rapids, MI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16162339150",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "Gerald R. Ford Federal Building",
+         "110 Michigan St. NW, Suite 720"
+        ],
+        "city": "Grand Rapids",
+        "region": "MI",
+        "postalCode": "49503",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Lansing, MI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15173771508",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "124 W. Allegan St., Suite 1400"
+        ],
+        "city": "Lansing",
+        "region": "MI",
+        "postalCode": "48933",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Marquette, MI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19062264554",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "857 W. Washington St., Suite 308"
+        ],
+        "city": "Marquette",
+        "region": "MI",
+        "postalCode": "49855",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Pontiac, MI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12486088040",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "51111 Woodward Avenue, Suite 725"
+        ],
+        "city": "Pontiac",
+        "region": "MI",
+        "postalCode": "48342",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Flint, MI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+19897540112",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "416 N Saginaw Street, Suite 222"
+        ],
+        "city": "Flint",
+        "region": "MI",
+        "postalCode": "48502",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Traverse City, MI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12319477773",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "109 E. Front Street, 215B"
+        ],
+        "city": "Traverse City",
+        "region": "MI",
+        "postalCode": "49684",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "S001208": {
+   "name": "Elissa Slotkin",
+   "seat": "Senator, MI",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.slotkin.senate.gov/contact/",
+    "https://www.slotkin.senate.gov/contact/contact-senator-slotkin/",
+    "https://www.slotkin.senate.gov/contact/1012-2/"
+   ],
+   "notes": "Homepage blocked (403).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.slotkin.senate.gov/contact/contact-senator-slotkin/",
+     "source": "https://www.slotkin.senate.gov/contact/contact-senator-slotkin/",
+     "evidence": "'To share your thoughts regarding upcoming legislation or topics you and your family are concerned about, please complete the below form.' Casework uses a separate privacy release form."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.slotkin.senate.gov/contact/1012-2/",
+     "evidence": "Office Locations: 'Detroit Office 719 Griswold Street Suite 700 ... P# 313-961-4330', 'Flint Office 432 North Saginaw Street Suite 301 ... P# 810-720-4172', 'Grand Rapids Office 110 Michigan Street NW Room 335 Grand Rapids, MI 49503 P# 616-975-0052', 'Lansing Office 315 W. Allegan Street Suite 207 ... P# 517-203-1760', 'Traverse City Office ... P# 231-929-1031'. We publish 517-993-0510 for Lansing, no phones for the other offices, and no Grand Rapids office.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022244822",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "291 Russell Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Lansing, MI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15172031760",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "315 W. Allegan St., Suite 207"
+        ],
+        "city": "Lansing",
+        "region": "MI",
+        "postalCode": "48933",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Flint, MI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+18107204172",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "432 North Saginaw St., Suite 301"
+        ],
+        "city": "Flint",
+        "region": "MI",
+        "postalCode": "48502",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Detroit, MI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13139614330",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "719 Griswold Street, Suite 700"
+        ],
+        "city": "Detroit",
+        "region": "MI",
+        "postalCode": "48226",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Traverse City, MI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12319291031",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "3335 South Airport Road West, Suite 6B"
+        ],
+        "city": "Traverse City",
+        "region": "MI",
+        "postalCode": "49684",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Grand Rapids, MI office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+16169750052",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "110 Michigan Street NW, Room 335"
+        ],
+        "city": "Grand Rapids",
+        "region": "MI",
+        "postalCode": "49503",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "B001301": {
+   "name": "Jack Bergman",
+   "seat": "Representative, MI-1",
+   "status": "verified",
+   "pagesChecked": [
+    "https://bergman.house.gov/",
+    "https://bergman.house.gov/news/documentquery.aspx",
+    "https://bergman.house.gov/contact/",
+    "https://bergman.house.gov/forms/emailsignup/",
+    "https://bergman.house.gov/contact/officeinformation.htm"
+   ],
+   "notes": "Offices match (Gwinn is given as Suite B and Suite B-119). The site also lists Escanaba and Oscoda P.O. boxes with no phone, not added.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://bergman.house.gov/contact/",
+     "source": "https://bergman.house.gov/contact/",
+     "evidence": "'Send Me An Email: I value all feedback from residents of my district'; behind a ZIP check, so its topic list could not be read."
+    },
+    {
+     "action": "add-email",
+     "address": "Bergman.constituent@mail.house.gov",
+     "purpose": "general",
+     "source": "https://bergman.house.gov/contact/",
+     "evidence": "'If you aren't able to submit the form below or live outside of the district please email Bergman.constituent@mail.house.gov.'"
+    }
+   ]
+  },
+  "M001194": {
+   "name": "John R. Moolenaar",
+   "seat": "Representative, MI-2",
+   "status": "verified",
+   "pagesChecked": [
+    "https://moolenaar.house.gov/",
+    "https://moolenaar.house.gov/contact",
+    "https://moolenaar.house.gov/contact/offices",
+    "https://moolenaar.house.gov/contact/offices/washington-dc-office",
+    "https://moolenaar.house.gov/contact/offices/caledonia-office",
+    "https://moolenaar.house.gov/contact/offices/clare-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://moolenaar.house.gov/contact",
+     "source": "https://moolenaar.house.gov/contact",
+     "evidence": "'You can enter your contact information below to send an email about the issues facing our country'; agency help and tours are separate."
+    }
+   ]
+  },
+  "S001221": {
+   "name": "Hillary J. Scholten",
+   "seat": "Representative, MI-3",
+   "status": "verified",
+   "pagesChecked": [
+    "https://scholten.house.gov/",
+    "https://scholten.house.gov/services/contact",
+    "https://scholten.house.gov/contact/offices/washington-dc-office",
+    "https://scholten.house.gov/contact/offices/grand-rapids-district-office",
+    "https://scholten.house.gov/contact/offices"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://scholten.house.gov/services/contact",
+     "source": "https://scholten.house.gov/services/contact",
+     "evidence": "The 'Share Your Thoughts' card links to /contact, which is this email form ('enter your information below to send us an email'); agency help and tours are separate."
+    }
+   ]
+  },
+  "H001058": {
+   "name": "Bill Huizenga",
+   "seat": "Representative, MI-4",
+   "status": "verified",
+   "pagesChecked": [
+    "https://huizenga.house.gov/",
+    "https://huizenga.house.gov/contact/",
+    "https://huizenga.house.gov/news/email/",
+    "https://huizenga.house.gov/forms/emailsignup/",
+    "https://huizenga.house.gov/news/email/default.aspx"
+   ],
+   "notes": "Offices match; the extra numbers the scan found are faxes.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://huizenga.house.gov/contact/",
+     "source": "https://huizenga.house.gov/contact/",
+     "evidence": "'Leave a Comment ... I am happy to hear your ideas or concerns about issues pertaining to the federal government'; behind a ZIP check."
+    }
+   ]
+  },
+  "W000798": {
+   "name": "Tim Walberg",
+   "seat": "Representative, MI-5",
+   "status": "verified",
+   "pagesChecked": [
+    "https://walberg.house.gov/",
+    "https://walberg.house.gov/contact",
+    "https://walberg.house.gov/address_authentication?form=/contact/email",
+    "https://walberg.house.gov/contact/offices",
+    "https://walberg.house.gov/contact/offices/jackson-district-office",
+    "https://walberg.house.gov/contact/offices/niles-district-office",
+    "https://walberg.house.gov/contact/offices/washington-dc-office"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://walberg.house.gov/contact/email",
+     "source": "https://walberg.house.gov/contact/email",
+     "evidence": "Email form behind an address check, with an issue list and opinion options; agency help and flags are separate."
+    }
+   ]
+  },
+  "D000624": {
+   "name": "Debbie Dingell",
+   "seat": "Representative, MI-6",
+   "status": "verified",
+   "pagesChecked": [
+    "https://debbiedingell.house.gov/",
+    "https://debbiedingell.house.gov/constituents/premium-notices.htm",
+    "https://debbiedingell.house.gov/contact/",
+    "https://debbiedingell.house.gov/homepage/share-your-story.htm",
+    "https://debbiedingell.house.gov/forms/emailsignup/",
+    "https://debbiedingell.house.gov/contact/offices.htm"
+   ],
+   "notes": "Offices match.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://debbiedingell.house.gov/contact/",
+     "source": "https://debbiedingell.house.gov/contact/",
+     "evidence": "'Send Me an Email' behind a ZIP check ('verify residency within my district'), so its topic list could not be read; 'Share your story' is separate."
+    }
+   ]
+  }
+ }
+}

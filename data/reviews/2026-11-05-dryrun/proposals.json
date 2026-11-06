@@ -1,0 +1,254 @@
+{
+ "batch": "2026-11-05-dryrun",
+ "reviewedAt": "2026-11-05",
+ "officials": {
+  "M001111": {
+   "name": "Patty Murray",
+   "seat": "Senator, WA",
+   "status": "verified",
+   "pagesChecked": [
+    "https://www.murray.senate.gov/write-to-patty/",
+    "https://www.murray.senate.gov/office-locations/",
+    "https://www.murray.senate.gov/help-with-a-federal-agency/"
+   ],
+   "notes": "The homepage https://www.murray.senate.gov/ returned 403 (Senate firewall); the contact and office pages loaded. No public mailbox is published.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://www.murray.senate.gov/write-to-patty/",
+     "source": "https://www.murray.senate.gov/write-to-patty/",
+     "evidence": "'Write to Patty to share your thoughts and experiences...' with a topic list (Budget, Health care, Housing...) and a message form; agency help is a separate form."
+    },
+    {
+     "action": "replace-offices",
+     "source": "https://www.murray.senate.gov/office-locations/",
+     "evidence": "The office page gives Olympia as '711 Capitol Way South, Suite 502' (we publish '771 Capitol Way Sound') and lists toll-free (866) 481-9186 for Seattle and DC. Fax numbers are omitted by policy.",
+     "offices": [
+      {
+       "label": "Washington, DC",
+       "kind": "dc",
+       "phones": [
+        {
+         "number": "+12022242621",
+         "type": "voice"
+        },
+        {
+         "number": "+18664819186",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "154 Russell Senate Office Building"
+        ],
+        "city": "Washington",
+        "region": "DC",
+        "postalCode": "20510",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Everett, WA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+14252596515",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2930 Wetmore Avenue, Ste. 9D"
+        ],
+        "city": "Everett",
+        "region": "WA",
+        "postalCode": "98201",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Seattle, WA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12065535545",
+         "type": "voice"
+        },
+        {
+         "number": "+18664819186",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "2988 Jackson Federal Building",
+         "915 2nd Avenue"
+        ],
+        "city": "Seattle",
+        "region": "WA",
+        "postalCode": "98174",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Spokane, WA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15096249515",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "920 W. Riverside Ave, Suite 485"
+        ],
+        "city": "Spokane",
+        "region": "WA",
+        "postalCode": "99201",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Tacoma, WA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+12535723636",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "1301 A Street, Suite 213"
+        ],
+        "city": "Tacoma",
+        "region": "WA",
+        "postalCode": "98402",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Vancouver, WA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13606967797",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "The Marshall House",
+         "1323 Officer's Row"
+        ],
+        "city": "Vancouver",
+        "region": "WA",
+        "postalCode": "98661",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Richland, WA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+15094537462",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "825 Jadwin Avenue, Suite 160K"
+        ],
+        "city": "Richland",
+        "region": "WA",
+        "postalCode": "99352",
+        "country": "US"
+       }
+      },
+      {
+       "label": "Olympia, WA office",
+       "kind": "local",
+       "phones": [
+        {
+         "number": "+13602052878",
+         "type": "voice"
+        }
+       ],
+       "address": {
+        "lines": [
+         "711 Capitol Way South, Suite 502"
+        ],
+        "city": "Olympia",
+        "region": "WA",
+        "postalCode": "98501",
+        "country": "US"
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "J000298": {
+   "name": "Pramila Jayapal",
+   "seat": "Representative, WA-7",
+   "status": "verified",
+   "pagesChecked": [
+    "https://jayapal.house.gov/",
+    "https://jayapal.house.gov/contact/"
+   ],
+   "notes": "Offices and phone numbers match. No public mailbox is published.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://jayapal.house.gov/contact/",
+     "source": "https://jayapal.house.gov/contact/",
+     "evidence": "'Thank you for making your voice heard' message form with an issue category list and the option 'No, I just wanted to voice my opinion'."
+    }
+   ]
+  },
+  "N000147": {
+   "name": "Eleanor Holmes Norton",
+   "seat": "Delegate, DC-0",
+   "status": "verified",
+   "pagesChecked": [
+    "https://norton.house.gov/",
+    "https://norton.house.gov/contact/offices",
+    "https://norton.house.gov/address_authentication?form=/contact/email-me"
+   ],
+   "notes": "Offices and phone numbers match. The message form sits behind an address check, so its topic list could not be read.",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://norton.house.gov/contact/email-me",
+     "source": "https://norton.house.gov/",
+     "evidence": "The site's 'Contact Eleanor' link goes to /contact/email-me, which first asks for a DC address ('verify residency within the district'). Agency help and meeting requests are separate pages."
+    }
+   ]
+  },
+  "R000600": {
+   "name": "Aumua Amata Coleman Radewagen",
+   "seat": "Delegate, AS-0",
+   "status": "verified",
+   "pagesChecked": [
+    "https://radewagen.house.gov/",
+    "https://radewagen.house.gov/contact",
+    "https://radewagen.house.gov/contact/offices"
+   ],
+   "notes": "Offices and phone numbers match. No public mailbox is published (abc@example.com on the page is a form placeholder).",
+   "proposals": [
+    {
+     "action": "set-link",
+     "purpose": "policy-feedback",
+     "url": "https://radewagen.house.gov/contact",
+     "source": "https://radewagen.house.gov/contact",
+     "evidence": "Message form asking 'Please choose the issue of concern' (Budget and Economy, Health, Veterans...) with 'No, I wanted to voice my opinion'."
+    }
+   ]
+  }
+ }
+}
