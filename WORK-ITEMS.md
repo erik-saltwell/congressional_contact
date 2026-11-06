@@ -9,7 +9,7 @@
 | Phase 3: Review congressional data skill | complete | [.work-items/impl-03-review-data-skill/](.work-items/impl-03-review-data-skill/) |
 | Phase 4: Page core and Jekyll build | complete | [.work-items/impl-04-page-core-and-build/](.work-items/impl-04-page-core-and-build/) |
 | Phase 4b: Pre-launch review run | implementing | [.work-items/impl-04b-prelaunch-data-review/](.work-items/impl-04b-prelaunch-data-review/) |
-| Phase 5: Launch v1 on eriksaltwell.com | captured | [.work-items/impl-05-launch-v1/](.work-items/impl-05-launch-v1/) |
+| Phase 5: Launch v1 on eriksaltwell.com | implementing | [.work-items/impl-05-launch-v1/](.work-items/impl-05-launch-v1/) |
 | Phase 6: Help overlay, walkthroughs and sharing | captured | [.work-items/impl-06-help-and-sharing/](.work-items/impl-06-help-and-sharing/) |
 | Phase 7: Bad-data reporting | captured | [.work-items/impl-07-bad-data-reporting/](.work-items/impl-07-bad-data-reporting/) |
 | Phase 8: Standalone file and self-hosting releases | captured | [.work-items/impl-08-standalone-and-self-hosting/](.work-items/impl-08-standalone-and-self-hosting/) |

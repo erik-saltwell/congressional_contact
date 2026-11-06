@@ -203,7 +203,7 @@ The standalone file is for other people's sites. It carries none of the owner's 
 | Buttons and links (`--cc-accent`) | `#006B80` | the stock teal `#0085A1`, darkened to pass AA: white on it is 6.2:1, and it is 6.2:1 as link text on white. Stock teal is 4.3:1 and stock blue `#008AFF` is 3.5:1. |
 | Hover (`--hover-col`) | `#0085A1` | stock |
 | Button hover | a darker teal | to be chosen when it's built |
-| Messages and errors | burgundy `#7A1F2B` | the same as the Jekyll page, 10.2:1 on white |
+| Messages and errors | red burgundy `#8E1B2E` | the same as the Jekyll page, 9.0:1 on white |
 | Invalid-ZIP field border | `--hover-col`, so stock teal | |
 
 Fonts stay as decided: Lora and Open Sans from Google Fonts.
@@ -266,7 +266,7 @@ These replace decisions 2 and 3 below where they conflict. The owner made them a
   - Under it are two peer cards, "Senator(s)" and "Representative(s)". Each is a 1 px warm-grey bordered card with a small uppercase label, and the label is singular or plural to match.
   - Each person is a row: the name (Lora 600, 1.0625 rem, body colour) and district on the left, and the Add button on the right. Senators have no role line.
   - This is the "cards" treatment, chosen from five mock-ups.
-- **Burgundy messages:** every message and error is burgundy text (`#7A1F2B`, 9.5:1), with no box. That covers:
+- **Burgundy messages:** every message and error is red burgundy text (`#8E1B2E`, 8.4:1), with no box. It was `#7A1F2B` at first, which was so close to the brown that it looked like a mistake. It then went to `#A11D33`, and was darkened slightly to this colour (owner, 2026-11-06). That covers:
   - the invalid-ZIP error;
   - no match;
   - "crosses N states", shown above the states;

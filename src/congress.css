@@ -15,7 +15,7 @@
   --cc-ring-invalid: rgba(197, 119, 53, 0.35);
   --cc-muted: var(--mid-col, #808080);
   --cc-text: var(--text-col, #404040);
-  --cc-message: #7A1F2B; /* burgundy for every message and error: 9.5:1 on the page */
+  --cc-message: #8E1B2E; /* red burgundy for every message and error: 8.4:1 on the page */
   --cc-rule: #eee; /* the theme's post-list divider */
   --cc-card-border: #e2dcd6; /* a warm light grey for the section cards */
   --cc-gap: 0.75rem;

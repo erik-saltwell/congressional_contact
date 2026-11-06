@@ -220,7 +220,7 @@ Work item: [impl-05-launch-v1](../impl-05-launch-v1/)
 
 Depends on phases 4 and 4b.
 
-- [ ] Copy script (`tools/copy_to_site.py SITE_CHECKOUT`). It places the four files in a local checkout of the site and refuses to overwrite anything unexpected.
+- [x] Copy script (`tools/copy_to_site.py SITE_CHECKOUT`). It places the four files in a local checkout of the site and refuses to overwrite anything unexpected.
 - [ ] Document the one-time `navbar-links` edit to `_config.yml` and how the owner publishes (copy, commit, push).
 - [ ] Device checks on the iPhone (Safari) and the Android phone (Chrome), before the live push. The phones reach the build either over the local network (a Jekyll or static server on the LAN; blob downloads may need HTTPS, so check this) or through a temporary preview deploy, which counts as publishing and needs the owner's confirmation. Check:
   - each official saves;
