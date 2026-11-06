@@ -1,0 +1,23 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Congressional Contact label test//EN
+N:Murray;Test C;;;
+FN:Test C Murray
+ORG:U.S. Senate
+TITLE:U.S. Senator for Washington
+item1.TEL;TYPE=X-DC office:+12022242621
+item1.X-ABLabel:DC office
+item2.TEL;TYPE=X-DC office:+18664819186
+item2.X-ABLabel:DC office
+item3.TEL;TYPE=X-Seattle office:+12065535545
+item3.X-ABLabel:Seattle office
+item4.ADR;TYPE=X-DC office:;;154 Russell Senate Office Building;Washington;DC;20510;US
+item4.X-ABLabel:DC office
+item5.ADR;TYPE=X-Seattle office:;;2988 Jackson Federal Building\, 915 2nd Avenue;Seattle;WA;98174;US
+item5.X-ABLabel:Seattle office
+item6.URL;TYPE=X-Website:https://www.murray.senate.gov
+item6.X-ABLabel:Website
+item7.URL;TYPE=X-Share your views:https://www.murray.senate.gov/write-to-patty/
+item7.X-ABLabel:Share your views
+NOTE:U.S. Senator for Washington
+END:VCARD

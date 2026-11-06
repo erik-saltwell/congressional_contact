@@ -23,6 +23,29 @@ Steps, dependencies and verification are in [the implementation plan, phase 5](.
   - The browser check passes at 390 px: 10 sample ZIP codes, no console messages, no sideways scrolling, and the URL and title unchanged.
 - **Not linked, but discoverable:** no page links to `/congress/`. The theme does list the page in `sitemap.xml` and in the site search index (`assets/data/searchcorpus.json`). To hide it from the sitemap, add `sitemap: false` to its front matter. Hiding it from search would need a change to the theme's search template.
 
+## Label test (2026-11-06)
+
+The first Android save (Google Contacts) of the live card kept every number, address and link, but showed every label as "Work" or "Website". The card wrote labels only as Apple's `itemN.X-ABLabel`.
+
+`research/vcard-label-test/make.py` builds a test page of Murray cards that write the labels in different ways. The owner imported them on desktop Google Contacts and on the Android phone. A copy is in the site checkout at `/congress-label-test/`.
+
+| Card | Labels written as | Desktop Google Contacts | Android phone | iPhone |
+|---|---|---|---|---|
+| A | `itemN.X-ABLabel`, `TYPE=WORK` | labels kept | "Work" | not tried |
+| B | `TYPE=X-label` only | "Other" | not tried | not tried |
+| C | `itemN.X-ABLabel` plus `TYPE=X-label` | labels kept | labels kept ("DC office", "Seattle office") | labels kept: the phones show "DC office" and "Seattle office" in the New Contact sheet |
+| D | `TYPE=label` | "Other" | not tried | not tried |
+| E | vCard 2.1 `TEL;X-label` | no phones or addresses | not tried | not tried |
+
+**Changes to the real cards:**
+- They now use form C.
+- The note is only the card title (owner, 2026-11-06).
+
+**Still open:**
+- The link and email labels haven't been checked on either phone; the screenshots stop at the addresses or phones.
+- The phones have only been tried with test card C, not with a card from `/congress/` itself.
+- The owner deletes `/congress-label-test/` from the site after testing.
+
 ## Resume note
 
 Next:

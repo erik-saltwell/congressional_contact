@@ -92,11 +92,6 @@
       (d === 0 ? "" : "'s " + ordinal(d) + " district") + " is vacant.";
   }
 
-  function displayPhone(n) {
-    var d = n.replace(/^\+1/, "");
-    return "(" + d.slice(0, 3) + ") " + d.slice(3, 6) + "-" + d.slice(6);
-  }
-
   // Card labels avoid commas, which some contacts apps show with their escape.
   function officeLabel(office) {
     if (office.kind === "dc") return "DC office";
@@ -140,10 +135,14 @@
 
   function vcard(o, local) {
     var lines = ["BEGIN:VCARD", "VERSION:3.0", "PRODID:-//Congressional Contact//EN"];
-    var n = 0, note = [cardTitle(o) + "."];
-    function item(prop, value, label) {
+    var n = 0;
+    // Each labelled entry carries its label twice (owner tests, 2026-11-06):
+    // X-ABLabel for Apple and desktop Google Contacts, and a custom TYPE=X-label,
+    // which Android's contacts import reads. A plain TYPE=WORK showed "Work".
+    function item(prop, types, value, label) {
       n += 1;
-      lines.push("item" + n + "." + prop + ":" + value);
+      var custom = "X-" + label.replace(/[,;:"\\]/g, "");
+      lines.push("item" + n + "." + prop + ";TYPE=" + types.concat(custom).join(",") + ":" + value);
       lines.push("item" + n + ".X-ABLabel:" + esc(label));
     }
     var nm = o.name;
@@ -154,33 +153,28 @@
 
     var seen = {};
     cardOffices(o, local).forEach(function (office) {
-      var label = officeLabel(office), parts = [];
+      var label = officeLabel(office);
       office.phones.forEach(function (p) {
         if (seen[p.number]) return;
         seen[p.number] = true;
-        item("TEL;TYPE=WORK,VOICE", p.number, label);
-        parts.push(displayPhone(p.number));
+        item("TEL", [], p.number, label);
       });
       var a = office.address;
       if (a) {
-        item("ADR;TYPE=WORK", ["", "", a.lines.join(", "), a.city, a.region, a.postalCode, a.country]
+        item("ADR", [], ["", "", a.lines.join(", "), a.city, a.region, a.postalCode, a.country]
           .map(esc).join(";"), label);
-        parts.push(a.lines.join(", ") + ", " + a.city + ", " + a.region + " " + a.postalCode);
       }
-      if (parts.length) note.push(label + ": " + parts.join(", "));
     });
     o.emails.forEach(function (e) {
       var label = e.purpose === "general" ? "Email" : "Email (" + e.purpose + ")";
-      item("EMAIL;TYPE=INTERNET,WORK", e.address, label);
-      note.push(label + ": " + e.address);
+      item("EMAIL", ["INTERNET"], e.address, label);
     });
     o.links.forEach(function (l) {
       var label = l.purpose === "website" ? "Website" : "Share your views";
-      item("URL", l.url, label);
-      note.push(label + ": " + l.url);
+      item("URL", [], l.url, label);
     });
-    note.push("Added from Congressional Contact. Details as of " + data.generatedAt.slice(0, 10) + ".");
-    lines.push("NOTE:" + esc(note.join("\n")));
+    // The note is only the title (owner, 2026-11-06); REV still dates the card.
+    lines.push("NOTE:" + esc(cardTitle(o)));
     lines.push("UID:congressional-contact-" + o.id);
     lines.push("REV:" + data.generatedAt);
     lines.push("END:VCARD");

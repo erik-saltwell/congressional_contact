@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="robots" content="noindex">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>vCard label test</title>
+<style>
+ body { font: 16px/1.4 system-ui, sans-serif; max-width: 34rem; margin: 1rem auto; padding: 0 1rem; }
+ h2 { font-size: 1rem; margin: 1.5rem 0 .25rem; }
+ a.btn { display: block; padding: .9rem; text-align: center; border: 1px solid #888; border-radius: .5rem;
+   background: #f2f2f2; color: #000; text-decoration: none; }
+</style></head><body>
+<h1>vCard label test</h1>
+<p>Each button saves Patty Murray's card under the name <b>Test A Murray</b> or <b>Test C Murray</b>.
+The goal: the phones read <b>DC office</b> and <b>Seattle office</b>, and the second link reads
+<b>Share your views</b>. Search "Test" in Contacts to delete them afterwards.</p>
+<h2>A. Current cards: Apple item groups with X-ABLabel, TYPE=WORK</h2>
+<a class="btn" href="test-a.vcf">Save Test A Murray</a>
+<h2>C. Both: item groups with X-ABLabel and TYPE=X-label</h2>
+<a class="btn" href="test-c.vcf">Save Test C Murray</a>
+</body></html>

@@ -1,61 +1,61 @@
 {
  "schemaVersion": 1,
  "congress": 119,
- "generatedAt": "2026-11-06T16:00:18Z",
+ "generatedAt": "2026-11-06T19:47:32Z",
  "sources": [
   {
    "id": "legislators-current",
    "url": "https://unitedstates.github.io/congress-legislators/legislators-current.json",
    "version": "Last-Modified Thu, 24 Sep 2026 10:21:30 GMT; sha256:ae8cb9477c48715d",
-   "fetchedAt": "2026-11-05T19:11:23Z"
+   "fetchedAt": "2026-11-06T19:47:28Z"
   },
   {
    "id": "legislators-district-offices",
    "url": "https://unitedstates.github.io/congress-legislators/legislators-district-offices.json",
    "version": "Last-Modified Thu, 24 Sep 2026 10:21:30 GMT; sha256:8d698e92f8ebae3b",
-   "fetchedAt": "2026-11-05T19:11:23Z"
+   "fetchedAt": "2026-11-06T19:47:28Z"
   },
   {
    "id": "house-clerk",
    "url": "https://clerk.house.gov/xml/lists/MemberData.xml",
    "version": "publish-date November 3, 2026, congress 119",
-   "fetchedAt": "2026-11-05T19:11:23Z"
+   "fetchedAt": "2026-11-06T19:47:28Z"
   },
   {
    "id": "senate",
    "url": "https://www.senate.gov/general/contact_information/senators_cfm.xml",
-   "version": "Last-Modified Thu, 08 Oct 2026 19:49:10 GMT; sha256:01459d6977e9b559",
-   "fetchedAt": "2026-11-05T19:11:24Z"
+   "version": "Last-Modified Fri, 06 Nov 2026 18:10:06 GMT; sha256:c41ea0f442e7a454",
+   "fetchedAt": "2026-11-06T19:47:29Z"
   },
   {
    "id": "hud-zip-cd",
    "url": "https://www.huduser.gov/hudapi/public/usps?type=5&query=All&year=2026&quarter=2",
    "version": "2026Q2",
-   "fetchedAt": "2026-11-05T19:11:25Z"
+   "fetchedAt": "2026-11-06T19:47:30Z"
   },
   {
    "id": "hud-zip-county",
    "url": "https://www.huduser.gov/hudapi/public/usps?type=2&query=All&year=2026&quarter=2",
    "version": "2026Q2",
-   "fetchedAt": "2026-11-05T19:11:27Z"
+   "fetchedAt": "2026-11-06T19:47:32Z"
   },
   {
    "id": "census-zcta",
    "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2025_Gazetteer/2025_Gaz_zcta_national.zip",
    "version": "Gazetteer 2025; sha256:51516a4283bab5cd",
-   "fetchedAt": "2026-11-06T15:59:27Z"
+   "fetchedAt": "2026-11-06T19:47:32Z"
   },
   {
    "id": "census-counties",
    "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2025_Gazetteer/2025_Gaz_counties_national.zip",
    "version": "Gazetteer 2025; sha256:4c90d0f805779923",
-   "fetchedAt": "2026-11-06T15:59:27Z"
+   "fetchedAt": "2026-11-06T19:47:32Z"
   },
   {
    "id": "supplements",
    "url": "data/supplements.json",
    "version": "sha256:15b672a9a70cd312e2e33426e4e900eefda1d4a92884fb4fc753fc8f97eddee4",
-   "fetchedAt": "2026-11-06T16:00:18Z"
+   "fetchedAt": "2026-11-06T19:47:32Z"
   }
  ],
  "states": {

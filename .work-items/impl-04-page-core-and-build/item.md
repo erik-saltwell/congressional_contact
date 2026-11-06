@@ -53,6 +53,8 @@ Steps, dependencies and verification are in [the implementation plan, phase 4](.
 
   Labels have no commas, and folding never splits an escape. Phase 5 tests which labels phones keep.
 
+  Phase 5 (2026-11-06) added a custom `TYPE=X-<label>` to each entry, because Android showed `X-ABLabel` labels as "Work", and cut the note down to the card title. See the [phase 5 item](../impl-05-launch-v1/item.md).
+
 **Verification:**
 - **Pinned GitHub Pages build:** `github-pages` 233 and Jekyll 3.10.0, on a scratch clone of the site at its current HEAD, so it includes the 2026-11-05 recolour. It passes, and `check_site.py` passes all 15 checks, including the data round trip through Jekyll's YAML reader.
 - **Browser at 390×844:** checked with these ZIPs:
