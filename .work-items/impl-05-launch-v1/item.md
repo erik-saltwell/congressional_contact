@@ -1,6 +1,6 @@
 ---
 name: "Phase 5: Launch v1 on eriksaltwell.com"
-status: implementing
+status: complete
 ---
 
 # Phase 5: Launch v1 on eriksaltwell.com
@@ -46,9 +46,19 @@ The first Android save (Google Contacts) of the live card kept every number, add
 - The phones have only been tried with test card C, not with a card from `/congress/` itself.
 - The owner deletes `/congress-label-test/` from the site after testing.
 
-## Resume note
+## Completion (2026-11-06)
 
-Next:
-- the owner pushes the site;
-- phone checks on the iPhone and the Android phone against the live unlinked URL: each card saves, which labels survive, the exact taps, and a single-card blob on Android;
-- then a roster refresh, the `navbar-links` edit and the linked launch, which the owner confirms.
+The owner closed this phase in this thread. The remaining launch steps are theirs, done elsewhere:
+- pushing the site;
+- the final phone check of the link labels on the live page;
+- the `navbar-links` menu entry;
+- the roster refresh just before the linked launch;
+- the live smoke check.
+
+What this thread verified:
+- the copy script;
+- the pinned GitHub Pages build and all 15 site checks;
+- the browser check of 10 sample ZIP codes;
+- the owner's phone tests: the cards save, and the phone and address labels survive on the iPhone, the Android phone and desktop Google Contacts (see the label test above).
+
+Not recorded here: the exact taps from the save button to a saved contact on each phone, which phase 6 needs.

@@ -18,6 +18,7 @@ is written: valid data, no "</" in the data, no exponent-form numbers, no front
 matter in the asset files, no Liquid in the page markup, cc- prefixes on every id
 and app class, and no URL, title, network or analytics calls in the script.
 """
+import base64
 import html.parser
 import json
 import pathlib
@@ -38,7 +39,9 @@ THEME_CLASSES = {"form-control", "form-control-lg", "btn", "btn-primary", "btn-l
 # size the theme's page header on phones.
 CSS_THEME_SELECTORS = THEME_CLASSES | {"intro-header", "page-heading", "page-subheading", "disabled"}
 # Things the script must never do: change the URL or title, fetch, or send analytics.
-FORBIDDEN_JS = [r"\bhistory\.", r"\blocation\b", r"document\.title", r"\bfetch\(", r"XMLHttpRequest",
+# The page may read the URL (for #help and Copy link) but never change it.
+FORBIDDEN_JS = [r"\bhistory\.", r"\blocation\s*=[^=]", r"\blocation\.\w+\s*=[^=]",
+                r"\blocation\.(assign|replace|reload)\b", r"document\.title", r"\bfetch\(", r"XMLHttpRequest",
                 r"sendBeacon", r"\bgtag\b", r"dataLayer", r"localStorage", r"sessionStorage", r"document\.cookie"]
 
 FRONT_MATTER = """---
@@ -78,8 +81,27 @@ class Markup(html.parser.HTMLParser):
         self.classes += (a.get("class") or "").split()
 
 
+def inline_shots(body):
+    """Replace each src="cc-shot:NAME" with src/help-shots/NAME.webp as a data URI.
+
+    The page carries its help screenshots inline, with no separate image files
+    (owner, 2026-11-07). tools/help_shots.py makes the WebP files.
+    """
+    shots = SRC / "help-shots"
+    names = re.findall(r'src="cc-shot:([\w-]+)"', body)
+    files = {p.stem for p in shots.glob("*.webp")}
+    check(not set(names) - files, f"help screenshots missing from src/help-shots/: {sorted(set(names) - files)}")
+    check(not files - set(names), f"src/help-shots/ files the page does not use: {sorted(files - set(names))}")
+    for name in names:
+        uri = "data:image/webp;base64," + base64.b64encode((shots / f"{name}.webp").read_bytes()).decode("ascii")
+        body = body.replace(f'src="cc-shot:{name}"', f'src="{uri}"')
+    check("cc-shot:" not in body, "an unresolved cc-shot: placeholder is left in body.html")
+    return body
+
+
 def load_parts():
     parts = {n: (SRC / n).read_text(encoding="utf-8") for n in ("body.html", "congress.js", "congress.css")}
+    parts["body.html"] = inline_shots(parts["body.html"])
     data = json.loads((ROOT / "data" / "congress.json").read_text(encoding="utf-8"))
     config = json.loads(build_data.CONFIG.read_text(encoding="utf-8"))
     build_data.validate(data, config)

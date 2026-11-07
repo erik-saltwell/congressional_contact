@@ -9,4 +9,45 @@
   </form>
   <div id="cc-results" class="cc-results" tabindex="-1" aria-live="polite" hidden></div>
   <noscript><p class="cc-noscript">This page needs JavaScript to look up your officials.</p></noscript>
+
+  <dialog id="cc-help" class="cc-help" aria-labelledby="cc-help-title">
+    <div class="cc-help-head">
+      <h2 id="cc-help-title" class="cc-help-title" tabindex="-1" autofocus>How to save a contact</h2>
+      <button type="button" class="cc-help-close" aria-label="Close help"><span aria-hidden="true">&times;</span></button>
+    </div>
+    <p>Tap <b>Add to contacts</b> next to each official, then follow the steps for your phone.</p>
+
+    <h3 class="cc-help-phone">iPhone</h3>
+    <ol class="cc-steps">
+      <li>Tap <b>Add to contacts</b>. The contact card opens.
+        <img class="cc-shot" src="cc-shot:iphone-1" alt="The contact card for Patty Murray, opened from this page."></li>
+      <li>Scroll down and tap <b>Create New Contact</b>.
+        <img class="cc-shot" src="cc-shot:iphone-2" alt="The bottom of the contact card, with Create New Contact circled."></li>
+      <li>A New Contact screen opens. Tap the check mark at the top right.
+        <img class="cc-shot" src="cc-shot:iphone-3" alt="The New Contact screen, with the check mark at the top right circled."></li>
+      <li>You're back on the contact card. Tap the check mark at the top left to return to this page.
+        <img class="cc-shot" src="cc-shot:iphone-4" alt="The contact card again, with the check mark at the top left circled."></li>
+    </ol>
+    <p class="cc-help-trouble">If the New Contact screen opens straight away, start at step 3.</p>
+
+    <h3 class="cc-help-phone">Android</h3>
+    <ol class="cc-steps">
+      <li>Tap <b>Add to contacts</b>. When the card has downloaded, tap <b>Open</b>.
+        <img class="cc-shot" src="cc-shot:android-1" alt="Chrome's File downloaded message, with Open circled."></li>
+      <li>If you're asked which app to use, choose <b>Contacts</b>, then <b>Just once</b> or <b>Always</b>. Always skips this question next time.
+        <img class="cc-shot" src="cc-shot:android-2" alt="The Open with Contacts question, with Just once and Always circled."></li>
+      <li>Contacts shows the card. Tap <b>Save contact</b> at the bottom.
+        <img class="cc-shot" src="cc-shot:android-3" alt="The contact in Contacts, with Save contact circled at the bottom."></li>
+    </ol>
+    <p class="cc-help-trouble">If the Open button goes away, open your Files or Downloads app and tap the card's file, which is named after the official (for example Patty-Murray.vcf). Then choose Contacts.</p>
+
+    <h3 class="cc-help-phone">On a computer</h3>
+    <p>The card downloads as a file. To add it to Google Contacts, follow <a href="https://support.google.com/contacts/answer/15147365?co=GENIE.Platform%3DDesktop&amp;hl=en" target="_blank" rel="noopener noreferrer">Google's import steps (opens in a new tab)</a>. It's quicker to do on your phone.</p>
+
+    <p class="cc-help-share">
+      <button type="button" class="cc-linkbtn cc-copy" data-cc-copy="help">Copy link to these instructions</button>
+    </p>
+    <p class="cc-copy-status" role="status"></p>
+    <button type="button" class="btn btn-primary btn-lg cc-help-done">Close</button>
+  </dialog>
 </div>

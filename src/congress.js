@@ -1,7 +1,8 @@
 // Congressional Contact: ZIP lookup and one vCard per official.
 // Shared by the Jekyll page and the standalone file. It reads its data from the
 // #cc-data element, makes no network requests, never changes the URL or the
-// page title, and fires no analytics events. No jQuery: it may run before or
+// page title, and fires no analytics events. It reads the URL only to open
+// help for a #help link and to build the links that Copy link copies. No jQuery: it may run before or
 // after the host theme's scripts.
 (function () {
   "use strict";
@@ -9,7 +10,7 @@
   var SCHEMA_VERSION = 1;
   var HOUSE_LOOKUP = "https://www.house.gov/representatives/find-your-representative";
 
-  var data, zipKeys, form, input, errorEl, results;
+  var data, zipKeys, form, input, errorEl, results, helpDialog, helpReturn;
   var blobUrls = [];
 
   // ------------------------------------------------------------ lookup
@@ -304,10 +305,101 @@
         results.appendChild(group);
       });
     }
+    var more = el("p", "cc-results-help");
+    more.appendChild(document.createTextNode("Need help? "));
+    more.appendChild(helpLink());
+    results.appendChild(more);
     results.hidden = false;
     // Scroll so the results start just below any fixed navbar (scroll-margin-top in CSS).
     results.focus({ preventScroll: true });
     results.scrollIntoView({ block: "start" });
+  }
+
+  // ------------------------------------------------------------ help and sharing
+
+  // The starting page, with no ZIP, query or fragment; help adds only #help.
+  function pageLink() {
+    return location.href.split("#")[0].split("?")[0];
+  }
+
+  function helpLink() {
+    var a = el("a", "cc-help-open", "How to save a contact");
+    a.href = "#help";
+    a.addEventListener("click", openHelpFromLink);
+    return a;
+  }
+
+  // Opening help from the page leaves the URL as it is.
+  function openHelpFromLink(e) {
+    e.preventDefault();
+    openHelp(e.currentTarget);
+  }
+
+  function openHelp(from) {
+    if (!helpDialog || helpDialog.open) return;
+    helpReturn = from || document.activeElement;
+    if (helpDialog.showModal) helpDialog.showModal(); else helpDialog.setAttribute("open", "");
+    helpDialog.scrollTop = 0;
+  }
+
+  function closeHelp() {
+    if (!helpDialog) return;
+    if (helpDialog.open && helpDialog.close) helpDialog.close(); else helpDialog.removeAttribute("open");
+  }
+
+  // Copy link copies the starting page or the help link, never results.
+  function copyLink(button) {
+    var url = pageLink() + (button.getAttribute("data-cc-copy") === "help" ? "#help" : "");
+    var status = button.parentNode.nextElementSibling;
+    function show(text, withUrl) {
+      clearTimeout(status.ccTimer);
+      status.textContent = text;
+      // "Link copied." goes away after a few seconds; the fallback box stays.
+      if (!withUrl) status.ccTimer = setTimeout(function () { status.textContent = ""; }, 4000);
+      if (withUrl) {
+        var box = el("input", "form-control cc-copy-box");
+        box.type = "text";
+        box.readOnly = true;
+        box.value = url;
+        box.setAttribute("aria-label", "Link to copy");
+        status.appendChild(box);
+        box.focus();
+        box.select();
+      }
+    }
+    function failed() { show("Couldn't copy automatically. Copy this link:", true); }
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url).then(function () { show("Link copied."); }, failed);
+    } else {
+      failed();
+    }
+  }
+
+  function startHelp() {
+    helpDialog = document.getElementById("cc-help");
+    Array.prototype.forEach.call(document.querySelectorAll(".cc-help-open"), function (a) {
+      a.addEventListener("click", openHelpFromLink);
+    });
+    Array.prototype.forEach.call(document.querySelectorAll(".cc-copy"), function (b) {
+      b.addEventListener("click", function () { copyLink(b); });
+    });
+    Array.prototype.forEach.call(helpDialog.querySelectorAll(".cc-help-close, .cc-help-done"), function (b) {
+      b.addEventListener("click", closeHelp);
+    });
+    // A tap on the backdrop (outside the dialog box) closes help too.
+    helpDialog.addEventListener("click", function (e) {
+      if (e.target === helpDialog) closeHelp();
+    });
+    // Escape closes a modal dialog natively; then focus goes back where it was.
+    helpDialog.addEventListener("close", function () {
+      Array.prototype.forEach.call(helpDialog.querySelectorAll(".cc-copy-status"), function (s) { s.textContent = ""; });
+      if (helpReturn && helpReturn.focus) helpReturn.focus({ preventScroll: true });
+      helpReturn = null;
+    });
+    if (location.hash === "#help") openHelp(input);
+    window.addEventListener("hashchange", function () {
+      if (location.hash === "#help") openHelp(input);
+    });
   }
 
   function setError(msg) {
@@ -322,6 +414,7 @@
     input = document.getElementById("cc-zip");
     errorEl = document.getElementById("cc-zip-error");
     results = document.getElementById("cc-results");
+    startHelp(); // help works even if the data fails to load
     var source = document.getElementById("cc-data");
     try {
       data = JSON.parse(source.textContent);
